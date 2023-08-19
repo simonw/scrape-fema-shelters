@@ -17,7 +17,7 @@ jobs:
     - name: Scrape
       run: |        
         curl 'https://gis.fema.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=FEMA:FEMANSSOpenShelters&maxFeatures=250&outputFormat=json' \
-          jq > fema-shelters.json
+          | jq > fema-shelters.json
     - name: Commit and push
       run: |-
         git config user.name "Automated"
