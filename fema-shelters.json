@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a93",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6370",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8353,
+          35.3074
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 866817,
+        "SHELTER_ID": 365803,
+        "SHELTER_NAME": "River Road High School",
+        "ADDRESS": "101 W Mobley Street",
+        "CITY": "Amarillo",
+        "STATE": "TX",
+        "ZIP": "79108",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -101.8353,
+        35.3074,
+        -101.8353,
+        35.3074
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6371",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866772,
+        "objectid": 866795,
         "SHELTER_ID": 365826,
         "SHELTER_NAME": "Johnnie John Senior School",
         "ADDRESS": "203 Mountville DR",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a92",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6372",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866773,
+        "objectid": 866796,
         "SHELTER_ID": 365905,
         "SHELTER_NAME": "Bledsoe Miller Community Center",
         "ADDRESS": "300 N M.L.K. Jr Blvd",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a91",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6373",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866774,
+        "objectid": 866797,
         "SHELTER_ID": 350388,
         "SHELTER_NAME": "Banning Community Center",
         "ADDRESS": "789 North San Gorgonio Ave",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a90",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6374",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866775,
+        "objectid": 866798,
         "SHELTER_ID": 109318,
         "SHELTER_NAME": "Overlake Park Presbyterian Church",
         "ADDRESS": "1836 156th Ave NE",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a8f",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6375",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866776,
+        "objectid": 866799,
         "SHELTER_ID": 365925,
         "SHELTER_NAME": "Outside-Lowell High School",
         "ADDRESS": "65 S Pioneer Rd",
@@ -223,51 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a8e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.3229,
-          33.229
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 866777,
-        "SHELTER_ID": 172650,
-        "SHELTER_NAME": "Mount Empire High School",
-        "ADDRESS": "3291 Buckman Springs Road",
-        "CITY": "Pine Valley",
-        "STATE": "CA",
-        "ZIP": "91962",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1000,
-        "POST_IMPACT_CAPACITY": 500,
-        "TOTAL_POPULATION": 10,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "SAN DIEGO/IMPERIAL COUNTY",
-        "ORG_ID": 121770,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 33.22897125,
-        "LONGITUDE": -117.32293238,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.3229,
-        33.229,
-        -117.3229,
-        33.229
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a8d",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6376",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866778,
+        "objectid": 866800,
         "SHELTER_ID": 365465,
         "SHELTER_NAME": "Karuk Wellness Center",
         "ADDRESS": "1403 Kahtishraam Road",
@@ -311,7 +311,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a8c",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6377",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3229,
+          33.229
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 866801,
+        "SHELTER_ID": 172650,
+        "SHELTER_NAME": "Mount Empire High School",
+        "ADDRESS": "3291 Buckman Springs Road",
+        "CITY": "Pine Valley",
+        "STATE": "CA",
+        "ZIP": "91962",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1000,
+        "POST_IMPACT_CAPACITY": 500,
+        "TOTAL_POPULATION": 10,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SAN DIEGO/IMPERIAL COUNTY",
+        "ORG_ID": 121770,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 33.22897125,
+        "LONGITUDE": -117.32293238,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.3229,
+        33.229,
+        -117.3229,
+        33.229
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6378",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866779,
+        "objectid": 866802,
         "SHELTER_ID": 76894,
         "SHELTER_NAME": "Lowell High School",
         "ADDRESS": "65 S Pioneer Rd",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a8b",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6379",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866780,
+        "objectid": 866803,
         "SHELTER_ID": 365931,
         "SHELTER_NAME": "Outside-Riverside High School",
         "ADDRESS": "4120 E Deer Park Milan Road",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a8a",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_637a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866781,
+        "objectid": 866804,
         "SHELTER_ID": 365929,
         "SHELTER_NAME": "Church on the Move",
         "ADDRESS": "300 Clayton Street",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a89",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_637b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866782,
+        "objectid": 866805,
         "SHELTER_ID": 173232,
         "SHELTER_NAME": "Redlands East Valley High School Gym",
         "ADDRESS": "31000 E Colton Ave",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a88",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_637c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866783,
+        "objectid": 866806,
         "SHELTER_ID": 364213,
         "SHELTER_NAME": "El Centro Community Center",
         "ADDRESS": "375 S 1st Street",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a87",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_637d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866784,
+        "objectid": 866807,
         "SHELTER_ID": 170501,
         "SHELTER_NAME": "Del Norte County Fairgrounds",
         "ADDRESS": "421 US-101 ",
@@ -575,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a86",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_637e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866785,
+        "objectid": 866808,
         "SHELTER_ID": 108264,
         "SHELTER_NAME": "Riverside High School",
         "ADDRESS": "4120 E Deer Park Milan Road",
@@ -619,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a85",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_637f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866786,
+        "objectid": 866809,
         "SHELTER_ID": 362985,
         "SHELTER_NAME": "Searchlight Community Center",
         "ADDRESS": "200 Michael Wendell Way",
@@ -663,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a84",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6380",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866787,
+        "objectid": 866810,
         "SHELTER_ID": 365933,
         "SHELTER_NAME": "Ruud Community Center",
         "ADDRESS": "150 N Highway 160",
@@ -707,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a83",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6381",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866788,
+        "objectid": 866811,
         "SHELTER_ID": 365932,
         "SHELTER_NAME": "Joshua Springs Calvary Chapel",
         "ADDRESS": "57373 Joshua Lane",
@@ -751,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a82",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6382",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866789,
+        "objectid": 866812,
         "SHELTER_ID": 346345,
         "SHELTER_NAME": "Kerr Mcgee Community Center",
         "ADDRESS": "100 West California Ave",
@@ -795,7 +839,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a81",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6383",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866790,
+        "objectid": 866813,
         "SHELTER_ID": 330398,
         "SHELTER_NAME": "Spokane Falls Community College",
         "ADDRESS": "3410 W Whistalks Way",
@@ -839,7 +883,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a80",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6384",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +893,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866791,
+        "objectid": 866814,
         "SHELTER_ID": 333282,
         "SHELTER_NAME": "Monroe High School",
         "ADDRESS": "126 S Snyder",
@@ -883,7 +927,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a7f",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6385",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +937,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866792,
+        "objectid": 866815,
         "SHELTER_ID": 322976,
         "SHELTER_NAME": "Chaparral Hills Baptist Church",
         "ADDRESS": "3300 W Cherry Ave",
@@ -927,7 +971,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a7e",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a17f7dcde_6386",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -937,7 +981,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 866793,
+        "objectid": 866816,
         "SHELTER_ID": 170534,
         "SHELTER_NAME": "Desert Mirage High School",
         "ADDRESS": "86150 66th Ave",
@@ -968,56 +1012,12 @@
         -116.1616,
         33.5692
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3fcd2a8b_18a1a1dd42c_-a7d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.8353,
-          35.3074
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 866794,
-        "SHELTER_ID": 365803,
-        "SHELTER_NAME": "River Road High School",
-        "ADDRESS": "101 W Mobley Street",
-        "CITY": "Amarillo",
-        "STATE": "TX",
-        "ZIP": "79108",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -101.8353,
-        35.3074,
-        -101.8353,
-        35.3074
-      ]
     }
   ],
   "totalFeatures": 23,
   "numberMatched": 23,
   "numberReturned": 23,
-  "timeStamp": "2023-08-22T02:09:24.892Z",
+  "timeStamp": "2023-08-22T02:33:52.790Z",
   "crs": {
     "type": "name",
     "properties": {
