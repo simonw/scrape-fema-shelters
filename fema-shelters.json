@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d78",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_126b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868266,
+        "objectid": 868305,
         "SHELTER_ID": 365826,
         "SHELTER_NAME": "Johnnie John Senior School",
         "ADDRESS": "203 Mountville DR",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d77",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_126c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868267,
+        "objectid": 868306,
         "SHELTER_ID": 365905,
         "SHELTER_NAME": "Bledsoe Miller Community Center",
         "ADDRESS": "300 N M.L.K. Jr Blvd",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d76",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_126d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868268,
+        "objectid": 868307,
         "SHELTER_ID": 350388,
         "SHELTER_NAME": "Banning Community Center",
         "ADDRESS": "789 North San Gorgonio Ave",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d75",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_126e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868269,
+        "objectid": 868308,
         "SHELTER_ID": 365925,
         "SHELTER_NAME": "Outside-Lowell High School",
         "ADDRESS": "65 S Pioneer Rd",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d74",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.626,
-          41.7106
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 868270,
-        "SHELTER_ID": 365465,
-        "SHELTER_NAME": "Karuk Wellness Center",
-        "ADDRESS": "1403 Kahtishraam Road",
-        "CITY": "Yreka",
-        "STATE": "CA",
-        "ZIP": "96097",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 26,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.626,
-        41.7106,
-        -122.626,
-        41.7106
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d73",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_126f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868271,
+        "objectid": 868309,
         "SHELTER_ID": 172650,
         "SHELTER_NAME": "Mount Empire High School",
         "ADDRESS": "3291 Buckman Springs Road",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d72",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_1270",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.626,
+          41.7106
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 868310,
+        "SHELTER_ID": 365465,
+        "SHELTER_NAME": "Karuk Wellness Center",
+        "ADDRESS": "1403 Kahtishraam Road",
+        "CITY": "Yreka",
+        "STATE": "CA",
+        "ZIP": "96097",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 23,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.626,
+        41.7106,
+        -122.626,
+        41.7106
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_1271",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868272,
+        "objectid": 868311,
         "SHELTER_ID": 76894,
         "SHELTER_NAME": "Lowell High School",
         "ADDRESS": "65 S Pioneer Rd",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d71",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_1272",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868273,
+        "objectid": 868312,
         "SHELTER_ID": 365931,
         "SHELTER_NAME": "Outside-Riverside High School",
         "ADDRESS": "4120 E Deer Park Milan Road",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d70",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_1273",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868274,
+        "objectid": 868313,
         "SHELTER_ID": 365929,
         "SHELTER_NAME": "Church on the Move",
         "ADDRESS": "300 Clayton Street",
@@ -375,7 +375,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 7,
+        "TOTAL_POPULATION": 4,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d6f",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_1274",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868275,
+        "objectid": 868314,
         "SHELTER_ID": 173232,
         "SHELTER_NAME": "Redlands East Valley High School Gym",
         "ADDRESS": "31000 E Colton Ave",
@@ -419,7 +419,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": 1,
         "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 12,
+        "TOTAL_POPULATION": 1,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "INLAND EMPIRE CHAPTER",
@@ -443,51 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d6e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.5438,
-          32.7903
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 868276,
-        "SHELTER_ID": 364213,
-        "SHELTER_NAME": "El Centro Community Center",
-        "ADDRESS": "375 S 1st Street",
-        "CITY": "El Centro",
-        "STATE": "CA",
-        "ZIP": "92243",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 255,
-        "POST_IMPACT_CAPACITY": 127,
-        "TOTAL_POPULATION": 20,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 32.7903085,
-        "LONGITUDE": -115.5438217,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -115.5438,
-        32.7903,
-        -115.5438,
-        32.7903
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d6d",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_1275",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868277,
+        "objectid": 868315,
         "SHELTER_ID": 170501,
         "SHELTER_NAME": "Del Norte County Fairgrounds",
         "ADDRESS": "421 US-101 ",
@@ -507,7 +463,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": 0,
         "POST_IMPACT_CAPACITY": 375,
-        "TOTAL_POPULATION": 123,
+        "TOTAL_POPULATION": 44,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "DEL NORTE COUNTY CHAPTER",
@@ -531,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d6c",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_1276",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868278,
+        "objectid": 868316,
         "SHELTER_ID": 108264,
         "SHELTER_NAME": "Riverside High School",
         "ADDRESS": "4120 E Deer Park Milan Road",
@@ -575,7 +531,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d6b",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_1277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1968,
+          41.7601
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 868317,
+        "SHELTER_ID": 365937,
+        "SHELTER_NAME": "Outside-Del Norte County Fairgrounds",
+        "ADDRESS": "421 US-101",
+        "CITY": "Crescent City",
+        "STATE": "CA",
+        "ZIP": "95531",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 81,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -124.1968,
+        41.7601,
+        -124.1968,
+        41.7601
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_1278",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868279,
+        "objectid": 868318,
         "SHELTER_ID": 109318,
         "SHELTER_NAME": "Overlake Park Presbyterian Church",
         "ADDRESS": "1836 156th Ave  NE",
@@ -619,51 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d6a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.1968,
-          41.7601
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 868280,
-        "SHELTER_ID": 365937,
-        "SHELTER_NAME": "Outside-Del Norte County Fairgrounds",
-        "ADDRESS": "421 US-101",
-        "CITY": "Crescent City",
-        "STATE": "CA",
-        "ZIP": "95531",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -124.1968,
-        41.7601,
-        -124.1968,
-        41.7601
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d69",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_1279",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868281,
+        "objectid": 868319,
         "SHELTER_ID": 330398,
         "SHELTER_NAME": "Spokane Falls Community College",
         "ADDRESS": "3410 W Whistalks Way",
@@ -707,7 +663,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d68",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_127a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2568,
+          30.8031
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 868320,
+        "SHELTER_ID": 330474,
+        "SHELTER_NAME": "DeRidder Jr. High School",
+        "ADDRESS": "415 N Frusha Dr",
+        "CITY": "DeRidder",
+        "STATE": "LA",
+        "ZIP": "70634",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 538,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 19,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "STATE OF LOUISIANA",
+        "ORG_ID": 121994,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "NO",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "NO",
+        "LATITUDE": 30.80307261,
+        "LONGITUDE": -93.25677238,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.2568,
+        30.8031,
+        -93.2568,
+        30.8031
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_127b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868282,
+        "objectid": 868321,
         "SHELTER_ID": 322976,
         "SHELTER_NAME": "Chaparral Hills Baptist Church",
         "ADDRESS": "3300 W Cherry Ave",
@@ -751,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d67",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_127c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868283,
+        "objectid": 868322,
         "SHELTER_ID": 170534,
         "SHELTER_NAME": "Desert Mirage High School",
         "ADDRESS": "86150 66th Ave",
@@ -771,7 +771,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": 841,
         "POST_IMPACT_CAPACITY": 420,
-        "TOTAL_POPULATION": 7,
+        "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "RIVERSIDE COUNTY CHAPTER",
@@ -795,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_-3d66",
+      "id": "FEMANSSOpenShelters.fid--310ab3c4_18a1fb1682a_127d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 868284,
+        "objectid": 868323,
         "SHELTER_ID": 365803,
         "SHELTER_NAME": "River Road High School",
         "ADDRESS": "101 W Mobley Street",
@@ -841,7 +841,7 @@
   "totalFeatures": 19,
   "numberMatched": 19,
   "numberReturned": 19,
-  "timeStamp": "2023-08-23T04:33:55.926Z",
+  "timeStamp": "2023-08-23T05:05:13.940Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -850,8 +850,8 @@
   },
   "bbox": [
     -158.1196,
-    31.5635,
-    -97.1296,
+    30.8031,
+    -93.2568,
     61.8703
   ]
 }
