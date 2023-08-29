@@ -3,34 +3,122 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10b9",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_157e",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -158.1196,
-          61.8703
+          -82.4868,
+          28.5628
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 876575,
-        "SHELTER_ID": 365826,
-        "SHELTER_NAME": "Johnnie John Senior School",
-        "ADDRESS": "203 Mountville DR",
-        "CITY": "Crooked Creek",
-        "STATE": "AK",
-        "ZIP": "99676",
+        "objectid": 876637,
+        "SHELTER_ID": 133585,
+        "SHELTER_NAME": "West Hernando Middle School ",
+        "ADDRESS": "15325 KEN AUSTIN PKWY",
+        "CITY": "BROOKSVILLE",
+        "STATE": "FL",
+        "ZIP": "34613",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "FLORIDA COAST TO COAST CHAPTER",
+        "ORG_ID": 121388,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 28.56282092,
+        "LONGITUDE": -82.48681224,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.4868,
+        28.5628,
+        -82.4868,
+        28.5628
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_157f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3961,
+          27.4238
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876638,
+        "SHELTER_ID": 70815,
+        "SHELTER_NAME": "Nolan Middle School Special Needs (Pets)",
+        "ADDRESS": "6615 GREENBROOK BLVD",
+        "CITY": "BRADENTON",
+        "STATE": "FL",
+        "ZIP": "34202",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 570,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Florida Department of Health",
+        "ORG_ID": 119224,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "OTHER",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 27.42378472,
+        "LONGITUDE": -82.39606203,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.3961,
+        27.4238,
+        -82.3961,
+        27.4238
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1580",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2941,
+          43.3934
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876639,
+        "SHELTER_ID": 365947,
+        "SHELTER_NAME": "The Way Church",
+        "ADDRESS": "1352 E Central Ave ",
+        "CITY": "Sutherlin",
+        "STATE": "OR",
+        "ZIP": "97479",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 10,
+        "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "SUBFACILITY_CODE": "EMEREVAC",
         "ADA_COMPLIANT": null,
         "PET_ACCOMMODATIONS_CODE": null,
         "WHEELCHAIR_ACCESSIBLE": null,
@@ -39,35 +127,79 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -158.1196,
-        61.8703,
-        -158.1196,
-        61.8703
+        -123.2941,
+        43.3934,
+        -123.2941,
+        43.3934
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10ba",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1581",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.1296,
-          31.5635
+          -123.2941,
+          43.3934
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 876576,
-        "SHELTER_ID": 365905,
-        "SHELTER_NAME": "Bledsoe Miller Community Center",
-        "ADDRESS": "300 N M.L.K. Jr Blvd",
-        "CITY": "Waco",
-        "STATE": "TX",
-        "ZIP": "76704",
+        "objectid": 876640,
+        "SHELTER_ID": 365948,
+        "SHELTER_NAME": "Outside-The Way Church",
+        "ADDRESS": "1352 E Central Ave ",
+        "CITY": "Sutherlin",
+        "STATE": "OR",
+        "ZIP": "97479",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -123.2941,
+        43.3934,
+        -123.2941,
+        43.3934
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1582",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5228,
+          38.2206
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876641,
+        "SHELTER_ID": 365949,
+        "SHELTER_NAME": "Witcher Baptist Church",
+        "ADDRESS": "2206 E Dupont Ave",
+        "CITY": "Belle",
+        "STATE": "WV",
+        "ZIP": "25015",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -83,35 +215,211 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -97.1296,
-        31.5635,
-        -97.1296,
-        31.5635
+        -81.5228,
+        38.2206,
+        -81.5228,
+        38.2206
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10bb",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1583",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.626,
-          41.7106
+          -82.4614,
+          28.4903
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 876577,
-        "SHELTER_ID": 365465,
-        "SHELTER_NAME": "Karuk Wellness Center",
-        "ADDRESS": "1403 Kahtishraam Road",
-        "CITY": "Yreka",
-        "STATE": "CA",
-        "ZIP": "96097",
+        "objectid": 876642,
+        "SHELTER_ID": 134067,
+        "SHELTER_NAME": "Nature Coast Tech High",
+        "ADDRESS": "4057 CALIFORNIA ST",
+        "CITY": "SPRING HILL",
+        "STATE": "FL",
+        "ZIP": "34604",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "FLORIDA COAST TO COAST CHAPTER",
+        "ORG_ID": 121388,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 28.49032061,
+        "LONGITUDE": -82.46138587,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.4614,
+        28.4903,
+        -82.4614,
+        28.4903
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1584",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3112,
+          27.887
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876643,
+        "SHELTER_ID": 360676,
+        "SHELTER_NAME": "HCC - The Regent Center",
+        "ADDRESS": "6437 Watson Rd",
+        "CITY": "RIVERVIEW",
+        "STATE": "FL",
+        "ZIP": "33578",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 300,
+        "POST_IMPACT_CAPACITY": 300,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "MEDBNS",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 27.8869697,
+        "LONGITUDE": -82.3111912,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.3112,
+        27.887,
+        -82.3112,
+        27.887
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4459,
+          27.4895
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876644,
+        "SHELTER_ID": 134399,
+        "SHELTER_NAME": "Freedom Elementary",
+        "ADDRESS": "9515 E State Road 64",
+        "CITY": "Bradenton",
+        "STATE": "FL",
+        "ZIP": "34212",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 8,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 27.489536,
+        "LONGITUDE": -82.445895,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.4459,
+        27.4895,
+        -82.4459,
+        27.4895
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6039,
+          27.4948
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876645,
+        "SHELTER_ID": 134101,
+        "SHELTER_NAME": "Miller Elementary",
+        "ADDRESS": "60143rd Street West",
+        "CITY": "Bradenton",
+        "STATE": "FL",
+        "ZIP": "34205",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 27.49482246,
+        "LONGITUDE": -82.60386021,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.6039,
+        27.4948,
+        -82.6039,
+        27.4948
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1587",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4388,
+          27.9787
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876646,
+        "SHELTER_ID": 360149,
+        "SHELTER_NAME": "Lockhart Elementary School",
+        "ADDRESS": "3719 N 17Th St",
+        "CITY": "Tampa",
+        "STATE": "FL",
+        "ZIP": "33610",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": null,
@@ -121,725 +429,285 @@
         "SUBFACILITY_CODE": "EMEREVAC",
         "ADA_COMPLIANT": null,
         "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.626,
-        41.7106,
-        -122.626,
-        41.7106
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10bc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.3229,
-          33.229
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876578,
-        "SHELTER_ID": 172650,
-        "SHELTER_NAME": "Mount Empire High School",
-        "ADDRESS": "3291 Buckman Springs Road",
-        "CITY": "Pine Valley",
-        "STATE": "CA",
-        "ZIP": "91962",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1000,
-        "POST_IMPACT_CAPACITY": 500,
-        "TOTAL_POPULATION": 10,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "SAN DIEGO/IMPERIAL COUNTY",
-        "ORG_ID": 121770,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 33.22897125,
-        "LONGITUDE": -117.32293238,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.3229,
-        33.229,
-        -117.3229,
-        33.229
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10bd",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.3509,
-          47.9693
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876579,
-        "SHELTER_ID": 365931,
-        "SHELTER_NAME": "Outside-Riverside High School",
-        "ADDRESS": "4120 E Deer Park Milan Road",
-        "CITY": "Chattaroy",
-        "STATE": "WA",
-        "ZIP": "99003",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 12,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.3509,
-        47.9693,
-        -117.3509,
-        47.9693
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10be",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -114.8826,
-          47.462
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876580,
-        "SHELTER_ID": 365929,
-        "SHELTER_NAME": "Church on the Move",
-        "ADDRESS": "300 Clayton Street",
-        "CITY": "Plains",
-        "STATE": "MT",
-        "ZIP": "59859",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 4,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -114.8826,
-        47.462,
-        -114.8826,
-        47.462
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10bf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.3496,
-          47.9711
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876581,
-        "SHELTER_ID": 108264,
-        "SHELTER_NAME": "Riverside High School",
-        "ADDRESS": "4120 E Deer Park Milan Road",
-        "CITY": "Chattaroy",
-        "STATE": "WA",
-        "ZIP": "99003",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 3,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "INLAND NORTHWEST CHAPTER",
-        "ORG_ID": 121501,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 47.97109863,
-        "LONGITUDE": -117.34959728,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.3496,
-        47.9711,
-        -117.3496,
-        47.9711
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10c0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.1968,
-          41.7601
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876582,
-        "SHELTER_ID": 365937,
-        "SHELTER_NAME": "Outside-Del Norte County Fairgrounds",
-        "ADDRESS": "421 US-101",
-        "CITY": "Crescent City",
-        "STATE": "CA",
-        "ZIP": "95531",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 102,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -124.1968,
-        41.7601,
-        -124.1968,
-        41.7601
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10c1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.5241,
-          43.7575
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876583,
-        "SHELTER_ID": 76277,
-        "SHELTER_NAME": "Westridge Middle School",
-        "ADDRESS": "46433 Westfir Rd",
-        "CITY": "Westfir",
-        "STATE": "OR",
-        "ZIP": "97492",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 150,
-        "POST_IMPACT_CAPACITY": 75,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "OREGON PACIFIC CHAPTER",
-        "ORG_ID": 121707,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 43.75746915,
-        "LONGITUDE": -122.5240894,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.5241,
-        43.7575,
-        -122.5241,
-        43.7575
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10c2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.529,
-          43.7591
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876584,
-        "SHELTER_ID": 365939,
-        "SHELTER_NAME": "Outside-Westridge Middle School",
-        "ADDRESS": "46433 Westfir Rd",
-        "CITY": "Westfir",
-        "STATE": "OR",
-        "ZIP": "97492",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 7,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.529,
-        43.7591,
-        -122.529,
-        43.7591
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10c3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.1977,
-          41.7608
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876585,
-        "SHELTER_ID": 170501,
-        "SHELTER_NAME": "Del Norte County Fairgrounds",
-        "ADDRESS": "421 US-101 ",
-        "CITY": "Crescent City",
-        "STATE": "CA",
-        "ZIP": "95531",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 375,
-        "TOTAL_POPULATION": 31,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "DEL NORTE COUNTY CHAPTER",
-        "ORG_ID": 121350,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 41.76080337,
-        "LONGITUDE": -124.19768273,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -124.1977,
-        41.7608,
-        -124.1977,
-        41.7608
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10c4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4591,
-          47.6758
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876586,
-        "SHELTER_ID": 330398,
-        "SHELTER_NAME": "Spokane Falls Community College",
-        "ADDRESS": "3410 W Whistalks Way",
-        "CITY": "Spokane",
-        "STATE": "WA",
-        "ZIP": "99224",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 100,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 18,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "INLAND NORTHWEST CHAPTER",
-        "ORG_ID": 121501,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 47.67584221,
-        "LONGITUDE": -117.45906276,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.4591,
-        47.6758,
-        -117.4591,
-        47.6758
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10c5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1324,
-          47.6264
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876587,
-        "SHELTER_ID": 109318,
-        "SHELTER_NAME": "Overlake Park Presbyterian Church",
-        "ADDRESS": "1836 156th Ave  NE",
-        "CITY": "Bellvue",
-        "STATE": "WA",
-        "ZIP": "98007",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 130,
-        "POST_IMPACT_CAPACITY": 65,
-        "TOTAL_POPULATION": 11,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "KING & KITSAP COUNTIES",
-        "ORG_ID": 121519,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
         "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 47.62644245,
-        "LONGITUDE": -122.13241666,
+        "LATITUDE": 27.978743,
+        "LONGITUDE": -82.438813,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -122.1324,
-        47.6264,
-        -122.1324,
-        47.6264
+        -82.4388,
+        27.9787,
+        -82.4388,
+        27.9787
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10c6",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1588",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.2894,
-          30.8483
+          -82.37,
+          27.7404
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 876588,
-        "SHELTER_ID": 365940,
-        "SHELTER_NAME": "First United Methodist Church ",
-        "ADDRESS": "406 W Shirley St",
-        "CITY": "DeRidder",
-        "STATE": "LA",
-        "ZIP": "70634",
+        "objectid": 876647,
+        "SHELTER_ID": 133789,
+        "SHELTER_NAME": "Shields Middle School",
+        "ADDRESS": "15732 Beth Shields Way",
+        "CITY": "Ruskin",
+        "STATE": "FL",
+        "ZIP": "33573",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 18,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.2894,
-        30.8483,
-        -93.2894,
-        30.8483
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10c7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.258,
-          30.8443
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876589,
-        "SHELTER_ID": 365946,
-        "SHELTER_NAME": "First Baptist Church",
-        "ADDRESS": "2030 Hwy 171",
-        "CITY": "DeRidder",
-        "STATE": "LA",
-        "ZIP": "70634",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.258,
-        30.8443,
-        -93.258,
-        30.8443
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10c8",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.0606,
-          30.9212
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876590,
-        "SHELTER_ID": 365945,
-        "SHELTER_NAME": "Ebenezer Baptist Church",
-        "ADDRESS": "1277 County Rd 44",
-        "CITY": "Jasper ",
-        "STATE": "TX",
-        "ZIP": "75951",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -94.0606,
-        30.9212,
-        -94.0606,
-        30.9212
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10c9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.2989,
-          43.4284
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876591,
-        "SHELTER_ID": 365943,
-        "SHELTER_NAME": "Outside-Oakland Elementary School",
-        "ADDRESS": "499 NE Spruce Street",
-        "CITY": "Oakland",
-        "STATE": "OR",
-        "ZIP": "97462",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -123.2989,
-        43.4284,
-        -123.2989,
-        43.4284
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10ca",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.3918,
-          42.4153
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 876592,
-        "SHELTER_ID": 76592,
-        "SHELTER_NAME": "Rogue Community College",
-        "ADDRESS": "3345 Redwood Hwy",
-        "CITY": "Grants Pass",
-        "STATE": "OR",
-        "ZIP": "97527",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1030,
-        "POST_IMPACT_CAPACITY": 515,
         "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "SOUTHERN OREGON CHAPTER",
-        "ORG_ID": 121830,
-        "MATCH_TYPE": "A",
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 42.41529397,
-        "LONGITUDE": -123.39176428,
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 27.740423,
+        "LONGITUDE": -82.369987,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -123.3918,
-        42.4153,
-        -123.3918,
-        42.4153
+        -82.37,
+        27.7404,
+        -82.37,
+        27.7404
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10cb",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1589",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.2976,
-          43.4262
+          -82.4049,
+          28.0547
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 876593,
-        "SHELTER_ID": 76737,
-        "SHELTER_NAME": "Oakland Elementary School",
-        "ADDRESS": "499 NE Spruce Street",
-        "CITY": "Oakland",
-        "STATE": "OR",
-        "ZIP": "97462",
+        "objectid": 876648,
+        "SHELTER_ID": 133944,
+        "SHELTER_NAME": "Pizzo Elementary School",
+        "ADDRESS": "11701USF Bull Run Dr",
+        "CITY": "Tampa",
+        "STATE": "FL",
+        "ZIP": "33617",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1167,
-        "POST_IMPACT_CAPACITY": 583,
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
         "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "OREGON PACIFIC CHAPTER",
-        "ORG_ID": 121707,
-        "MATCH_TYPE": "A",
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 43.42615891,
-        "LONGITUDE": -123.29760527,
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 28.054696,
+        "LONGITUDE": -82.4048837,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -123.2976,
-        43.4262,
-        -123.2976,
-        43.4262
+        -82.4049,
+        28.0547,
+        -82.4049,
+        28.0547
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10cc",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_158a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4883,
+          27.574
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876649,
+        "SHELTER_ID": 134100,
+        "SHELTER_NAME": "Mills Elementary",
+        "ADDRESS": "7200 69th Street E",
+        "CITY": "Palemetto",
+        "STATE": "FL",
+        "ZIP": "34221",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 27.57398172,
+        "LONGITUDE": -82.48833543,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.4883,
+        27.574,
+        -82.4883,
+        27.574
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_158b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3206,
+          27.7178
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876650,
+        "SHELTER_ID": 133902,
+        "SHELTER_NAME": "Reddick Elementary School",
+        "ADDRESS": "325 West Lake Drive",
+        "CITY": "Wimauma",
+        "STATE": "FL",
+        "ZIP": "33598",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 27.717833,
+        "LONGITUDE": -82.320626,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.3206,
+        27.7178,
+        -82.3206,
+        27.7178
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_158c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4345,
+          27.9889
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876651,
+        "SHELTER_ID": 134107,
+        "SHELTER_NAME": "Middleton High School",
+        "ADDRESS": "4801 N 22Nd St",
+        "CITY": "Tampa",
+        "STATE": "FL",
+        "ZIP": "33610",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 27.9889108,
+        "LONGITUDE": -82.4344673,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.4345,
+        27.9889,
+        -82.4345,
+        27.9889
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_158d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3755,
+          28.0524
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876652,
+        "SHELTER_ID": 134352,
+        "SHELTER_NAME": "Greco Middle School",
+        "ADDRESS": "6925 E Fowler Ave",
+        "CITY": "Tampa",
+        "STATE": "FL",
+        "ZIP": "33617",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "NO",
+        "LATITUDE": 28.052434,
+        "LONGITUDE": -82.375522,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.3755,
+        28.0524,
+        -82.3755,
+        28.0524
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_158e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 876594,
+        "objectid": 876653,
         "SHELTER_ID": 322976,
         "SHELTER_NAME": "Chaparral Hills Baptist Church",
         "ADDRESS": "3300 W Cherry Ave",
@@ -883,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_10cd",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_158f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 876595,
+        "objectid": 876654,
         "SHELTER_ID": 365803,
         "SHELTER_NAME": "River Road High School",
         "ADDRESS": "101 W Mobley Street",
@@ -924,12 +792,892 @@
         -101.8353,
         35.3074
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1590",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1196,
+          61.8703
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876617,
+        "SHELTER_ID": 365826,
+        "SHELTER_NAME": "Johnnie John Senior School",
+        "ADDRESS": "203 Mountville DR",
+        "CITY": "Crooked Creek",
+        "STATE": "AK",
+        "ZIP": "99676",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 10,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -158.1196,
+        61.8703,
+        -158.1196,
+        61.8703
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1591",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6549,
+          27.7629
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876618,
+        "SHELTER_ID": 70955,
+        "SHELTER_NAME": "John Hopkins Middle School",
+        "ADDRESS": "701 16TH ST S",
+        "CITY": "SAINT PETERSBURG",
+        "STATE": "FL",
+        "ZIP": "33705",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Pinellas County Emergency Management",
+        "ORG_ID": 119244,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 27.76286498,
+        "LONGITUDE": -82.65485956,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.6549,
+        27.7629,
+        -82.6549,
+        27.7629
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1592",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4106,
+          28.6029
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876619,
+        "SHELTER_ID": 133968,
+        "SHELTER_NAME": "D.S. Parrott Middle School (Pets)",
+        "ADDRESS": "19220 YOUTH DR",
+        "CITY": "BROOKSVILLE",
+        "STATE": "FL",
+        "ZIP": "34601",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "FLORIDA COAST TO COAST CHAPTER",
+        "ORG_ID": 121388,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 28.60289471,
+        "LONGITUDE": -82.41062168,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.4106,
+        28.6029,
+        -82.4106,
+        28.6029
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1593",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1296,
+          31.5635
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876620,
+        "SHELTER_ID": 365905,
+        "SHELTER_NAME": "Bledsoe Miller Community Center",
+        "ADDRESS": "300 N M.L.K. Jr Blvd",
+        "CITY": "Waco",
+        "STATE": "TX",
+        "ZIP": "76704",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -97.1296,
+        31.5635,
+        -97.1296,
+        31.5635
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1594",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5899,
+          41.4819
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876621,
+        "SHELTER_ID": 294175,
+        "SHELTER_NAME": "Steinbrenner High School",
+        "ADDRESS": "500 ACADEMY ST",
+        "CITY": "PECKVILLE",
+        "STATE": "PA",
+        "ZIP": "18452",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 225,
+        "POST_IMPACT_CAPACITY": 115,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC of Lackawanna County",
+        "ORG_ID": 121177,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 41.48185167,
+        "LONGITUDE": -75.58989362,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.5899,
+        41.4819,
+        -75.5899,
+        41.4819
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1595",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.626,
+          41.7106
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876622,
+        "SHELTER_ID": 365465,
+        "SHELTER_NAME": "Karuk Wellness Center",
+        "ADDRESS": "1403 Kahtishraam Road",
+        "CITY": "Yreka",
+        "STATE": "CA",
+        "ZIP": "96097",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 8,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.626,
+        41.7106,
+        -122.626,
+        41.7106
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1596",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3229,
+          33.229
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876623,
+        "SHELTER_ID": 172650,
+        "SHELTER_NAME": "Mount Empire High School",
+        "ADDRESS": "3291 Buckman Springs Road",
+        "CITY": "Pine Valley",
+        "STATE": "CA",
+        "ZIP": "91962",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1000,
+        "POST_IMPACT_CAPACITY": 500,
+        "TOTAL_POPULATION": 10,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SAN DIEGO/IMPERIAL COUNTY",
+        "ORG_ID": 121770,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 33.22897125,
+        "LONGITUDE": -117.32293238,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.3229,
+        33.229,
+        -117.3229,
+        33.229
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1597",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3509,
+          47.9693
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876624,
+        "SHELTER_ID": 365931,
+        "SHELTER_NAME": "Outside-Riverside High School",
+        "ADDRESS": "4120 E Deer Park Milan Road",
+        "CITY": "Chattaroy",
+        "STATE": "WA",
+        "ZIP": "99003",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 12,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.3509,
+        47.9693,
+        -117.3509,
+        47.9693
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1598",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8826,
+          47.462
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876625,
+        "SHELTER_ID": 365929,
+        "SHELTER_NAME": "Church on the Move",
+        "ADDRESS": "300 Clayton Street",
+        "CITY": "Plains",
+        "STATE": "MT",
+        "ZIP": "59859",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 4,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -114.8826,
+        47.462,
+        -114.8826,
+        47.462
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_1599",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3496,
+          47.9711
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876626,
+        "SHELTER_ID": 108264,
+        "SHELTER_NAME": "Riverside High School",
+        "ADDRESS": "4120 E Deer Park Milan Road",
+        "CITY": "Chattaroy",
+        "STATE": "WA",
+        "ZIP": "99003",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 3,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "INLAND NORTHWEST CHAPTER",
+        "ORG_ID": 121501,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 47.97109863,
+        "LONGITUDE": -117.34959728,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.3496,
+        47.9711,
+        -117.3496,
+        47.9711
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_159a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1968,
+          41.7601
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876627,
+        "SHELTER_ID": 365937,
+        "SHELTER_NAME": "Outside-Del Norte County Fairgrounds",
+        "ADDRESS": "421 US-101",
+        "CITY": "Crescent City",
+        "STATE": "CA",
+        "ZIP": "95531",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 102,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -124.1968,
+        41.7601,
+        -124.1968,
+        41.7601
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_159b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5241,
+          43.7575
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876628,
+        "SHELTER_ID": 76277,
+        "SHELTER_NAME": "Westridge Middle School",
+        "ADDRESS": "46433 Westfir Rd",
+        "CITY": "Westfir",
+        "STATE": "OR",
+        "ZIP": "97492",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 150,
+        "POST_IMPACT_CAPACITY": 75,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "OREGON PACIFIC CHAPTER",
+        "ORG_ID": 121707,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 43.75746915,
+        "LONGITUDE": -122.5240894,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.5241,
+        43.7575,
+        -122.5241,
+        43.7575
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_159c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.529,
+          43.7591
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876629,
+        "SHELTER_ID": 365939,
+        "SHELTER_NAME": "Outside-Westridge Middle School",
+        "ADDRESS": "46433 Westfir Rd",
+        "CITY": "Westfir",
+        "STATE": "OR",
+        "ZIP": "97492",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.529,
+        43.7591,
+        -122.529,
+        43.7591
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_159d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1977,
+          41.7608
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876630,
+        "SHELTER_ID": 170501,
+        "SHELTER_NAME": "Del Norte County Fairgrounds",
+        "ADDRESS": "421 US-101 ",
+        "CITY": "Crescent City",
+        "STATE": "CA",
+        "ZIP": "95531",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 375,
+        "TOTAL_POPULATION": 31,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "DEL NORTE COUNTY CHAPTER",
+        "ORG_ID": 121350,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 41.76080337,
+        "LONGITUDE": -124.19768273,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -124.1977,
+        41.7608,
+        -124.1977,
+        41.7608
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_159e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4591,
+          47.6758
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876631,
+        "SHELTER_ID": 330398,
+        "SHELTER_NAME": "Spokane Falls Community College",
+        "ADDRESS": "3410 W Whistalks Way",
+        "CITY": "Spokane",
+        "STATE": "WA",
+        "ZIP": "99224",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 100,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 18,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "INLAND NORTHWEST CHAPTER",
+        "ORG_ID": 121501,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 47.67584221,
+        "LONGITUDE": -117.45906276,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.4591,
+        47.6758,
+        -117.4591,
+        47.6758
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_159f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1324,
+          47.6264
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876632,
+        "SHELTER_ID": 109318,
+        "SHELTER_NAME": "Overlake Park Presbyterian Church",
+        "ADDRESS": "1836 156th Ave  NE",
+        "CITY": "Bellvue",
+        "STATE": "WA",
+        "ZIP": "98007",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 130,
+        "POST_IMPACT_CAPACITY": 65,
+        "TOTAL_POPULATION": 11,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "KING & KITSAP COUNTIES",
+        "ORG_ID": 121519,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 47.62644245,
+        "LONGITUDE": -122.13241666,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.1324,
+        47.6264,
+        -122.1324,
+        47.6264
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_15a0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2894,
+          30.8483
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876633,
+        "SHELTER_ID": 365940,
+        "SHELTER_NAME": "First United Methodist Church ",
+        "ADDRESS": "406 W Shirley St",
+        "CITY": "DeRidder",
+        "STATE": "LA",
+        "ZIP": "70634",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 18,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.2894,
+        30.8483,
+        -93.2894,
+        30.8483
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_15a1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.258,
+          30.8443
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876634,
+        "SHELTER_ID": 365946,
+        "SHELTER_NAME": "First Baptist Church",
+        "ADDRESS": "2030 Hwy 171",
+        "CITY": "DeRidder",
+        "STATE": "LA",
+        "ZIP": "70634",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.258,
+        30.8443,
+        -93.258,
+        30.8443
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_15a2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0606,
+          30.9212
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876635,
+        "SHELTER_ID": 365945,
+        "SHELTER_NAME": "Ebenezer Baptist Church",
+        "ADDRESS": "1277 County Rd 44",
+        "CITY": "Jasper ",
+        "STATE": "TX",
+        "ZIP": "75951",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -94.0606,
+        30.9212,
+        -94.0606,
+        30.9212
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-70f7ec3_18a3cfd99dd_15a3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3918,
+          42.4153
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 876636,
+        "SHELTER_ID": 76592,
+        "SHELTER_NAME": "Rogue Community College",
+        "ADDRESS": "3345 Redwood Hwy",
+        "CITY": "Grants Pass",
+        "STATE": "OR",
+        "ZIP": "97527",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1030,
+        "POST_IMPACT_CAPACITY": 515,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SOUTHERN OREGON CHAPTER",
+        "ORG_ID": 121830,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 42.41529397,
+        "LONGITUDE": -123.39176428,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -123.3918,
+        42.4153,
+        -123.3918,
+        42.4153
+      ]
     }
   ],
-  "totalFeatures": 21,
-  "numberMatched": 21,
-  "numberReturned": 21,
-  "timeStamp": "2023-08-29T00:17:31.023Z",
+  "totalFeatures": 38,
+  "numberMatched": 38,
+  "numberReturned": 38,
+  "timeStamp": "2023-08-29T00:48:40.252Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -938,8 +1686,8 @@
   },
   "bbox": [
     -158.1196,
-    30.8443,
-    -93.258,
+    27.4238,
+    -75.5899,
     61.8703
   ]
 }
