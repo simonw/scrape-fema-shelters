@@ -3,227 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f4f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.258,
-          30.8443
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 927664,
-        "SHELTER_ID": 365946,
-        "SHELTER_NAME": "First Baptist Church",
-        "ADDRESS": "2030 Hwy 171",
-        "CITY": "DeRidder",
-        "STATE": "LA",
-        "ZIP": "70634",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.258,
-        30.8443,
-        -93.258,
-        30.8443
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f4e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.3521,
-          29.7078
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 927665,
-        "SHELTER_ID": 360659,
-        "SHELTER_NAME": "Gainesville Senior Center (Special Needs)",
-        "ADDRESS": "5701 NW 34th Blvd",
-        "CITY": "Gainesville",
-        "STATE": "FL",
-        "ZIP": "32653",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 29.70777,
-        "LONGITUDE": -82.35209,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.3521,
-        29.7078,
-        -82.3521,
-        29.7078
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f4d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.604,
-          29.6691
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 927666,
-        "SHELTER_ID": 360602,
-        "SHELTER_NAME": "Easton Newberry Sports Complex (Pets)",
-        "ADDRESS": "24880 NW 16th Ave",
-        "CITY": "Newberry",
-        "STATE": "FL",
-        "ZIP": "32669",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 29.6690705,
-        "LONGITUDE": -82.604014,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.604,
-        29.6691,
-        -82.604,
-        29.6691
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f4c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.8811,
-          35.2942
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 927667,
-        "SHELTER_ID": 322976,
-        "SHELTER_NAME": "Chaparral Hills Baptist Church",
-        "ADDRESS": "3300 W Cherry Ave",
-        "CITY": "Amarillo",
-        "STATE": "TX",
-        "ZIP": "79108",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 250,
-        "POST_IMPACT_CAPACITY": 125,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "TEXAS PANHANDLE CHAPTER",
-        "ORG_ID": 121879,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 35.29419235,
-        "LONGITUDE": -101.88111449,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -101.8811,
-        35.2942,
-        -101.8811,
-        35.2942
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f4b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.8353,
-          35.3074
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 927668,
-        "SHELTER_ID": 365803,
-        "SHELTER_NAME": "River Road High School",
-        "ADDRESS": "101 W Mobley Street",
-        "CITY": "Amarillo",
-        "STATE": "TX",
-        "ZIP": "79108",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -101.8353,
-        35.3074,
-        -101.8353,
-        35.3074
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f4a",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-445e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 927654,
+        "objectid": 927669,
         "SHELTER_ID": 365826,
         "SHELTER_NAME": "Johnnie John Senior School",
         "ADDRESS": "203 Mountville DR",
@@ -267,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f49",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-445d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 927655,
+        "objectid": 927670,
         "SHELTER_ID": 70910,
         "SHELTER_NAME": "Dunedin Highland Middle School (Special Needs)",
         "ADDRESS": "70 Patricia Ave",
@@ -311,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f48",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-445c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 927656,
+        "objectid": 927671,
         "SHELTER_ID": 70808,
         "SHELTER_NAME": "Martin Luther King Jr. Multipurpose Center (Special Needs) (Pets)",
         "ADDRESS": "1028 Northeast 14th Street",
@@ -355,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f47",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-445b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 927657,
+        "objectid": 927672,
         "SHELTER_ID": 365905,
         "SHELTER_NAME": "Bledsoe Miller Community Center",
         "ADDRESS": "300 N M.L.K. Jr Blvd",
@@ -399,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f46",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-445a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 927658,
+        "objectid": 927673,
         "SHELTER_ID": 135175,
         "SHELTER_NAME": "Forest Capital State Museum Hall",
         "ADDRESS": "204 Forest Park Dr.",
@@ -443,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f45",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-4459",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 927659,
+        "objectid": 927674,
         "SHELTER_ID": 365977,
         "SHELTER_NAME": "Allendale United Methodist Church",
         "ADDRESS": "3803 Haines Road N",
@@ -487,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f44",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-4458",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 927660,
+        "objectid": 927675,
         "SHELTER_ID": 365985,
         "SHELTER_NAME": "American Red Cross - Houston",
         "ADDRESS": "2700 Southwest Fwy",
@@ -531,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f43",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-4457",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 927661,
+        "objectid": 927676,
         "SHELTER_ID": 365987,
         "SHELTER_NAME": "The Bin Spot",
         "ADDRESS": "1520 S. Suncoast Blvd.",
@@ -575,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f42",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-4456",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 927662,
+        "objectid": 927677,
         "SHELTER_ID": 358726,
         "SHELTER_NAME": "Castleview Church",
         "ADDRESS": "8601 Hague Road",
@@ -619,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18acb5a83fc_-3f41",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-4455",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 927663,
+        "objectid": 927678,
         "SHELTER_ID": 172650,
         "SHELTER_NAME": "Mount Empire High School",
         "ADDRESS": "3291 Buckman Springs Road",
@@ -660,12 +440,232 @@
         -117.3229,
         33.229
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-4454",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.258,
+          30.8443
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 927679,
+        "SHELTER_ID": 365946,
+        "SHELTER_NAME": "First Baptist Church",
+        "ADDRESS": "2030 Hwy 171",
+        "CITY": "DeRidder",
+        "STATE": "LA",
+        "ZIP": "70634",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.258,
+        30.8443,
+        -93.258,
+        30.8443
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-4453",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3521,
+          29.7078
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 927680,
+        "SHELTER_ID": 360659,
+        "SHELTER_NAME": "Gainesville Senior Center (Special Needs)",
+        "ADDRESS": "5701 NW 34th Blvd",
+        "CITY": "Gainesville",
+        "STATE": "FL",
+        "ZIP": "32653",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 29.70777,
+        "LONGITUDE": -82.35209,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.3521,
+        29.7078,
+        -82.3521,
+        29.7078
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-4452",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.604,
+          29.6691
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 927681,
+        "SHELTER_ID": 360602,
+        "SHELTER_NAME": "Easton Newberry Sports Complex (Pets)",
+        "ADDRESS": "24880 NW 16th Ave",
+        "CITY": "Newberry",
+        "STATE": "FL",
+        "ZIP": "32669",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 29.6690705,
+        "LONGITUDE": -82.604014,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.604,
+        29.6691,
+        -82.604,
+        29.6691
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-4451",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8811,
+          35.2942
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 927682,
+        "SHELTER_ID": 322976,
+        "SHELTER_NAME": "Chaparral Hills Baptist Church",
+        "ADDRESS": "3300 W Cherry Ave",
+        "CITY": "Amarillo",
+        "STATE": "TX",
+        "ZIP": "79108",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 250,
+        "POST_IMPACT_CAPACITY": 125,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "TEXAS PANHANDLE CHAPTER",
+        "ORG_ID": 121879,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 35.29419235,
+        "LONGITUDE": -101.88111449,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -101.8811,
+        35.2942,
+        -101.8811,
+        35.2942
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6fa39e2a_18acb5a9110_-4450",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8353,
+          35.3074
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 927683,
+        "SHELTER_ID": 365803,
+        "SHELTER_NAME": "River Road High School",
+        "ADDRESS": "101 W Mobley Street",
+        "CITY": "Amarillo",
+        "STATE": "TX",
+        "ZIP": "79108",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -101.8353,
+        35.3074,
+        -101.8353,
+        35.3074
+      ]
     }
   ],
   "totalFeatures": 15,
   "numberMatched": 15,
   "numberReturned": 15,
-  "timeStamp": "2023-09-25T11:04:49.611Z",
+  "timeStamp": "2023-09-25T11:33:53.792Z",
   "crs": {
     "type": "name",
     "properties": {
