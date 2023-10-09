@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-4484",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-56ab",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941222,
+        "objectid": 941236,
         "SHELTER_ID": 365826,
         "SHELTER_NAME": "Johnnie John Senior School",
         "ADDRESS": "203 Mountville DR",
@@ -47,7 +47,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-4483",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-56aa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8056,
+          13.438
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 941237,
+        "SHELTER_ID": 71015,
+        "SHELTER_NAME": "George Washington High School",
+        "ADDRESS": "298 Washington Drive",
+        "CITY": "Mangilao",
+        "STATE": "GU",
+        "ZIP": "96913",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 100,
+        "POST_IMPACT_CAPACITY": 50,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "TERRITORY OF GUAM",
+        "ORG_ID": 119274,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 13.43800646,
+        "LONGITUDE": 144.80558849,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        144.8056,
+        13.438,
+        144.8056,
+        13.438
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-56a9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9181,
+          13.5558
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 941238,
+        "SHELTER_ID": 71012,
+        "SHELTER_NAME": "Upi Elementary School",
+        "ADDRESS": "1180 Chalan Pediron",
+        "CITY": "Yigo",
+        "STATE": "GU",
+        "ZIP": "96929",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 25,
+        "POST_IMPACT_CAPACITY": 12,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "TERRITORY OF GUAM",
+        "ORG_ID": 119274,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 13.55583265,
+        "LONGITUDE": 144.91810936,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        144.9181,
+        13.5558,
+        144.9181,
+        13.5558
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-56a8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941223,
+        "objectid": 941239,
         "SHELTER_ID": 71013,
         "SHELTER_NAME": "Astumbo Elementary School",
         "ADDRESS": "255 Chalan Hachon Street",
@@ -74,7 +162,7 @@
         "ORG_ID": 119274,
         "MATCH_TYPE": "A",
         "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "SUBFACILITY_CODE": "EMEREVAC",
         "ADA_COMPLIANT": " ",
         "PET_ACCOMMODATIONS_CODE": " ",
         "WHEELCHAIR_ACCESSIBLE": " ",
@@ -91,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-4482",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-56a7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941224,
+        "objectid": 941240,
         "SHELTER_ID": 70910,
         "SHELTER_NAME": "Dunedin Highland Middle School (Special Needs)",
         "ADDRESS": "70 Patricia Ave",
@@ -135,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-4481",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-56a6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941225,
+        "objectid": 941241,
         "SHELTER_ID": 70808,
         "SHELTER_NAME": "Martin Luther King Jr. Multipurpose Center (Special Needs) (Pets)",
         "ADDRESS": "1028 Northeast 14th Street",
@@ -179,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-4480",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-56a5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941226,
+        "objectid": 941242,
         "SHELTER_ID": 365905,
         "SHELTER_NAME": "Bledsoe Miller Community Center",
         "ADDRESS": "300 N M.L.K. Jr Blvd",
@@ -223,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-447f",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-56a4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941227,
+        "objectid": 941243,
         "SHELTER_ID": 365977,
         "SHELTER_NAME": "Allendale United Methodist Church",
         "ADDRESS": "3803 Haines Road N",
@@ -267,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-447e",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-56a3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941228,
+        "objectid": 941244,
         "SHELTER_ID": 365985,
         "SHELTER_NAME": "American Red Cross - Houston",
         "ADDRESS": "2700 Southwest Fwy",
@@ -311,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-447d",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-56a2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941229,
+        "objectid": 941245,
         "SHELTER_ID": 172650,
         "SHELTER_NAME": "Mount Empire High School",
         "ADDRESS": "3291 Buckman Springs Road",
@@ -355,7 +443,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-447c",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-56a1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7587,
+          13.3542
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 941246,
+        "SHELTER_ID": 71023,
+        "SHELTER_NAME": "Talofofo Elementary School",
+        "ADDRESS": "209 Jose P Cruz Street",
+        "CITY": "Talofofo",
+        "STATE": "GU",
+        "ZIP": "96915",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 150,
+        "POST_IMPACT_CAPACITY": 75,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "TERRITORY OF GUAM",
+        "ORG_ID": 119274,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 13.35415027,
+        "LONGITUDE": 144.75867616,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        144.7587,
+        13.3542,
+        144.7587,
+        13.3542
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-56a0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941230,
+        "objectid": 941247,
         "SHELTER_ID": 365996,
         "SHELTER_NAME": "William H. Brainard Senior Center",
         "ADDRESS": "14700 Reaume Parkway",
@@ -399,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-447b",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-569f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941231,
+        "objectid": 941248,
         "SHELTER_ID": 365946,
         "SHELTER_NAME": "First Baptist Church",
         "ADDRESS": "2030 Hwy 171",
@@ -443,7 +575,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-447a",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-569e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8826,
+          13.5835
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 941249,
+        "SHELTER_ID": 71020,
+        "SHELTER_NAME": "Machananao Elementary School",
+        "ADDRESS": "Route 9",
+        "CITY": "Yigo",
+        "STATE": "GU",
+        "ZIP": "96929",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 12,
+        "POST_IMPACT_CAPACITY": 6,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "TERRITORY OF GUAM",
+        "ORG_ID": 119274,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 13.58351656,
+        "LONGITUDE": 144.88261665,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        144.8826,
+        13.5835,
+        144.8826,
+        13.5835
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-569d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8419,
+          13.5211
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 941250,
+        "SHELTER_ID": 353263,
+        "SHELTER_NAME": "Maria A. Ulloa Elementary",
+        "ADDRESS": "110 Catalina Lane",
+        "CITY": "Dededo",
+        "STATE": "GU",
+        "ZIP": "96912",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 450,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 13.5211027,
+        "LONGITUDE": 144.8418939,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        144.8419,
+        13.5211,
+        144.8419,
+        13.5211
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-569c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941232,
+        "objectid": 941251,
         "SHELTER_ID": 360659,
         "SHELTER_NAME": "Gainesville Senior Center (Special Needs)",
         "ADDRESS": "5701 NW 34th Blvd",
@@ -487,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-4479",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-569b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941233,
+        "objectid": 941252,
         "SHELTER_ID": 360602,
         "SHELTER_NAME": "Easton Newberry Sports Complex (Pets)",
         "ADDRESS": "24880 NW 16th Ave",
@@ -531,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-4478",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-569a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941234,
+        "objectid": 941253,
         "SHELTER_ID": 322976,
         "SHELTER_NAME": "Chaparral Hills Baptist Church",
         "ADDRESS": "3300 W Cherry Ave",
@@ -575,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5b97aee0_18b144f3be0_-4477",
+      "id": "FEMANSSOpenShelters.fid-6b20e3f3_18b13eb8bb7_-5699",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 941235,
+        "objectid": 941254,
         "SHELTER_ID": 365803,
         "SHELTER_NAME": "River Road High School",
         "ADDRESS": "101 W Mobley Street",
@@ -618,10 +838,10 @@
       ]
     }
   ],
-  "totalFeatures": 14,
-  "numberMatched": 14,
-  "numberReturned": 14,
-  "timeStamp": "2023-10-09T14:05:06.998Z",
+  "totalFeatures": 19,
+  "numberMatched": 19,
+  "numberReturned": 19,
+  "timeStamp": "2023-10-09T14:34:33.029Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -630,8 +850,8 @@
   },
   "bbox": [
     -158.1196,
-    13.5532,
-    144.8478,
+    13.3542,
+    144.9181,
     61.8703
   ]
 }
