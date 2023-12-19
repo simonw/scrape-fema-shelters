@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-153d",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-3870",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017960,
+        "objectid": 1017979,
         "SHELTER_ID": 366009,
         "SHELTER_NAME": "NCS-Roosevelt Hotel",
         "ADDRESS": "1001 24th Street West",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-153c",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-386f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017961,
+        "objectid": 1017980,
         "SHELTER_ID": 366015,
         "SHELTER_NAME": "Balch Springs Senior Center",
         "ADDRESS": "2919 Balch Springs Road",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-153b",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-386e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017962,
+        "objectid": 1017981,
         "SHELTER_ID": 299353,
         "SHELTER_NAME": "Park Lane Church of The Nazarene",
         "ADDRESS": "225 Cunningham Lane",
@@ -135,51 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-153a",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-386d",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.8388,
-          42.7645
+          -71.5151,
+          41.7061
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017963,
-        "SHELTER_ID": 366018,
-        "SHELTER_NAME": "Grace Church",
-        "ADDRESS": "3626 WI-31",
-        "CITY": "Racine",
-        "STATE": "WI",
-        "ZIP": "53405",
+        "objectid": 1017982,
+        "SHELTER_ID": 332490,
+        "SHELTER_NAME": "West Warwick Civic Center Arena",
+        "ADDRESS": "100 Factory St",
+        "CITY": "WEST WARWICK",
+        "STATE": "RI",
+        "ZIP": "02893",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
+        "EVACUATION_CAPACITY": 125,
+        "POST_IMPACT_CAPACITY": 62,
+        "TOTAL_POPULATION": 10,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
+        "ORG_NAME": "Rhode Island Chapter",
+        "ORG_ID": 121749,
+        "MATCH_TYPE": "A",
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
+        "ADA_COMPLIANT": "NO",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "NO",
+        "LATITUDE": 41.70605265,
+        "LONGITUDE": -71.51507449,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -87.8388,
-        42.7645,
-        -87.8388,
-        42.7645
+        -71.5151,
+        41.7061,
+        -71.5151,
+        41.7061
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-1539",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-386c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017964,
+        "objectid": 1017983,
         "SHELTER_ID": 337356,
         "SHELTER_NAME": "Barre Auditorium",
         "ADDRESS": "20 Auditorium Hill",
@@ -223,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-1538",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-386b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8388,
+          42.7645
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1017984,
+        "SHELTER_ID": 366018,
+        "SHELTER_NAME": "Grace Church",
+        "ADDRESS": "3626 WI-31",
+        "CITY": "Racine",
+        "STATE": "WI",
+        "ZIP": "53405",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.8388,
+        42.7645,
+        -87.8388,
+        42.7645
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-386a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017965,
+        "objectid": 1017985,
         "SHELTER_ID": 365826,
         "SHELTER_NAME": "Johnnie John Senior School",
         "ADDRESS": "203 Mountville DR",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-1537",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-3869",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017966,
+        "objectid": 1017986,
         "SHELTER_ID": 365946,
         "SHELTER_NAME": "First Baptist Church",
         "ADDRESS": "2030 Hwy 171",
@@ -311,51 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-1536",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.1296,
-          31.5635
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1017967,
-        "SHELTER_ID": 365905,
-        "SHELTER_NAME": "Bledsoe Miller Community Center",
-        "ADDRESS": "300 N M.L.K. Jr Blvd",
-        "CITY": "Waco",
-        "STATE": "TX",
-        "ZIP": "76704",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -97.1296,
-        31.5635,
-        -97.1296,
-        31.5635
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-1535",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-3868",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017968,
+        "objectid": 1017987,
         "SHELTER_ID": 322976,
         "SHELTER_NAME": "Chaparral Hills Baptist Church",
         "ADDRESS": "3300 W Cherry Ave",
@@ -399,7 +399,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-1534",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-3867",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1296,
+          31.5635
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1017988,
+        "SHELTER_ID": 365905,
+        "SHELTER_NAME": "Bledsoe Miller Community Center",
+        "ADDRESS": "300 N M.L.K. Jr Blvd",
+        "CITY": "Waco",
+        "STATE": "TX",
+        "ZIP": "76704",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -97.1296,
+        31.5635,
+        -97.1296,
+        31.5635
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-3866",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017969,
+        "objectid": 1017989,
         "SHELTER_ID": 70808,
         "SHELTER_NAME": "Martin Luther King Jr. Multipurpose Center (Special Needs) (Pets)",
         "ADDRESS": "1028 Northeast 14th Street",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-1533",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-3865",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017970,
+        "objectid": 1017990,
         "SHELTER_ID": 366005,
         "SHELTER_NAME": "NCS-Putman Lodge",
         "ADDRESS": "3491 US Hwy 129 N",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-1532",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-3864",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017971,
+        "objectid": 1017991,
         "SHELTER_ID": 365977,
         "SHELTER_NAME": "Allendale United Methodist Church",
         "ADDRESS": "3803 Haines Road N",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-1531",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-3863",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017972,
+        "objectid": 1017992,
         "SHELTER_ID": 365985,
         "SHELTER_NAME": "American Red Cross - Houston",
         "ADDRESS": "2700 Southwest Fwy",
@@ -575,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-1530",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-3862",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017973,
+        "objectid": 1017993,
         "SHELTER_ID": 172650,
         "SHELTER_NAME": "Mount Empire High School",
         "ADDRESS": "3291 Buckman Springs Road",
@@ -619,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-152f",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-3861",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017974,
+        "objectid": 1017994,
         "SHELTER_ID": 70910,
         "SHELTER_NAME": "Dunedin Highland Middle School (Special Needs)",
         "ADDRESS": "70 Patricia Ave",
@@ -663,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-152e",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-3860",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017975,
+        "objectid": 1017995,
         "SHELTER_ID": 140434,
         "SHELTER_NAME": "Central Park Rec Center",
         "ADDRESS": "400 Merritts Ave DE",
@@ -707,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-152d",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-385f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017976,
+        "objectid": 1017996,
         "SHELTER_ID": 360659,
         "SHELTER_NAME": "Gainesville Senior Center (Special Needs)",
         "ADDRESS": "5701 NW 34th Blvd",
@@ -751,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-152c",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-385e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017977,
+        "objectid": 1017997,
         "SHELTER_ID": 360602,
         "SHELTER_NAME": "Easton Newberry Sports Complex (Pets)",
         "ADDRESS": "24880 NW 16th Ave",
@@ -795,7 +839,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ecc6a9f_18c83058f57_-152b",
+      "id": "FEMANSSOpenShelters.fid--5f53425e_18c832988c1_-385d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1017978,
+        "objectid": 1017998,
         "SHELTER_ID": 365803,
         "SHELTER_NAME": "River Road High School",
         "ADDRESS": "101 W Mobley Street",
@@ -838,10 +882,10 @@
       ]
     }
   ],
-  "totalFeatures": 19,
-  "numberMatched": 19,
-  "numberReturned": 19,
-  "timeStamp": "2023-12-19T21:04:47.635Z",
+  "totalFeatures": 20,
+  "numberMatched": 20,
+  "numberReturned": 20,
+  "timeStamp": "2023-12-19T21:33:40.578Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -851,7 +895,7 @@
   "bbox": [
     -158.1196,
     27.8071,
-    -72.5042,
+    -71.5151,
     61.8703
   ]
 }
