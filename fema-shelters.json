@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_-38a1",
+      "id": "FEMANSSOpenShelters.fid--44c49f14_18df5e69782_73cd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3737,
+          33.7687
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1143347,
+        "SHELTER_ID": 140434,
+        "SHELTER_NAME": "Central Park Rec Center",
+        "ADDRESS": "400 Merritts Ave DE",
+        "CITY": "Atlanta",
+        "STATE": "GA",
+        "ZIP": "30324",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 150,
+        "POST_IMPACT_CAPACITY": 125,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "METROPOLITAN ATLANTA CHAPTER",
+        "ORG_ID": 121593,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 33.76870836,
+        "LONGITUDE": -84.3736708,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.3737,
+        33.7687,
+        -84.3737,
+        33.7687
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--44c49f14_18df5e69782_73ce",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143326,
+        "objectid": 1143337,
         "SHELTER_ID": 366009,
         "SHELTER_NAME": "NCS-Roosevelt Hotel",
         "ADDRESS": "1001 24th Street West",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_-38a0",
+      "id": "FEMANSSOpenShelters.fid--44c49f14_18df5e69782_73cf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143327,
+        "objectid": 1143338,
         "SHELTER_ID": 366015,
         "SHELTER_NAME": "Balch Springs Senior Center",
         "ADDRESS": "2919 Balch Springs Road",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_-389f",
+      "id": "FEMANSSOpenShelters.fid--44c49f14_18df5e69782_73d0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143328,
+        "objectid": 1143339,
         "SHELTER_ID": 366043,
         "SHELTER_NAME": "Wellington Activity Center",
         "ADDRESS": "50 Corsicana Street",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_-389e",
+      "id": "FEMANSSOpenShelters.fid--44c49f14_18df5e69782_73d1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143329,
+        "objectid": 1143340,
         "SHELTER_ID": 172650,
         "SHELTER_NAME": "Mount Empire High School",
         "ADDRESS": "3291 Buckman Springs Road",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_-389d",
+      "id": "FEMANSSOpenShelters.fid--44c49f14_18df5e69782_73d2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143330,
+        "objectid": 1143341,
         "SHELTER_ID": 366081,
         "SHELTER_NAME": "Community Protestant Church",
         "ADDRESS": "418 N Prarie Ave",
@@ -223,51 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_-389c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.8497,
-          35.2342
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1143331,
-        "SHELTER_ID": 366045,
-        "SHELTER_NAME": "Charles E Warford Activity Center",
-        "ADDRESS": "1330 NW 18th Avenue",
-        "CITY": "Amarillo",
-        "STATE": "TX",
-        "ZIP": "79107",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 9,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -101.8497,
-        35.2342,
-        -101.8497,
-        35.2342
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_-389b",
+      "id": "FEMANSSOpenShelters.fid--44c49f14_18df5e69782_73d3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143332,
+        "objectid": 1143342,
         "SHELTER_ID": 366044,
         "SHELTER_NAME": "Johnson Park Youth Center",
         "ADDRESS": "1210 Bulldog Blvd",
@@ -311,7 +311,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_-389a",
+      "id": "FEMANSSOpenShelters.fid--44c49f14_18df5e69782_73d4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8497,
+          35.2342
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1143343,
+        "SHELTER_ID": 366045,
+        "SHELTER_NAME": "Charles E Warford Activity Center",
+        "ADDRESS": "1330 NW 18th Avenue",
+        "CITY": "Amarillo",
+        "STATE": "TX",
+        "ZIP": "79107",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 9,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -101.8497,
+        35.2342,
+        -101.8497,
+        35.2342
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--44c49f14_18df5e69782_73d5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143333,
+        "objectid": 1143344,
         "SHELTER_ID": 365826,
         "SHELTER_NAME": "Johnnie John Senior School",
         "ADDRESS": "203 Mountville DR",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_-3899",
+      "id": "FEMANSSOpenShelters.fid--44c49f14_18df5e69782_73d6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143334,
+        "objectid": 1143345,
         "SHELTER_ID": 365905,
         "SHELTER_NAME": "Bledsoe Miller Community Center",
         "ADDRESS": "300 N M.L.K. Jr Blvd",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_-3898",
+      "id": "FEMANSSOpenShelters.fid--44c49f14_18df5e69782_73d7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143335,
+        "objectid": 1143346,
         "SHELTER_ID": 365985,
         "SHELTER_NAME": "American Red Cross - Houston",
         "ADDRESS": "2700 Southwest Fwy",
@@ -440,56 +484,12 @@
         -95.4204,
         29.7316
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_-3897",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.3737,
-          33.7687
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1143336,
-        "SHELTER_ID": 140434,
-        "SHELTER_NAME": "Central Park Rec Center",
-        "ADDRESS": "400 Merritts Ave DE",
-        "CITY": "Atlanta",
-        "STATE": "GA",
-        "ZIP": "30324",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 150,
-        "POST_IMPACT_CAPACITY": 125,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "METROPOLITAN ATLANTA CHAPTER",
-        "ORG_ID": 121593,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 33.76870836,
-        "LONGITUDE": -84.3736708,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.3737,
-        33.7687,
-        -84.3737,
-        33.7687
-      ]
     }
   ],
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2024-03-01T07:05:03.612Z",
+  "timeStamp": "2024-03-01T07:34:13.689Z",
   "crs": {
     "type": "name",
     "properties": {
