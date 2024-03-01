@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_2588",
+      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_2776",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143524,
+        "objectid": 1143535,
         "SHELTER_ID": 366009,
         "SHELTER_NAME": "NCS-Roosevelt Hotel",
         "ADDRESS": "1001 24th Street West",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_2589",
+      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_2777",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143525,
+        "objectid": 1143536,
         "SHELTER_ID": 366015,
         "SHELTER_NAME": "Balch Springs Senior Center",
         "ADDRESS": "2919 Balch Springs Road",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_258a",
+      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_2778",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143526,
+        "objectid": 1143537,
         "SHELTER_ID": 366043,
         "SHELTER_NAME": "Wellington Activity Center",
         "ADDRESS": "50 Corsicana Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_258b",
+      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_2779",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143527,
+        "objectid": 1143538,
         "SHELTER_ID": 172650,
         "SHELTER_NAME": "Mount Empire High School",
         "ADDRESS": "3291 Buckman Springs Road",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_258c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.0087,
-          42.2702
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1143528,
-        "SHELTER_ID": 366081,
-        "SHELTER_NAME": "Community Protestant Church",
-        "ADDRESS": "418 N Prarie Ave",
-        "CITY": "Mundelein",
-        "STATE": "IL",
-        "ZIP": "60060",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 11,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.0087,
-        42.2702,
-        -88.0087,
-        42.2702
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_258d",
+      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_277a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143529,
+        "objectid": 1143539,
         "SHELTER_ID": 366044,
         "SHELTER_NAME": "Johnson Park Youth Center",
         "ADDRESS": "1210 Bulldog Blvd",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_258e",
+      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_277b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0087,
+          42.2702
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1143540,
+        "SHELTER_ID": 366081,
+        "SHELTER_NAME": "Community Protestant Church",
+        "ADDRESS": "418 N Prarie Ave",
+        "CITY": "Mundelein",
+        "STATE": "IL",
+        "ZIP": "60060",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 11,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.0087,
+        42.2702,
+        -88.0087,
+        42.2702
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_277c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143530,
+        "objectid": 1143541,
         "SHELTER_ID": 366045,
         "SHELTER_NAME": "Charles E Warford Activity Center",
         "ADDRESS": "1330 NW 18th Avenue",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_258f",
+      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_277d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143531,
+        "objectid": 1143542,
         "SHELTER_ID": 365826,
         "SHELTER_NAME": "Johnnie John Senior School",
         "ADDRESS": "203 Mountville DR",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_2590",
+      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_277e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143532,
+        "objectid": 1143543,
         "SHELTER_ID": 365905,
         "SHELTER_NAME": "Bledsoe Miller Community Center",
         "ADDRESS": "300 N M.L.K. Jr Blvd",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_2591",
+      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_277f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143533,
+        "objectid": 1143544,
         "SHELTER_ID": 365985,
         "SHELTER_NAME": "American Red Cross - Houston",
         "ADDRESS": "2700 Southwest Fwy",
@@ -443,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_2592",
+      "id": "FEMANSSOpenShelters.fid-565fb587_18df899cc9a_2780",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1143534,
+        "objectid": 1143545,
         "SHELTER_ID": 140434,
         "SHELTER_NAME": "Central Park Rec Center",
         "ADDRESS": "400 Merritts Ave DE",
@@ -489,7 +489,7 @@
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2024-03-01T13:04:54.087Z",
+  "timeStamp": "2024-03-01T13:34:07.370Z",
   "crs": {
     "type": "name",
     "properties": {
