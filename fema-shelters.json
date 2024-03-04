@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--44c49f14_18e098d0f52_-643c",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_240f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1145933,
+        "objectid": 1145944,
         "SHELTER_ID": 366009,
         "SHELTER_NAME": "NCS-Roosevelt Hotel",
         "ADDRESS": "1001 24th Street West",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--44c49f14_18e098d0f52_-643b",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_2410",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1145934,
+        "objectid": 1145945,
         "SHELTER_ID": 366015,
         "SHELTER_NAME": "Balch Springs Senior Center",
         "ADDRESS": "2919 Balch Springs Road",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--44c49f14_18e098d0f52_-643a",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_2411",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1145935,
+        "objectid": 1145946,
         "SHELTER_ID": 366043,
         "SHELTER_NAME": "Wellington Activity Center",
         "ADDRESS": "50 Corsicana Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--44c49f14_18e098d0f52_-6439",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_2412",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1145936,
+        "objectid": 1145947,
         "SHELTER_ID": 172650,
         "SHELTER_NAME": "Mount Empire High School",
         "ADDRESS": "3291 Buckman Springs Road",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--44c49f14_18e098d0f52_-6438",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_2413",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1145937,
+        "objectid": 1145948,
         "SHELTER_ID": 366044,
         "SHELTER_NAME": "Johnson Park Youth Center",
         "ADDRESS": "1210 Bulldog Blvd",
@@ -199,7 +199,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 4,
+        "TOTAL_POPULATION": 6,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--44c49f14_18e098d0f52_-6437",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_2414",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1145938,
+        "objectid": 1145949,
         "SHELTER_ID": 366045,
         "SHELTER_NAME": "Charles E Warford Activity Center",
         "ADDRESS": "1330 NW 18th Avenue",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--44c49f14_18e098d0f52_-6436",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_2415",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1145939,
+        "objectid": 1145950,
         "SHELTER_ID": 366081,
         "SHELTER_NAME": "Community Protestant Church",
         "ADDRESS": "418 N Prarie Ave",
@@ -287,7 +287,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 11,
+        "TOTAL_POPULATION": 19,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -311,7 +311,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--44c49f14_18e098d0f52_-6435",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_2416",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2396,
+          38.0657
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1145951,
+        "SHELTER_ID": 335997,
+        "SHELTER_NAME": "Las Animas Community Center",
+        "ADDRESS": "1214 Ambassador Thompson Blvd.",
+        "CITY": "LAS ANIMAS",
+        "STATE": "CO",
+        "ZIP": "81054",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 50,
+        "POST_IMPACT_CAPACITY": 25,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "PIKES PEAK CHAPTER",
+        "ORG_ID": 121723,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 38.06566891,
+        "LONGITUDE": -103.23964414,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -103.2396,
+        38.0657,
+        -103.2396,
+        38.0657
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_2417",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1145940,
+        "objectid": 1145952,
         "SHELTER_ID": 365826,
         "SHELTER_NAME": "Johnnie John Senior School",
         "ADDRESS": "203 Mountville DR",
@@ -355,7 +399,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--44c49f14_18e098d0f52_-6434",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_2418",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4319,
+          42.8704
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1145953,
+        "SHELTER_ID": 347005,
+        "SHELTER_NAME": "ISU Holt Arena",
+        "ADDRESS": "550 Memorial Drive",
+        "CITY": "POCATELLO",
+        "STATE": "ID",
+        "ZIP": "83201",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1,
+        "POST_IMPACT_CAPACITY": 1,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "AMERICAN RED CROSS OF GREATER IDAHO CHAPTER",
+        "ORG_ID": 121147,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 42.87039615,
+        "LONGITUDE": -112.43190215,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -112.4319,
+        42.8704,
+        -112.4319,
+        42.8704
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_2419",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1145941,
+        "objectid": 1145954,
         "SHELTER_ID": 365905,
         "SHELTER_NAME": "Bledsoe Miller Community Center",
         "ADDRESS": "300 N M.L.K. Jr Blvd",
@@ -399,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--44c49f14_18e098d0f52_-6433",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_241a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1145942,
+        "objectid": 1145955,
         "SHELTER_ID": 365985,
         "SHELTER_NAME": "American Red Cross - Houston",
         "ADDRESS": "2700 Southwest Fwy",
@@ -443,7 +531,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--44c49f14_18e098d0f52_-6432",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_241b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8859,
+          40.0656
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1145956,
+        "SHELTER_ID": 356627,
+        "SHELTER_NAME": "California Univ of PA (Penn West)",
+        "ADDRESS": "250 University Ave",
+        "CITY": "CALIFORNIA",
+        "STATE": "PA",
+        "ZIP": "15419",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1633,
+        "POST_IMPACT_CAPACITY": 816,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 40.065619,
+        "LONGITUDE": -79.8859114,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -79.8859,
+        40.0656,
+        -79.8859,
+        40.0656
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_241c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.332,
+          43.1901
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1145957,
+        "SHELTER_ID": 356868,
+        "SHELTER_NAME": "Mountain View Middle School",
+        "ADDRESS": "645 Mitchell Lane",
+        "CITY": "BLACKFOOT",
+        "STATE": "ID",
+        "ZIP": "83221",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 432,
+        "POST_IMPACT_CAPACITY": 216,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 43.1900886,
+        "LONGITUDE": -112.3319563,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -112.332,
+        43.1901,
+        -112.332,
+        43.1901
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4f1be721_18e080dc3fa_241d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1145943,
+        "objectid": 1145958,
         "SHELTER_ID": 140434,
         "SHELTER_NAME": "Central Park Rec Center",
         "ADDRESS": "400 Merritts Ave DE",
@@ -486,10 +662,10 @@
       ]
     }
   ],
-  "totalFeatures": 11,
-  "numberMatched": 11,
-  "numberReturned": 11,
-  "timeStamp": "2024-03-04T14:05:13.082Z",
+  "totalFeatures": 15,
+  "numberMatched": 15,
+  "numberReturned": 15,
+  "timeStamp": "2024-03-04T14:34:39.021Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -499,7 +675,7 @@
   "bbox": [
     -158.1196,
     29.7316,
-    -84.3737,
+    -79.8859,
     61.8703
   ]
 }
