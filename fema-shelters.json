@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49ff8545_18e1f11f30e_-3cdf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6042,
-          46.5982
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1149193,
-        "SHELTER_ID": 109782,
-        "SHELTER_NAME": "Summit View Church of Christ",
-        "ADDRESS": "100 N 72nd Ave",
-        "CITY": "Yakima",
-        "STATE": "WA",
-        "ZIP": "98908",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 8,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "YAKIMA VALLEY CHAPTER",
-        "ORG_ID": 121967,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 46.59822959,
-        "LONGITUDE": -120.60423471,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.6042,
-        46.5982,
-        -120.6042,
-        46.5982
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49ff8545_18e1f11f30e_-3cde",
+      "id": "FEMANSSOpenShelters.fid--7761023_18e1e5192f2_-2489",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1149194,
+        "objectid": 1149195,
         "SHELTER_ID": 366081,
         "SHELTER_NAME": "Community Protestant Church",
         "ADDRESS": "418 N Prarie Ave",
@@ -88,12 +44,56 @@
         -88.0087,
         42.2702
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7761023_18e1e5192f2_-2488",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6042,
+          46.5982
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1149196,
+        "SHELTER_ID": 109782,
+        "SHELTER_NAME": "Summit View Church of Christ",
+        "ADDRESS": "100 N 72nd Ave",
+        "CITY": "Yakima",
+        "STATE": "WA",
+        "ZIP": "98908",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 8,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "YAKIMA VALLEY CHAPTER",
+        "ORG_ID": 121967,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 46.59822959,
+        "LONGITUDE": -120.60423471,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.6042,
+        46.5982,
+        -120.6042,
+        46.5982
+      ]
     }
   ],
   "totalFeatures": 2,
   "numberMatched": 2,
   "numberReturned": 2,
-  "timeStamp": "2024-03-08T21:05:17.905Z",
+  "timeStamp": "2024-03-08T21:34:24.344Z",
   "crs": {
     "type": "name",
     "properties": {
