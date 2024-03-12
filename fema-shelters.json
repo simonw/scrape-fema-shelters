@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3b2d2b8_18e32da939d_-7c06",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.0087,
-          42.2702
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1149727,
-        "SHELTER_ID": 366081,
-        "SHELTER_NAME": "Community Protestant Church",
-        "ADDRESS": "418 N Prarie Ave",
-        "CITY": "Mundelein",
-        "STATE": "IL",
-        "ZIP": "60060",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 19,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.0087,
-        42.2702,
-        -88.0087,
-        42.2702
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3b2d2b8_18e32da939d_-7c05",
+      "id": "FEMANSSOpenShelters.fid-1ac19bdb_18e330f38ed_-7fc7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1149728,
+        "objectid": 1149729,
         "SHELTER_ID": 109782,
         "SHELTER_NAME": "Summit View Church of Christ",
         "ADDRESS": "100 N 72nd Ave",
@@ -67,7 +23,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": 0,
         "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 8,
+        "TOTAL_POPULATION": 6,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "YAKIMA VALLEY CHAPTER",
@@ -88,12 +44,56 @@
         -120.6042,
         46.5982
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-1ac19bdb_18e330f38ed_-7fc6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7004,
+          41.9026
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1149730,
+        "SHELTER_ID": 366087,
+        "SHELTER_NAME": "Trinidad Lutheran Church",
+        "ADDRESS": "2921 W Division",
+        "CITY": "Chicago",
+        "STATE": "IL",
+        "ZIP": "60622",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 26,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.7004,
+        41.9026,
+        -87.7004,
+        41.9026
+      ]
     }
   ],
   "totalFeatures": 2,
   "numberMatched": 2,
   "numberReturned": 2,
-  "timeStamp": "2024-03-12T14:04:58.147Z",
+  "timeStamp": "2024-03-12T14:33:54.492Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -102,8 +102,8 @@
   },
   "bbox": [
     -120.6042,
-    42.2702,
-    -88.0087,
+    41.9026,
+    -87.7004,
     46.5982
   ]
 }
