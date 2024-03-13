@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-880afb9_18e33b75e15_6b9c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.7004,
-          41.9026
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1149823,
-        "SHELTER_ID": 366087,
-        "SHELTER_NAME": "Trinidad Lutheran Church",
-        "ADDRESS": "2921 W Division",
-        "CITY": "Chicago",
-        "STATE": "IL",
-        "ZIP": "60622",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 26,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.7004,
-        41.9026,
-        -87.7004,
-        41.9026
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-880afb9_18e33b75e15_6b9d",
+      "id": "FEMANSSOpenShelters.fid-3b2d2b8_18e358cd570_184",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1149824,
+        "objectid": 1149827,
         "SHELTER_ID": 109782,
         "SHELTER_NAME": "Summit View Church of Christ",
         "ADDRESS": "100 N 72nd Ave",
@@ -88,12 +44,56 @@
         -120.6042,
         46.5982
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3b2d2b8_18e358cd570_185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7004,
+          41.9026
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1149828,
+        "SHELTER_ID": 366087,
+        "SHELTER_NAME": "Trinidad Lutheran Church",
+        "ADDRESS": "2921 W Division",
+        "CITY": "Chicago",
+        "STATE": "IL",
+        "ZIP": "60622",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 26,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.7004,
+        41.9026,
+        -87.7004,
+        41.9026
+      ]
     }
   ],
   "totalFeatures": 2,
   "numberMatched": 2,
   "numberReturned": 2,
-  "timeStamp": "2024-03-13T06:33:57.556Z",
+  "timeStamp": "2024-03-13T07:04:53.998Z",
   "crs": {
     "type": "name",
     "properties": {
