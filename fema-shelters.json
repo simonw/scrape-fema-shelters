@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2da6ce1c_18e3d156f47_-7ccb",
+      "id": "FEMANSSOpenShelters.fid--2da6ce1c_18e3d156f47_-5109",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1150013,
+        "objectid": 1150017,
         "SHELTER_ID": 236128,
         "SHELTER_NAME": "Saint Peter Catholic Church",
         "ADDRESS": "55 Jefferson Street",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2da6ce1c_18e3d156f47_-7cca",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.605,
-          38.9308
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1150014,
-        "SHELTER_ID": 236531,
-        "SHELTER_NAME": "GOAL High School",
-        "ADDRESS": "11990 Swingline Road",
-        "CITY": "Peyton",
-        "STATE": "CO",
-        "ZIP": "80831",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 265,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "PIKES PEAK CHAPTER",
-        "ORG_ID": 121723,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 38.9308258,
-        "LONGITUDE": -104.60500803,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -104.605,
-        38.9308,
-        -104.605,
-        38.9308
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2da6ce1c_18e3d156f47_-7cc9",
+      "id": "FEMANSSOpenShelters.fid--2da6ce1c_18e3d156f47_-5108",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1150015,
+        "objectid": 1150018,
         "SHELTER_ID": 235979,
         "SHELTER_NAME": "Walsenburg Community Center",
         "ADDRESS": "928 Russell Street",
@@ -135,7 +91,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2da6ce1c_18e3d156f47_-7cc8",
+      "id": "FEMANSSOpenShelters.fid--2da6ce1c_18e3d156f47_-5107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.605,
+          38.9308
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1150019,
+        "SHELTER_ID": 236531,
+        "SHELTER_NAME": "GOAL High School",
+        "ADDRESS": "11990 Swingline Road",
+        "CITY": "Peyton",
+        "STATE": "CO",
+        "ZIP": "80831",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 265,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "PIKES PEAK CHAPTER",
+        "ORG_ID": 121723,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 38.9308258,
+        "LONGITUDE": -104.60500803,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -104.605,
+        38.9308,
+        -104.605,
+        38.9308
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2da6ce1c_18e3d156f47_-5106",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1150016,
+        "objectid": 1150020,
         "SHELTER_ID": 366087,
         "SHELTER_NAME": "Trinidad Lutheran Church",
         "ADDRESS": "2921 W Division",
@@ -181,7 +181,7 @@
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2024-03-14T14:05:10.465Z",
+  "timeStamp": "2024-03-14T14:34:13.244Z",
   "crs": {
     "type": "name",
     "properties": {
