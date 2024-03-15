@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--57b38cd6_18e424a6613_-7f75",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e4044af5a_5404",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1150293,
+        "objectid": 1150302,
         "SHELTER_ID": 235979,
         "SHELTER_NAME": "Walsenburg Community Center",
         "ADDRESS": "928 Russell Street",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--57b38cd6_18e424a6613_-7f74",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.605,
-          38.9308
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1150294,
-        "SHELTER_ID": 236531,
-        "SHELTER_NAME": "GOAL High School",
-        "ADDRESS": "11990 Swingline Road",
-        "CITY": "Peyton",
-        "STATE": "CO",
-        "ZIP": "80831",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 265,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "PIKES PEAK CHAPTER",
-        "ORG_ID": 121723,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 38.9308258,
-        "LONGITUDE": -104.60500803,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -104.605,
-        38.9308,
-        -104.605,
-        38.9308
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--57b38cd6_18e424a6613_-7f73",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e4044af5a_5405",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1150295,
+        "objectid": 1150303,
         "SHELTER_ID": 236128,
         "SHELTER_NAME": "Saint Peter Catholic Church",
         "ADDRESS": "55 Jefferson Street",
@@ -135,7 +91,227 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--57b38cd6_18e424a6613_-7f72",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e4044af5a_5406",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.681,
+          39.5912
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1150304,
+        "SHELTER_ID": 364099,
+        "SHELTER_NAME": "Warming Center-Fox Ridge Middle School",
+        "ADDRESS": "26301 E Arapahoe Rd",
+        "CITY": "AURORA",
+        "STATE": "CO",
+        "ZIP": "80016",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1170,
+        "POST_IMPACT_CAPACITY": 585,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 39.5912199,
+        "LONGITUDE": -104.6809788,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -104.681,
+        39.5912,
+        -104.681,
+        39.5912
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e4044af5a_5407",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7379,
+          40.3716
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1150306,
+        "SHELTER_ID": 328707,
+        "SHELTER_NAME": "Bellefontaine First Church of God",
+        "ADDRESS": "1000 East Brown Street",
+        "CITY": "BELLEFONTAINE",
+        "STATE": "OH",
+        "ZIP": "43311",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 300,
+        "POST_IMPACT_CAPACITY": 150,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "LOGAN & CHAMPAIGN COUNTY, MAD RIVER CHAPTER",
+        "ORG_ID": 121553,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 40.37156667,
+        "LONGITUDE": -83.73789509,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.7379,
+        40.3716,
+        -83.7379,
+        40.3716
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e4044af5a_5408",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8561,
+          39.3637
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1150307,
+        "SHELTER_ID": 236216,
+        "SHELTER_NAME": "Warming Center-Douglas County Fairgrounds (Kirk Hall)",
+        "ADDRESS": "500 FAIRGROUNDS DRIVE",
+        "CITY": "CASTLE ROCK",
+        "STATE": "CO",
+        "ZIP": "80104",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 200,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "MILE HIGH CHAPTER",
+        "ORG_ID": 121615,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 39.36368748,
+        "LONGITUDE": -104.85610773,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -104.8561,
+        39.3637,
+        -104.8561,
+        39.3637
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e4044af5a_5409",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.976,
+          40.1798
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1150308,
+        "SHELTER_ID": 284314,
+        "SHELTER_NAME": "Winchester High School",
+        "ADDRESS": "700 N UNION",
+        "CITY": "WINCHESTER",
+        "STATE": "IN",
+        "ZIP": "47394",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HOOSIER HEARTLAND CHAPTER",
+        "ORG_ID": 121488,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 40.17984483,
+        "LONGITUDE": -84.97601778,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.976,
+        40.1798,
+        -84.976,
+        40.1798
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e4044af5a_540a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1131,
+          40.2887
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1150309,
+        "SHELTER_ID": 340052,
+        "SHELTER_NAME": "Delaware County YMCA",
+        "ADDRESS": "1121 S. Houk Rd",
+        "CITY": "DELAWARE",
+        "STATE": "OH",
+        "ZIP": "43015",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 580,
+        "POST_IMPACT_CAPACITY": 290,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "DELAWARE COUNTY CHAPTER",
+        "ORG_ID": 121351,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 40.28866589,
+        "LONGITUDE": -83.11312522,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.1131,
+        40.2887,
+        -83.1131,
+        40.2887
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e4044af5a_540b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1150296,
+        "objectid": 1150310,
         "SHELTER_ID": 366087,
         "SHELTER_NAME": "Trinidad Lutheran Church",
         "ADDRESS": "2921 W Division",
@@ -176,12 +352,56 @@
         -87.7004,
         41.9026
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e4044af5a_540c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.121,
+          40.8695
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1150305,
+        "SHELTER_ID": 366088,
+        "SHELTER_NAME": "Mahatma Gandhi School #25",
+        "ADDRESS": "64 Parker Ave",
+        "CITY": "Passaic",
+        "STATE": "NJ",
+        "ZIP": "07055",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -74.121,
+        40.8695,
+        -74.121,
+        40.8695
+      ]
     }
   ],
-  "totalFeatures": 4,
-  "numberMatched": 4,
-  "numberReturned": 4,
-  "timeStamp": "2024-03-15T13:33:41.972Z",
+  "totalFeatures": 9,
+  "numberMatched": 9,
+  "numberReturned": 9,
+  "timeStamp": "2024-03-15T14:05:17.201Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -191,7 +411,7 @@
   "bbox": [
     -104.8712,
     37.6212,
-    -87.7004,
+    -74.121,
     41.9026
   ]
 }
