@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b35594e_18e62b2f783_-791d",
+      "id": "FEMANSSOpenShelters.fid--5f1babe8_18e61bde893_-28cb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1153104,
+        "objectid": 1153114,
         "SHELTER_ID": 366092,
         "SHELTER_NAME": "Salvation Army",
         "ADDRESS": "372 Main Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b35594e_18e62b2f783_-791c",
+      "id": "FEMANSSOpenShelters.fid--5f1babe8_18e61bde893_-28ca",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1153105,
+        "objectid": 1153115,
         "SHELTER_ID": 366097,
         "SHELTER_NAME": "Northfork Middle School",
         "ADDRESS": "1018 Caverns Rd",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b35594e_18e62b2f783_-791b",
+      "id": "FEMANSSOpenShelters.fid--5f1babe8_18e61bde893_-28c9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1153106,
+        "objectid": 1153116,
         "SHELTER_ID": 366093,
         "SHELTER_NAME": "Galilee Lutheran Church",
         "ADDRESS": "301 Lincoln Blvd",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b35594e_18e62b2f783_-791a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.3075,
-          42.0363
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1153107,
-        "SHELTER_ID": 366095,
-        "SHELTER_NAME": "Emmanual Church of Elgin",
-        "ADDRESS": "1158 Larkin Ave",
-        "CITY": "Elgin",
-        "STATE": "IL",
-        "ZIP": "60123",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.3075,
-        42.0363,
-        -88.3075,
-        42.0363
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b35594e_18e62b2f783_-7919",
+      "id": "FEMANSSOpenShelters.fid--5f1babe8_18e61bde893_-28c8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1153108,
+        "objectid": 1153117,
         "SHELTER_ID": 366096,
         "SHELTER_NAME": "Central Park Pavillion",
         "ADDRESS": "101 S Forrest Ave",
@@ -220,12 +176,56 @@
         -95.456,
         37.6804
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5f1babe8_18e61bde893_-28c7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3075,
+          42.0363
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1153118,
+        "SHELTER_ID": 366095,
+        "SHELTER_NAME": "Emmanual Church of Elgin",
+        "ADDRESS": "1158 Larkin Ave",
+        "CITY": "Elgin",
+        "STATE": "IL",
+        "ZIP": "60123",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.3075,
+        42.0363,
+        -88.3075,
+        42.0363
+      ]
     }
   ],
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2024-03-21T22:34:10.271Z",
+  "timeStamp": "2024-03-21T23:05:01.747Z",
   "crs": {
     "type": "name",
     "properties": {
