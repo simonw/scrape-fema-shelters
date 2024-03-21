@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5f1babe8_18e5f2ab2b0_6a44",
+      "id": "FEMANSSOpenShelters.fid-edaa8dc_18e6158dbd6_-7f23",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1152992,
+        "objectid": 1152997,
         "SHELTER_ID": 366092,
         "SHELTER_NAME": "Salvation Army",
         "ADDRESS": "372 Main Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5f1babe8_18e5f2ab2b0_6a45",
+      "id": "FEMANSSOpenShelters.fid-edaa8dc_18e6158dbd6_-7f22",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1152993,
+        "objectid": 1152998,
         "SHELTER_ID": 328707,
         "SHELTER_NAME": "Bellefontaine First Church of God",
         "ADDRESS": "1000 E Brown Ave",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5f1babe8_18e5f2ab2b0_6a46",
+      "id": "FEMANSSOpenShelters.fid-edaa8dc_18e6158dbd6_-7f21",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1152994,
+        "objectid": 1152999,
         "SHELTER_ID": 366093,
         "SHELTER_NAME": "Galilee Lutheran Church",
         "ADDRESS": "301 Lincoln Blvd",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5f1babe8_18e5f2ab2b0_6a47",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.3662,
-          38.9769
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1152995,
-        "SHELTER_ID": 366094,
-        "SHELTER_NAME": "Signal Knob Middle School",
-        "ADDRESS": "687 Sandy Hook Rd",
-        "CITY": "Strasburg",
-        "STATE": "VA",
-        "ZIP": "22657",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 4,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -78.3662,
-        38.9769,
-        -78.3662,
-        38.9769
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5f1babe8_18e5f2ab2b0_6a48",
+      "id": "FEMANSSOpenShelters.fid-edaa8dc_18e6158dbd6_-7f20",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1152996,
+        "objectid": 1153000,
         "SHELTER_ID": 366095,
         "SHELTER_NAME": "Emmanual Church of Elgin",
         "ADDRESS": "1158 Larkin Ave",
@@ -222,10 +178,10 @@
       ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2024-03-21T14:05:14.984Z",
+  "totalFeatures": 4,
+  "numberMatched": 4,
+  "numberReturned": 4,
+  "timeStamp": "2024-03-21T14:33:46.631Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -234,7 +190,7 @@
   },
   "bbox": [
     -88.3075,
-    38.9769,
+    40.3716,
     -73.9674,
     42.0363
   ]
