@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--60964fe9_18e5f2ac6eb_-34fd",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e5f2ac6eb_-3444",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1152873,
+        "objectid": 1152877,
         "SHELTER_ID": 366092,
         "SHELTER_NAME": "Salvation Army",
         "ADDRESS": "372 Main Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--60964fe9_18e5f2ac6eb_-34fc",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e5f2ac6eb_-3443",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1152874,
+        "objectid": 1152878,
         "SHELTER_ID": 328707,
         "SHELTER_NAME": "Bellefontaine First Church of God",
         "ADDRESS": "1000 E Brown Ave",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--60964fe9_18e5f2ac6eb_-34fb",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e5f2ac6eb_-3442",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1152875,
+        "objectid": 1152879,
         "SHELTER_ID": 366093,
         "SHELTER_NAME": "Galilee Lutheran Church",
         "ADDRESS": "301 Lincoln Blvd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--60964fe9_18e5f2ac6eb_-34fa",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e5f2ac6eb_-3441",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1152876,
+        "objectid": 1152880,
         "SHELTER_ID": 366094,
         "SHELTER_NAME": "Signal Knob Middle School",
         "ADDRESS": "687 Sandy Hook Rd",
@@ -176,12 +176,56 @@
         -78.3662,
         38.9769
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--60964fe9_18e5f2ac6eb_-3440",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3075,
+          42.0363
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1152881,
+        "SHELTER_ID": 366095,
+        "SHELTER_NAME": "Emmanual Church of Elgin",
+        "ADDRESS": "1158 Larkin Ave",
+        "CITY": "Elgin",
+        "STATE": "IL",
+        "ZIP": "60123",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.3075,
+        42.0363,
+        -88.3075,
+        42.0363
+      ]
     }
   ],
-  "totalFeatures": 4,
-  "numberMatched": 4,
-  "numberReturned": 4,
-  "timeStamp": "2024-03-21T06:05:37.717Z",
+  "totalFeatures": 5,
+  "numberMatched": 5,
+  "numberReturned": 5,
+  "timeStamp": "2024-03-21T06:34:59.441Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -189,9 +233,9 @@
     }
   },
   "bbox": [
-    -83.8898,
+    -88.3075,
     38.9769,
     -73.9674,
-    41.5041
+    42.0363
   ]
 }
