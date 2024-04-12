@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-8d8d6f4_18ed0afa028_1afe",
+      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-184",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1156331,
+        "objectid": 1156344,
         "SHELTER_ID": 365747,
         "SHELTER_NAME": "St. Paul's Lutheran Church",
         "ADDRESS": "2812 W Wisconsin Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-8d8d6f4_18ed0afa028_1aff",
+      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-183",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1156332,
+        "objectid": 1156345,
         "SHELTER_ID": 365942,
         "SHELTER_NAME": "Colmesneil High School",
         "ADDRESS": "610 W Elder Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-8d8d6f4_18ed0afa028_1b00",
+      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-182",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1156333,
+        "objectid": 1156346,
         "SHELTER_ID": 366117,
         "SHELTER_NAME": "Empowerment Church",
         "ADDRESS": "3600 Memorial Blvd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-8d8d6f4_18ed0afa028_1b01",
+      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-181",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1156334,
+        "objectid": 1156347,
         "SHELTER_ID": 366118,
         "SHELTER_NAME": "First Assembly of God",
         "ADDRESS": "101 W Trout St",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-8d8d6f4_18ed0afa028_1b02",
+      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-180",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1156335,
+        "objectid": 1156348,
         "SHELTER_ID": 366120,
         "SHELTER_NAME": "South Buffalo Twp Fire Hall",
         "ADDRESS": "100 Fire hall Rd",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-8d8d6f4_18ed0afa028_1b03",
+      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-17f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1156336,
+        "objectid": 1156349,
         "SHELTER_ID": 366121,
         "SHELTER_NAME": "TEP-Koloa Neighborhood Center",
         "ADDRESS": "34618 Weliweli Rd",
@@ -264,12 +264,56 @@
         -159.4561,
         21.9007
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-17e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3139,
+          22.0797
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1156350,
+        "SHELTER_ID": 366122,
+        "SHELTER_NAME": "TEP-Kappa Neighborhood Center",
+        "ADDRESS": "4491 Kou Rd",
+        "CITY": "Kappa",
+        "STATE": "HI",
+        "ZIP": "96746",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -159.3139,
+        22.0797,
+        -159.3139,
+        22.0797
+      ]
     }
   ],
-  "totalFeatures": 6,
-  "numberMatched": 6,
-  "numberReturned": 6,
-  "timeStamp": "2024-04-12T16:34:23.498Z",
+  "totalFeatures": 7,
+  "numberMatched": 7,
+  "numberReturned": 7,
+  "timeStamp": "2024-04-12T17:05:28.782Z",
   "crs": {
     "type": "name",
     "properties": {
