@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-53b7",
+      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-516b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1156311,
+        "objectid": 1156316,
         "SHELTER_ID": 365747,
         "SHELTER_NAME": "St. Paul's Lutheran Church",
         "ADDRESS": "2812 W Wisconsin Ave",
@@ -47,95 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-53b6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.4299,
-          30.9086
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1156312,
-        "SHELTER_ID": 365942,
-        "SHELTER_NAME": "Colmesneil High School",
-        "ADDRESS": "610 W Elder Street",
-        "CITY": "Colmesneil",
-        "STATE": "TX",
-        "ZIP": "75938",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -94.4299,
-        30.9086,
-        -94.4299,
-        30.9086
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-53b5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.9454,
-          29.9116
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1156313,
-        "SHELTER_ID": 366117,
-        "SHELTER_NAME": "Empowerment Church",
-        "ADDRESS": "3600 Memorial Blvd",
-        "CITY": "Port Arthur",
-        "STATE": "TX",
-        "ZIP": "77640",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.9454,
-        29.9116,
-        -93.9454,
-        29.9116
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-53b4",
+      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-516a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1156314,
+        "objectid": 1156317,
         "SHELTER_ID": 366118,
         "SHELTER_NAME": "First Assembly of God",
         "ADDRESS": "101 W Trout St",
@@ -179,7 +91,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-53b3",
+      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-5169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4299,
+          30.9086
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1156318,
+        "SHELTER_ID": 365942,
+        "SHELTER_NAME": "Colmesneil High School",
+        "ADDRESS": "610 W Elder Street",
+        "CITY": "Colmesneil",
+        "STATE": "TX",
+        "ZIP": "75938",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -94.4299,
+        30.9086,
+        -94.4299,
+        30.9086
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-5168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9454,
+          29.9116
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1156319,
+        "SHELTER_ID": 366117,
+        "SHELTER_NAME": "Empowerment Church",
+        "ADDRESS": "3600 Memorial Blvd",
+        "CITY": "Port Arthur",
+        "STATE": "TX",
+        "ZIP": "77640",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.9454,
+        29.9116,
+        -93.9454,
+        29.9116
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-45b2b57d_18ed279b522_-5167",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1156315,
+        "objectid": 1156320,
         "SHELTER_ID": 366120,
         "SHELTER_NAME": "South Buffalo Twp Fire Hall",
         "ADDRESS": "100 Fire hall Rd",
@@ -225,7 +225,7 @@
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2024-04-12T15:05:13.310Z",
+  "timeStamp": "2024-04-12T15:34:12.126Z",
   "crs": {
     "type": "name",
     "properties": {
