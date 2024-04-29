@@ -3,27 +3,115 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-1d40df3d_18f28939faa_319",
+      "id": "FEMANSSOpenShelters.fid-1d40df3d_18f28939faa_3a1",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.8945,
-          30.6635
+          -97.1384,
+          34.2001
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1159317,
-        "SHELTER_ID": 366118,
-        "SHELTER_NAME": "First Assembly of God",
-        "ADDRESS": "101 W Trout St",
-        "CITY": "Kirbyville",
-        "STATE": "TX",
-        "ZIP": "75956",
+        "objectid": 1159321,
+        "SHELTER_ID": 225458,
+        "SHELTER_NAME": "Christ Community Church",
+        "ADDRESS": "920 LOCUST",
+        "CITY": "Ardmore",
+        "STATE": "OK",
+        "ZIP": "73401",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 3,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SOUTH CENTRAL OKLAHOMA",
+        "ORG_ID": 121809,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.20010415,
+        "LONGITUDE": -97.13837789,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -97.1384,
+        34.2001,
+        -97.1384,
+        34.2001
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-1d40df3d_18f28939faa_3a2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8144,
+          35.0575
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1159322,
+        "SHELTER_ID": 347297,
+        "SHELTER_NAME": "St Matthew Catholic Church",
+        "ADDRESS": "8051 Ballyntyne Commons Pkwy",
+        "CITY": "CHARLOTTE",
+        "STATE": "NC",
+        "ZIP": "28277",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 225,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "GREATER CAROLINAS",
+        "ORG_ID": 121429,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 35.05751455,
+        "LONGITUDE": -80.81440822,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.8144,
+        35.0575,
+        -80.8144,
+        35.0575
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-1d40df3d_18f28939faa_3a3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9953,
+          34.5075
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1159323,
+        "SHELTER_ID": 366127,
+        "SHELTER_NAME": "Crossway First Baptist Church",
+        "ADDRESS": "2108 Broadway Ave",
+        "CITY": "Sulphur",
+        "STATE": "OK",
+        "ZIP": "73086",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 41,
+        "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -39,42 +127,42 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -93.8945,
-        30.6635,
-        -93.8945,
-        30.6635
+        -96.9953,
+        34.5075,
+        -96.9953,
+        34.5075
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-1d40df3d_18f28939faa_31a",
+      "id": "FEMANSSOpenShelters.fid-1d40df3d_18f28939faa_3a4",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -159.5276,
-          21.9234
+          -71.0382,
+          42.1695
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1159318,
-        "SHELTER_ID": 366123,
-        "SHELTER_NAME": "Kalaheo Neighborhood Center",
-        "ADDRESS": "4418 Papalina Road",
-        "CITY": "Kalaheo ",
-        "STATE": "HI",
-        "ZIP": "96741",
+        "objectid": 1159324,
+        "SHELTER_ID": 366128,
+        "SHELTER_NAME": "Randolph InterGenerational Center",
+        "ADDRESS": "128 Pleasant Street",
+        "CITY": "Randolph",
+        "STATE": "MA",
+        "ZIP": "02368",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
         "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
+        "SUBFACILITY_CODE": "GENPOPSHEL",
         "ADA_COMPLIANT": null,
         "PET_ACCOMMODATIONS_CODE": null,
         "WHEELCHAIR_ACCESSIBLE": null,
@@ -83,17 +171,17 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -159.5276,
-        21.9234,
-        -159.5276,
-        21.9234
+        -71.0382,
+        42.1695,
+        -71.0382,
+        42.1695
       ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2024-04-29T18:34:09.088Z",
+  "totalFeatures": 4,
+  "numberMatched": 4,
+  "numberReturned": 4,
+  "timeStamp": "2024-04-29T19:04:41.579Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -101,9 +189,9 @@
     }
   },
   "bbox": [
-    -159.5276,
-    21.9234,
-    -93.8945,
-    30.6635
+    -97.1384,
+    34.2001,
+    -71.0382,
+    42.1695
   ]
 }
