@@ -14,10 +14,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Scrape
-      run: |        
-        curl 'https://gis.fema.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=FEMA:FEMANSSOpenShelters&maxFeatures=250&outputFormat=json' \
-          | jq > fema-shelters.json
+    - name: Scrape with retries
+      run: |
+        max_attempts=3
+        count=0
+        until curl 'https://gis.fema.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=FEMA:FEMANSSOpenShelters&maxFeatures=250&outputFormat=json' | jq > fema-shelters.json; do
+          count=$(($count + 1))
+          if [ $count -ge $max_attempts ]; then
+            echo "Attempt $count failed and no retries left. Exiting with error."
+            exit 1
+          fi
+          echo "Attempt $count failed! Trying again in 10 seconds..."
+          sleep 10
+        done
     - name: Commit and push
       run: |-
         git config user.name "Automated"
