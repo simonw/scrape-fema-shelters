@@ -3,51 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-332a",
+      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-31d3",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.1384,
-          34.2001
+          -75.485,
+          40.5928
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1160185,
-        "SHELTER_ID": 225458,
-        "SHELTER_NAME": "Christ Community Church",
-        "ADDRESS": "920 LOCUST",
-        "CITY": "Ardmore",
-        "STATE": "OK",
-        "ZIP": "73401",
+        "objectid": 1160189,
+        "SHELTER_ID": 366130,
+        "SHELTER_NAME": "Allentown YMCA",
+        "ADDRESS": "425 S 15th Street",
+        "CITY": "Allentown",
+        "STATE": "PA",
+        "ZIP": "18102",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 3,
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 27,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "SOUTH CENTRAL OKLAHOMA",
-        "ORG_ID": 121809,
-        "MATCH_TYPE": "A",
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 34.20010415,
-        "LONGITUDE": -97.13837789,
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -97.1384,
-        34.2001,
-        -97.1384,
-        34.2001
+        -75.485,
+        40.5928,
+        -75.485,
+        40.5928
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-3329",
+      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-31d2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,11 +57,11 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1160186,
+        "objectid": 1160190,
         "SHELTER_ID": 347297,
         "SHELTER_NAME": "St Matthew Catholic Church",
-        "ADDRESS": "8051 Ballyntyne Commons Pkwy",
-        "CITY": "CHARLOTTE",
+        "ADDRESS": "8015 Ballantyne Commons Pkwy",
+        "CITY": "Charlotte",
         "STATE": "NC",
         "ZIP": "28277",
         "SHELTER_STATUS": "OPEN",
@@ -91,7 +91,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-3328",
+      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-31d1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9462,
+          30.7169
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1160191,
+        "SHELTER_ID": 360292,
+        "SHELTER_NAME": "Dunbar Gym",
+        "ADDRESS": "1103 Dunbar",
+        "CITY": "LIVINGSTON",
+        "STATE": "TX",
+        "ZIP": "77351",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 5,
+        "POST_IMPACT_CAPACITY": 2,
+        "TOTAL_POPULATION": 11,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 30.7169166,
+        "LONGITUDE": -94.9461553,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -94.9462,
+        30.7169,
+        -94.9462,
+        30.7169
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-31d0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1292,
+          30.5896
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1160192,
+        "SHELTER_ID": 362797,
+        "SHELTER_NAME": "San Jacinto County Disaster Shelter",
+        "ADDRESS": "255 Live Oak Street",
+        "CITY": "Coldspring",
+        "STATE": "TX",
+        "ZIP": "77331",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 262,
+        "POST_IMPACT_CAPACITY": 131,
+        "TOTAL_POPULATION": 4,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 30.5896,
+        "LONGITUDE": -95.12924,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.1292,
+        30.5896,
+        -95.1292,
+        30.5896
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-31cf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1160187,
+        "objectid": 1160193,
         "SHELTER_ID": 366127,
         "SHELTER_NAME": "Crossway First Baptist Church",
         "ADDRESS": "2108 Broadway Ave",
@@ -111,7 +199,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
+        "TOTAL_POPULATION": 8,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -135,23 +223,155 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-3327",
+      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-31ce",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0382,
-          42.1695
+          -98.99,
+          35.2928
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1160188,
-        "SHELTER_ID": 366128,
-        "SHELTER_NAME": "Randolph InterGenerational Center",
-        "ADDRESS": "128 Pleasant Street",
-        "CITY": "Randolph",
-        "STATE": "MA",
-        "ZIP": "02368",
+        "objectid": 1160194,
+        "SHELTER_ID": 366131,
+        "SHELTER_NAME": "First Baptist Church ",
+        "ADDRESS": "215 N College Street",
+        "CITY": "Cordell",
+        "STATE": "OK",
+        "ZIP": "73632",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -98.99,
+        35.2928,
+        -98.99,
+        35.2928
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-31cd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1384,
+          34.2001
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1160195,
+        "SHELTER_ID": 225458,
+        "SHELTER_NAME": "Christ Community Church",
+        "ADDRESS": " 2620 Mount Washington Road",
+        "CITY": "Ardmore",
+        "STATE": "OK",
+        "ZIP": "73401",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SOUTH CENTRAL OKLAHOMA",
+        "ORG_ID": 121809,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.20010415,
+        "LONGITUDE": -97.13837789,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -97.1384,
+        34.2001,
+        -97.1384,
+        34.2001
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-31cc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0872,
+          30.3515
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1160196,
+        "SHELTER_ID": 324047,
+        "SHELTER_NAME": "Calvary Baptist Church",
+        "ADDRESS": "816 N. Blair Ave",
+        "CITY": "Cleveland ",
+        "STATE": "TX",
+        "ZIP": "77327",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 100,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "GREATER HOUSTON AREA",
+        "ORG_ID": 121434,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "WC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 30.35146452,
+        "LONGITUDE": -95.08715924,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.0872,
+        30.3515,
+        -95.0872,
+        30.3515
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-31cb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2849,
+          29.8144
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1160197,
+        "SHELTER_ID": 366132,
+        "SHELTER_NAME": "Philippian's New Faith Baptist Church",
+        "ADDRESS": "7858 Angus Street",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "ZIP": "77028",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
@@ -171,17 +391,61 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -71.0382,
-        42.1695,
-        -71.0382,
-        42.1695
+        -95.2849,
+        29.8144,
+        -95.2849,
+        29.8144
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-26dc5289_18f39e9ed74_-31ca",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4151,
+          39.3925
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1160198,
+        "SHELTER_ID": 366133,
+        "SHELTER_NAME": "Westmoreland United Methodist Church",
+        "ADDRESS": "109 Main Street",
+        "CITY": "Westmoreland",
+        "STATE": "KS",
+        "ZIP": "66549",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -96.4151,
+        39.3925,
+        -96.4151,
+        39.3925
       ]
     }
   ],
-  "totalFeatures": 4,
-  "numberMatched": 4,
-  "numberReturned": 4,
-  "timeStamp": "2024-05-02T19:04:41.414Z",
+  "totalFeatures": 10,
+  "numberMatched": 10,
+  "numberReturned": 10,
+  "timeStamp": "2024-05-02T19:33:39.726Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -189,9 +453,9 @@
     }
   },
   "bbox": [
-    -97.1384,
-    34.2001,
-    -71.0382,
-    42.1695
+    -98.99,
+    29.8144,
+    -75.485,
+    40.5928
   ]
 }
