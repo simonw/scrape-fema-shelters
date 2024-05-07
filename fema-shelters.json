@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1b1",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_645",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1164871,
+        "objectid": 1164885,
         "SHELTER_ID": 365942,
         "SHELTER_NAME": "Colmesneil High School",
         "ADDRESS": "610 W Elder Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1b0",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_646",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1164872,
+        "objectid": 1164886,
         "SHELTER_ID": 347297,
         "SHELTER_NAME": "St Matthew Catholic Church",
         "ADDRESS": "8015 Ballantyne Commons Pkwy",
@@ -91,315 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1af",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3073,
-          47.7343
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1164873,
-        "SHELTER_ID": 109470,
-        "SHELTER_NAME": "Prince of Peace Lutheran Church - Shoreline",
-        "ADDRESS": "14514 20th Ave NE",
-        "CITY": "Seattle",
-        "STATE": "WA",
-        "ZIP": "98155",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 200,
-        "POST_IMPACT_CAPACITY": 100,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "KING & KITSAP COUNTIES",
-        "ORG_ID": 121519,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 47.73426217,
-        "LONGITUDE": -122.3073348,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.3073,
-        47.7343,
-        -122.3073,
-        47.7343
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1ae",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.42,
-          29.9499
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1164874,
-        "SHELTER_ID": 366135,
-        "SHELTER_NAME": "Green House International Church",
-        "ADDRESS": "200 W Greens Road",
-        "CITY": "Houston",
-        "STATE": "TX",
-        "ZIP": "77067",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 4,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.42,
-        29.9499,
-        -95.42,
-        29.9499
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1ad",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.1292,
-          30.5896
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1164875,
-        "SHELTER_ID": 362797,
-        "SHELTER_NAME": "San Jacinto County Disaster Shelter",
-        "ADDRESS": "255 Live Oak ",
-        "CITY": "Coldspring",
-        "STATE": "TX",
-        "ZIP": "77331",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 262,
-        "POST_IMPACT_CAPACITY": 131,
-        "TOTAL_POPULATION": 38,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 30.5896,
-        "LONGITUDE": -95.12924,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.1292,
-        30.5896,
-        -95.1292,
-        30.5896
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1ac",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.2193,
-          39.9577
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1164876,
-        "SHELTER_ID": 347832,
-        "SHELTER_NAME": "West Philadelphia High School",
-        "ADDRESS": "4901 Chestnut Street",
-        "CITY": "Philadelphia",
-        "STATE": "PA",
-        "ZIP": "19139",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 858,
-        "POST_IMPACT_CAPACITY": 429,
-        "TOTAL_POPULATION": 27,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "SOUTHEASTERN PENNSYLVANIA SEPA",
-        "ORG_ID": 121824,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 39.9577423,
-        "LONGITUDE": -75.2192835,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -75.2193,
-        39.9577,
-        -75.2193,
-        39.9577
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1ab",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.7667,
-          31.4372
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1164877,
-        "SHELTER_ID": 366138,
-        "SHELTER_NAME": "Coryell Community Church",
-        "ADDRESS": "115 Levita Road",
-        "CITY": "Gatesville",
-        "STATE": "TX",
-        "ZIP": "76528",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -97.7667,
-        31.4372,
-        -97.7667,
-        31.4372
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1aa",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.9028,
-          31.1205
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1164878,
-        "SHELTER_ID": 366139,
-        "SHELTER_NAME": "Copperas Cove Library",
-        "ADDRESS": "501 S Main Street",
-        "CITY": "Copperas Cove",
-        "STATE": "TX",
-        "ZIP": "76522",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -97.9028,
-        31.1205,
-        -97.9028,
-        31.1205
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1a9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.9953,
-          34.5075
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1164879,
-        "SHELTER_ID": 366127,
-        "SHELTER_NAME": "Crossway First Baptist Church",
-        "ADDRESS": "2108 Broadway Ave",
-        "CITY": "Sulphur",
-        "STATE": "OK",
-        "ZIP": "73086",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 13,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -96.9953,
-        34.5075,
-        -96.9953,
-        34.5075
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1a8",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_647",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1164880,
+        "objectid": 1164887,
         "SHELTER_ID": 366134,
         "SHELTER_NAME": "Burning Hope Baptist Church",
         "ADDRESS": "301 E Pegoda Road",
@@ -443,7 +135,271 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1a7",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_648",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9028,
+          31.1205
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1164888,
+        "SHELTER_ID": 366139,
+        "SHELTER_NAME": "Copperas Cove Library",
+        "ADDRESS": "501 S Main Street",
+        "CITY": "Copperas Cove",
+        "STATE": "TX",
+        "ZIP": "76522",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -97.9028,
+        31.1205,
+        -97.9028,
+        31.1205
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_649",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3073,
+          47.7343
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1164889,
+        "SHELTER_ID": 109470,
+        "SHELTER_NAME": "Prince of Peace Lutheran Church - Shoreline",
+        "ADDRESS": "14514 20th Ave NE",
+        "CITY": "Seattle",
+        "STATE": "WA",
+        "ZIP": "98155",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 200,
+        "POST_IMPACT_CAPACITY": 100,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "KING & KITSAP COUNTIES",
+        "ORG_ID": 121519,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 47.73426217,
+        "LONGITUDE": -122.3073348,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.3073,
+        47.7343,
+        -122.3073,
+        47.7343
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_64a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.42,
+          29.9499
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1164890,
+        "SHELTER_ID": 366135,
+        "SHELTER_NAME": "Green House International Church",
+        "ADDRESS": "200 W Greens Road",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "ZIP": "77067",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 4,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.42,
+        29.9499,
+        -95.42,
+        29.9499
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_64b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1292,
+          30.5896
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1164891,
+        "SHELTER_ID": 362797,
+        "SHELTER_NAME": "San Jacinto County Disaster Shelter",
+        "ADDRESS": "255 Live Oak ",
+        "CITY": "Coldspring",
+        "STATE": "TX",
+        "ZIP": "77331",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 262,
+        "POST_IMPACT_CAPACITY": 131,
+        "TOTAL_POPULATION": 38,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 30.5896,
+        "LONGITUDE": -95.12924,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.1292,
+        30.5896,
+        -95.1292,
+        30.5896
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_64c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7667,
+          31.4372
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1164892,
+        "SHELTER_ID": 366138,
+        "SHELTER_NAME": "Coryell Community Church",
+        "ADDRESS": "115 Levita Road",
+        "CITY": "Gatesville",
+        "STATE": "TX",
+        "ZIP": "76528",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -97.7667,
+        31.4372,
+        -97.7667,
+        31.4372
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_64d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9953,
+          34.5075
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1164893,
+        "SHELTER_ID": 366127,
+        "SHELTER_NAME": "Crossway First Baptist Church",
+        "ADDRESS": "2108 Broadway Ave",
+        "CITY": "Sulphur",
+        "STATE": "OK",
+        "ZIP": "73086",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 13,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -96.9953,
+        34.5075,
+        -96.9953,
+        34.5075
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_64e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1164881,
+        "objectid": 1164894,
         "SHELTER_ID": 360292,
         "SHELTER_NAME": "Dunbar Gym",
         "ADDRESS": "1103 Dunbar Street",
@@ -487,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1a6",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_64f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1164882,
+        "objectid": 1164895,
         "SHELTER_ID": 366130,
         "SHELTER_NAME": "Allentown YMCA",
         "ADDRESS": "425 S 15th Street",
@@ -531,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1a5",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_650",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1164883,
+        "objectid": 1164896,
         "SHELTER_ID": 322705,
         "SHELTER_NAME": "Walker County Storm Center",
         "ADDRESS": "445 TX 75",
@@ -575,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-26dc5289_18f513596a2_-1a4",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_651",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1164884,
+        "objectid": 1164897,
         "SHELTER_ID": 324047,
         "SHELTER_NAME": "Calvary Baptist Church",
         "ADDRESS": "816 N Blair Ave",
@@ -616,12 +572,56 @@
         -95.0872,
         30.3515
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4ddef8e3_18f505a1574_652",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2193,
+          39.9577
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1164898,
+        "SHELTER_ID": 347832,
+        "SHELTER_NAME": "West Philadelphia High School",
+        "ADDRESS": "4901 Chestnut Street",
+        "CITY": "Philadelphia",
+        "STATE": "PA",
+        "ZIP": "19139",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 858,
+        "POST_IMPACT_CAPACITY": 429,
+        "TOTAL_POPULATION": 27,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SOUTHEASTERN PENNSYLVANIA SEPA",
+        "ORG_ID": 121824,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 39.9577423,
+        "LONGITUDE": -75.2192835,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.2193,
+        39.9577,
+        -75.2193,
+        39.9577
+      ]
     }
   ],
   "totalFeatures": 14,
   "numberMatched": 14,
   "numberReturned": 14,
-  "timeStamp": "2024-05-07T06:06:07.000Z",
+  "timeStamp": "2024-05-07T06:35:13.786Z",
   "crs": {
     "type": "name",
     "properties": {
