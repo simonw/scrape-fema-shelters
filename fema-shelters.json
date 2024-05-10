@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5877",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5620",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1168002,
+        "objectid": 1168020,
         "SHELTER_ID": 347297,
         "SHELTER_NAME": "St Matthew Catholic Church",
         "ADDRESS": "8015 Ballantyne Commons Pkwy",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5876",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-561f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1168003,
+        "objectid": 1168021,
         "SHELTER_ID": 109470,
         "SHELTER_NAME": "Prince of Peace Lutheran Church - Shoreline",
         "ADDRESS": "14514 20th Ave NE",
@@ -91,227 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5875",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.5601,
-          30.7418
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1168004,
-        "SHELTER_ID": 322705,
-        "SHELTER_NAME": "Walker County Storm Center",
-        "ADDRESS": "445 TX 75",
-        "CITY": "Huntsville",
-        "STATE": "TX",
-        "ZIP": "77320",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 460,
-        "POST_IMPACT_CAPACITY": 230,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "GREATER HOUSTON AREA",
-        "ORG_ID": 121434,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 30.74177028,
-        "LONGITUDE": -95.56006773,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.5601,
-        30.7418,
-        -95.5601,
-        30.7418
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5874",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.6141,
-          42.2357
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1168005,
-        "SHELTER_ID": 82829,
-        "SHELTER_NAME": "First Assembly of God",
-        "ADDRESS": "550 Oakland Drive",
-        "CITY": "Portage",
-        "STATE": "MI",
-        "ZIP": "49024",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 450,
-        "POST_IMPACT_CAPACITY": 225,
-        "TOTAL_POPULATION": 26,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "GREATER KALAMAZOO",
-        "ORG_ID": 121436,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 42.23569037,
-        "LONGITUDE": -85.6140787,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.6141,
-        42.2357,
-        -85.6141,
-        42.2357
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5873",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.0504,
-          35.6117
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1168006,
-        "SHELTER_ID": 298858,
-        "SHELTER_NAME": "West 7th Street Church of Christ",
-        "ADDRESS": "405 West 7th St",
-        "CITY": "Columbia",
-        "STATE": "TN",
-        "ZIP": "38401",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "MAURY COUNTY",
-        "ORG_ID": 121581,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 35.61167429,
-        "LONGITUDE": -87.05037956,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.0504,
-        35.6117,
-        -87.0504,
-        35.6117
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5872",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.3902,
-          35.8458
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1168007,
-        "SHELTER_ID": 299014,
-        "SHELTER_NAME": "First Baptist Church ",
-        "ADDRESS": "200 E Main Street",
-        "CITY": "Murfreesboro",
-        "STATE": "TN",
-        "ZIP": "37130",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 240,
-        "POST_IMPACT_CAPACITY": 120,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "HEART OF TENNESSE CHAPTER",
-        "ORG_ID": 121474,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 35.84584547,
-        "LONGITUDE": -86.39015763,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -86.3902,
-        35.8458,
-        -86.3902,
-        35.8458
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5871",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.42,
-          29.9499
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1168008,
-        "SHELTER_ID": 366135,
-        "SHELTER_NAME": "Green House International Church",
-        "ADDRESS": "200 W Greens Road",
-        "CITY": "Houston",
-        "STATE": "TX",
-        "ZIP": "77067",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 3,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.42,
-        29.9499,
-        -95.42,
-        29.9499
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5870",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-561e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1168009,
+        "objectid": 1168022,
         "SHELTER_ID": 366143,
         "SHELTER_NAME": "Robertson County Fairgrounds",
         "ADDRESS": "4635 US-41",
@@ -355,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-586f",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-561d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.42,
+          29.9499
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1168023,
+        "SHELTER_ID": 366135,
+        "SHELTER_NAME": "Green House International Church",
+        "ADDRESS": "200 W Greens Road",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "ZIP": "77067",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 3,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.42,
+        29.9499,
+        -95.42,
+        29.9499
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-561c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1168010,
+        "objectid": 1168024,
         "SHELTER_ID": 362797,
         "SHELTER_NAME": "San Jacinto County Disaster Shelter",
         "ADDRESS": "255 Live Oak ",
@@ -399,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-586e",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-561b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1168011,
+        "objectid": 1168025,
         "SHELTER_ID": 366127,
         "SHELTER_NAME": "Crossway First Baptist Church",
         "ADDRESS": "2108 Broadway Ave",
@@ -443,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-586d",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-561a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1168012,
+        "objectid": 1168026,
         "SHELTER_ID": 360292,
         "SHELTER_NAME": "Dunbar Gym",
         "ADDRESS": "1103 Dunbar Street",
@@ -487,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-586c",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5619",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1168013,
+        "objectid": 1168027,
         "SHELTER_ID": 366130,
         "SHELTER_NAME": "Allentown YMCA",
         "ADDRESS": "425 S 15th Street",
@@ -531,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-586b",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5618",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1168014,
+        "objectid": 1168028,
         "SHELTER_ID": 366134,
         "SHELTER_NAME": "Burning Hope Baptist Church",
         "ADDRESS": "301 E Pegoda Road",
@@ -575,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-586a",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5617",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1168015,
+        "objectid": 1168029,
         "SHELTER_ID": 352595,
         "SHELTER_NAME": "Jack Hartel Building",
         "ADDRESS": "318 San Jacinto Street",
@@ -619,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5869",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5616",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1168016,
+        "objectid": 1168030,
         "SHELTER_ID": 347832,
         "SHELTER_NAME": "West Philadelphia High School",
         "ADDRESS": "4901 Chestnut Street",
@@ -663,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5868",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5615",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1168017,
+        "objectid": 1168031,
         "SHELTER_ID": 336248,
         "SHELTER_NAME": "Osage County Fairgrounds",
         "ADDRESS": "320 Skyline Drive",
@@ -707,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5867",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5614",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1168018,
+        "objectid": 1168032,
         "SHELTER_ID": 324047,
         "SHELTER_NAME": "Calvary Baptist Church",
         "ADDRESS": "816 N Blair Ave",
@@ -751,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5866",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5613",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1168019,
+        "objectid": 1168033,
         "SHELTER_ID": 360646,
         "SHELTER_NAME": "Citizens Resource Center",
         "ADDRESS": "1303 Dallas Cherryville Hwy",
@@ -792,12 +616,188 @@
         -81.1994,
         35.3156
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5612",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5601,
+          30.7418
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1168034,
+        "SHELTER_ID": 322705,
+        "SHELTER_NAME": "Walker County Storm Center",
+        "ADDRESS": "445 TX 75",
+        "CITY": "Huntsville",
+        "STATE": "TX",
+        "ZIP": "77320",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 460,
+        "POST_IMPACT_CAPACITY": 230,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "GREATER HOUSTON AREA",
+        "ORG_ID": 121434,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 30.74177028,
+        "LONGITUDE": -95.56006773,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.5601,
+        30.7418,
+        -95.5601,
+        30.7418
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5611",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0504,
+          35.6117
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1168035,
+        "SHELTER_ID": 298858,
+        "SHELTER_NAME": "West 7th Street Church of Christ",
+        "ADDRESS": "405 West 7th St",
+        "CITY": "Columbia",
+        "STATE": "TN",
+        "ZIP": "38401",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "MAURY COUNTY",
+        "ORG_ID": 121581,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 35.61167429,
+        "LONGITUDE": -87.05037956,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.0504,
+        35.6117,
+        -87.0504,
+        35.6117
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-5610",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3902,
+          35.8458
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1168036,
+        "SHELTER_ID": 299014,
+        "SHELTER_NAME": "First Baptist Church ",
+        "ADDRESS": "200 E Main Street",
+        "CITY": "Murfreesboro",
+        "STATE": "TN",
+        "ZIP": "37130",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 240,
+        "POST_IMPACT_CAPACITY": 120,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HEART OF TENNESSE CHAPTER",
+        "ORG_ID": 121474,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 35.84584547,
+        "LONGITUDE": -86.39015763,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.3902,
+        35.8458,
+        -86.3902,
+        35.8458
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18f5fccee94_-560f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6141,
+          42.2357
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1168037,
+        "SHELTER_ID": 82829,
+        "SHELTER_NAME": "First Assembly of God",
+        "ADDRESS": "550 Oakland Drive",
+        "CITY": "Portage",
+        "STATE": "MI",
+        "ZIP": "49024",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 450,
+        "POST_IMPACT_CAPACITY": 225,
+        "TOTAL_POPULATION": 18,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "GREATER KALAMAZOO",
+        "ORG_ID": 121436,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 42.23569037,
+        "LONGITUDE": -85.6140787,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.6141,
+        42.2357,
+        -85.6141,
+        42.2357
+      ]
     }
   ],
   "totalFeatures": 18,
   "numberMatched": 18,
   "numberReturned": 18,
-  "timeStamp": "2024-05-10T02:16:58.725Z",
+  "timeStamp": "2024-05-10T02:38:45.163Z",
   "crs": {
     "type": "name",
     "properties": {
