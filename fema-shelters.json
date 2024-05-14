@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7461",
+      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7229",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1174067,
+        "objectid": 1174082,
         "SHELTER_ID": 347297,
         "SHELTER_NAME": "St Matthew Catholic Church",
         "ADDRESS": "8015 Ballantyne Commons Pkwy",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7460",
+      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7228",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1174068,
+        "objectid": 1174083,
         "SHELTER_ID": 109470,
         "SHELTER_NAME": "Prince of Peace Lutheran Church - Shoreline",
         "ADDRESS": "14514 20th Ave NE",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-745f",
+      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7227",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1174069,
+        "objectid": 1174084,
         "SHELTER_ID": 366135,
         "SHELTER_NAME": "Green House International Church",
         "ADDRESS": "200 W Greens Road",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-745e",
+      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7226",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1174070,
+        "objectid": 1174085,
         "SHELTER_ID": 362797,
         "SHELTER_NAME": "San Jacinto County Disaster Shelter",
         "ADDRESS": "255 Live Oak ",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-745d",
+      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7225",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1174071,
+        "objectid": 1174086,
         "SHELTER_ID": 360292,
         "SHELTER_NAME": "Dunbar Gym",
         "ADDRESS": "1103 Dunbar Street",
@@ -223,95 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-745c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.485,
-          40.5928
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1174072,
-        "SHELTER_ID": 366130,
-        "SHELTER_NAME": "Allentown YMCA",
-        "ADDRESS": "425 S 15th Street",
-        "CITY": "Allentown",
-        "STATE": "PA",
-        "ZIP": "18102",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 12,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -75.485,
-        40.5928,
-        -75.485,
-        40.5928
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-745b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.364,
-          30.944
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1174073,
-        "SHELTER_ID": 366134,
-        "SHELTER_NAME": "Burning Hope Baptist Church",
-        "ADDRESS": "301 E Pegoda Road",
-        "CITY": "Trinity",
-        "STATE": "TX",
-        "ZIP": "75862",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.364,
-        30.944,
-        -95.364,
-        30.944
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-745a",
+      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7224",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1174074,
+        "objectid": 1174087,
         "SHELTER_ID": 366145,
         "SHELTER_NAME": "St. Josephs Catholic Chapel",
         "ADDRESS": "5079 Redwood Road",
@@ -355,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7459",
+      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7223",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1174075,
+        "objectid": 1174088,
         "SHELTER_ID": 366146,
         "SHELTER_NAME": "Al Lawson Jr Multipurpose",
         "ADDRESS": "1800 Wahnish Way",
@@ -399,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7458",
+      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7222",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1174076,
+        "objectid": 1174089,
         "SHELTER_ID": 109542,
         "SHELTER_NAME": "Haller Lake United Methodist Church",
         "ADDRESS": "13055 1st Ave NE",
@@ -443,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7457",
+      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7221",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1174077,
+        "objectid": 1174090,
         "SHELTER_ID": 366149,
         "SHELTER_NAME": "B the Light Mission",
         "ADDRESS": "219 North Virginia Ave",
@@ -487,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7456",
+      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7220",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1174078,
+        "objectid": 1174091,
         "SHELTER_ID": 324047,
         "SHELTER_NAME": "Calvary Baptist Church",
         "ADDRESS": "816 N Blair Ave",
@@ -531,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7455",
+      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-721f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1174079,
+        "objectid": 1174092,
         "SHELTER_ID": 82829,
         "SHELTER_NAME": "First Assembly of God",
         "ADDRESS": "550 Oakland Drive",
@@ -575,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7454",
+      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-721e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1174080,
+        "objectid": 1174093,
         "SHELTER_ID": 322705,
         "SHELTER_NAME": "Walker County Storm Center",
         "ADDRESS": "445 TX 75",
@@ -619,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-7453",
+      "id": "FEMANSSOpenShelters.fid-4c06af71_18f791fdc57_-721d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1174081,
+        "objectid": 1174094,
         "SHELTER_ID": 366148,
         "SHELTER_NAME": "Pine Burr Elementary School",
         "ADDRESS": "7054 Road 3540",
@@ -662,10 +574,10 @@
       ]
     }
   ],
-  "totalFeatures": 15,
-  "numberMatched": 15,
-  "numberReturned": 15,
-  "timeStamp": "2024-05-14T23:05:01.677Z",
+  "totalFeatures": 13,
+  "numberMatched": 13,
+  "numberReturned": 13,
+  "timeStamp": "2024-05-14T23:34:34.343Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -675,7 +587,7 @@
   "bbox": [
     -122.3289,
     29.8754,
-    -75.485,
+    -80.8144,
     47.7343
   ]
 }
