@@ -3,271 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_60ff",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5831,
-          36.882
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1187359,
-        "SHELTER_ID": 366168,
-        "SHELTER_NAME": "YMCA - Sikeston",
-        "ADDRESS": "511 Taylor Street",
-        "CITY": "Sikeston",
-        "STATE": "MO",
-        "ZIP": "63801",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -89.5831,
-        36.882,
-        -89.5831,
-        36.882
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6100",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.7716,
-          37.1594
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1187360,
-        "SHELTER_ID": 366165,
-        "SHELTER_NAME": "Clay Community Center",
-        "ADDRESS": "311 Highway 638",
-        "CITY": "Manchester",
-        "STATE": "KY",
-        "ZIP": "40962",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 6,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -83.7716,
-        37.1594,
-        -83.7716,
-        37.1594
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6101",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.1255,
-          41.2377
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1187361,
-        "SHELTER_ID": 223131,
-        "SHELTER_NAME": "Camelot Community Center",
-        "ADDRESS": "9270 Cady Ave",
-        "CITY": "Omaha",
-        "STATE": "NE",
-        "ZIP": "68134",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 658,
-        "POST_IMPACT_CAPACITY": 329,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "HEARTLAND CHAPTER (NEBRASKA)",
-        "ORG_ID": 121476,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 41.2377059,
-        "LONGITUDE": -96.12549202,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -96.1255,
-        41.2377,
-        -96.1255,
-        41.2377
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6102",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.6916,
-          36.2617
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1187362,
-        "SHELTER_ID": 366169,
-        "SHELTER_NAME": "Colcord Community Center",
-        "ADDRESS": "433 South Larmon Street",
-        "CITY": "Colcord",
-        "STATE": "OK",
-        "ZIP": "74338",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 9,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -94.6916,
-        36.2617,
-        -94.6916,
-        36.2617
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6103",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.5601,
-          30.7418
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1187363,
-        "SHELTER_ID": 322705,
-        "SHELTER_NAME": "Walker County Storm Center",
-        "ADDRESS": "445 TX 75",
-        "CITY": "Huntsville",
-        "STATE": "TX",
-        "ZIP": "77320",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 460,
-        "POST_IMPACT_CAPACITY": 230,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "GREATER HOUSTON AREA",
-        "ORG_ID": 121434,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 30.74177028,
-        "LONGITUDE": -95.56006773,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.5601,
-        30.7418,
-        -95.5601,
-        30.7418
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6104",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.3942,
-          36.3224
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1187364,
-        "SHELTER_ID": 366164,
-        "SHELTER_NAME": "Army National Guard Armory",
-        "ADDRESS": "1640 Fuller Street",
-        "CITY": "Mountain Home",
-        "STATE": "AR",
-        "ZIP": "72653",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -92.3942,
-        36.3224,
-        -92.3942,
-        36.3224
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6105",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77cd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187340,
+        "objectid": 1187390,
         "SHELTER_ID": 347297,
         "SHELTER_NAME": "St Matthew Catholic Church",
         "ADDRESS": "8015 Ballantyne Commons Pkwy",
@@ -311,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6106",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77ce",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187341,
+        "objectid": 1187391,
         "SHELTER_ID": 109470,
         "SHELTER_NAME": "Prince of Peace Lutheran Church - Shoreline",
         "ADDRESS": "14514 20th Ave NE",
@@ -355,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6107",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77cf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187342,
+        "objectid": 1187392,
         "SHELTER_ID": 366135,
         "SHELTER_NAME": "Green House International Church",
         "ADDRESS": "200 W Greens Road",
@@ -399,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6108",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77d0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187343,
+        "objectid": 1187393,
         "SHELTER_ID": 362797,
         "SHELTER_NAME": "San Jacinto County Disaster Shelter",
         "ADDRESS": "255 Live Oak ",
@@ -443,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6109",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77d1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187344,
+        "objectid": 1187394,
         "SHELTER_ID": 366148,
         "SHELTER_NAME": "Pine Burr Elementary School",
         "ADDRESS": "7054 Road 3540",
@@ -487,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_610a",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77d2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187345,
+        "objectid": 1187395,
         "SHELTER_ID": 364951,
         "SHELTER_NAME": "Vine Life Church",
         "ADDRESS": "203 E Calhoun Street",
@@ -531,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_610b",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77d3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187346,
+        "objectid": 1187396,
         "SHELTER_ID": 343148,
         "SHELTER_NAME": "Memorial Drive Presbyterian Church",
         "ADDRESS": "11612 Memorial Dr",
@@ -551,7 +287,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": 479,
         "POST_IMPACT_CAPACITY": 239,
-        "TOTAL_POPULATION": 38,
+        "TOTAL_POPULATION": 41,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": null,
@@ -575,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_610c",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77d4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187347,
+        "objectid": 1187397,
         "SHELTER_ID": 82829,
         "SHELTER_NAME": "First Assembly of God",
         "ADDRESS": "5550 Oakland Drive",
@@ -619,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_610d",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77d5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187348,
+        "objectid": 1187398,
         "SHELTER_ID": 366154,
         "SHELTER_NAME": "VFW Post",
         "ADDRESS": "21902 Northwest Fwy",
@@ -663,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_610e",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77d6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187349,
+        "objectid": 1187399,
         "SHELTER_ID": 366159,
         "SHELTER_NAME": "Nodaway Valley Elementary School",
         "ADDRESS": "324 NW Second Street",
@@ -707,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_610f",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77d7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187350,
+        "objectid": 1187400,
         "SHELTER_ID": 355846,
         "SHELTER_NAME": "Woodville United Methodist Church ",
         "ADDRESS": "508 West Bluff Street",
@@ -751,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6110",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77d8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187351,
+        "objectid": 1187401,
         "SHELTER_ID": 366160,
         "SHELTER_NAME": "Jake Gaither Gymnasium",
         "ADDRESS": "1835 Wahnish Way",
@@ -795,51 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6111",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.6213,
-          33.5193
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1187352,
-        "SHELTER_ID": 346816,
-        "SHELTER_NAME": "Outside-Lincoln County Fairgrounds",
-        "ADDRESS": "101 5th Street",
-        "CITY": "Capitan",
-        "STATE": "NM",
-        "ZIP": "88316",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 150,
-        "POST_IMPACT_CAPACITY": 75,
-        "TOTAL_POPULATION": 12,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "MID-RIO GRANDE",
-        "ORG_ID": 121611,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 33.51934481,
-        "LONGITUDE": -105.62132117,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -105.6213,
-        33.5193,
-        -105.6213,
-        33.5193
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6112",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77d9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187353,
+        "objectid": 1187402,
         "SHELTER_ID": 360355,
         "SHELTER_NAME": "Wilson Park Recreation Center",
         "ADDRESS": "2205 Curtis B Elliot Dr",
@@ -883,7 +575,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6113",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77da",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6213,
+          33.5193
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1187403,
+        "SHELTER_ID": 346816,
+        "SHELTER_NAME": "Outside-Lincoln County Fairgrounds",
+        "ADDRESS": "101 5th Street",
+        "CITY": "Capitan",
+        "STATE": "NM",
+        "ZIP": "88316",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 150,
+        "POST_IMPACT_CAPACITY": 75,
+        "TOTAL_POPULATION": 31,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "MID-RIO GRANDE",
+        "ORG_ID": 121611,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 33.51934481,
+        "LONGITUDE": -105.62132117,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -105.6213,
+        33.5193,
+        -105.6213,
+        33.5193
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77db",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187354,
+        "objectid": 1187404,
         "SHELTER_ID": 366161,
         "SHELTER_NAME": "First Baptist Church",
         "ADDRESS": "503 N Lee Street",
@@ -927,51 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6114",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.6849,
-          36.2471
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1187355,
-        "SHELTER_ID": 366163,
-        "SHELTER_NAME": "Marion County Fairgrounds - Community Center",
-        "ADDRESS": "513 E Seawell Ave ",
-        "CITY": "Yellville",
-        "STATE": "AR",
-        "ZIP": "72687",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -92.6849,
-        36.2471,
-        -92.6849,
-        36.2471
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6115",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77dc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -981,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187356,
+        "objectid": 1187405,
         "SHELTER_ID": 366162,
         "SHELTER_NAME": "Memorial Heights Baptist Church",
         "ADDRESS": "1500 W Will Rogers Blvd",
@@ -1015,7 +707,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6116",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77dd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6849,
+          36.2471
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1187406,
+        "SHELTER_ID": 366163,
+        "SHELTER_NAME": "Marion County Fairgrounds - Community Center",
+        "ADDRESS": "513 E Seawell Ave ",
+        "CITY": "Yellville",
+        "STATE": "AR",
+        "ZIP": "72687",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -92.6849,
+        36.2471,
+        -92.6849,
+        36.2471
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77de",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7716,
+          37.1594
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1187407,
+        "SHELTER_ID": 366165,
+        "SHELTER_NAME": "Clay Community Center",
+        "ADDRESS": "311 Highway 638",
+        "CITY": "Manchester",
+        "STATE": "KY",
+        "ZIP": "40962",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.7716,
+        37.1594,
+        -83.7716,
+        37.1594
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77df",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1025,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187357,
+        "objectid": 1187408,
         "SHELTER_ID": 366166,
         "SHELTER_NAME": "Capitan High School",
         "ADDRESS": "519 Smokey Bear Blvd",
@@ -1059,7 +839,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4c06af71_18fb4fbf4ee_6117",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77e0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5831,
+          36.882
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1187409,
+        "SHELTER_ID": 366168,
+        "SHELTER_NAME": "YMCA - Sikeston",
+        "ADDRESS": "511 Taylor Street",
+        "CITY": "Sikeston",
+        "STATE": "MO",
+        "ZIP": "63801",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 21,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.5831,
+        36.882,
+        -89.5831,
+        36.882
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77e1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1069,7 +893,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1187358,
+        "objectid": 1187410,
         "SHELTER_ID": 366167,
         "SHELTER_NAME": "Decatur Elementary School",
         "ADDRESS": "9083 Mount Olive Rd",
@@ -1100,12 +924,188 @@
         -94.4659,
         36.3525
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77e2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1255,
+          41.2377
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1187411,
+        "SHELTER_ID": 223131,
+        "SHELTER_NAME": "Camelot Community Center",
+        "ADDRESS": "9270 Cady Ave",
+        "CITY": "Omaha",
+        "STATE": "NE",
+        "ZIP": "68134",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 658,
+        "POST_IMPACT_CAPACITY": 329,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HEARTLAND CHAPTER (NEBRASKA)",
+        "ORG_ID": 121476,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 41.2377059,
+        "LONGITUDE": -96.12549202,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -96.1255,
+        41.2377,
+        -96.1255,
+        41.2377
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77e3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6916,
+          36.2617
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1187412,
+        "SHELTER_ID": 366169,
+        "SHELTER_NAME": "Colcord Community Center",
+        "ADDRESS": "433 South Larmon Street",
+        "CITY": "Colcord",
+        "STATE": "OK",
+        "ZIP": "74338",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 9,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -94.6916,
+        36.2617,
+        -94.6916,
+        36.2617
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77e4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5601,
+          30.7418
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1187413,
+        "SHELTER_ID": 322705,
+        "SHELTER_NAME": "Walker County Storm Center",
+        "ADDRESS": "445 TX 75",
+        "CITY": "Huntsville",
+        "STATE": "TX",
+        "ZIP": "77320",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 460,
+        "POST_IMPACT_CAPACITY": 230,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "GREATER HOUSTON AREA",
+        "ORG_ID": 121434,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 30.74177028,
+        "LONGITUDE": -95.56006773,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.5601,
+        30.7418,
+        -95.5601,
+        30.7418
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-12825e60_18fb6ec2d30_77e5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3942,
+          36.3224
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1187414,
+        "SHELTER_ID": 366164,
+        "SHELTER_NAME": "Army National Guard Armory",
+        "ADDRESS": "1640 Fuller Street",
+        "CITY": "Mountain Home",
+        "STATE": "AR",
+        "ZIP": "72653",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 10,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -92.3942,
+        36.3224,
+        -92.3942,
+        36.3224
+      ]
     }
   ],
   "totalFeatures": 25,
   "numberMatched": 25,
   "numberReturned": 25,
-  "timeStamp": "2024-05-27T03:34:55.374Z",
+  "timeStamp": "2024-05-27T04:06:33.449Z",
   "crs": {
     "type": "name",
     "properties": {
