@@ -1,9 +1,769 @@
 {
   "type": "FeatureCollection",
-  "features": [],
-  "totalFeatures": 0,
-  "numberMatched": 0,
-  "numberReturned": 0,
-  "timeStamp": "2024-06-14T11:33:53.544Z",
-  "crs": null
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a09",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8144,
+          35.0575
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213126,
+        "SHELTER_ID": 347297,
+        "SHELTER_NAME": "St Matthew Catholic Church",
+        "ADDRESS": "8015 Ballantyne Commons Pkwy",
+        "CITY": "Charlotte",
+        "STATE": "NC",
+        "ZIP": "28277",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 225,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "GREATER CAROLINAS",
+        "ORG_ID": 121429,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 35.05751455,
+        "LONGITUDE": -80.81440822,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.8144,
+        35.0575,
+        -80.8144,
+        35.0575
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a0a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.366,
+          33.5775
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213127,
+        "SHELTER_ID": 366174,
+        "SHELTER_NAME": "South Plains College - Student Center",
+        "ADDRESS": "101 C.M. Sanders Drive",
+        "CITY": "Levelland",
+        "STATE": "TX",
+        "ZIP": "79336",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 3,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -102.366,
+        33.5775,
+        -102.366,
+        33.5775
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a0b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3073,
+          47.7343
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213128,
+        "SHELTER_ID": 109470,
+        "SHELTER_NAME": "Prince of Peace Lutheran Church - Shoreline",
+        "ADDRESS": "14514 20th Ave NE",
+        "CITY": "Seattle",
+        "STATE": "WA",
+        "ZIP": "98155",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 200,
+        "POST_IMPACT_CAPACITY": 100,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "KING & KITSAP COUNTIES",
+        "ORG_ID": 121519,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 47.73426217,
+        "LONGITUDE": -122.3073348,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.3073,
+        47.7343,
+        -122.3073,
+        47.7343
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a0c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2024,
+          25.7704
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213129,
+        "SHELTER_ID": 366177,
+        "SHELTER_NAME": "Jose Marti Park",
+        "ADDRESS": "351 SW 4th Ave",
+        "CITY": "Miami",
+        "STATE": "FL",
+        "ZIP": "33130",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.2024,
+        25.7704,
+        -80.2024,
+        25.7704
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a0d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.42,
+          29.9499
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213130,
+        "SHELTER_ID": 366135,
+        "SHELTER_NAME": "Green House International Church",
+        "ADDRESS": "200 W Greens Road",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "ZIP": "77067",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.42,
+        29.9499,
+        -95.42,
+        29.9499
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a0e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1292,
+          30.5896
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213131,
+        "SHELTER_ID": 362797,
+        "SHELTER_NAME": "San Jacinto County Disaster Shelter",
+        "ADDRESS": "255 Live Oak ",
+        "CITY": "Coldspring",
+        "STATE": "TX",
+        "ZIP": "77331",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 262,
+        "POST_IMPACT_CAPACITY": 131,
+        "TOTAL_POPULATION": 28,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 30.5896,
+        "LONGITUDE": -95.12924,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.1292,
+        30.5896,
+        -95.1292,
+        30.5896
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a0f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.027,
+          30.1802
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213132,
+        "SHELTER_ID": 366148,
+        "SHELTER_NAME": "Pine Burr Elementary School",
+        "ADDRESS": "7054 Road 3540",
+        "CITY": "Liberty",
+        "STATE": "TX",
+        "ZIP": "77327",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 37,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.027,
+        30.1802,
+        -95.027,
+        30.1802
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9318,
+          30.7129
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213133,
+        "SHELTER_ID": 364951,
+        "SHELTER_NAME": "Vine Life Church",
+        "ADDRESS": "203 E Calhoun Street",
+        "CITY": "Livingston",
+        "STATE": "TX",
+        "ZIP": "77351",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 21,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 30.712927,
+        "LONGITUDE": -94.931838,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -94.9318,
+        30.7129,
+        -94.9318,
+        30.7129
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1697,
+          39.9244
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213134,
+        "SHELTER_ID": 334426,
+        "SHELTER_NAME": "South Philadelphia High School",
+        "ADDRESS": "2101 S Broad Street",
+        "CITY": "Philadelphia",
+        "STATE": "PA",
+        "ZIP": "19148",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1147,
+        "POST_IMPACT_CAPACITY": 1147,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SOUTHEASTERN PENNSYLVANIA SEPA",
+        "ORG_ID": 121824,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 39.9243698,
+        "LONGITUDE": -75.16970338,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.1697,
+        39.9244,
+        -75.1697,
+        39.9244
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4936,
+          40.2606
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213135,
+        "SHELTER_ID": 366179,
+        "SHELTER_NAME": "East Windsor Fire House #2",
+        "ADDRESS": "69 Twin Rivers Drive",
+        "CITY": "East Windsor",
+        "STATE": "NJ",
+        "ZIP": "08520",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -74.4936,
+        40.2606,
+        -74.4936,
+        40.2606
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1794,
+          25.9019
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213136,
+        "SHELTER_ID": 366185,
+        "SHELTER_NAME": "House of Living God",
+        "ADDRESS": "13700 NE 10th Ave",
+        "CITY": "North Miami",
+        "STATE": "FL",
+        "ZIP": "33161",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.1794,
+        25.9019,
+        -80.1794,
+        25.9019
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5254,
+          29.7534
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213137,
+        "SHELTER_ID": 343148,
+        "SHELTER_NAME": "Memorial Drive Presbyterian Church",
+        "ADDRESS": "11612 Memorial Dr",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "ZIP": "77024",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 479,
+        "POST_IMPACT_CAPACITY": 239,
+        "TOTAL_POPULATION": 18,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 29.753359,
+        "LONGITUDE": -95.525393,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.5254,
+        29.7534,
+        -95.5254,
+        29.7534
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6431,
+          29.9332
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213138,
+        "SHELTER_ID": 366154,
+        "SHELTER_NAME": "VFW Post",
+        "ADDRESS": "21902 Northwest Fwy",
+        "CITY": "Cypress",
+        "STATE": "TX",
+        "ZIP": "77429",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.6431,
+        29.9332,
+        -95.6431,
+        29.9332
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4388,
+          30.7742
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213139,
+        "SHELTER_ID": 355846,
+        "SHELTER_NAME": "Woodville United Methodist Church ",
+        "ADDRESS": "508 West Bluff Street",
+        "CITY": "Woodville",
+        "STATE": "TX",
+        "ZIP": "75979",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 300,
+        "POST_IMPACT_CAPACITY": 200,
+        "TOTAL_POPULATION": 3,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Texas Gulf Coast Region",
+        "ORG_ID": 126123,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 30.7741782,
+        "LONGITUDE": -94.43879,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -94.4388,
+        30.7742,
+        -94.4388,
+        30.7742
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.289,
+          30.4245
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213140,
+        "SHELTER_ID": 366160,
+        "SHELTER_NAME": "Jake Gaither Gymnasium",
+        "ADDRESS": "1835 Wahnish Way",
+        "CITY": "Tallahassee",
+        "STATE": "FL",
+        "ZIP": "32310",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.289,
+        30.4245,
+        -84.289,
+        30.4245
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4659,
+          36.3525
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213141,
+        "SHELTER_ID": 366167,
+        "SHELTER_NAME": "Decatur Elementary School",
+        "ADDRESS": "9083 Mount Olive Rd",
+        "CITY": "Decatur",
+        "STATE": "AR",
+        "ZIP": "72722",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -94.4659,
+        36.3525,
+        -94.4659,
+        36.3525
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_19015217b68_4a19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5601,
+          30.7418
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1213142,
+        "SHELTER_ID": 322705,
+        "SHELTER_NAME": "Walker County Storm Center",
+        "ADDRESS": "445 TX 75",
+        "CITY": "Huntsville",
+        "STATE": "TX",
+        "ZIP": "77320",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 460,
+        "POST_IMPACT_CAPACITY": 230,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "GREATER HOUSTON AREA",
+        "ORG_ID": 121434,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 30.74177028,
+        "LONGITUDE": -95.56006773,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.5601,
+        30.7418,
+        -95.5601,
+        30.7418
+      ]
+    }
+  ],
+  "totalFeatures": 17,
+  "numberMatched": 17,
+  "numberReturned": 17,
+  "timeStamp": "2024-06-14T12:08:10.131Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    -122.3073,
+    25.7704,
+    -74.4936,
+    47.7343
+  ]
 }
