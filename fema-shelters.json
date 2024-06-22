@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b68",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f6b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1225835,
+        "objectid": 1225873,
         "SHELTER_ID": 366192,
         "SHELTER_NAME": "Church on the Move Dream Center",
         "ADDRESS": "2700 W 2nd Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b69",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f6c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1225836,
+        "objectid": 1225874,
         "SHELTER_ID": 347599,
         "SHELTER_NAME": "Eastern New Mexico University - Roswell",
         "ADDRESS": "52 University Blvd",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b6a",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f6d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1225837,
+        "objectid": 1225875,
         "SHELTER_ID": 366195,
         "SHELTER_NAME": "Roswell Convention & Civic Center",
         "ADDRESS": "912 N Main Street",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b6b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.5491,
-          33.3936
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1225838,
-        "SHELTER_ID": 366202,
-        "SHELTER_NAME": "La Gracia De Jesuchristo ",
-        "ADDRESS": "1714 W 2nd Street",
-        "CITY": "Roswell",
-        "STATE": "NM",
-        "ZIP": "88201",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -104.5491,
-        33.3936,
-        -104.5491,
-        33.3936
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b6c",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f6e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1225839,
+        "objectid": 1225876,
         "SHELTER_ID": 366203,
         "SHELTER_NAME": "St. Johns Catholic Church ",
         "ADDRESS": "506 S Lincoln Ave",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b6d",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f6f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5491,
+          33.3936
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1225877,
+        "SHELTER_ID": 366202,
+        "SHELTER_NAME": "La Gracia De Jesuchristo ",
+        "ADDRESS": "1714 W 2nd Street",
+        "CITY": "Roswell",
+        "STATE": "NM",
+        "ZIP": "88201",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -104.5491,
+        33.3936,
+        -104.5491,
+        33.3936
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f70",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1225840,
+        "objectid": 1225878,
         "SHELTER_ID": 366200,
         "SHELTER_NAME": "City of Socorro Rodeo Complex",
         "ADDRESS": "1 Rodeo Drive",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b6e",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f71",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1225841,
+        "objectid": 1225879,
         "SHELTER_ID": 366201,
         "SHELTER_NAME": "City of Socorro Parks & Recreation Gym",
         "ADDRESS": "202 McCutcheon Avenue",
@@ -311,51 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b6f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.5355,
-          33.351
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1225842,
-        "SHELTER_ID": 366191,
-        "SHELTER_NAME": "Church on the Move",
-        "ADDRESS": "901 W Brasher Road",
-        "CITY": "Roswell",
-        "STATE": "NM",
-        "ZIP": "88203",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 36,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -104.5355,
-        33.351,
-        -104.5355,
-        33.351
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b70",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f72",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1225843,
+        "objectid": 1225880,
         "SHELTER_ID": 366193,
         "SHELTER_NAME": "New Mexico Military Institute ",
         "ADDRESS": "101 W College Blvd",
@@ -399,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b71",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f73",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1225844,
+        "objectid": 1225881,
         "SHELTER_ID": 366194,
         "SHELTER_NAME": "Inn of the Montain Gods Convention Center",
         "ADDRESS": "287 Carrizo Canyon Road",
@@ -443,183 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b72",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.6213,
-          33.5193
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1225845,
-        "SHELTER_ID": 346816,
-        "SHELTER_NAME": "Lincoln County Fairgrounds",
-        "ADDRESS": "101 5th Street",
-        "CITY": "Capitan",
-        "STATE": "NM",
-        "ZIP": "88316",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 150,
-        "POST_IMPACT_CAPACITY": 75,
-        "TOTAL_POPULATION": 15,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "MID-RIO GRANDE",
-        "ORG_ID": 121611,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 33.51934481,
-        "LONGITUDE": -105.62132117,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -105.6213,
-        33.5193,
-        -105.6213,
-        33.5193
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b73",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.5834,
-          33.5447
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1225846,
-        "SHELTER_ID": 366166,
-        "SHELTER_NAME": "Capitan High School",
-        "ADDRESS": "519 Smokey Bear Blvd",
-        "CITY": "Capitan",
-        "STATE": "NM",
-        "ZIP": "88316",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 105,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -105.5834,
-        33.5447,
-        -105.5834,
-        33.5447
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b74",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.4281,
-          27.706
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1225847,
-        "SHELTER_ID": 366198,
-        "SHELTER_NAME": "Corpus Christi Natatorium ",
-        "ADDRESS": "3202 Cabaniss Pkwy",
-        "CITY": "Corpus Christi",
-        "STATE": "TX",
-        "ZIP": "78415",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -97.4281,
-        27.706,
-        -97.4281,
-        27.706
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b75",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.965,
-          32.9357
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1225848,
-        "SHELTER_ID": 366190,
-        "SHELTER_NAME": "Christ Community Church",
-        "ADDRESS": "2960 Scenic Drive",
-        "CITY": "Alamogordo",
-        "STATE": "NM",
-        "ZIP": "88310",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 10,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -105.965,
-        32.9357,
-        -105.965,
-        32.9357
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b76",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f74",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1225849,
+        "objectid": 1225882,
         "SHELTER_ID": 366196,
         "SHELTER_NAME": "Mountain View Church",
         "ADDRESS": "1300 Cuba Ave",
@@ -663,7 +443,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b77",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f75",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4281,
+          27.706
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1225883,
+        "SHELTER_ID": 366198,
+        "SHELTER_NAME": "Corpus Christi Natatorium ",
+        "ADDRESS": "3202 Cabaniss Pkwy",
+        "CITY": "Corpus Christi",
+        "STATE": "TX",
+        "ZIP": "78415",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -97.4281,
+        27.706,
+        -97.4281,
+        27.706
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f76",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1225850,
+        "objectid": 1225884,
         "SHELTER_ID": 350767,
         "SHELTER_NAME": "Outside-Eastern New Mexico State Fairgrounds",
         "ADDRESS": "2500 E Main Street",
@@ -707,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b78",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f77",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1225851,
+        "objectid": 1225885,
         "SHELTER_ID": 345298,
         "SHELTER_NAME": "Mescalero Apache Community Center",
         "ADDRESS": "108 Central Ave",
@@ -751,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b79",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f78",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1225852,
+        "objectid": 1225886,
         "SHELTER_ID": 364211,
         "SHELTER_NAME": "Carrrizozo High School",
         "ADDRESS": "800 D Ave",
@@ -795,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5b7a",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f79",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,11 +629,11 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1225853,
+        "objectid": 1225887,
         "SHELTER_ID": 296475,
         "SHELTER_NAME": "Mitchell Recreation Center",
-        "ADDRESS": "1300 N MAIN STREET",
-        "CITY": "MITCHELL",
+        "ADDRESS": "1300 N Main Street",
+        "CITY": "Mitchell",
         "STATE": "SD",
         "ZIP": "57301",
         "SHELTER_STATUS": "OPEN",
@@ -836,12 +660,188 @@
         -98.0256,
         43.7218
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f7a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6213,
+          33.5193
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1225888,
+        "SHELTER_ID": 346816,
+        "SHELTER_NAME": "Lincoln County Fairgrounds",
+        "ADDRESS": "101 5th Street",
+        "CITY": "Capitan",
+        "STATE": "NM",
+        "ZIP": "88316",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 150,
+        "POST_IMPACT_CAPACITY": 75,
+        "TOTAL_POPULATION": 15,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "MID-RIO GRANDE",
+        "ORG_ID": 121611,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 33.51934481,
+        "LONGITUDE": -105.62132117,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -105.6213,
+        33.5193,
+        -105.6213,
+        33.5193
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f7b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5834,
+          33.5447
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1225889,
+        "SHELTER_ID": 366166,
+        "SHELTER_NAME": "Capitan High School",
+        "ADDRESS": "519 Smokey Bear Blvd",
+        "CITY": "Capitan",
+        "STATE": "NM",
+        "ZIP": "88316",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 105,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -105.5834,
+        33.5447,
+        -105.5834,
+        33.5447
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f7c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.965,
+          32.9357
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1225890,
+        "SHELTER_ID": 366190,
+        "SHELTER_NAME": "Christ Community Church",
+        "ADDRESS": "2960 Scenic Drive",
+        "CITY": "Alamogordo",
+        "STATE": "NM",
+        "ZIP": "88310",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 10,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -105.965,
+        32.9357,
+        -105.965,
+        32.9357
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1903c817633_5f7d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5355,
+          33.351
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1225891,
+        "SHELTER_ID": 366191,
+        "SHELTER_NAME": "Church on the Move",
+        "ADDRESS": "901 W Brasher Road",
+        "CITY": "Roswell",
+        "STATE": "NM",
+        "ZIP": "88203",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 36,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -104.5355,
+        33.351,
+        -104.5355,
+        33.351
+      ]
     }
   ],
   "totalFeatures": 19,
   "numberMatched": 19,
   "numberReturned": 19,
-  "timeStamp": "2024-06-22T00:20:10.156Z",
+  "timeStamp": "2024-06-22T00:48:45.608Z",
   "crs": {
     "type": "name",
     "properties": {
