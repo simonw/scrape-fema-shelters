@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-6142",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.0143,
-          63.8731
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1242473,
-        "SHELTER_ID": 366243,
-        "SHELTER_NAME": "Tri Valley School",
-        "ADDRESS": "400 Suntrana",
-        "CITY": "Healy",
-        "STATE": "AK",
-        "ZIP": "99743",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 50,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -149.0143,
-        63.8731,
-        -149.0143,
-        63.8731
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-6141",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bbf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1242474,
+        "objectid": 1242503,
         "SHELTER_ID": 366224,
         "SHELTER_NAME": "White Mountain Relief Center",
         "ADDRESS": "687 Hull Road #659",
@@ -91,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-6140",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bbe",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1242475,
+        "objectid": 1242504,
         "SHELTER_ID": 366226,
         "SHELTER_NAME": "Villages of Waterville",
         "ADDRESS": "205 1st Street N ",
@@ -135,7 +91,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-613f",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bbd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7795,
+          42.4798
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1242505,
+        "SHELTER_ID": 366241,
+        "SHELTER_NAME": "River Valley Community School ",
+        "ADDRESS": "916 Hackberry Street",
+        "CITY": "Correctionville",
+        "STATE": "IA",
+        "ZIP": "51016",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.7795,
+        42.4798,
+        -95.7795,
+        42.4798
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bbc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.0143,
+          63.8731
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1242506,
+        "SHELTER_ID": 366243,
+        "SHELTER_NAME": "Tri Valley School",
+        "ADDRESS": "400 Suntrana",
+        "CITY": "Healy",
+        "STATE": "AK",
+        "ZIP": "99743",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 50,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -149.0143,
+        63.8731,
+        -149.0143,
+        63.8731
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bbb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1242476,
+        "objectid": 1242507,
         "SHELTER_ID": 172868,
         "SHELTER_NAME": "OroNaz Church",
         "ADDRESS": "2238 Monte Vista Ave",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-613e",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bba",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1242477,
+        "objectid": 1242508,
         "SHELTER_ID": 347667,
         "SHELTER_NAME": "TEP-Upper Susitna Senior Center",
         "ADDRESS": "16463 Helena Drive",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-613d",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bb9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1242478,
+        "objectid": 1242509,
         "SHELTER_ID": 362898,
         "SHELTER_NAME": "Butte County Fairgrounds ",
         "ADDRESS": "199 E Hazel Street",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-613c",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bb8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1242479,
+        "objectid": 1242510,
         "SHELTER_ID": 363299,
         "SHELTER_NAME": "Faith Reformed Church",
         "ADDRESS": "1305 7th St",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-613b",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bb7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1242480,
+        "objectid": 1242511,
         "SHELTER_ID": 365432,
         "SHELTER_NAME": "Tri-Valley School",
         "ADDRESS": "400 Suntrana Road",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-613a",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bb6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1242481,
+        "objectid": 1242512,
         "SHELTER_ID": 366216,
         "SHELTER_NAME": "Jackson County Central School",
         "ADDRESS": "1128 N Hwy",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-6139",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bb5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1242482,
+        "objectid": 1242513,
         "SHELTER_ID": 366219,
         "SHELTER_NAME": "Buena Vista University",
         "ADDRESS": "610 West 4th Street",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-6138",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bb4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1242483,
+        "objectid": 1242514,
         "SHELTER_ID": 366221,
         "SHELTER_NAME": "West Sioux High School",
         "ADDRESS": "1300 Falcon Drive",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-6137",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bb3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1242484,
+        "objectid": 1242515,
         "SHELTER_ID": 366234,
         "SHELTER_NAME": "Iowa Central Community College",
         "ADDRESS": "1 Triton Circle",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-6136",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bb2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1242485,
+        "objectid": 1242516,
         "SHELTER_ID": 366235,
         "SHELTER_NAME": "Clay Co. Regional Events Center",
         "ADDRESS": "800 W 18th Street",
@@ -575,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-6135",
+      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-5bb1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1242486,
+        "objectid": 1242517,
         "SHELTER_ID": 366237,
         "SHELTER_NAME": "Sacred Heart Catholic School",
         "ADDRESS": "5010 Military Road",
@@ -616,56 +660,12 @@
         -96.473,
         42.5194
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_19079bdbe58_-6134",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.7795,
-          42.4798
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1242487,
-        "SHELTER_ID": 366241,
-        "SHELTER_NAME": "River Valley Community School ",
-        "ADDRESS": "916 Hackberry Street",
-        "CITY": "Correctionville",
-        "STATE": "IA",
-        "ZIP": "51016",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.7795,
-        42.4798,
-        -95.7795,
-        42.4798
-      ]
     }
   ],
   "totalFeatures": 15,
   "numberMatched": 15,
   "numberReturned": 15,
-  "timeStamp": "2024-07-03T18:34:36.186Z",
+  "timeStamp": "2024-07-03T19:05:00.046Z",
   "crs": {
     "type": "name",
     "properties": {
