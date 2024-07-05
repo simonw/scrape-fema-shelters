@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-38f9",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-337a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1243860,
+        "objectid": 1243871,
         "SHELTER_ID": 366243,
         "SHELTER_NAME": "Tri Valley School",
         "ADDRESS": "400 Suntrana",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-38f8",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-3379",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1243861,
+        "objectid": 1243872,
         "SHELTER_ID": 363299,
         "SHELTER_NAME": "Faith Reformed Church",
         "ADDRESS": "1305 7th St",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-38f7",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-3378",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1243862,
+        "objectid": 1243873,
         "SHELTER_ID": 366224,
         "SHELTER_NAME": "White Mountain Relief Center",
         "ADDRESS": "687 Hull Road #659",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-38f6",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-3377",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1243863,
+        "objectid": 1243874,
         "SHELTER_ID": 366241,
         "SHELTER_NAME": "River Valley Community School ",
         "ADDRESS": "916 Hackberry Street",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-38f5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.1555,
-          43.1538
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1243864,
-        "SHELTER_ID": 366235,
-        "SHELTER_NAME": "Clay Co. Regional Events Center",
-        "ADDRESS": "800 W 18th Street",
-        "CITY": "Spencer",
-        "STATE": "IA",
-        "ZIP": "51301",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 69,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.1555,
-        43.1538,
-        -95.1555,
-        43.1538
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-38f4",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-3376",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1243865,
+        "objectid": 1243875,
         "SHELTER_ID": 366234,
         "SHELTER_NAME": "Iowa Central Community College",
         "ADDRESS": "1 Triton Circle",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-38f3",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-3375",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1555,
+          43.1538
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1243876,
+        "SHELTER_ID": 366235,
+        "SHELTER_NAME": "Clay Co. Regional Events Center",
+        "ADDRESS": "800 W 18th Street",
+        "CITY": "Spencer",
+        "STATE": "IA",
+        "ZIP": "51301",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 69,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.1555,
+        43.1538,
+        -95.1555,
+        43.1538
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-3374",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1243866,
+        "objectid": 1243877,
         "SHELTER_ID": 366226,
         "SHELTER_NAME": "Villages of Waterville",
         "ADDRESS": "205 1st Street N ",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-38f2",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-3373",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1243867,
+        "objectid": 1243878,
         "SHELTER_ID": 365432,
         "SHELTER_NAME": "Tri-Valley School",
         "ADDRESS": "400 Suntrana Road",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-38f1",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-3372",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1243868,
+        "objectid": 1243879,
         "SHELTER_ID": 172868,
         "SHELTER_NAME": "OroNaz Church",
         "ADDRESS": "2238 Monte Vista Ave",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-38f0",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-3371",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1243869,
+        "objectid": 1243880,
         "SHELTER_ID": 366219,
         "SHELTER_NAME": "Buena Vista University",
         "ADDRESS": "610 West 4th Street",
@@ -443,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-38ef",
+      "id": "FEMANSSOpenShelters.fid--43f93679_1908144ed8c_-3370",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1243870,
+        "objectid": 1243881,
         "SHELTER_ID": 366221,
         "SHELTER_NAME": "West Sioux High School",
         "ADDRESS": "1300 Falcon Drive",
@@ -489,7 +489,7 @@
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2024-07-05T06:07:31.018Z",
+  "timeStamp": "2024-07-05T06:36:44.755Z",
   "crs": {
     "type": "name",
     "properties": {
