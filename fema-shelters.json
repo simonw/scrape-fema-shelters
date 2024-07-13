@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cd1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.8077,
-          29.5616
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1257258,
-        "SHELTER_ID": 366257,
-        "SHELTER_NAME": "Friends of North Rosenberg",
-        "ADDRESS": "1908 Avenue E",
-        "CITY": "Rosenberg",
-        "STATE": "TX",
-        "ZIP": "77471",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 16,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.8077,
-        29.5616,
-        -95.8077,
-        29.5616
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cd0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.9879,
-          28.9834
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1257259,
-        "SHELTER_ID": 366264,
-        "SHELTER_NAME": "Bay City Civic Center",
-        "ADDRESS": "201 Seventh Street",
-        "CITY": "Bay City",
-        "STATE": "TX",
-        "ZIP": "77414",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 93,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.9879,
-        28.9834,
-        -95.9879,
-        28.9834
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2ccf",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b50",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257260,
+        "objectid": 1257295,
         "SHELTER_ID": 366266,
         "SHELTER_NAME": "Walker County Storm Shelter",
         "ADDRESS": "445 TX-75",
@@ -135,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cce",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b51",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257261,
+        "objectid": 1257296,
         "SHELTER_ID": 366269,
         "SHELTER_NAME": "Champion Forest Church of Jersey Village",
         "ADDRESS": "16518 Jersey Drive",
@@ -179,7 +91,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2ccd",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8077,
+          29.5616
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1257297,
+        "SHELTER_ID": 366257,
+        "SHELTER_NAME": "Friends of North Rosenberg",
+        "ADDRESS": "1908 Avenue E",
+        "CITY": "Rosenberg",
+        "STATE": "TX",
+        "ZIP": "77471",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 16,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.8077,
+        29.5616,
+        -95.8077,
+        29.5616
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9879,
+          28.9834
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1257298,
+        "SHELTER_ID": 366264,
+        "SHELTER_NAME": "Bay City Civic Center",
+        "ADDRESS": "201 Seventh Street",
+        "CITY": "Bay City",
+        "STATE": "TX",
+        "ZIP": "77414",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 93,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.9879,
+        28.9834,
+        -95.9879,
+        28.9834
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b54",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257262,
+        "objectid": 1257299,
         "SHELTER_ID": 172868,
         "SHELTER_NAME": "OroNaz Church",
         "ADDRESS": "2238 Monte Vista Ave",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2ccc",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b55",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257263,
+        "objectid": 1257300,
         "SHELTER_ID": 366243,
         "SHELTER_NAME": "Tri Valley School",
         "ADDRESS": "400 Suntrana",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2ccb",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b56",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257264,
+        "objectid": 1257301,
         "SHELTER_ID": 366252,
         "SHELTER_NAME": "Montgomery Lone Star Community Center",
         "ADDRESS": "2500 Lone Star Pkwy.",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cca",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b57",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257265,
+        "objectid": 1257302,
         "SHELTER_ID": 366262,
         "SHELTER_NAME": "Cooling Center - Compudot Charging Center (8a-5p)",
         "ADDRESS": "1602 Airline Drive",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cc9",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b58",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257266,
+        "objectid": 1257303,
         "SHELTER_ID": 366263,
         "SHELTER_NAME": "Cooling Center - Baytown Community Center",
         "ADDRESS": "2407 Market Street",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cc8",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b59",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257267,
+        "objectid": 1257304,
         "SHELTER_ID": 366270,
         "SHELTER_NAME": "Dickinson High School",
         "ADDRESS": "3800 Baker Drive",
@@ -443,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cc7",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b5a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257268,
+        "objectid": 1257305,
         "SHELTER_ID": 366272,
         "SHELTER_NAME": "Lyndonville Fire Department ",
         "ADDRESS": "316 Main Street",
@@ -487,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cc6",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b5b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257269,
+        "objectid": 1257306,
         "SHELTER_ID": 366275,
         "SHELTER_NAME": "Boys and Girls Club",
         "ADDRESS": "1820 Avenue E",
@@ -531,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cc5",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b5c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257270,
+        "objectid": 1257307,
         "SHELTER_ID": 109658,
         "SHELTER_NAME": "Wy East Middle School",
         "ADDRESS": "1112 SE 136TH AVE",
@@ -575,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cc4",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b5d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257271,
+        "objectid": 1257308,
         "SHELTER_ID": 337356,
         "SHELTER_NAME": "Barre Auditorium",
         "ADDRESS": "20 Auditorium Hill Rd ",
@@ -619,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cc3",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b5e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257272,
+        "objectid": 1257309,
         "SHELTER_ID": 357377,
         "SHELTER_NAME": "Sts. Simon & Jude Catholic Parish",
         "ADDRESS": "26777 Glen Loch Dr.",
@@ -663,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cc2",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b5f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257273,
+        "objectid": 1257310,
         "SHELTER_ID": 363299,
         "SHELTER_NAME": "Faith Reformed Church",
         "ADDRESS": "1305 7th St",
@@ -707,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cc1",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b60",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257274,
+        "objectid": 1257311,
         "SHELTER_ID": 322551,
         "SHELTER_NAME": "Abundant Life Christian Center",
         "ADDRESS": "601 Delany Road",
@@ -751,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cc0",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b61",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257275,
+        "objectid": 1257312,
         "SHELTER_ID": 365465,
         "SHELTER_NAME": "Kahtishraam Wellness Center",
         "ADDRESS": "1403 Kahtishraam Road",
@@ -795,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cbf",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b62",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257276,
+        "objectid": 1257313,
         "SHELTER_ID": 366271,
         "SHELTER_NAME": "Malheur County Fairgrounds",
         "ADDRESS": "795 NW 9th Street",
@@ -839,7 +839,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cbe",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b63",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257277,
+        "objectid": 1257314,
         "SHELTER_ID": 366224,
         "SHELTER_NAME": "White Mountain Relief Center",
         "ADDRESS": "687 Hull Road #659",
@@ -883,7 +883,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cbd",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b64",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +893,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257278,
+        "objectid": 1257315,
         "SHELTER_ID": 366226,
         "SHELTER_NAME": "Villages of Waterville",
         "ADDRESS": "205 1st Street N ",
@@ -927,7 +927,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cbc",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b65",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -937,7 +937,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257279,
+        "objectid": 1257316,
         "SHELTER_ID": 109857,
         "SHELTER_NAME": "Our Redeemers Lutheran Church",
         "ADDRESS": "3580 N Benton Ave",
@@ -971,7 +971,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cbb",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b66",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -981,7 +981,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257280,
+        "objectid": 1257317,
         "SHELTER_ID": 355796,
         "SHELTER_NAME": "Lone Star Convention Center",
         "ADDRESS": "2500 Lone Star Pkwy.",
@@ -1015,7 +1015,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cba",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b67",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1025,7 +1025,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257281,
+        "objectid": 1257318,
         "SHELTER_ID": 323365,
         "SHELTER_NAME": "Clear Lake Presbyterian Church",
         "ADDRESS": "1511 El Dorado Blvd.",
@@ -1059,7 +1059,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cb9",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b68",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1069,7 +1069,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257282,
+        "objectid": 1257319,
         "SHELTER_ID": 332430,
         "SHELTER_NAME": "San Jacinto Christian Church",
         "ADDRESS": "710 Alamo Street",
@@ -1103,7 +1103,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cb8",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b69",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1113,7 +1113,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257283,
+        "objectid": 1257320,
         "SHELTER_ID": 333381,
         "SHELTER_NAME": "Greater St. Matthew Baptist Church",
         "ADDRESS": "7701 Jutland Road",
@@ -1147,7 +1147,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cb7",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b6a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1157,7 +1157,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257284,
+        "objectid": 1257321,
         "SHELTER_ID": 334418,
         "SHELTER_NAME": "Samuel Fels High School",
         "ADDRESS": "5500 LANGDON ST.",
@@ -1191,7 +1191,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cb6",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b6b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1201,7 +1201,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257285,
+        "objectid": 1257322,
         "SHELTER_ID": 355936,
         "SHELTER_NAME": "BakerRipley Ripley House",
         "ADDRESS": "4410 Navigation Blvd",
@@ -1235,7 +1235,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cb5",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b6c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1245,7 +1245,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257286,
+        "objectid": 1257323,
         "SHELTER_ID": 355940,
         "SHELTER_NAME": "BakerRipley Gulfton Sharpstown Campus",
         "ADDRESS": "6500 Rookin Street",
@@ -1279,7 +1279,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cb4",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b6d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1289,7 +1289,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257287,
+        "objectid": 1257324,
         "SHELTER_ID": 357522,
         "SHELTER_NAME": "Houston Central Seventh Day Adventist Center",
         "ADDRESS": "9415 West Sam Houston Pkwy",
@@ -1323,7 +1323,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cb3",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b6e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1333,7 +1333,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257288,
+        "objectid": 1257325,
         "SHELTER_ID": 360385,
         "SHELTER_NAME": "Nehemiah Family Life Center",
         "ADDRESS": "650 Pollard Street",
@@ -1367,7 +1367,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cb2",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b6f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1377,7 +1377,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257289,
+        "objectid": 1257326,
         "SHELTER_ID": 366235,
         "SHELTER_NAME": "Clay Co. Regional Events Center",
         "ADDRESS": "800 W 18th Street",
@@ -1411,7 +1411,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cb1",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b70",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1421,7 +1421,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257290,
+        "objectid": 1257327,
         "SHELTER_ID": 366254,
         "SHELTER_NAME": "Angleton Recreation Center",
         "ADDRESS": "1601 N Valderas Street",
@@ -1455,7 +1455,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cb0",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b71",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1465,7 +1465,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257291,
+        "objectid": 1257328,
         "SHELTER_ID": 366255,
         "SHELTER_NAME": "Fort Bend County Fairground",
         "ADDRESS": "4310 TX-36 S",
@@ -1499,7 +1499,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2caf",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b72",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1509,7 +1509,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257292,
+        "objectid": 1257329,
         "SHELTER_ID": 366256,
         "SHELTER_NAME": "East Montgomery County Community Center",
         "ADDRESS": "16401 First Street",
@@ -1543,7 +1543,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cae",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b73",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1553,7 +1553,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257293,
+        "objectid": 1257330,
         "SHELTER_ID": 366259,
         "SHELTER_NAME": "Mt. Vernon Middle School",
         "ADDRESS": "701 Tile Factory Road",
@@ -1587,7 +1587,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--43f93679_190ab559d48_-2cad",
+      "id": "FEMANSSOpenShelters.fid-218691b7_190aad0dce0_6b74",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1597,7 +1597,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1257294,
+        "objectid": 1257331,
         "SHELTER_ID": 366261,
         "SHELTER_NAME": "South Wasco County High School",
         "ADDRESS": "699 4th Street",
@@ -1633,7 +1633,7 @@
   "totalFeatures": 37,
   "numberMatched": 37,
   "numberReturned": 37,
-  "timeStamp": "2024-07-13T12:06:57.464Z",
+  "timeStamp": "2024-07-13T12:40:59.180Z",
   "crs": {
     "type": "name",
     "properties": {
