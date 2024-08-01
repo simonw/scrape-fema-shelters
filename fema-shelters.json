@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_2898",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b34",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277932,
+        "objectid": 1277953,
         "SHELTER_ID": 172868,
         "SHELTER_NAME": "OroNaz Church",
         "ADDRESS": "2238 Monte Vista Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_2899",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b35",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277933,
+        "objectid": 1277954,
         "SHELTER_ID": 366224,
         "SHELTER_NAME": "White Mountain Relief Center",
         "ADDRESS": "687 Hull Road #659",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_289a",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b36",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277934,
+        "objectid": 1277955,
         "SHELTER_ID": 366243,
         "SHELTER_NAME": "Tri Valley School",
         "ADDRESS": "400 Suntrana",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_289b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.7127,
-          30.3995
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1277935,
-        "SHELTER_ID": 355796,
-        "SHELTER_NAME": "Lone Star Community Center",
-        "ADDRESS": "2500 Lone Star Pkwy.",
-        "CITY": "Montgomery",
-        "STATE": "TX",
-        "ZIP": "77356",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1,
-        "POST_IMPACT_CAPACITY": 1,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 30.3994702,
-        "LONGITUDE": -95.7126534,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.7127,
-        30.3995,
-        -95.7127,
-        30.3995
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_289c",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b37",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277936,
+        "objectid": 1277956,
         "SHELTER_ID": 351034,
         "SHELTER_NAME": "Grant Union High School",
         "ADDRESS": "911 S Canyon Blvd",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_289d",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7127,
+          30.3995
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1277957,
+        "SHELTER_ID": 355796,
+        "SHELTER_NAME": "Lone Star Community Center",
+        "ADDRESS": "2500 Lone Star Pkwy.",
+        "CITY": "Montgomery",
+        "STATE": "TX",
+        "ZIP": "77356",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1,
+        "POST_IMPACT_CAPACITY": 1,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 30.3994702,
+        "LONGITUDE": -95.7126534,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.7127,
+        30.3995,
+        -95.7127,
+        30.3995
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b39",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277937,
+        "objectid": 1277958,
         "SHELTER_ID": 366295,
         "SHELTER_NAME": "Cooling Center - The People's Church",
         "ADDRESS": "3710 McHard Road",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_289e",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b3a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277938,
+        "objectid": 1277959,
         "SHELTER_ID": 366306,
         "SHELTER_NAME": "Provisio West High School",
         "ADDRESS": "4701 Harrison St",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_289f",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b3b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277939,
+        "objectid": 1277960,
         "SHELTER_ID": 366312,
         "SHELTER_NAME": "Neighborhood Church",
         "ADDRESS": "2801 Notre Dame",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_28a0",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b3c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277940,
+        "objectid": 1277961,
         "SHELTER_ID": 365487,
         "SHELTER_NAME": "Lake Chelan School District (Community Gym)",
         "ADDRESS": "317 E Johnson Street",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_28a1",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b3d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277941,
+        "objectid": 1277962,
         "SHELTER_ID": 366317,
         "SHELTER_NAME": "Neighborhood Church-Outside",
         "ADDRESS": "2801 Notre Dame Ave",
@@ -443,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_28a2",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b3e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277942,
+        "objectid": 1277963,
         "SHELTER_ID": 366322,
         "SHELTER_NAME": "Camp Guernsey Joint Training Center (Bldg 106)",
         "ADDRESS": "1 Fremont Ave",
@@ -487,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_28a3",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b3f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277943,
+        "objectid": 1277964,
         "SHELTER_ID": 365913,
         "SHELTER_NAME": "Foundations Church",
         "ADDRESS": "1380 N Denver Ave",
@@ -531,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_28a4",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b40",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277944,
+        "objectid": 1277965,
         "SHELTER_ID": 361943,
         "SHELTER_NAME": "Ferry County Fairgrounds",
         "ADDRESS": "Fairground Road",
@@ -575,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_28a5",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b41",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277945,
+        "objectid": 1277966,
         "SHELTER_ID": 366313,
         "SHELTER_NAME": "Tehachapi Education Center",
         "ADDRESS": "126 S Snyder Ave",
@@ -619,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_28a6",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b42",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277946,
+        "objectid": 1277967,
         "SHELTER_ID": 354245,
         "SHELTER_NAME": "New Life Christian Fellowship",
         "ADDRESS": "5089 Cole Rd",
@@ -663,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_28a7",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b43",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277947,
+        "objectid": 1277968,
         "SHELTER_ID": 169794,
         "SHELTER_NAME": "Burroughs High School",
         "ADDRESS": "500 E French Ave",
@@ -707,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_28a8",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b44",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277948,
+        "objectid": 1277969,
         "SHELTER_ID": 350564,
         "SHELTER_NAME": "Dakota Ridge High School",
         "ADDRESS": "13399 Cola Mine Ave",
@@ -751,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_28a9",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b45",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277949,
+        "objectid": 1277970,
         "SHELTER_ID": 282960,
         "SHELTER_NAME": "Castle High School",
         "ADDRESS": "3344 Indiana 261",
@@ -795,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_28aa",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b46",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277950,
+        "objectid": 1277971,
         "SHELTER_ID": 357455,
         "SHELTER_NAME": "Estes Park Event Complex",
         "ADDRESS": "1125 Rooftop Way",
@@ -839,7 +839,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_28ab",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b47",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277951,
+        "objectid": 1277972,
         "SHELTER_ID": 366316,
         "SHELTER_NAME": "Los Molinos Veterans Hall",
         "ADDRESS": "7980 Sherwood Blvd",
@@ -883,7 +883,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_28ac",
+      "id": "FEMANSSOpenShelters.fid-218691b7_1910b3d1e6d_3b48",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +893,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1277952,
+        "objectid": 1277973,
         "SHELTER_ID": 169569,
         "SHELTER_NAME": "Bella Vista Elementary",
         "ADDRESS": "22661 Old Alturas Rd",
@@ -929,7 +929,7 @@
   "totalFeatures": 21,
   "numberMatched": 21,
   "numberReturned": 21,
-  "timeStamp": "2024-08-01T03:06:00.544Z",
+  "timeStamp": "2024-08-01T03:34:28.953Z",
   "crs": {
     "type": "name",
     "properties": {
