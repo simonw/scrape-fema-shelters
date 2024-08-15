@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_485e",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_58bb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1291833,
+        "objectid": 1291845,
         "SHELTER_ID": 366342,
         "SHELTER_NAME": "Woodmere Park (Pet Friendly)",
         "ADDRESS": "3951 Woodmere Park Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_485f",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_58bc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1291834,
+        "objectid": 1291846,
         "SHELTER_ID": 366224,
         "SHELTER_NAME": "White Mountain Relief Center",
         "ADDRESS": "687 Hull Road #659",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_4860",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_58bd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1291835,
+        "objectid": 1291847,
         "SHELTER_ID": 366350,
         "SHELTER_NAME": "Osterneck Auditorium",
         "ADDRESS": "102 N Chestnut St",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_4861",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_58be",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1291836,
+        "objectid": 1291848,
         "SHELTER_ID": 366351,
         "SHELTER_NAME": "Coastal Georgia Academy",
         "ADDRESS": "2001 Cynthia St",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_4862",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_58bf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1291837,
+        "objectid": 1291849,
         "SHELTER_ID": 366295,
         "SHELTER_NAME": "Cooling Center - The People's Church",
         "ADDRESS": "3710 McHard Road",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_4863",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_58c0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1291838,
+        "objectid": 1291850,
         "SHELTER_ID": 365487,
         "SHELTER_NAME": "Lake Chelan School District (Community Gym)",
         "ADDRESS": "317 E Johnson Street",
@@ -267,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_4864",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_58c1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2576,
+          37.805
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1291851,
+        "SHELTER_ID": 366362,
+        "SHELTER_NAME": "Lake Merritt Sail Boat House",
+        "ADDRESS": "568 Bellevue Ave",
+        "CITY": "Oakland",
+        "STATE": "CA",
+        "ZIP": "94610",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.2576,
+        37.805,
+        -122.2576,
+        37.805
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_58c2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1291839,
+        "objectid": 1291852,
         "SHELTER_ID": 365874,
         "SHELTER_NAME": "Minnehaha United Methodist Church",
         "ADDRESS": "3701 E 50th Street",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_4865",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_58c3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1291840,
+        "objectid": 1291853,
         "SHELTER_ID": 366317,
         "SHELTER_NAME": "Neighborhood Church-Outside",
         "ADDRESS": "2801 Notre Dame Ave",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_4866",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_58c4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1291841,
+        "objectid": 1291854,
         "SHELTER_ID": 366325,
         "SHELTER_NAME": "Taylor County DOH (Pet Friendly)",
         "ADDRESS": "1215 N Peacock Ave",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_4867",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_58c5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1291842,
+        "objectid": 1291855,
         "SHELTER_ID": 366323,
         "SHELTER_NAME": "Neighborhood Service Organization",
         "ADDRESS": "882 Oakman Blvd",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_4868",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_58c6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1291843,
+        "objectid": 1291856,
         "SHELTER_ID": 335488,
         "SHELTER_NAME": "Deep Creek Community Center",
         "ADDRESS": "11934 N US Hwy 441",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_4869",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19153567d96_58c7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1291844,
+        "objectid": 1291857,
         "SHELTER_ID": 366339,
         "SHELTER_NAME": "Suwannee Coliseum",
         "ADDRESS": "1302 11th St SW",
@@ -530,10 +574,10 @@
       ]
     }
   ],
-  "totalFeatures": 12,
-  "numberMatched": 12,
-  "numberReturned": 12,
-  "timeStamp": "2024-08-15T01:31:10.550Z",
+  "totalFeatures": 13,
+  "numberMatched": 13,
+  "numberReturned": 13,
+  "timeStamp": "2024-08-15T01:53:53.407Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -541,7 +585,7 @@
     }
   },
   "bbox": [
-    -121.7892,
+    -122.2576,
     27.0564,
     -79.0081,
     47.8408
