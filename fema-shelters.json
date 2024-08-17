@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_580f",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_6852",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1294897,
+        "objectid": 1294904,
         "SHELTER_ID": 365487,
         "SHELTER_NAME": "Lake Chelan School District (Community Gym)",
         "ADDRESS": "317 E Johnson Street",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_5810",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0081,
-          34.6175
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1294898,
-        "SHELTER_ID": 366350,
-        "SHELTER_NAME": "Osterneck Auditorium",
-        "ADDRESS": "102 N Chestnut St",
-        "CITY": "Lumberton",
-        "STATE": "NC",
-        "ZIP": "28358",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 29,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -79.0081,
-        34.6175,
-        -79.0081,
-        34.6175
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_5811",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_6853",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1294899,
+        "objectid": 1294905,
         "SHELTER_ID": 365050,
         "SHELTER_NAME": "South Strand Recreation Center",
         "ADDRESS": "9650 Scipio Lane",
@@ -135,7 +91,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_5812",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_6854",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0081,
+          34.6175
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1294906,
+        "SHELTER_ID": 366350,
+        "SHELTER_NAME": "Osterneck Auditorium",
+        "ADDRESS": "102 N Chestnut St",
+        "CITY": "Lumberton",
+        "STATE": "NC",
+        "ZIP": "28358",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 29,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -79.0081,
+        34.6175,
+        -79.0081,
+        34.6175
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_6855",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6574,
+          33.3558
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1294907,
+        "SHELTER_ID": 366224,
+        "SHELTER_NAME": "White Mountain Relief Center",
+        "ADDRESS": "687 Hull Road #659",
+        "CITY": "Ruidoso",
+        "STATE": "NM",
+        "ZIP": "88345",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 12,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -105.6574,
+        33.3558,
+        -105.6574,
+        33.3558
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_6856",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1294900,
+        "objectid": 1294908,
         "SHELTER_ID": 366360,
         "SHELTER_NAME": "James Frazier Community Center",
         "ADDRESS": "1370 Bucksport Road",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_5813",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_6857",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1294901,
+        "objectid": 1294909,
         "SHELTER_ID": 366367,
         "SHELTER_NAME": "Chinese Presbyterian Church",
         "ADDRESS": "265 8th Street",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_5814",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_6858",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1294902,
+        "objectid": 1294910,
         "SHELTER_ID": 365874,
         "SHELTER_NAME": "Minnehaha United Methodist Church",
         "ADDRESS": "3701 E 50th Street",
@@ -264,56 +308,12 @@
         -93.2187,
         44.9122
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1915efb3d5e_5815",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.6574,
-          33.3558
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1294903,
-        "SHELTER_ID": 366224,
-        "SHELTER_NAME": "White Mountain Relief Center",
-        "ADDRESS": "687 Hull Road #659",
-        "CITY": "Ruidoso",
-        "STATE": "NM",
-        "ZIP": "88345",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 12,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -105.6574,
-        33.3558,
-        -105.6574,
-        33.3558
-      ]
     }
   ],
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2024-08-17T09:05:03.006Z",
+  "timeStamp": "2024-08-17T09:34:21.874Z",
   "crs": {
     "type": "name",
     "properties": {
