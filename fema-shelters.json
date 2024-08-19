@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19168cbd50e_eac",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19168cbd50e_7228",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.014,
+          47.8408
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1295774,
+        "SHELTER_ID": 365487,
+        "SHELTER_NAME": "Lake Chelan United Methodist Chruch",
+        "ADDRESS": "206 N Emerson Street",
+        "CITY": "Chelan",
+        "STATE": "WA",
+        "ZIP": "98816",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.014,
+        47.8408,
+        -120.014,
+        47.8408
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19168cbd50e_7229",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1295763,
+        "objectid": 1295775,
         "SHELTER_ID": 365050,
         "SHELTER_NAME": "South Strand Recreation Center",
         "ADDRESS": "9650 Scipio Lane",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19168cbd50e_ead",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19168cbd50e_722a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1295764,
+        "objectid": 1295776,
         "SHELTER_ID": 366350,
         "SHELTER_NAME": "Osterneck Auditorium",
         "ADDRESS": "102 N Chestnut St",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19168cbd50e_eae",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19168cbd50e_722b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1295765,
+        "objectid": 1295777,
         "SHELTER_ID": 366224,
         "SHELTER_NAME": "White Mountain Relief Center",
         "ADDRESS": "687 Hull Road #659",
@@ -135,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19168cbd50e_eaf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.2696,
-          37.7983
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1295766,
-        "SHELTER_ID": 366367,
-        "SHELTER_NAME": "Chinese Presbyterian Church",
-        "ADDRESS": "265 8th Street",
-        "CITY": "Oakland",
-        "STATE": "CA",
-        "ZIP": "94607",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 8,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.2696,
-        37.7983,
-        -122.2696,
-        37.7983
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19168cbd50e_eb0",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19168cbd50e_722c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1295767,
+        "objectid": 1295778,
         "SHELTER_ID": 365874,
         "SHELTER_NAME": "Minnehaha United Methodist Church",
         "ADDRESS": "3701 E 50th Street",
@@ -220,12 +220,56 @@
         -93.2187,
         44.9122
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19168cbd50e_722d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2696,
+          37.7983
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1295779,
+        "SHELTER_ID": 366367,
+        "SHELTER_NAME": "Chinese Presbyterian Church",
+        "ADDRESS": "265 8th Street",
+        "CITY": "Oakland",
+        "STATE": "CA",
+        "ZIP": "94607",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 8,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.2696,
+        37.7983,
+        -122.2696,
+        37.7983
+      ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2024-08-19T04:34:52.914Z",
+  "totalFeatures": 6,
+  "numberMatched": 6,
+  "numberReturned": 6,
+  "timeStamp": "2024-08-19T05:05:33.723Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -236,6 +280,6 @@
     -122.2696,
     33.3558,
     -79.0081,
-    44.9122
+    47.8408
   ]
 }
