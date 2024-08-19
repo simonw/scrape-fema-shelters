@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19168478e8d_-122f",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19168478e8d_138",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1295743,
+        "objectid": 1295748,
         "SHELTER_ID": 365050,
         "SHELTER_NAME": "South Strand Recreation Center",
         "ADDRESS": "9650 Scipio Lane",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19168478e8d_-122e",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19168478e8d_139",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1295744,
+        "objectid": 1295749,
         "SHELTER_ID": 366350,
         "SHELTER_NAME": "Osterneck Auditorium",
         "ADDRESS": "102 N Chestnut St",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19168478e8d_-122d",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19168478e8d_13a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1295745,
+        "objectid": 1295750,
         "SHELTER_ID": 366224,
         "SHELTER_NAME": "White Mountain Relief Center",
         "ADDRESS": "687 Hull Road #659",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19168478e8d_-122c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.2187,
-          44.9122
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1295746,
-        "SHELTER_ID": 365874,
-        "SHELTER_NAME": "Minnehaha United Methodist Church",
-        "ADDRESS": "3701 E 50th Street",
-        "CITY": "Minneapolis",
-        "STATE": "MN",
-        "ZIP": "55417",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 18,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.2187,
-        44.9122,
-        -93.2187,
-        44.9122
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19168478e8d_-122b",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19168478e8d_13b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1295747,
+        "objectid": 1295751,
         "SHELTER_ID": 366367,
         "SHELTER_NAME": "Chinese Presbyterian Church",
         "ADDRESS": "265 8th Street",
@@ -220,12 +176,56 @@
         -122.2696,
         37.7983
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19168478e8d_13c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2187,
+          44.9122
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1295752,
+        "SHELTER_ID": 365874,
+        "SHELTER_NAME": "Minnehaha United Methodist Church",
+        "ADDRESS": "3701 E 50th Street",
+        "CITY": "Minneapolis",
+        "STATE": "MN",
+        "ZIP": "55417",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 18,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.2187,
+        44.9122,
+        -93.2187,
+        44.9122
+      ]
     }
   ],
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2024-08-19T03:05:39.651Z",
+  "timeStamp": "2024-08-19T03:34:32.699Z",
   "crs": {
     "type": "name",
     "properties": {
