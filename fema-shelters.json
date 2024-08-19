@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_2401",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_4a85",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296007,
+        "objectid": 1296014,
         "SHELTER_ID": 365487,
         "SHELTER_NAME": "Lake Chelan United Methodist Chruch",
         "ADDRESS": "206 N Emerson Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_2402",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_4a86",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296008,
+        "objectid": 1296015,
         "SHELTER_ID": 365050,
         "SHELTER_NAME": "South Strand Recreation Center",
         "ADDRESS": "9650 Scipio Lane",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_2403",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_4a87",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296009,
+        "objectid": 1296016,
         "SHELTER_ID": 366224,
         "SHELTER_NAME": "White Mountain Relief Center",
         "ADDRESS": "687 Hull Road #659",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_2404",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_4a88",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296010,
+        "objectid": 1296017,
         "SHELTER_ID": 365874,
         "SHELTER_NAME": "Minnehaha United Methodist Church",
         "ADDRESS": "3701 E 50th Street",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_2405",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_4a89",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296011,
+        "objectid": 1296018,
         "SHELTER_ID": 366367,
         "SHELTER_NAME": "Chinese Presbyterian Church",
         "ADDRESS": "265 8th Street",
@@ -223,51 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_2406",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.2129,
-          41.4929
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1296012,
-        "SHELTER_ID": 339699,
-        "SHELTER_NAME": "Southbury Senior Center",
-        "ADDRESS": "561 Main Street South",
-        "CITY": "Southbury",
-        "STATE": "CT",
-        "ZIP": "06488",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 50,
-        "POST_IMPACT_CAPACITY": 50,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "CONNECTICUT REGIONAL CHAPTER",
-        "ORG_ID": 121320,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 41.49293131,
-        "LONGITUDE": -73.21292254,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -73.2129,
-        41.4929,
-        -73.2129,
-        41.4929
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_2407",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_4a8a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296013,
+        "objectid": 1296019,
         "SHELTER_ID": 222379,
         "SHELTER_NAME": "First Avenue Elementary School",
         "ADDRESS": "214 First Avenue",
@@ -308,12 +264,56 @@
         -74.1823,
         40.7679
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916b5bed27_4a8b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2129,
+          41.4929
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1296020,
+        "SHELTER_ID": 339699,
+        "SHELTER_NAME": "Southbury Senior Center",
+        "ADDRESS": "561 Main Street South",
+        "CITY": "Southbury",
+        "STATE": "CT",
+        "ZIP": "06488",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 50,
+        "POST_IMPACT_CAPACITY": 50,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "CONNECTICUT REGIONAL CHAPTER",
+        "ORG_ID": 121320,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 41.49293131,
+        "LONGITUDE": -73.21292254,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -73.2129,
+        41.4929,
+        -73.2129,
+        41.4929
+      ]
     }
   ],
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2024-08-19T17:06:02.347Z",
+  "timeStamp": "2024-08-19T17:34:04.658Z",
   "crs": {
     "type": "name",
     "properties": {
