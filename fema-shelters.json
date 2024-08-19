@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916c3eeebb_5039",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.014,
-          47.8408
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1296112,
-        "SHELTER_ID": 365487,
-        "SHELTER_NAME": "Lake Chelan United Methodist Chruch",
-        "ADDRESS": "206 N Emerson Street",
-        "CITY": "Chelan",
-        "STATE": "WA",
-        "ZIP": "98816",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.014,
-        47.8408,
-        -120.014,
-        47.8408
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916c3eeebb_503a",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916c3eeebb_7cf0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296113,
+        "objectid": 1296119,
         "SHELTER_ID": 365050,
         "SHELTER_NAME": "South Strand Recreation Center",
         "ADDRESS": "9650 Scipio Lane",
@@ -91,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916c3eeebb_503b",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916c3eeebb_7cf1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296114,
+        "objectid": 1296120,
         "SHELTER_ID": 366224,
         "SHELTER_NAME": "White Mountain Relief Center",
         "ADDRESS": "687 Hull Road #659",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916c3eeebb_503c",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916c3eeebb_7cf2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296115,
+        "objectid": 1296121,
         "SHELTER_ID": 365874,
         "SHELTER_NAME": "Minnehaha United Methodist Church",
         "ADDRESS": "3701 E 50th Street",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916c3eeebb_503d",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916c3eeebb_7cf3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296116,
+        "objectid": 1296122,
         "SHELTER_ID": 366367,
         "SHELTER_NAME": "Chinese Presbyterian Church",
         "ADDRESS": "265 8th Street",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916c3eeebb_503e",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916c3eeebb_7cf4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296117,
+        "objectid": 1296123,
         "SHELTER_ID": 339699,
         "SHELTER_NAME": "Southbury Senior Center",
         "ADDRESS": "561 Main Street South",
@@ -267,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916c3eeebb_503f",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916c3eeebb_7cf5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296118,
+        "objectid": 1296124,
         "SHELTER_ID": 222379,
         "SHELTER_NAME": "First Avenue Elementary School",
         "ADDRESS": "214 First Avenue",
@@ -310,10 +266,10 @@
       ]
     }
   ],
-  "totalFeatures": 7,
-  "numberMatched": 7,
-  "numberReturned": 7,
-  "timeStamp": "2024-08-19T22:05:58.195Z",
+  "totalFeatures": 6,
+  "numberMatched": 6,
+  "numberReturned": 6,
+  "timeStamp": "2024-08-19T22:35:00.912Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -324,6 +280,6 @@
     -122.2696,
     33.3558,
     -73.2129,
-    47.8408
+    44.9122
   ]
 }
