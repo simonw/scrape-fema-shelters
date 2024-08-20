@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916e3ef74a_-46f1",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916e3ef74a_2883",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296263,
+        "objectid": 1296275,
         "SHELTER_ID": 365050,
         "SHELTER_NAME": "South Strand Recreation Center",
         "ADDRESS": "9650 Scipio Lane",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916e3ef74a_-46f0",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916e3ef74a_2884",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296264,
+        "objectid": 1296276,
         "SHELTER_ID": 366224,
         "SHELTER_NAME": "White Mountain Relief Center",
         "ADDRESS": "687 Hull Road #659",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916e3ef74a_-46ef",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916e3ef74a_2885",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296265,
+        "objectid": 1296277,
         "SHELTER_ID": 365874,
         "SHELTER_NAME": "Minnehaha United Methodist Church",
         "ADDRESS": "3701 E 50th Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916e3ef74a_-46ee",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916e3ef74a_2886",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296266,
+        "objectid": 1296278,
         "SHELTER_ID": 366367,
         "SHELTER_NAME": "Chinese Presbyterian Church",
         "ADDRESS": "265 8th Street",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916e3ef74a_-46ed",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.1823,
-          40.7679
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1296267,
-        "SHELTER_ID": 222379,
-        "SHELTER_NAME": "First Avenue Elementary School",
-        "ADDRESS": "214 First Avenue",
-        "CITY": "Newark",
-        "STATE": "NJ",
-        "ZIP": "07104",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 484,
-        "POST_IMPACT_CAPACITY": 242,
-        "TOTAL_POPULATION": 43,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "RED CROSS OF NORTHERN NEW JERSEY",
-        "ORG_ID": 121745,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 40.76788791,
-        "LONGITUDE": -74.18227721,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -74.1823,
-        40.7679,
-        -74.1823,
-        40.7679
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_1916e3ef74a_-46ec",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916e3ef74a_2887",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296268,
+        "objectid": 1296279,
         "SHELTER_ID": 339699,
         "SHELTER_NAME": "Southbury Senior Center",
         "ADDRESS": "561 Main Street South",
@@ -264,12 +220,56 @@
         -73.2129,
         41.4929
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_1916e3ef74a_2888",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1823,
+          40.7679
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1296280,
+        "SHELTER_ID": 222379,
+        "SHELTER_NAME": "First Avenue Elementary School",
+        "ADDRESS": "214 First Avenue",
+        "CITY": "Newark",
+        "STATE": "NJ",
+        "ZIP": "07104",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 484,
+        "POST_IMPACT_CAPACITY": 242,
+        "TOTAL_POPULATION": 43,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "RED CROSS OF NORTHERN NEW JERSEY",
+        "ORG_ID": 121745,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 40.76788791,
+        "LONGITUDE": -74.18227721,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -74.1823,
+        40.7679,
+        -74.1823,
+        40.7679
+      ]
     }
   ],
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2024-08-20T06:37:20.235Z",
+  "timeStamp": "2024-08-20T07:06:06.596Z",
   "crs": {
     "type": "name",
     "properties": {
