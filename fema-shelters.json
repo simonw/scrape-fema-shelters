@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19176f557e3_4f5",
+      "id": "FEMANSSOpenShelters.fid--505e9b63_19176f557e3_3c1c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1296913,
+        "objectid": 1296917,
         "SHELTER_ID": 365874,
         "SHELTER_NAME": "Minnehaha United Methodist Church",
         "ADDRESS": "3701 E 50th Street",
@@ -44,56 +44,12 @@
         -93.2187,
         44.9122
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--505e9b63_19176f557e3_4f6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.2129,
-          41.4929
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1296914,
-        "SHELTER_ID": 339699,
-        "SHELTER_NAME": "Southbury Senior Center",
-        "ADDRESS": "561 Main Street South",
-        "CITY": "Southbury",
-        "STATE": "CT",
-        "ZIP": "06488",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 50,
-        "POST_IMPACT_CAPACITY": 50,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "CONNECTICUT REGIONAL CHAPTER",
-        "ORG_ID": 121320,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 41.49293131,
-        "LONGITUDE": -73.21292254,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -73.2129,
-        41.4929,
-        -73.2129,
-        41.4929
-      ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2024-08-22T00:49:01.046Z",
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2024-08-22T01:32:10.770Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -102,8 +58,8 @@
   },
   "bbox": [
     -93.2187,
-    41.4929,
-    -73.2129,
+    44.9122,
+    -93.2187,
     44.9122
   ]
 }
