@@ -22,9 +22,15 @@ jobs:
           count=$(($count + 1))
           echo "Attempt $count to fetch data..."
           
-          # Download to temp file
+          # Download to temp file and get HTTP status code
           temp_file=$(mktemp)
-          if curl -s 'https://gis.fema.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=FEMA:FEMANSSOpenShelters&maxFeatures=250&outputFormat=json' > "$temp_file"; then
+          http_code=$(curl -s -w "%{http_code}" 'https://gis.fema.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=FEMA:FEMANSSOpenShelters&maxFeatures=250&outputFormat=json' -o "$temp_file")
+          
+          if [ "$http_code" = "504" ]; then
+            echo "Received a 504 Gateway Timeout error. Logging and exiting without failure."
+            echo "504 Gateway Timeout encountered at $(date -u)" >> gateway_timeout_log.txt
+            exit 0
+          elif [ "$http_code" = "200" ]; then
             echo "Data downloaded successfully. Contents:"
             cat "$temp_file"
             echo "Attempting to process with jq..."
@@ -36,7 +42,7 @@ jobs:
               echo "jq processing failed."
             fi
           else
-            echo "Download failed."
+            echo "Download failed with HTTP code $http_code."
           fi
           
           if [ $count -ge $max_attempts ]; then
