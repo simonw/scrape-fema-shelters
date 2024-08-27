@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--63afda4f_191917421f2_-5f93",
+      "id": "FEMANSSOpenShelters.fid--63afda4f_191917421f2_-392c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1298064,
+        "objectid": 1298078,
         "SHELTER_ID": 362160,
         "SHELTER_NAME": "Keeau Armory",
         "ADDRESS": "16-512 Volcano Road",
@@ -47,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--63afda4f_191917421f2_-5f92",
+      "id": "FEMANSSOpenShelters.fid--63afda4f_191917421f2_-392b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2208,
+          39.7551
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1298079,
+        "SHELTER_ID": 363624,
+        "SHELTER_NAME": "Mt. Enon Baptist Church",
+        "ADDRESS": "1501 W Third Street",
+        "CITY": "Dayton",
+        "STATE": "OH",
+        "ZIP": "45402",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 300,
+        "POST_IMPACT_CAPACITY": 150,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 39.7551139,
+        "LONGITUDE": -84.2208322,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.2208,
+        39.7551,
+        -84.2208,
+        39.7551
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--63afda4f_191917421f2_-392a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1298065,
+        "objectid": 1298080,
         "SHELTER_ID": 365874,
         "SHELTER_NAME": "Minnehaha United Methodist Church",
         "ADDRESS": "3701 E 50th Street",
@@ -91,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--63afda4f_191917421f2_-5f91",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -114.9361,
-          44.2174
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1298066,
-        "SHELTER_ID": 366368,
-        "SHELTER_NAME": "TEP-Stanley City Hall",
-        "ADDRESS": "510 Eva Falls Ave",
-        "CITY": "Stanley",
-        "STATE": "ID",
-        "ZIP": "83278",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -114.9361,
-        44.2174,
-        -114.9361,
-        44.2174
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--63afda4f_191917421f2_-5f90",
+      "id": "FEMANSSOpenShelters.fid--63afda4f_191917421f2_-3929",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1298067,
+        "objectid": 1298081,
         "SHELTER_ID": 361999,
         "SHELTER_NAME": "Pahoa Neighborhood Facility",
         "ADDRESS": "15-3022 Kauhale St.",
@@ -181,7 +181,7 @@
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2024-08-27T01:57:22.950Z",
+  "timeStamp": "2024-08-27T02:43:49.151Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -191,7 +191,7 @@
   "bbox": [
     -155.0441,
     19.4928,
-    -93.2187,
+    -84.2208,
     44.9122
   ]
 }
