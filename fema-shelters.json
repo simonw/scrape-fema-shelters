@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191a02891d4_-2f72",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.5036,
-          34.1722
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1298961,
-        "SHELTER_ID": 169496,
-        "SHELTER_NAME": "Balboa Sports Complex",
-        "ADDRESS": "17015 Burbank Blvd",
-        "CITY": "Encino",
-        "STATE": "CA",
-        "ZIP": "91316",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 540,
-        "POST_IMPACT_CAPACITY": 270,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC OF GREATER LOS ANGELES",
-        "ORG_ID": 121973,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 34.17223416,
-        "LONGITUDE": -118.50363429,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.5036,
-        34.1722,
-        -118.5036,
-        34.1722
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191a02891d4_-2f71",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191a02891d4_7e1d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1298962,
+        "objectid": 1298969,
         "SHELTER_ID": 357755,
         "SHELTER_NAME": "LDS Church Challis",
         "ADDRESS": "24695 US-93",
@@ -88,12 +44,56 @@
         -114.2168,
         44.522
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191a02891d4_7e1e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5036,
+          34.1722
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1298970,
+        "SHELTER_ID": 169496,
+        "SHELTER_NAME": "Balboa Sports Complex",
+        "ADDRESS": "17015 Burbank Blvd",
+        "CITY": "Encino",
+        "STATE": "CA",
+        "ZIP": "91316",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 540,
+        "POST_IMPACT_CAPACITY": 270,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC OF GREATER LOS ANGELES",
+        "ORG_ID": 121973,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 34.17223416,
+        "LONGITUDE": -118.50363429,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.5036,
+        34.1722,
+        -118.5036,
+        34.1722
+      ]
     }
   ],
   "totalFeatures": 2,
   "numberMatched": 2,
   "numberReturned": 2,
-  "timeStamp": "2024-08-29T23:34:49.513Z",
+  "timeStamp": "2024-08-30T00:49:56.980Z",
   "crs": {
     "type": "name",
     "properties": {
