@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191b1fe5c78_658c",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191b351e73c_-72d1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8754,
+          33.9296
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1299317,
+        "SHELTER_ID": 366246,
+        "SHELTER_NAME": "TEP-Nicolet Middle School",
+        "ADDRESS": "101 E Nicolet Street",
+        "CITY": "Banning",
+        "STATE": "CA",
+        "ZIP": "92220",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -116.8754,
+        33.9296,
+        -116.8754,
+        33.9296
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191b351e73c_-72d0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1299305,
+        "objectid": 1299318,
         "SHELTER_ID": 340561,
         "SHELTER_NAME": "Klamath County Fairgrounds - Linman Hall",
         "ADDRESS": "3531 S 6th Street",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191b1fe5c78_658d",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191b351e73c_-72cf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1299306,
+        "objectid": 1299319,
         "SHELTER_ID": 366374,
         "SHELTER_NAME": "Cascade Community Church",
         "ADDRESS": "109 W Pine Street",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191b1fe5c78_658e",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191b351e73c_-72ce",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1299307,
+        "objectid": 1299320,
         "SHELTER_ID": 236207,
         "SHELTER_NAME": "First United Methodist Church",
         "ADDRESS": "420 N Nevada Ave",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191b1fe5c78_658f",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191b351e73c_-72cd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1299308,
+        "objectid": 1299321,
         "SHELTER_ID": 359143,
         "SHELTER_NAME": "Mirabelli Community Center",
         "ADDRESS": "6200 Hargrove Ave",
@@ -178,10 +222,10 @@
       ]
     }
   ],
-  "totalFeatures": 4,
-  "numberMatched": 4,
-  "numberReturned": 4,
-  "timeStamp": "2024-09-02T14:35:22.799Z",
+  "totalFeatures": 5,
+  "numberMatched": 5,
+  "numberReturned": 5,
+  "timeStamp": "2024-09-02T15:34:46.503Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -190,7 +234,7 @@
   },
   "bbox": [
     -121.7451,
-    36.1732,
+    33.9296,
     -104.8215,
     44.5162
   ]
