@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191b08fdf03_-5e7e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.0433,
-          44.5162
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1299174,
-        "SHELTER_ID": 366374,
-        "SHELTER_NAME": "Cascade Community Church",
-        "ADDRESS": "109 W Pine Street",
-        "CITY": "Cascade",
-        "STATE": "ID",
-        "ZIP": "83611",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -116.0433,
-        44.5162,
-        -116.0433,
-        44.5162
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191b08fdf03_-5e7d",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191b08fdf03_34dd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1299175,
+        "objectid": 1299186,
         "SHELTER_ID": 340561,
         "SHELTER_NAME": "Klamath County Fairgrounds - Linman Hall",
         "ADDRESS": "3531 S 6th Street",
@@ -91,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191b08fdf03_-5e7c",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191b08fdf03_34de",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0433,
+          44.5162
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1299187,
+        "SHELTER_ID": 366374,
+        "SHELTER_NAME": "Cascade Community Church",
+        "ADDRESS": "109 W Pine Street",
+        "CITY": "Cascade",
+        "STATE": "ID",
+        "ZIP": "83611",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -116.0433,
+        44.5162,
+        -116.0433,
+        44.5162
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191b08fdf03_34df",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1299176,
+        "objectid": 1299188,
         "SHELTER_ID": 236207,
         "SHELTER_NAME": "First United Methodist Church",
         "ADDRESS": "420 N Nevada Ave",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191b08fdf03_-5e7b",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191b08fdf03_34e0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1299177,
+        "objectid": 1299189,
         "SHELTER_ID": 366375,
         "SHELTER_NAME": "TEP-Chiloquin Community Center",
         "ADDRESS": "140 S 1st Ave",
@@ -181,7 +181,7 @@
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2024-09-02T03:35:36.306Z",
+  "timeStamp": "2024-09-02T04:36:46.736Z",
   "crs": {
     "type": "name",
     "properties": {
