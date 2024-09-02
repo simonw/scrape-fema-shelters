@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191afbdad6c_-508c",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191afbdad6c_4e79",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0433,
+          44.5162
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1299158,
+        "SHELTER_ID": 366374,
+        "SHELTER_NAME": "Cascade Community Church",
+        "ADDRESS": "109 W Pine Street",
+        "CITY": "Cascade",
+        "STATE": "ID",
+        "ZIP": "83611",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -116.0433,
+        44.5162,
+        -116.0433,
+        44.5162
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191afbdad6c_4e7a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1299154,
+        "objectid": 1299159,
         "SHELTER_ID": 236207,
         "SHELTER_NAME": "First United Methodist Church",
         "ADDRESS": "420 N Nevada Ave",
@@ -46,10 +90,10 @@
       ]
     }
   ],
-  "totalFeatures": 1,
-  "numberMatched": 1,
-  "numberReturned": 1,
-  "timeStamp": "2024-09-01T23:34:53.885Z",
+  "totalFeatures": 2,
+  "numberMatched": 2,
+  "numberReturned": 2,
+  "timeStamp": "2024-09-02T00:50:03.499Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -57,9 +101,9 @@
     }
   },
   "bbox": [
-    -104.8215,
+    -116.0433,
     38.8398,
     -104.8215,
-    38.8398
+    44.5162
   ]
 }
