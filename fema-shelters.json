@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191bf25cfcb_-76f4",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191bf25cfcb_-50e5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1299774,
+        "objectid": 1299780,
         "SHELTER_ID": 340561,
         "SHELTER_NAME": "Klamath County Fairgrounds - Linman Hall",
         "ADDRESS": "3531 S 6th Street",
@@ -44,56 +44,12 @@
         -121.7451,
         42.2065
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191bf25cfcb_-76f3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.3779,
-          31.9008
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1299775,
-        "SHELTER_ID": 366376,
-        "SHELTER_NAME": "Refuge Ministries",
-        "ADDRESS": "1211 E 57th Street",
-        "CITY": "Odessa",
-        "STATE": "TX",
-        "ZIP": "79762",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -102.3779,
-        31.9008,
-        -102.3779,
-        31.9008
-      ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2024-09-04T22:35:18.648Z",
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2024-09-04T23:34:38.045Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -102,8 +58,8 @@
   },
   "bbox": [
     -121.7451,
-    31.9008,
-    -102.3779,
+    42.2065,
+    -121.7451,
     42.2065
   ]
 }
