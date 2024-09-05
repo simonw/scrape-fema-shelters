@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191c08f6743_-3b9c",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191c08f6743_-c68",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1299806,
+        "objectid": 1299810,
         "SHELTER_ID": 340561,
         "SHELTER_NAME": "Klamath County Fairgrounds - Linman Hall",
         "ADDRESS": "3531 S 6th Street",
@@ -44,12 +44,56 @@
         -121.7451,
         42.2065
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191c08f6743_-c67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2351,
+          33.7661
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1299811,
+        "SHELTER_ID": 365477,
+        "SHELTER_NAME": "Pinacate Middle School",
+        "ADDRESS": "1990 S A Street",
+        "CITY": "Perris",
+        "STATE": "CA",
+        "ZIP": "92570",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 33.7661038,
+        "LONGITUDE": -117.2350769,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.2351,
+        33.7661,
+        -117.2351,
+        33.7661
+      ]
     }
   ],
-  "totalFeatures": 1,
-  "numberMatched": 1,
-  "numberReturned": 1,
-  "timeStamp": "2024-09-05T05:35:33.457Z",
+  "totalFeatures": 2,
+  "numberMatched": 2,
+  "numberReturned": 2,
+  "timeStamp": "2024-09-05T06:38:32.065Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -58,8 +102,8 @@
   },
   "bbox": [
     -121.7451,
-    42.2065,
-    -121.7451,
+    33.7661,
+    -117.2351,
     42.2065
   ]
 }
