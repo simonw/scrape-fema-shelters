@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191bf25cfcb_7b89",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191bfeed28d_-6bec",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6222,
+          42.2986
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1299791,
+        "SHELTER_ID": 366377,
+        "SHELTER_NAME": "Salvation Army of Freeport",
+        "ADDRESS": "106 W Exchange Street",
+        "CITY": "Freeport",
+        "STATE": "IL",
+        "ZIP": "61032",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.6222,
+        42.2986,
+        -89.6222,
+        42.2986
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191bfeed28d_-6beb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1299787,
+        "objectid": 1299792,
         "SHELTER_ID": 340561,
         "SHELTER_NAME": "Klamath County Fairgrounds - Linman Hall",
         "ADDRESS": "3531 S 6th Street",
@@ -46,10 +90,10 @@
       ]
     }
   ],
-  "totalFeatures": 1,
-  "numberMatched": 1,
-  "numberReturned": 1,
-  "timeStamp": "2024-09-05T01:59:28.567Z",
+  "totalFeatures": 2,
+  "numberMatched": 2,
+  "numberReturned": 2,
+  "timeStamp": "2024-09-05T02:46:39.720Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -59,7 +103,7 @@
   "bbox": [
     -121.7451,
     42.2065,
-    -121.7451,
-    42.2065
+    -89.6222,
+    42.2986
   ]
 }
