@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191c3dd5ab2_37f5",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191c4a2556b_-d93",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1299912,
+        "objectid": 1299922,
         "SHELTER_ID": 340561,
         "SHELTER_NAME": "Klamath County Fairgrounds - Linman Hall",
         "ADDRESS": "3531 S 6th Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191c3dd5ab2_37f6",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191c4a2556b_-d92",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1299913,
+        "objectid": 1299923,
         "SHELTER_ID": 365477,
         "SHELTER_NAME": "Pinacate Middle School",
         "ADDRESS": "1990 S A Street",
@@ -88,12 +88,56 @@
         -117.2351,
         33.7661
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191c4a2556b_-d91",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5163,
+          41.0421
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1299924,
+        "SHELTER_ID": 194925,
+        "SHELTER_NAME": "Firestone Park Community Center",
+        "ADDRESS": "1480 Girard Street",
+        "CITY": "Akron",
+        "STATE": "OH",
+        "ZIP": "44301",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 222,
+        "POST_IMPACT_CAPACITY": 111,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "American Red Cross of Summit and Portage Counties",
+        "ORG_ID": 121153,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 41.04213715,
+        "LONGITUDE": -81.51634485,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.5163,
+        41.0421,
+        -81.5163,
+        41.0421
+      ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2024-09-05T23:34:46.407Z",
+  "totalFeatures": 3,
+  "numberMatched": 3,
+  "numberReturned": 3,
+  "timeStamp": "2024-09-06T00:50:00.121Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -103,7 +147,7 @@
   "bbox": [
     -121.7451,
     33.7661,
-    -117.2351,
+    -81.5163,
     42.2065
   ]
 }
