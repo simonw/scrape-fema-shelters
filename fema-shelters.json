@@ -1,9 +1,65 @@
 {
   "type": "FeatureCollection",
-  "features": [],
-  "totalFeatures": 0,
-  "numberMatched": 0,
-  "numberReturned": 0,
-  "timeStamp": "2024-09-07T01:58:06.748Z",
-  "crs": null
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191ca145426_-501b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3567,
+          36.1493
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1300009,
+        "SHELTER_ID": 366378,
+        "SHELTER_NAME": "Coalinga College",
+        "ADDRESS": "300 W Cherry Ave",
+        "CITY": "Coalinga",
+        "STATE": "CA",
+        "ZIP": "93210",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.3567,
+        36.1493,
+        -120.3567,
+        36.1493
+      ]
+    }
+  ],
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2024-09-07T02:45:27.951Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    -120.3567,
+    36.1493,
+    -120.3567,
+    36.1493
+  ]
 }
