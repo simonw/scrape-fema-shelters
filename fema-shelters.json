@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191cfcab451_-302a",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191cfcab451_61af",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7992,
+          39.539
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1300110,
+        "SHELTER_ID": 366381,
+        "SHELTER_NAME": "Reno Senior Center",
+        "ADDRESS": "1155 E 9th Street",
+        "CITY": "Reno",
+        "STATE": "NV",
+        "ZIP": "89512",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -119.7992,
+        39.539,
+        -119.7992,
+        39.539
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191cfcab451_61b0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300107,
+        "objectid": 1300111,
         "SHELTER_ID": 337536,
         "SHELTER_NAME": "Mt. Vernon Community Hall",
         "ADDRESS": "640 Ingle Street",
@@ -46,10 +90,10 @@
       ]
     }
   ],
-  "totalFeatures": 1,
-  "numberMatched": 1,
-  "numberReturned": 1,
-  "timeStamp": "2024-09-08T04:35:48.960Z",
+  "totalFeatures": 2,
+  "numberMatched": 2,
+  "numberReturned": 2,
+  "timeStamp": "2024-09-08T05:35:22.420Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -57,8 +101,8 @@
     }
   },
   "bbox": [
-    -119.1133,
-    44.4104,
+    -119.7992,
+    39.539,
     -119.1133,
     44.4104
   ]
