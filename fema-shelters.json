@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191ceef244f_3fc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9028,
-          43.2448
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1300098,
-        "SHELTER_ID": 366380,
-        "SHELTER_NAME": "North Lake School",
-        "ADDRESS": "57566 Fort Rock Road",
-        "CITY": "Silver Lake",
-        "STATE": "OR",
-        "ZIP": "97639",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.9028,
-        43.2448,
-        -120.9028,
-        43.2448
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191ceef244f_3fd",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191ceef244f_1fff",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300099,
+        "objectid": 1300102,
         "SHELTER_ID": 337536,
         "SHELTER_NAME": "Mt. Vernon Community Hall",
         "ADDRESS": "640 Ingle Street",
@@ -90,10 +46,10 @@
       ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2024-09-08T02:03:15.146Z",
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2024-09-08T02:47:55.941Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -101,8 +57,8 @@
     }
   },
   "bbox": [
-    -120.9028,
-    43.2448,
+    -119.1133,
+    44.4104,
     -119.1133,
     44.4104
   ]
