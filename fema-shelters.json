@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191d339d0dc_1f61",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191d339d0dc_40ea",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300345,
+        "objectid": 1300360,
         "SHELTER_ID": 173495,
         "SHELTER_NAME": "San Bernardino County Fairgrounds",
         "ADDRESS": "14800 7th Street",
@@ -47,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191d339d0dc_1f62",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191d339d0dc_40eb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7992,
+          39.539
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1300361,
+        "SHELTER_ID": 366381,
+        "SHELTER_NAME": "Reno Senior Center",
+        "ADDRESS": "1155 E 9th Street",
+        "CITY": "Reno",
+        "STATE": "NV",
+        "ZIP": "89512",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -119.7992,
+        39.539,
+        -119.7992,
+        39.539
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191d339d0dc_40ec",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300346,
+        "objectid": 1300362,
         "SHELTER_ID": 337261,
         "SHELTER_NAME": "Jessie Turner Community Center",
         "ADDRESS": "15556 Summit Ave",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191d339d0dc_1f63",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191d339d0dc_40ed",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300347,
+        "objectid": 1300363,
         "SHELTER_ID": 337536,
         "SHELTER_NAME": "Mt. Vernon Community Hall",
         "ADDRESS": "640 Ingle Street",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191d339d0dc_1f64",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191d339d0dc_40ee",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300348,
+        "objectid": 1300364,
         "SHELTER_ID": 366379,
         "SHELTER_NAME": "Crook County Fairgrounds - Carey Foster Hall",
         "ADDRESS": "1280 S Main Street",
@@ -176,56 +220,12 @@
         -120.8412,
         44.2916
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191d339d0dc_1f65",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.7992,
-          39.539
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1300349,
-        "SHELTER_ID": 366381,
-        "SHELTER_NAME": "Reno Senior Center",
-        "ADDRESS": "1155 E 9th Street",
-        "CITY": "Reno",
-        "STATE": "NV",
-        "ZIP": "89512",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -119.7992,
-        39.539,
-        -119.7992,
-        39.539
-      ]
     }
   ],
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2024-09-08T22:35:14.392Z",
+  "timeStamp": "2024-09-08T23:34:49.828Z",
   "crs": {
     "type": "name",
     "properties": {
