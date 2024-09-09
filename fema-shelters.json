@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191d465c414_-6b53",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191d465c414_-49c1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6051,
+          38.7549
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1300411,
+        "SHELTER_ID": 356383,
+        "SHELTER_NAME": "Twin Pine Casino",
+        "ADDRESS": "22223 CA-29 ",
+        "CITY": "Middletown",
+        "STATE": "CA",
+        "ZIP": "95461",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 1,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Northern California Coastal Region",
+        "ORG_ID": 126093,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 38.7548746,
+        "LONGITUDE": -122.6051351,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.6051,
+        38.7549,
+        -122.6051,
+        38.7549
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191d465c414_-49c0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300395,
+        "objectid": 1300412,
         "SHELTER_ID": 173495,
         "SHELTER_NAME": "San Bernardino County Fairgrounds",
         "ADDRESS": "14800 7th Street",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191d465c414_-6b52",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191d465c414_-49bf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300396,
+        "objectid": 1300413,
         "SHELTER_ID": 366381,
         "SHELTER_NAME": "Reno Senior Center",
         "ADDRESS": "1155 E 9th Street",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191d465c414_-6b51",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191d465c414_-49be",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300397,
+        "objectid": 1300414,
         "SHELTER_ID": 337261,
         "SHELTER_NAME": "Jessie Turner Community Center",
         "ADDRESS": "15556 Summit Ave",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191d465c414_-6b50",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191d465c414_-49bd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300398,
+        "objectid": 1300415,
         "SHELTER_ID": 337536,
         "SHELTER_NAME": "Mt. Vernon Community Hall",
         "ADDRESS": "640 Ingle Street",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2cb10641_191d465c414_-6b4f",
+      "id": "FEMANSSOpenShelters.fid-2cb10641_191d465c414_-49bc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300399,
+        "objectid": 1300416,
         "SHELTER_ID": 366379,
         "SHELTER_NAME": "Crook County Fairgrounds - Carey Foster Hall",
         "ADDRESS": "1280 S Main Street",
@@ -222,10 +266,10 @@
       ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2024-09-09T02:01:20.229Z",
+  "totalFeatures": 6,
+  "numberMatched": 6,
+  "numberReturned": 6,
+  "timeStamp": "2024-09-09T02:47:48.823Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -233,7 +277,7 @@
     }
   },
   "bbox": [
-    -120.8412,
+    -122.6051,
     34.1504,
     -117.3097,
     44.4104
