@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191d927309a_3390",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191d927309a_64d2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300807,
+        "objectid": 1300825,
         "SHELTER_ID": 173495,
         "SHELTER_NAME": "San Bernardino County Fairgrounds",
         "ADDRESS": "14800 7th Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191d927309a_3391",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191d927309a_64d3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300808,
+        "objectid": 1300826,
         "SHELTER_ID": 366381,
         "SHELTER_NAME": "Reno Senior Center",
         "ADDRESS": "1155 E 9th Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191d927309a_3392",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191d927309a_64d4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300809,
+        "objectid": 1300827,
         "SHELTER_ID": 337261,
         "SHELTER_NAME": "Jessie Turner Community Center",
         "ADDRESS": "15556 Summit Ave",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191d927309a_3393",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191d927309a_64d5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300810,
+        "objectid": 1300828,
         "SHELTER_ID": 337536,
         "SHELTER_NAME": "Mt. Vernon Community Hall",
         "ADDRESS": "640 Ingle Street",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191d927309a_3394",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191d927309a_64d6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300811,
+        "objectid": 1300829,
         "SHELTER_ID": 366379,
         "SHELTER_NAME": "Crook County Fairgrounds - Carey Foster Hall",
         "ADDRESS": "1280 S Main Street",
@@ -223,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191d927309a_3395",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191d927309a_64d7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5948,
+          33.6413
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1300830,
+        "SHELTER_ID": 169568,
+        "SHELTER_NAME": "TEP-Bell Tower Community Center",
+        "ADDRESS": "22232 El Paseo",
+        "CITY": "RANCHO SANTA MARGARITA",
+        "STATE": "CA",
+        "ZIP": "92688",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 370,
+        "POST_IMPACT_CAPACITY": 185,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ORANGE COUNTY CHAPTER",
+        "ORG_ID": 121703,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 33.64132839,
+        "LONGITUDE": -117.59478844,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.5948,
+        33.6413,
+        -117.5948,
+        33.6413
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191d927309a_64d8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1300812,
+        "objectid": 1300831,
         "SHELTER_ID": 356383,
         "SHELTER_NAME": "Twin Pine Casino",
         "ADDRESS": "22223 CA-29 ",
@@ -266,10 +310,10 @@
       ]
     }
   ],
-  "totalFeatures": 6,
-  "numberMatched": 6,
-  "numberReturned": 6,
-  "timeStamp": "2024-09-10T00:50:01.244Z",
+  "totalFeatures": 7,
+  "numberMatched": 7,
+  "numberReturned": 7,
+  "timeStamp": "2024-09-10T02:00:21.240Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -278,7 +322,7 @@
   },
   "bbox": [
     -122.6051,
-    34.1504,
+    33.6413,
     -117.3097,
     44.4104
   ]
