@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-3d07",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-1ecc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1301126,
+        "objectid": 1301153,
         "SHELTER_ID": 173495,
         "SHELTER_NAME": "San Bernardino County Fairgrounds",
         "ADDRESS": "14800 7th Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-3d06",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-1ecb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1301127,
+        "objectid": 1301154,
         "SHELTER_ID": 366381,
         "SHELTER_NAME": "Reno Senior Center",
         "ADDRESS": "1155 E 9th Street",
@@ -91,95 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-3d05",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4651,
-          34.1504
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1301128,
-        "SHELTER_ID": 337261,
-        "SHELTER_NAME": "Jessie Turner Community Center",
-        "ADDRESS": "15556 Summit Ave",
-        "CITY": "Fontana",
-        "STATE": "CA",
-        "ZIP": "92336",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1132,
-        "POST_IMPACT_CAPACITY": 566,
-        "TOTAL_POPULATION": 66,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "INLAND EMPIRE CHAPTER",
-        "ORG_ID": 121499,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 34.1504166,
-        "LONGITUDE": -117.4651152,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.4651,
-        34.1504,
-        -117.4651,
-        34.1504
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-3d04",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.1133,
-          44.4104
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1301129,
-        "SHELTER_ID": 337536,
-        "SHELTER_NAME": "Mt. Vernon Community Hall",
-        "ADDRESS": "640 Ingle Street",
-        "CITY": "Mt. Vernon",
-        "STATE": "OR",
-        "ZIP": "97865",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 160,
-        "POST_IMPACT_CAPACITY": 80,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "OREGON MOUNTAIN RIVER",
-        "ORG_ID": 121706,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 44.41037313,
-        "LONGITUDE": -119.11330938,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -119.1133,
-        44.4104,
-        -119.1133,
-        44.4104
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-3d03",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-1eca",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1301130,
+        "objectid": 1301155,
         "SHELTER_ID": 366379,
         "SHELTER_NAME": "Crook County Fairgrounds - Carey Foster Hall",
         "ADDRESS": "1280 S Main Street",
@@ -223,7 +135,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-3d02",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-1ec9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4651,
+          34.1504
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1301156,
+        "SHELTER_ID": 337261,
+        "SHELTER_NAME": "Jessie Turner Community Center",
+        "ADDRESS": "15556 Summit Ave",
+        "CITY": "Fontana",
+        "STATE": "CA",
+        "ZIP": "92336",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1132,
+        "POST_IMPACT_CAPACITY": 566,
+        "TOTAL_POPULATION": 66,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "INLAND EMPIRE CHAPTER",
+        "ORG_ID": 121499,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.1504166,
+        "LONGITUDE": -117.4651152,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.4651,
+        34.1504,
+        -117.4651,
+        34.1504
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-1ec8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1133,
+          44.4104
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1301157,
+        "SHELTER_ID": 337536,
+        "SHELTER_NAME": "Mt. Vernon Community Hall",
+        "ADDRESS": "640 Ingle Street",
+        "CITY": "Mt. Vernon",
+        "STATE": "OR",
+        "ZIP": "97865",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 160,
+        "POST_IMPACT_CAPACITY": 80,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "OREGON MOUNTAIN RIVER",
+        "ORG_ID": 121706,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 44.41037313,
+        "LONGITUDE": -119.11330938,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -119.1133,
+        44.4104,
+        -119.1133,
+        44.4104
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-1ec7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1301131,
+        "objectid": 1301158,
         "SHELTER_ID": 169568,
         "SHELTER_NAME": "Bell Tower Community Center",
         "ADDRESS": "22232 El Paseo",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-3d01",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-1ec6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1301132,
+        "objectid": 1301159,
         "SHELTER_ID": 173630,
         "SHELTER_NAME": "TEP-Santiago High School",
         "ADDRESS": "1395 E Foothill Pkwy",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-3d00",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-1ec5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1301133,
+        "objectid": 1301160,
         "SHELTER_ID": 355803,
         "SHELTER_NAME": "Hacienda Heights Community Center",
         "ADDRESS": "1234 Valencia Ave",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-3cff",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191dbcee87a_-1ec4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1301134,
+        "objectid": 1301161,
         "SHELTER_ID": 356383,
         "SHELTER_NAME": "Twin Pine Casino",
         "ADDRESS": "22223 CA-29 ",
@@ -401,7 +401,7 @@
   "totalFeatures": 9,
   "numberMatched": 9,
   "numberReturned": 9,
-  "timeStamp": "2024-09-10T13:35:46.236Z",
+  "timeStamp": "2024-09-10T14:35:56.039Z",
   "crs": {
     "type": "name",
     "properties": {
