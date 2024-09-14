@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-3f5b",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-2b68",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1305071,
+        "objectid": 1305104,
         "SHELTER_ID": 334418,
         "SHELTER_NAME": "Samuel Fels High School",
         "ADDRESS": "5500 Langdon Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-3f5a",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-2b67",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1305072,
+        "objectid": 1305105,
         "SHELTER_ID": 350402,
         "SHELTER_NAME": "La Pine Community Center",
         "ADDRESS": "16405 First Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-3f59",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-2b66",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1305073,
+        "objectid": 1305106,
         "SHELTER_ID": 366382,
         "SHELTER_NAME": "Fairplex (Gate 3)",
         "ADDRESS": "601 West McKinley Ave",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-3f58",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-2b65",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1305074,
+        "objectid": 1305107,
         "SHELTER_ID": 347496,
         "SHELTER_NAME": "County Farm Saferoom",
         "ADDRESS": "15035 County Farm Road",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-3f57",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-2b64",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1305075,
+        "objectid": 1305108,
         "SHELTER_ID": 337536,
         "SHELTER_NAME": "Mt. Vernon Community Hall",
         "ADDRESS": "640 Ingle Street",
@@ -223,51 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-3f56",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.1723,
-          30.0061
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1305076,
-        "SHELTER_ID": 366387,
-        "SHELTER_NAME": "Johnny Bright Playground",
-        "ADDRESS": "3401 Cleary St",
-        "CITY": "Metarie",
-        "STATE": "LA",
-        "ZIP": "70002",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 11,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.1723,
-        30.0061,
-        -90.1723,
-        30.0061
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-3f55",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-2b63",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1305077,
+        "objectid": 1305109,
         "SHELTER_ID": 116239,
         "SHELTER_NAME": "Houma Municipal Auditorium",
         "ADDRESS": "880 Verrer",
@@ -311,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-3f54",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-2b62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1723,
+          30.0061
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1305110,
+        "SHELTER_ID": 366387,
+        "SHELTER_NAME": "Johnny Bright Playground",
+        "ADDRESS": "3401 Cleary St",
+        "CITY": "Metarie",
+        "STATE": "LA",
+        "ZIP": "70002",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 11,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.1723,
+        30.0061,
+        -90.1723,
+        30.0061
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-2b61",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1305078,
+        "objectid": 1305111,
         "SHELTER_ID": 337261,
         "SHELTER_NAME": "Jessie Turner Community Center",
         "ADDRESS": "15556 Summit Ave",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-3f53",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-2b60",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1305079,
+        "objectid": 1305112,
         "SHELTER_ID": 173630,
         "SHELTER_NAME": "Santiago High School",
         "ADDRESS": "1395 E Foothill Pkwy",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-3f52",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-2b5f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1305080,
+        "objectid": 1305113,
         "SHELTER_ID": 173495,
         "SHELTER_NAME": "San Bernardino County Fairgrounds",
         "ADDRESS": "14800 7th Street",
@@ -443,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-3f51",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_191ef8cb329_-2b5e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1305081,
+        "objectid": 1305114,
         "SHELTER_ID": 366389,
         "SHELTER_NAME": "North United Methodist Church",
         "ADDRESS": "3808 N Meridian Street",
@@ -489,7 +489,7 @@
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2024-09-14T08:36:44.034Z",
+  "timeStamp": "2024-09-14T09:34:27.437Z",
   "crs": {
     "type": "name",
     "properties": {
