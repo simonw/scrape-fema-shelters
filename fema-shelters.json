@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-67cd",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-4a47",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1308263,
+        "objectid": 1308277,
         "SHELTER_ID": 350402,
         "SHELTER_NAME": "La Pine Community Center",
         "ADDRESS": "16405 First Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-67cc",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-4a46",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1308264,
+        "objectid": 1308278,
         "SHELTER_ID": 366382,
         "SHELTER_NAME": "Fairplex (Gate 3)",
         "ADDRESS": "601 West McKinley Ave",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-67cb",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-4a45",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1308265,
+        "objectid": 1308279,
         "SHELTER_ID": 173495,
         "SHELTER_NAME": "San Bernardino County Fairgrounds",
         "ADDRESS": "14800 7th Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-67ca",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-4a44",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1308266,
+        "objectid": 1308280,
         "SHELTER_ID": 366393,
         "SHELTER_NAME": "The Brunswick Center at Leland",
         "ADDRESS": "121 Town Hall Dr NE",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-67c9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.7145,
-          29.59
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1308267,
-        "SHELTER_ID": 116237,
-        "SHELTER_NAME": "Dumas Auditorium ",
-        "ADDRESS": "301 W Tunnel Blvd ",
-        "CITY": "Houma",
-        "STATE": "LA",
-        "ZIP": "70360",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 250,
-        "POST_IMPACT_CAPACITY": 125,
-        "TOTAL_POPULATION": 25,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "SOUTHEAST LOUISIANA CHAPTER",
-        "ORG_ID": 121813,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 29.58997258,
-        "LONGITUDE": -90.71449365,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.7145,
-        29.59,
-        -90.7145,
-        29.59
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-67c8",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-4a43",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1308268,
+        "objectid": 1308281,
         "SHELTER_ID": 366390,
         "SHELTER_NAME": "Fountain of Living Waters Church Phelan",
         "ADDRESS": "10120 Johnson Rd",
@@ -267,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-67c7",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-4a42",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1308269,
+        "objectid": 1308282,
         "SHELTER_ID": 366391,
         "SHELTER_NAME": "Ortega High School",
         "ADDRESS": "520 Chaney Street",
@@ -308,12 +264,56 @@
         -117.3217,
         33.6637
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-29c462e8_192080f1751_-4a41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7145,
+          29.59
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1308283,
+        "SHELTER_ID": 116237,
+        "SHELTER_NAME": "Dumas Auditorium ",
+        "ADDRESS": "301 W Tunnel Blvd ",
+        "CITY": "Houma",
+        "STATE": "LA",
+        "ZIP": "70360",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 250,
+        "POST_IMPACT_CAPACITY": 125,
+        "TOTAL_POPULATION": 21,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SOUTHEAST LOUISIANA CHAPTER",
+        "ORG_ID": 121813,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 29.58997258,
+        "LONGITUDE": -90.71449365,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.7145,
+        29.59,
+        -90.7145,
+        29.59
+      ]
     }
   ],
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2024-09-19T02:47:42.209Z",
+  "timeStamp": "2024-09-19T03:36:24.203Z",
   "crs": {
     "type": "name",
     "properties": {
