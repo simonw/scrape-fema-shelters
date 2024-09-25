@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_19226ae2446_-70e",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_19226ae2446_38fa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1309851,
+        "objectid": 1309855,
         "SHELTER_ID": 116237,
         "SHELTER_NAME": "Dumas Auditorium ",
         "ADDRESS": "301 W Tunnel Blvd ",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_19226ae2446_-70d",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_19226ae2446_38fb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1309852,
+        "objectid": 1309856,
         "SHELTER_ID": 362697,
         "SHELTER_NAME": "The First Tee of Coastal Carolinas",
         "ADDRESS": "445 Tarkin Court NW",
@@ -88,12 +88,56 @@
         -78.3611,
         34.0034
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_19226ae2446_38fc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.328,
+          42.2962
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1309857,
+        "SHELTER_ID": 366401,
+        "SHELTER_NAME": "Inkster Recreation Complex",
+        "ADDRESS": "2025 Middlebelt Road",
+        "CITY": "Inkster",
+        "STATE": "MI",
+        "ZIP": "48141",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 75,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.328,
+        42.2962,
+        -83.328,
+        42.2962
+      ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2024-09-25T02:49:02.897Z",
+  "totalFeatures": 3,
+  "numberMatched": 3,
+  "numberReturned": 3,
+  "timeStamp": "2024-09-25T03:38:53.202Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -104,6 +148,6 @@
     -90.7145,
     29.59,
     -78.3611,
-    34.0034
+    42.2962
   ]
 }
