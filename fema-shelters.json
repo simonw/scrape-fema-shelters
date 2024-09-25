@@ -3,7 +3,139 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_-420e",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_1458",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4873,
+          27.574
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1309974,
+        "SHELTER_ID": 134771,
+        "SHELTER_NAME": "Buffalo Creek Middle School",
+        "ADDRESS": "7320  69th Street East",
+        "CITY": "Palmetto",
+        "STATE": "FL",
+        "ZIP": "34221",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 27.57399447,
+        "LONGITUDE": -82.48726237,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.4873,
+        27.574,
+        -82.4873,
+        27.574
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_1459",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6014,
+          27.4455
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1309975,
+        "SHELTER_ID": 134187,
+        "SHELTER_NAME": "Lee Middle School",
+        "ADDRESS": "4000 53rd Ave West",
+        "CITY": "Bradenton",
+        "STATE": "FL",
+        "ZIP": "34210",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 27.4455138,
+        "LONGITUDE": -82.601421,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.6014,
+        27.4455,
+        -82.6014,
+        27.4455
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_145a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6793,
+          27.7616
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1309976,
+        "SHELTER_ID": 70950,
+        "SHELTER_NAME": "Gibbs High School",
+        "ADDRESS": "850  34th St., South",
+        "CITY": "St. Petersburg",
+        "STATE": "FL",
+        "ZIP": "33771",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 27.7616141,
+        "LONGITUDE": -82.6793241,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.6793,
+        27.7616,
+        -82.6793,
+        27.7616
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_145b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1309954,
+        "objectid": 1309977,
         "SHELTER_ID": 366401,
         "SHELTER_NAME": "Inkster Recreation Complex",
         "ADDRESS": "2025 Middlebelt Road",
@@ -47,23 +179,23 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_-420d",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_145c",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.4873,
-          27.574
+          -82.7872,
+          27.92
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1309955,
-        "SHELTER_ID": 134771,
-        "SHELTER_NAME": "Buffalo Creek Middle School",
-        "ADDRESS": "7320 69th Street E",
-        "CITY": "Palmetto",
+        "objectid": 1309978,
+        "SHELTER_ID": 70947,
+        "SHELTER_NAME": "Largo High School",
+        "ADDRESS": "410 Missouri Ave",
+        "CITY": "Largo",
         "STATE": "FL",
-        "ZIP": "34221",
+        "ZIP": "33770",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
@@ -74,68 +206,24 @@
         "ORG_ID": null,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
+        "SUBFACILITY_CODE": "EVAC",
         "ADA_COMPLIANT": "UNK",
         "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 27.57399447,
-        "LONGITUDE": -82.48726237,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 27.920016,
+        "LONGITUDE": -82.787215,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -82.4873,
-        27.574,
-        -82.4873,
-        27.574
+        -82.7872,
+        27.92,
+        -82.7872,
+        27.92
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_-420c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6014,
-          27.4455
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1309956,
-        "SHELTER_ID": 134187,
-        "SHELTER_NAME": "Lee Middle School",
-        "ADDRESS": "4000 53rd Ave West",
-        "CITY": "Bradenton",
-        "STATE": "FL",
-        "ZIP": "34210",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 27.4455138,
-        "LONGITUDE": -82.601421,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.6014,
-        27.4455,
-        -82.6014,
-        27.4455
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_-420b",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_145d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,13 +233,13 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1309957,
+        "objectid": 1309979,
         "SHELTER_ID": 70815,
         "SHELTER_NAME": "Nolan Middle School Special Needs",
         "ADDRESS": "6615 Greenbrook Blvd",
         "CITY": "Bradenton",
         "STATE": "FL",
-        "ZIP": "34202",
+        "ZIP": "34203",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": 570,
         "POST_IMPACT_CAPACITY": 0,
@@ -162,7 +250,7 @@
         "ORG_ID": 119224,
         "MATCH_TYPE": "A",
         "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "SUBFACILITY_CODE": "EVAC",
         "ADA_COMPLIANT": " ",
         "PET_ACCOMMODATIONS_CODE": " ",
         "WHEELCHAIR_ACCESSIBLE": " ",
@@ -179,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_-420a",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_145e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1309958,
+        "objectid": 1309980,
         "SHELTER_ID": 116237,
         "SHELTER_NAME": "Dumas Auditorium ",
         "ADDRESS": "301 W Tunnel Blvd ",
@@ -223,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_-4209",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_192297f3aa5_145f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1309959,
+        "objectid": 1309981,
         "SHELTER_ID": 362697,
         "SHELTER_NAME": "The First Tee of Coastal Carolinas",
         "ADDRESS": "445 Tarkin Court NW",
@@ -266,10 +354,10 @@
       ]
     }
   ],
-  "totalFeatures": 6,
-  "numberMatched": 6,
-  "numberReturned": 6,
-  "timeStamp": "2024-09-25T14:37:36.575Z",
+  "totalFeatures": 8,
+  "numberMatched": 8,
+  "numberReturned": 8,
+  "timeStamp": "2024-09-25T15:35:58.546Z",
   "crs": {
     "type": "name",
     "properties": {
