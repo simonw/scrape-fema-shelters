@@ -3,26 +3,26 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_147a",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-669d",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.3595,
-          27.0441
+          -81.9836,
+          35.6146
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311143,
-        "SHELTER_ID": 133707,
-        "SHELTER_NAME": "Taylor Ranch Elementary (Pet Friendly)",
-        "ADDRESS": "2500 Taylor Ranch Trail",
-        "CITY": "Venice",
-        "STATE": "FL",
-        "ZIP": "34293",
+        "objectid": 1311605,
+        "SHELTER_ID": 361995,
+        "SHELTER_NAME": "Glenwood Baptist Church",
+        "ADDRESS": "155 Glenwood Baptist Church Rd",
+        "CITY": "Marion",
+        "STATE": "NC",
+        "ZIP": "28752",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
+        "EVACUATION_CAPACITY": 50,
+        "POST_IMPACT_CAPACITY": 25,
         "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
@@ -30,24 +30,24 @@
         "ORG_ID": null,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": "UNK",
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
         "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 27.044067,
-        "LONGITUDE": -82.3595239,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 35.6145762,
+        "LONGITUDE": -81.9836059,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -82.3595,
-        27.0441,
-        -82.3595,
-        27.0441
+        -81.9836,
+        35.6146,
+        -81.9836,
+        35.6146
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_147b",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-669c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311144,
+        "objectid": 1311606,
         "SHELTER_ID": 350723,
         "SHELTER_NAME": "Atwater Elementary (Pet Friendly)",
         "ADDRESS": "4701 Huntsville Ave",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_147c",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-669b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311145,
+        "objectid": 1311607,
         "SHELTER_ID": 366401,
         "SHELTER_NAME": "Inkster Recreation Complex",
         "ADDRESS": "2025 Middlebelt Road",
@@ -135,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_147d",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-669a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3595,
+          27.0441
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1311608,
+        "SHELTER_ID": 133707,
+        "SHELTER_NAME": "Taylor Ranch Elementary (Pet Friendly)",
+        "ADDRESS": "2500 Taylor Ranch Trail",
+        "CITY": "Venice",
+        "STATE": "FL",
+        "ZIP": "34293",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 26,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 27.044067,
+        "LONGITUDE": -82.3595239,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.3595,
+        27.0441,
+        -82.3595,
+        27.0441
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6699",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311146,
+        "objectid": 1311609,
         "SHELTER_ID": 134348,
         "SHELTER_NAME": "Gulf Gate Elementary School (Pet Friendly)",
         "ADDRESS": "6500  S Lockwood Ridge Rd",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_147e",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6698",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311147,
+        "objectid": 1311610,
         "SHELTER_ID": 134612,
         "SHELTER_NAME": "Dixie County High School",
         "ADDRESS": "17924 SE Hwy 19",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_147f",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6697",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311148,
+        "objectid": 1311611,
         "SHELTER_ID": 134771,
         "SHELTER_NAME": "Buffalo Creek Middle School",
         "ADDRESS": "7320  69th Street East",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1480",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6696",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311149,
+        "objectid": 1311612,
         "SHELTER_ID": 335415,
         "SHELTER_NAME": "Booker High School (Pet Friendly)",
         "ADDRESS": "3201 N Orange Ave",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1481",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6695",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311150,
+        "objectid": 1311613,
         "SHELTER_ID": 365644,
         "SHELTER_NAME": "Fruitville Elementary (Pet Friendly)",
         "ADDRESS": "601 Honore Ave",
@@ -331,7 +375,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
+        "TOTAL_POPULATION": 5,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": null,
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1482",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6694",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311151,
+        "objectid": 1311614,
         "SHELTER_ID": 365960,
         "SHELTER_NAME": "Bradford County Fairgrounds",
         "ADDRESS": "2300 N Temple Ave",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1483",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6693",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311152,
+        "objectid": 1311615,
         "SHELTER_ID": 134774,
         "SHELTER_NAME": "Browning Pearce Elementary",
         "ADDRESS": "100 Bear Blvd",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1484",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6692",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311153,
+        "objectid": 1311616,
         "SHELTER_ID": 134776,
         "SHELTER_NAME": "Brookside Middle School (Pet Friendly)",
         "ADDRESS": "3636 S Shade Ave",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1485",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6691",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311154,
+        "objectid": 1311617,
         "SHELTER_ID": 360659,
         "SHELTER_NAME": "Gainesville Senior Center Special Needs",
         "ADDRESS": "5701 NW 34th Blvd",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1486",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6690",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311155,
+        "objectid": 1311618,
         "SHELTER_ID": 70815,
         "SHELTER_NAME": "Nolan Middle School Special Needs (Pet Friendly)",
         "ADDRESS": "6615 Greenbrook Blvd",
@@ -575,139 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1487",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.7872,
-          27.92
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1311156,
-        "SHELTER_ID": 70947,
-        "SHELTER_NAME": "Largo High School (Pet Friendly)",
-        "ADDRESS": "410 Missouri Ave",
-        "CITY": "Largo",
-        "STATE": "FL",
-        "ZIP": "33770",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 27.920016,
-        "LONGITUDE": -82.787215,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.7872,
-        27.92,
-        -82.7872,
-        27.92
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1488",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6793,
-          27.7616
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1311157,
-        "SHELTER_ID": 70950,
-        "SHELTER_NAME": "Gibbs High School (Pet Friendly)",
-        "ADDRESS": "850  34th St., South",
-        "CITY": "St. Petersburg",
-        "STATE": "FL",
-        "ZIP": "33771",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 27.7616141,
-        "LONGITUDE": -82.6793241,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.6793,
-        27.7616,
-        -82.6793,
-        27.7616
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1489",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6549,
-          27.7629
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1311158,
-        "SHELTER_ID": 70955,
-        "SHELTER_NAME": "John Hopkins Middle School Special Needs",
-        "ADDRESS": "701  16th Street South",
-        "CITY": "St Petersburg",
-        "STATE": "FL",
-        "ZIP": "33705",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Pinellas County Emergency Management",
-        "ORG_ID": 119244,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 27.76286498,
-        "LONGITUDE": -82.65485956,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.6549,
-        27.7629,
-        -82.6549,
-        27.7629
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_148a",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-668f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311159,
+        "objectid": 1311619,
         "SHELTER_ID": 70963,
         "SHELTER_NAME": "Palm Harbor University High School (Special Needs) (Pet Friendly)",
         "ADDRESS": "1900 Omaha St.",
@@ -751,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_148b",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-668e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311160,
+        "objectid": 1311620,
         "SHELTER_ID": 70966,
         "SHELTER_NAME": "Lealman Inovation Intermediate School",
         "ADDRESS": "4900  28th St., North",
@@ -795,7 +707,139 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_148c",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-668d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7872,
+          27.92
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1311621,
+        "SHELTER_ID": 70947,
+        "SHELTER_NAME": "Largo High School (Pet Friendly)",
+        "ADDRESS": "410 Missouri Ave",
+        "CITY": "Largo",
+        "STATE": "FL",
+        "ZIP": "33770",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 27.920016,
+        "LONGITUDE": -82.787215,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.7872,
+        27.92,
+        -82.7872,
+        27.92
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-668c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6793,
+          27.7616
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1311622,
+        "SHELTER_ID": 70950,
+        "SHELTER_NAME": "Gibbs High School (Pet Friendly)",
+        "ADDRESS": "850  34th St., South",
+        "CITY": "St. Petersburg",
+        "STATE": "FL",
+        "ZIP": "33771",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 27.7616141,
+        "LONGITUDE": -82.6793241,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.6793,
+        27.7616,
+        -82.6793,
+        27.7616
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-668b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6549,
+          27.7629
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1311623,
+        "SHELTER_ID": 70955,
+        "SHELTER_NAME": "John Hopkins Middle School Special Needs",
+        "ADDRESS": "701  16th Street South",
+        "CITY": "St Petersburg",
+        "STATE": "FL",
+        "ZIP": "33705",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Pinellas County Emergency Management",
+        "ORG_ID": 119244,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 27.76286498,
+        "LONGITUDE": -82.65485956,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.6549,
+        27.7629,
+        -82.6549,
+        27.7629
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-668a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311161,
+        "objectid": 1311624,
         "SHELTER_ID": 366404,
         "SHELTER_NAME": "Lincoln High School (Pet Friendly)",
         "ADDRESS": "3838 Trojan Trail",
@@ -839,7 +883,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_148d",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6689",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +893,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311162,
+        "objectid": 1311625,
         "SHELTER_ID": 366405,
         "SHELTER_NAME": "Kingsway Elementary (Pet Friendly)",
         "ADDRESS": "23300 Quasar Blvd",
@@ -883,7 +927,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_148e",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6688",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +937,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311163,
+        "objectid": 1311626,
         "SHELTER_ID": 134107,
         "SHELTER_NAME": "Middleton High School",
         "ADDRESS": "4801 N 22nd Street",
@@ -927,7 +971,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_148f",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6687",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -937,7 +981,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311164,
+        "objectid": 1311627,
         "SHELTER_ID": 134770,
         "SHELTER_NAME": "Burnett Middle School (Pet Friendly)",
         "ADDRESS": "1010 N Kingsway Road",
@@ -971,7 +1015,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1490",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6686",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -981,7 +1025,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311165,
+        "objectid": 1311628,
         "SHELTER_ID": 135155,
         "SHELTER_NAME": "Godby High School (Pet Friendly)",
         "ADDRESS": "1717 West Tharpe Street",
@@ -1015,7 +1059,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1491",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6685",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1025,7 +1069,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311166,
+        "objectid": 1311629,
         "SHELTER_ID": 365626,
         "SHELTER_NAME": "Harold Avenue Regional Park (Pet Friendly)",
         "ADDRESS": "23400 Harold Ave",
@@ -1059,183 +1103,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1492",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6014,
-          27.4455
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1311167,
-        "SHELTER_ID": 134187,
-        "SHELTER_NAME": "Lee Middle School",
-        "ADDRESS": "4000 53rd Ave West",
-        "CITY": "Bradenton",
-        "STATE": "FL",
-        "ZIP": "34210",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 27.4455138,
-        "LONGITUDE": -82.601421,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.6014,
-        27.4455,
-        -82.6014,
-        27.4455
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1493",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.2283,
-          27.0702
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1311168,
-        "SHELTER_ID": 134324,
-        "SHELTER_NAME": "Heron Creek Middle School (Pet Friendly)",
-        "ADDRESS": "6501 W Price Blvd",
-        "CITY": "North Port",
-        "STATE": "FL",
-        "ZIP": "34286",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 27.0701702,
-        "LONGITUDE": -82.2282887,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.2283,
-        27.0702,
-        -82.2283,
-        27.0702
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1494",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.1175,
-          27.0179
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1311169,
-        "SHELTER_ID": 135053,
-        "SHELTER_NAME": "New Day Christian Church (Special Needs)",
-        "ADDRESS": "20212 Peachland Blvd",
-        "CITY": "Port Charlotte",
-        "STATE": "FL",
-        "ZIP": "33954",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 100,
-        "POST_IMPACT_CAPACITY": 100,
-        "TOTAL_POPULATION": 6,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "CHARLOTTE COUNTY",
-        "ORG_ID": 121284,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 27.01785762,
-        "LONGITUDE": -82.11746069,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.1175,
-        27.0179,
-        -82.1175,
-        27.0179
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1495",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6233,
-          28.3918
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1311170,
-        "SHELTER_ID": 332513,
-        "SHELTER_NAME": "Fasano Regional Shelter (Special Needs) (Pet Friendly)",
-        "ADDRESS": "11611 Denton Ave",
-        "CITY": "Hudson",
-        "STATE": "FL",
-        "ZIP": "34667",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": "NO",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 28.391826,
-        "LONGITUDE": -82.623274,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.6233,
-        28.3918,
-        -82.6233,
-        28.3918
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1496",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6684",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1245,7 +1113,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311171,
+        "objectid": 1311630,
         "SHELTER_ID": 339671,
         "SHELTER_NAME": "Middleton Burney Elementary School",
         "ADDRESS": "1020 Huntington Rd",
@@ -1279,51 +1147,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1497",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4358,
-          27.997
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1311172,
-        "SHELTER_ID": 70844,
-        "SHELTER_NAME": "Erwin Technical College (Special Needs) (Pet Friendly)",
-        "ADDRESS": "2010 E Hillsborough Ave",
-        "CITY": "Tampa",
-        "STATE": "FL",
-        "ZIP": "33610",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 27.9970351,
-        "LONGITUDE": -82.4357896,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.4358,
-        27.997,
-        -82.4358,
-        27.997
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1498",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6683",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1333,7 +1157,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311173,
+        "objectid": 1311631,
         "SHELTER_ID": 133550,
         "SHELTER_NAME": "Woodland Middle School (Pet Friendly)",
         "ADDRESS": "2700 Panacea Blvd",
@@ -1367,7 +1191,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_1499",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6682",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1377,7 +1201,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311174,
+        "objectid": 1311632,
         "SHELTER_ID": 133763,
         "SHELTER_NAME": "Southside Elementary School (Pet Friendly)",
         "ADDRESS": "1901 Webber St",
@@ -1411,7 +1235,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_149a",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6681",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1421,7 +1245,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311175,
+        "objectid": 1311633,
         "SHELTER_ID": 133902,
         "SHELTER_NAME": "Reddick Elementary School",
         "ADDRESS": "325 W Lake Dr.",
@@ -1455,7 +1279,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_149b",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6680",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1465,7 +1289,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311176,
+        "objectid": 1311634,
         "SHELTER_ID": 133957,
         "SHELTER_NAME": "Phillippi Shores Elementary",
         "ADDRESS": "4747 S Tamiami Trail",
@@ -1499,7 +1323,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_149c",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-667f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1509,7 +1333,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311177,
+        "objectid": 1311635,
         "SHELTER_ID": 134007,
         "SHELTER_NAME": "Ochwilla Elementary School",
         "ADDRESS": "299 N SR 21",
@@ -1543,7 +1367,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_149d",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-667e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1553,7 +1377,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311178,
+        "objectid": 1311636,
         "SHELTER_ID": 134032,
         "SHELTER_NAME": "North Port High School  (Pet Friendly)",
         "ADDRESS": "6440 W Price Blvd",
@@ -1587,51 +1411,227 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_149e",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-667d",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.1138,
-          30.7327
+          -82.4358,
+          27.997
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311179,
-        "SHELTER_ID": 366403,
-        "SHELTER_NAME": "Walton County Fairgrounds",
-        "ADDRESS": "790 N 9th St",
-        "CITY": "Defuniak Springs",
+        "objectid": 1311637,
+        "SHELTER_ID": 70844,
+        "SHELTER_NAME": "Erwin Technical College (Special Needs) (Pet Friendly)",
+        "ADDRESS": "2010 E Hillsborough Ave",
+        "CITY": "Tampa",
         "STATE": "FL",
-        "ZIP": "32433",
+        "ZIP": "33610",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
         "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
+        "ORG_NAME": null,
+        "ORG_ID": null,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": null,
+        "ADA_COMPLIANT": "UNK",
         "PET_ACCOMMODATIONS_CODE": null,
         "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
+        "LATITUDE": 27.9970351,
+        "LONGITUDE": -82.4357896,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -86.1138,
-        30.7327,
-        -86.1138,
-        30.7327
+        -82.4358,
+        27.997,
+        -82.4358,
+        27.997
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_149f",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-667c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6014,
+          27.4455
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1311638,
+        "SHELTER_ID": 134187,
+        "SHELTER_NAME": "Lee Middle School",
+        "ADDRESS": "4000 53rd Ave West",
+        "CITY": "Bradenton",
+        "STATE": "FL",
+        "ZIP": "34210",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 27.4455138,
+        "LONGITUDE": -82.601421,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.6014,
+        27.4455,
+        -82.6014,
+        27.4455
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-667b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2283,
+          27.0702
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1311639,
+        "SHELTER_ID": 134324,
+        "SHELTER_NAME": "Heron Creek Middle School (Pet Friendly)",
+        "ADDRESS": "6501 W Price Blvd",
+        "CITY": "North Port",
+        "STATE": "FL",
+        "ZIP": "34286",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 27.0701702,
+        "LONGITUDE": -82.2282887,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.2283,
+        27.0702,
+        -82.2283,
+        27.0702
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-667a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1175,
+          27.0179
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1311640,
+        "SHELTER_ID": 135053,
+        "SHELTER_NAME": "New Day Christian Church (Special Needs)",
+        "ADDRESS": "20212 Peachland Blvd",
+        "CITY": "Port Charlotte",
+        "STATE": "FL",
+        "ZIP": "33954",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 100,
+        "POST_IMPACT_CAPACITY": 100,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "CHARLOTTE COUNTY",
+        "ORG_ID": 121284,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 27.01785762,
+        "LONGITUDE": -82.11746069,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.1175,
+        27.0179,
+        -82.1175,
+        27.0179
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6679",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6233,
+          28.3918
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1311641,
+        "SHELTER_ID": 332513,
+        "SHELTER_NAME": "Fasano Regional Shelter (Special Needs) (Pet Friendly)",
+        "ADDRESS": "11611 Denton Ave",
+        "CITY": "Hudson",
+        "STATE": "FL",
+        "ZIP": "34667",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": "NO",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 28.391826,
+        "LONGITUDE": -82.623274,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.6233,
+        28.3918,
+        -82.6233,
+        28.3918
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6678",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1641,7 +1641,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311180,
+        "objectid": 1311642,
         "SHELTER_ID": 347828,
         "SHELTER_NAME": "Riverview High School",
         "ADDRESS": "1 Ram Way",
@@ -1675,7 +1675,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14a0",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6677",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1138,
+          30.7327
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1311643,
+        "SHELTER_ID": 366403,
+        "SHELTER_NAME": "Walton County Fairgrounds",
+        "ADDRESS": "790 N 9th St",
+        "CITY": "Defuniak Springs",
+        "STATE": "FL",
+        "ZIP": "32433",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.1138,
+        30.7327,
+        -86.1138,
+        30.7327
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6676",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5809,
+          28.0796
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1311644,
+        "SHELTER_ID": 365618,
+        "SHELTER_NAME": "Sickles High School (Pet Friendly)",
+        "ADDRESS": "7950 Gunn Hwy",
+        "CITY": "Tampa",
+        "STATE": "FL",
+        "ZIP": "33626",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 104,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 28.079632,
+        "LONGITUDE": -82.580862,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.5809,
+        28.0796,
+        -82.5809,
+        28.0796
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6675",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1685,7 +1773,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311181,
+        "objectid": 1311645,
         "SHELTER_ID": 360734,
         "SHELTER_NAME": "Daleville Cultural Arts Center ",
         "ADDRESS": "730 Daleville Ave ",
@@ -1719,7 +1807,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14a1",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6674",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1729,7 +1817,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311182,
+        "objectid": 1311646,
         "SHELTER_ID": 365617,
         "SHELTER_NAME": "Durant High School (Pet Friendly)",
         "ADDRESS": "4748 Cougar Path",
@@ -1763,51 +1851,183 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14a2",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6673",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.5809,
-          28.0796
+          -82.3979,
+          35.5983
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311183,
-        "SHELTER_ID": 365618,
-        "SHELTER_NAME": "Sickles High School (Pet Friendly)",
-        "ADDRESS": "7950 Gunn Hwy",
-        "CITY": "Tampa",
-        "STATE": "FL",
-        "ZIP": "33626",
+        "objectid": 1311647,
+        "SHELTER_ID": 185467,
+        "SHELTER_NAME": "Swannanoa First Baptist Church",
+        "ADDRESS": "503 Park St",
+        "CITY": "Swannanoa",
+        "STATE": "NC",
+        "ZIP": "28778",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
+        "EVACUATION_CAPACITY": 100,
+        "POST_IMPACT_CAPACITY": 50,
         "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
+        "ORG_NAME": "ASHEVILLE - MOUNTAIN AREA CHAPTER",
+        "ORG_ID": 121190,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 35.59833406,
+        "LONGITUDE": -82.39794124,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.3979,
+        35.5983,
+        -82.3979,
+        35.5983
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6672",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8592,
+          29.7514
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1311648,
+        "SHELTER_ID": 366407,
+        "SHELTER_NAME": "Bell High School Gym (Pet Friendly)",
+        "ADDRESS": "930 S Main Street",
+        "CITY": "Bell",
+        "STATE": "FL",
+        "ZIP": "32619",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 16,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "EVAC",
         "ADA_COMPLIANT": null,
         "PET_ACCOMMODATIONS_CODE": null,
         "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 28.079632,
-        "LONGITUDE": -82.580862,
+        "LATITUDE": null,
+        "LONGITUDE": null,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -82.5809,
-        28.0796,
-        -82.5809,
-        28.0796
+        -82.8592,
+        29.7514,
+        -82.8592,
+        29.7514
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14a3",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6671",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18,
+          28.3029
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1311649,
+        "SHELTER_ID": 134740,
+        "SHELTER_NAME": "Centennial Middle School",
+        "ADDRESS": "38505 Centennial Rd",
+        "CITY": "DADE CITY",
+        "STATE": "FL",
+        "ZIP": "33525",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 764,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 11,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "TAMPA BAY CHAPTER",
+        "ORG_ID": 121874,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 28.30289886,
+        "LONGITUDE": -82.17999954,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.18,
+        28.3029,
+        -82.18,
+        28.3029
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6670",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1164,
+          30.7268
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1311650,
+        "SHELTER_ID": 366408,
+        "SHELTER_NAME": "DeFuniak Springs Community Center",
+        "ADDRESS": "361 N 10 St",
+        "CITY": "Defuniak Springs",
+        "STATE": "FL",
+        "ZIP": "32433",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.1164,
+        30.7268,
+        -86.1164,
+        30.7268
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-666f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1817,7 +2037,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311184,
+        "objectid": 1311651,
         "SHELTER_ID": 366146,
         "SHELTER_NAME": "Al Lawson Center",
         "ADDRESS": "1800 Wahnish Way",
@@ -1827,7 +2047,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
+        "TOTAL_POPULATION": 28,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -1851,7 +2071,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14a4",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-666e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1861,7 +2081,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311185,
+        "objectid": 1311652,
         "SHELTER_ID": 134228,
         "SHELTER_NAME": "Lavilla School of Arts",
         "ADDRESS": "501 N Davis St",
@@ -1871,7 +2091,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
+        "TOTAL_POPULATION": 135,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": null,
@@ -1895,7 +2115,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14a5",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-666d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1905,7 +2125,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311186,
+        "objectid": 1311653,
         "SHELTER_ID": 70809,
         "SHELTER_NAME": "Special Needs (Bell High School) (Special Needs)",
         "ADDRESS": "930 S. Main Street",
@@ -1939,7 +2159,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14a6",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-666c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1949,7 +2169,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311187,
+        "objectid": 1311654,
         "SHELTER_ID": 134195,
         "SHELTER_NAME": "Lawton Chiles High School (Pet Friendly)",
         "ADDRESS": "7200 Lawton Chiles Lane",
@@ -1983,7 +2203,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14a7",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-666b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1993,7 +2213,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311188,
+        "objectid": 1311655,
         "SHELTER_ID": 135173,
         "SHELTER_NAME": "Fort Braden K-8 (Pet Friendly)",
         "ADDRESS": "15100 Blountstown Highway",
@@ -2027,7 +2247,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14a8",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-666a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2037,7 +2257,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311189,
+        "objectid": 1311656,
         "SHELTER_ID": 135242,
         "SHELTER_NAME": "SAIL High School (Pet Friendly)",
         "ADDRESS": "2006 Jackson Bluff Road",
@@ -2071,7 +2291,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14a9",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6669",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2081,7 +2301,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311190,
+        "objectid": 1311657,
         "SHELTER_ID": 365956,
         "SHELTER_NAME": "Fairview Middle School",
         "ADDRESS": "3415 Zillah Street",
@@ -2115,7 +2335,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14aa",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6668",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2125,7 +2345,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311191,
+        "objectid": 1311658,
         "SHELTER_ID": 134200,
         "SHELTER_NAME": "Landmark Middle School",
         "ADDRESS": "101 Kernan Blvd N",
@@ -2159,7 +2379,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14ab",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6667",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2169,7 +2389,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311192,
+        "objectid": 1311659,
         "SHELTER_ID": 360687,
         "SHELTER_NAME": "West Gadsden Middle school",
         "ADDRESS": "200 Providence Rd",
@@ -2203,7 +2423,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14ac",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6666",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2213,7 +2433,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311193,
+        "objectid": 1311660,
         "SHELTER_ID": 340038,
         "SHELTER_NAME": "Legends Community Center",
         "ADDRESS": "4130 Soutel Dr",
@@ -2247,7 +2467,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14ad",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6665",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2257,7 +2477,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311194,
+        "objectid": 1311661,
         "SHELTER_ID": 133585,
         "SHELTER_NAME": "West Hernando Middle School (Pet Friendly)",
         "ADDRESS": "14325 Ken Austin Parkway",
@@ -2291,7 +2511,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14ae",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6664",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2301,7 +2521,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311195,
+        "objectid": 1311662,
         "SHELTER_ID": 133719,
         "SHELTER_NAME": "Suwanee Pineview Elementary School",
         "ADDRESS": "1748 Ohio Ave S",
@@ -2311,7 +2531,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": 324,
         "POST_IMPACT_CAPACITY": 162,
-        "TOTAL_POPULATION": 0,
+        "TOTAL_POPULATION": 75,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "NORTH CENTRAL FLORIDA CHAPTER",
@@ -2335,7 +2555,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14af",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6663",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2345,7 +2565,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311196,
+        "objectid": 1311663,
         "SHELTER_ID": 134786,
         "SHELTER_NAME": "Branford Elementary School",
         "ADDRESS": "26801 FL-247",
@@ -2355,7 +2575,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": 306,
         "POST_IMPACT_CAPACITY": 153,
-        "TOTAL_POPULATION": 0,
+        "TOTAL_POPULATION": 54,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "NORTH CENTRAL FLORIDA CHAPTER",
@@ -2379,7 +2599,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14b0",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6662",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2389,7 +2609,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311197,
+        "objectid": 1311664,
         "SHELTER_ID": 134596,
         "SHELTER_NAME": "Gadsden County High School",
         "ADDRESS": "27001 Blue Star Highway ",
@@ -2423,7 +2643,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14b1",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6661",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2433,7 +2653,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311198,
+        "objectid": 1311665,
         "SHELTER_ID": 70808,
         "SHELTER_NAME": "Martin Luther King Jr Multipurpose Center (Special Needs) (Pet Friendly)",
         "ADDRESS": "1028 Northeast 14th Street",
@@ -2467,7 +2687,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14b2",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-6660",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2477,7 +2697,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311199,
+        "objectid": 1311666,
         "SHELTER_ID": 134343,
         "SHELTER_NAME": "Hamilton County High School",
         "ADDRESS": "5683 US-129",
@@ -2511,7 +2731,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14b3",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-665f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2521,7 +2741,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311200,
+        "objectid": 1311667,
         "SHELTER_ID": 116237,
         "SHELTER_NAME": "Dumas Auditorium ",
         "ADDRESS": "301 W Tunnel Blvd ",
@@ -2555,7 +2775,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--479a94fe_1922bfc93e2_14b4",
+      "id": "FEMANSSOpenShelters.fid--479a94fe_1922c605c19_-665e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2565,7 +2785,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1311201,
+        "objectid": 1311668,
         "SHELTER_ID": 362697,
         "SHELTER_NAME": "The First Tee of Coastal Carolinas",
         "ADDRESS": "445 Tarkin Court NW",
@@ -2598,10 +2818,10 @@
       ]
     }
   ],
-  "totalFeatures": 59,
-  "numberMatched": 59,
-  "numberReturned": 59,
-  "timeStamp": "2024-09-26T02:48:16.671Z",
+  "totalFeatures": 64,
+  "numberMatched": 64,
+  "numberReturned": 64,
+  "timeStamp": "2024-09-26T03:38:11.704Z",
   "crs": {
     "type": "name",
     "properties": {
