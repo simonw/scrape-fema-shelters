@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d2a",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d18",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354650,
+        "objectid": 1354796,
         "SHELTER_ID": 366472,
         "SHELTER_NAME": "West Wilkes Middle School",
         "ADDRESS": "1677 N. NC-16",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d2b",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d17",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354651,
+        "objectid": 1354797,
         "SHELTER_ID": 366474,
         "SHELTER_NAME": "Edneyville Elementary School",
         "ADDRESS": "2875 Pace Rd",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d2c",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d16",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354652,
+        "objectid": 1354798,
         "SHELTER_ID": 134612,
         "SHELTER_NAME": "Dixie County High School",
         "ADDRESS": "17924 SE Hwy 19",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d2d",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d15",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354653,
+        "objectid": 1354799,
         "SHELTER_ID": 361995,
         "SHELTER_NAME": "Glenwood Baptist Church",
         "ADDRESS": "1550 Glenwood Baptist Church Rd",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d2e",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d14",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354654,
+        "objectid": 1354800,
         "SHELTER_ID": 366339,
         "SHELTER_NAME": "Suwannee County Fairgrounds Coliseum",
         "ADDRESS": "1302-11th St SW",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d2f",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d13",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354655,
+        "objectid": 1354801,
         "SHELTER_ID": 366480,
         "SHELTER_NAME": "East Valley High School",
         "ADDRESS": "31000 E Colton Ave",
@@ -267,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d30",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5819,
+          34.2832
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1354802,
+        "SHELTER_ID": 295478,
+        "SHELTER_NAME": "Newberry High School",
+        "ADDRESS": "3113 Main St.",
+        "CITY": "Newberry",
+        "STATE": "SC",
+        "ZIP": "29108",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1194,
+        "POST_IMPACT_CAPACITY": 1025,
+        "TOTAL_POPULATION": 3,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "CENTRAL SOUTH CAROLINA CHAPTER",
+        "ORG_ID": 121275,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.28321949,
+        "LONGITUDE": -81.5819414,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.5819,
+        34.2832,
+        -81.5819,
+        34.2832
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d11",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354656,
+        "objectid": 1354803,
         "SHELTER_ID": 358317,
         "SHELTER_NAME": "Dixie Trail Riders Club",
         "ADDRESS": "294 NE 241st Street",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d31",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d10",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354657,
+        "objectid": 1354804,
         "SHELTER_ID": 333536,
         "SHELTER_NAME": "May Park Community Center ",
         "ADDRESS": "622 4th Street",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d32",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d0f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354658,
+        "objectid": 1354805,
         "SHELTER_ID": 70955,
         "SHELTER_NAME": "John Hopkins Middle School Special Needs",
         "ADDRESS": "701  16th Street South",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d33",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d0e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354659,
+        "objectid": 1354806,
         "SHELTER_ID": 366457,
         "SHELTER_NAME": "A-B Technical Community College",
         "ADDRESS": "340 Victoria Rd.",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d34",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d0d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354660,
+        "objectid": 1354807,
         "SHELTER_ID": 366475,
         "SHELTER_NAME": "St Johns Church",
         "ADDRESS": "408 East Oak St",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d35",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d0c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354661,
+        "objectid": 1354808,
         "SHELTER_ID": 140784,
         "SHELTER_NAME": "Central Square Complex",
         "ADDRESS": "216 S Madison Ave",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d36",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d0b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354662,
+        "objectid": 1354809,
         "SHELTER_ID": 185402,
         "SHELTER_NAME": "Rutherfordton/Spindale Central High School",
         "ADDRESS": "641 Us 221 Hwy N",
@@ -575,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d37",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d0a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354663,
+        "objectid": 1354810,
         "SHELTER_ID": 350964,
         "SHELTER_NAME": "Transylvania Parks & Rec",
         "ADDRESS": "1078 Ecusta Rd.",
@@ -619,51 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d38",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.9231,
-          36.0825
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1354664,
-        "SHELTER_ID": 362769,
-        "SHELTER_NAME": "Avery County Rock Gym",
-        "ADDRESS": "185 Shady St",
-        "CITY": "Newland",
-        "STATE": "NC",
-        "ZIP": "28657",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 50,
-        "POST_IMPACT_CAPACITY": 25,
-        "TOTAL_POPULATION": 33,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 36.08249,
-        "LONGITUDE": -81.92308,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.9231,
-        36.0825,
-        -81.9231,
-        36.0825
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d39",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d09",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354665,
+        "objectid": 1354811,
         "SHELTER_ID": 139816,
         "SHELTER_NAME": "Bell Auditorium",
         "ADDRESS": "712 Telfair St",
@@ -707,7 +707,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d3a",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d08",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9231,
+          36.0825
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1354812,
+        "SHELTER_ID": 362769,
+        "SHELTER_NAME": "Avery County Rock Gym",
+        "ADDRESS": "185 Shady St",
+        "CITY": "Newland",
+        "STATE": "NC",
+        "ZIP": "28657",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 50,
+        "POST_IMPACT_CAPACITY": 25,
+        "TOTAL_POPULATION": 33,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 36.08249,
+        "LONGITUDE": -81.92308,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.9231,
+        36.0825,
+        -81.9231,
+        36.0825
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d07",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354666,
+        "objectid": 1354813,
         "SHELTER_ID": 365626,
         "SHELTER_NAME": "Harold Avenue Regional Park (Pet Friendly)",
         "ADDRESS": "23400 Harold Ave",
@@ -751,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d3b",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d06",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354667,
+        "objectid": 1354814,
         "SHELTER_ID": 366481,
         "SHELTER_NAME": "Blue Ridge Elementary",
         "ADDRESS": "910 Cane River School Rd.",
@@ -795,7 +839,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d3c",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d05",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354668,
+        "objectid": 1354815,
         "SHELTER_ID": 366402,
         "SHELTER_NAME": "Madison County Central School",
         "ADDRESS": "2093 West US-90",
@@ -839,7 +883,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d3d",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d04",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +893,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354669,
+        "objectid": 1354816,
         "SHELTER_ID": 366453,
         "SHELTER_NAME": "Enrichment Center Hernando County",
         "ADDRESS": "800 John Gary Grubbs Blvd",
@@ -883,7 +927,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d3e",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d03",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +937,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354670,
+        "objectid": 1354817,
         "SHELTER_ID": 363965,
         "SHELTER_NAME": "Sweetwater Rec Center",
         "ADDRESS": "180 Sweetwater Park D SE",
@@ -927,7 +971,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d3f",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d02",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -937,7 +981,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354671,
+        "objectid": 1354818,
         "SHELTER_ID": 366478,
         "SHELTER_NAME": "Old Treutlen High School",
         "ADDRESS": "4145 Folwer St",
@@ -971,7 +1015,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d40",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d01",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -981,7 +1025,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354672,
+        "objectid": 1354819,
         "SHELTER_ID": 134343,
         "SHELTER_NAME": "Hamilton County High School",
         "ADDRESS": "5683 US-129",
@@ -1015,7 +1059,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d41",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5d00",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1025,7 +1069,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354673,
+        "objectid": 1354820,
         "SHELTER_ID": 366485,
         "SHELTER_NAME": "Apple Valley Conference Center ",
         "ADDRESS": "14975 Dale Evans Parkway",
@@ -1059,7 +1103,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d42",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cff",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1069,7 +1113,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354674,
+        "objectid": 1354821,
         "SHELTER_ID": 366486,
         "SHELTER_NAME": "Spartanburg Memorial Auditorium",
         "ADDRESS": "385 N. Church St.",
@@ -1103,7 +1147,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d43",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cfe",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1113,7 +1157,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354675,
+        "objectid": 1354822,
         "SHELTER_ID": 366487,
         "SHELTER_NAME": "First Baptist Church Laurens",
         "ADDRESS": "300 W. Main St.",
@@ -1147,7 +1191,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d44",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cfd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1157,7 +1201,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354676,
+        "objectid": 1354823,
         "SHELTER_ID": 365979,
         "SHELTER_NAME": "New Testament Christian Center",
         "ADDRESS": "2558 US 90",
@@ -1191,7 +1235,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d45",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cfc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1201,7 +1245,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354677,
+        "objectid": 1354824,
         "SHELTER_ID": 344519,
         "SHELTER_NAME": "Mountain Heritage High School",
         "ADDRESS": "333 Mountain Heritage High School Rd.",
@@ -1235,7 +1279,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d46",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cfb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1245,7 +1289,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354678,
+        "objectid": 1354825,
         "SHELTER_ID": 356811,
         "SHELTER_NAME": "YMCA of Western North Carolina",
         "ADDRESS": "348 Grace Corpening Dr.",
@@ -1279,7 +1323,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d47",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cfa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1289,7 +1333,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354679,
+        "objectid": 1354826,
         "SHELTER_ID": 296300,
         "SHELTER_NAME": "Jet Middle School",
         "ADDRESS": "1095 Columbia Rd.",
@@ -1323,7 +1367,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d48",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cf9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1333,7 +1377,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354680,
+        "objectid": 1354827,
         "SHELTER_ID": 366490,
         "SHELTER_NAME": "Pinetta Community Center",
         "ADDRESS": "401 Empress Tree Rd",
@@ -1367,7 +1411,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d49",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cf8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1377,7 +1421,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354681,
+        "objectid": 1354828,
         "SHELTER_ID": 299524,
         "SHELTER_NAME": "Unicoi High School",
         "ADDRESS": "700 Mohawk St.",
@@ -1411,7 +1455,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d4a",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cf7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1421,7 +1465,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354682,
+        "objectid": 1354829,
         "SHELTER_ID": 298790,
         "SHELTER_NAME": "Asbury United Methodist Church",
         "ADDRESS": "201 S Main Street",
@@ -1455,95 +1499,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d4b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6149,
-          36.1557
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1354683,
-        "SHELTER_ID": 361561,
-        "SHELTER_NAME": "South Central Elementary School",
-        "ADDRESS": "2955 Hwy 107",
-        "CITY": "Chuckey",
-        "STATE": "TN",
-        "ZIP": "37641",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 316,
-        "POST_IMPACT_CAPACITY": 158,
-        "TOTAL_POPULATION": 9,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 36.1556679,
-        "LONGITUDE": -82.6148992,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.6149,
-        36.1557,
-        -82.6149,
-        36.1557
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d4c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4719,
-          36.2162
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1354684,
-        "SHELTER_ID": 361563,
-        "SHELTER_NAME": "Lamar Elementary",
-        "ADDRESS": "3261 Hwy 81 S",
-        "CITY": "Jonesborough",
-        "STATE": "TN",
-        "ZIP": "37659",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 243,
-        "POST_IMPACT_CAPACITY": 121,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 36.2162438,
-        "LONGITUDE": -82.4718756,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.4719,
-        36.2162,
-        -82.4719,
-        36.2162
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d4d",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cf6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1553,7 +1509,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354685,
+        "objectid": 1354830,
         "SHELTER_ID": 353683,
         "SHELTER_NAME": "Cane River Middle School",
         "ADDRESS": "1128 Cane River School Rd.",
@@ -1587,7 +1543,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d4e",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cf5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6149,
+          36.1557
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1354831,
+        "SHELTER_ID": 361561,
+        "SHELTER_NAME": "South Central Elementary School",
+        "ADDRESS": "2955 Hwy 107",
+        "CITY": "Chuckey",
+        "STATE": "TN",
+        "ZIP": "37641",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 316,
+        "POST_IMPACT_CAPACITY": 158,
+        "TOTAL_POPULATION": 9,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 36.1556679,
+        "LONGITUDE": -82.6148992,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.6149,
+        36.1557,
+        -82.6149,
+        36.1557
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cf4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4719,
+          36.2162
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1354832,
+        "SHELTER_ID": 361563,
+        "SHELTER_NAME": "Lamar Elementary",
+        "ADDRESS": "3261 Hwy 81 S",
+        "CITY": "Jonesborough",
+        "STATE": "TN",
+        "ZIP": "37659",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 243,
+        "POST_IMPACT_CAPACITY": 121,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 36.2162438,
+        "LONGITUDE": -82.4718756,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.4719,
+        36.2162,
+        -82.4719,
+        36.2162
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cf3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1597,7 +1641,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354686,
+        "objectid": 1354833,
         "SHELTER_ID": 366493,
         "SHELTER_NAME": "Fairview Recreation Center",
         "ADDRESS": "35 Austin Rd",
@@ -1631,7 +1675,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d4f",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cf2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1641,7 +1685,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354687,
+        "objectid": 1354834,
         "SHELTER_ID": 366488,
         "SHELTER_NAME": "Whetstone Recreation Cener",
         "ADDRESS": "3923 North High St",
@@ -1675,7 +1719,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d50",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cf1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1685,7 +1729,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354688,
+        "objectid": 1354835,
         "SHELTER_ID": 366492,
         "SHELTER_NAME": "Hunter Baptist Church",
         "ADDRESS": "693 Hwy 91",
@@ -1719,7 +1763,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d51",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cf0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1729,7 +1773,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354689,
+        "objectid": 1354836,
         "SHELTER_ID": 366494,
         "SHELTER_NAME": "Gold's Gym",
         "ADDRESS": "801 Fairview",
@@ -1763,7 +1807,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d52",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cef",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1773,7 +1817,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354690,
+        "objectid": 1354837,
         "SHELTER_ID": 366495,
         "SHELTER_NAME": "The Ridge at Laurens",
         "ADDRESS": "301 Exchange Dr.",
@@ -1807,7 +1851,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d53",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8261,
+          33.3624
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1354838,
+        "SHELTER_ID": 359187,
+        "SHELTER_NAME": "Bethlehem Baptist Church",
+        "ADDRESS": "2449 Santee River Road",
+        "CITY": "SAINT STEPHEN",
+        "STATE": "SC",
+        "ZIP": "29479",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 55,
+        "TOTAL_POPULATION": 50,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "NO",
+        "LATITUDE": 33.362443,
+        "LONGITUDE": -79.826057,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -79.8261,
+        33.3624,
+        -79.8261,
+        33.3624
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ced",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4843,
+          35.6441
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1354839,
+        "SHELTER_ID": 366496,
+        "SHELTER_NAME": "JF Hurley Family YMCA",
+        "ADDRESS": "828 Jake Alexander Blvd.",
+        "CITY": "Salisbury",
+        "STATE": "NC",
+        "ZIP": "28023",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.4843,
+        35.6441,
+        -80.4843,
+        35.6441
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cec",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1817,7 +1949,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354691,
+        "objectid": 1354840,
         "SHELTER_ID": 366146,
         "SHELTER_NAME": "Al Lawson Center",
         "ADDRESS": "1800 Wahnish Way",
@@ -1851,7 +1983,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d54",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ceb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1861,7 +1993,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354692,
+        "objectid": 1354841,
         "SHELTER_ID": 332513,
         "SHELTER_NAME": "Fasano Regional Shelter Special Needs (Pet Friendly)",
         "ADDRESS": "11611 Denton Ave",
@@ -1895,7 +2027,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d55",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cea",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1905,7 +2037,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354693,
+        "objectid": 1354842,
         "SHELTER_ID": 134302,
         "SHELTER_NAME": "Florida State University School (Special Needs) (Pet Friendly)",
         "ADDRESS": "3000 School Hous Rd",
@@ -1939,7 +2071,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d56",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ce9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1949,7 +2081,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354694,
+        "objectid": 1354843,
         "SHELTER_ID": 365121,
         "SHELTER_NAME": "Ross Norton Recreation Center",
         "ADDRESS": "1426 S Marthin Luther King Jr Ave",
@@ -1983,7 +2115,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d57",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ce8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1993,7 +2125,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354695,
+        "objectid": 1354844,
         "SHELTER_ID": 344518,
         "SHELTER_NAME": "Mitchell County High School",
         "ADDRESS": "426 Ledger School Rd.",
@@ -2027,7 +2159,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d58",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ce7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2037,7 +2169,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354696,
+        "objectid": 1354845,
         "SHELTER_ID": 366433,
         "SHELTER_NAME": "Haywood County Armory",
         "ADDRESS": "258 Armory Dr.",
@@ -2071,7 +2203,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d59",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ce6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2081,7 +2213,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354697,
+        "objectid": 1354846,
         "SHELTER_ID": 366432,
         "SHELTER_NAME": "Henderson County Athletics and Activity Center",
         "ADDRESS": "708 S. Grove St.",
@@ -2115,7 +2247,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d5a",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ce5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2125,7 +2257,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354698,
+        "objectid": 1354847,
         "SHELTER_ID": 363662,
         "SHELTER_NAME": "Lealman Exchange",
         "ADDRESS": "5175  45th St N",
@@ -2135,7 +2267,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 22,
+        "TOTAL_POPULATION": 19,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": null,
@@ -2159,7 +2291,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d5b",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ce4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2169,7 +2301,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354699,
+        "objectid": 1354848,
         "SHELTER_ID": 366437,
         "SHELTER_NAME": "Holmes Convacation Center",
         "ADDRESS": "111 River St.",
@@ -2203,51 +2335,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d5c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.2652,
-          34.7307
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1354700,
-        "SHELTER_ID": 296141,
-        "SHELTER_NAME": "Hillcrest High School",
-        "ADDRESS": "3665 S. Industrial Drive",
-        "CITY": "Simpsonville",
-        "STATE": "SC",
-        "ZIP": "29681",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 704,
-        "POST_IMPACT_CAPACITY": 352,
-        "TOTAL_POPULATION": 24,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "UPSTATE SOUTH CAROLINA CHAPTER",
-        "ORG_ID": 121908,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 34.73067716,
-        "LONGITUDE": -82.26517433,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.2652,
-        34.7307,
-        -82.2652,
-        34.7307
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d5d",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ce3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2257,7 +2345,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354701,
+        "objectid": 1354849,
         "SHELTER_ID": 139809,
         "SHELTER_NAME": "Henry Brigham Community Center",
         "ADDRESS": "2463 Golden Camp Road",
@@ -2291,7 +2379,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d5e",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ce2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2652,
+          34.7307
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1354850,
+        "SHELTER_ID": 296141,
+        "SHELTER_NAME": "Hillcrest High School",
+        "ADDRESS": "3665 S. Industrial Drive",
+        "CITY": "Simpsonville",
+        "STATE": "SC",
+        "ZIP": "29681",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 704,
+        "POST_IMPACT_CAPACITY": 352,
+        "TOTAL_POPULATION": 32,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "UPSTATE SOUTH CAROLINA CHAPTER",
+        "ORG_ID": 121908,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.73067716,
+        "LONGITUDE": -82.26517433,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.2652,
+        34.7307,
+        -82.2652,
+        34.7307
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ce1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2301,7 +2433,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354702,
+        "objectid": 1354851,
         "SHELTER_ID": 366439,
         "SHELTER_NAME": "Blackshear Recreation Center  ",
         "ADDRESS": "705 College Ave",
@@ -2335,7 +2467,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d5f",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ce0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2345,7 +2477,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354703,
+        "objectid": 1354852,
         "SHELTER_ID": 366440,
         "SHELTER_NAME": "Forest Capital Park",
         "ADDRESS": "204 Forest Park Dr",
@@ -2379,7 +2511,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d60",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cdf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2389,7 +2521,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354704,
+        "objectid": 1354853,
         "SHELTER_ID": 355198,
         "SHELTER_NAME": "WNC Agricultural ",
         "ADDRESS": "1301 Fanning Bridge Rd.",
@@ -2423,7 +2555,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d61",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cde",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2433,7 +2565,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354705,
+        "objectid": 1354854,
         "SHELTER_ID": 358688,
         "SHELTER_NAME": "Oakhill Methodist Church",
         "ADDRESS": "2239 North Carolina 189",
@@ -2467,51 +2599,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d62",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.5712,
-          34.8311
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1354706,
-        "SHELTER_ID": 366441,
-        "SHELTER_NAME": "Glenwood Baptist Ch - Pickens",
-        "ADDRESS": "325 Saco Lowell Rd",
-        "CITY": "Easley",
-        "STATE": "SC",
-        "ZIP": "29640",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.5712,
-        34.8311,
-        -82.5712,
-        34.8311
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d63",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cdd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2521,7 +2609,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354707,
+        "objectid": 1354855,
         "SHELTER_ID": 361383,
         "SHELTER_NAME": "Highlands Fellowship Church, Bldg. A",
         "ADDRESS": "134 Commerce Street",
@@ -2555,7 +2643,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d64",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cdc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5712,
+          34.8311
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1354856,
+        "SHELTER_ID": 366441,
+        "SHELTER_NAME": "Glenwood Baptist Ch - Pickens",
+        "ADDRESS": "325 Saco Lowell Rd",
+        "CITY": "Easley",
+        "STATE": "SC",
+        "ZIP": "29640",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 23,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.5712,
+        34.8311,
+        -82.5712,
+        34.8311
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cdb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2565,7 +2697,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354708,
+        "objectid": 1354857,
         "SHELTER_ID": 335487,
         "SHELTER_NAME": "Fort White Community Center",
         "ADDRESS": "17579 State Road 47",
@@ -2599,7 +2731,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d65",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cda",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2609,7 +2741,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354709,
+        "objectid": 1354858,
         "SHELTER_ID": 366450,
         "SHELTER_NAME": "GB Hodges Center",
         "ADDRESS": "365 Hodge Dr.",
@@ -2619,7 +2751,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 40,
+        "TOTAL_POPULATION": 25,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "Independent",
@@ -2643,7 +2775,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d66",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cd9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2653,7 +2785,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354710,
+        "objectid": 1354859,
         "SHELTER_ID": 366412,
         "SHELTER_NAME": "First Christian Church of Mountain City",
         "ADDRESS": "401 West Main",
@@ -2687,7 +2819,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d67",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cd8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2697,7 +2829,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354711,
+        "objectid": 1354860,
         "SHELTER_ID": 366459,
         "SHELTER_NAME": "Greenwood Family YMCA",
         "ADDRESS": "1760 Calhoun Rd.",
@@ -2731,7 +2863,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d68",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cd7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2741,7 +2873,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354712,
+        "objectid": 1354861,
         "SHELTER_ID": 366458,
         "SHELTER_NAME": "Citrus Springs Community Center",
         "ADDRESS": "1570 W Citrus Springs Blvd",
@@ -2775,7 +2907,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d69",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cd6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2785,7 +2917,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354713,
+        "objectid": 1354862,
         "SHELTER_ID": 362648,
         "SHELTER_NAME": "Ashe County High School",
         "ADDRESS": "184 Campus Dr.",
@@ -2819,7 +2951,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d6a",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cd5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2829,7 +2961,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354714,
+        "objectid": 1354863,
         "SHELTER_ID": 140958,
         "SHELTER_NAME": "Lanier Primary School",
         "ADDRESS": "28 S. Valdosta Road",
@@ -2863,7 +2995,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d6b",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cd4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2873,7 +3005,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354715,
+        "objectid": 1354864,
         "SHELTER_ID": 133719,
         "SHELTER_NAME": "Suwannee Pineview Elementary School",
         "ADDRESS": "1748 Ohio Ave S",
@@ -2907,7 +3039,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d6c",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cd3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2917,7 +3049,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354716,
+        "objectid": 1354865,
         "SHELTER_ID": 366463,
         "SHELTER_NAME": "McDowell County Senior Center",
         "ADDRESS": "100 Spaulding Rd.",
@@ -2951,7 +3083,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d6d",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cd2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2961,7 +3093,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354717,
+        "objectid": 1354866,
         "SHELTER_ID": 366461,
         "SHELTER_NAME": "Fasano Regional Shelter",
         "ADDRESS": "11611 Denton Ave",
@@ -2995,7 +3127,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d6e",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cd1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3005,7 +3137,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354718,
+        "objectid": 1354867,
         "SHELTER_ID": 365968,
         "SHELTER_NAME": "Park Avenue Church",
         "ADDRESS": "100 E Park Ave",
@@ -3039,7 +3171,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d6f",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cd0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3049,7 +3181,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354719,
+        "objectid": 1354868,
         "SHELTER_ID": 366454,
         "SHELTER_NAME": "First Baptist Church Life Center (Bradenton)",
         "ADDRESS": "1306 Manaee Ave",
@@ -3083,7 +3215,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d70",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ccf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3093,7 +3225,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354720,
+        "objectid": 1354869,
         "SHELTER_ID": 366456,
         "SHELTER_NAME": "Hyde Park United Methodist",
         "ADDRESS": "500 W Platt Street",
@@ -3127,7 +3259,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d71",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5cce",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3137,7 +3269,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354721,
+        "objectid": 1354870,
         "SHELTER_ID": 116237,
         "SHELTER_NAME": "Dumas Auditorium ",
         "ADDRESS": "301 W Tunnel Blvd ",
@@ -3171,7 +3303,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e74cdbe_1924fe0aba9_4d72",
+      "id": "FEMANSSOpenShelters.fid--1e74cdbe_19250606738_-5ccd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3181,7 +3313,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1354722,
+        "objectid": 1354871,
         "SHELTER_ID": 185754,
         "SHELTER_NAME": "Polk County High School",
         "ADDRESS": "1681 NC-108",
@@ -3214,10 +3346,10 @@
       ]
     }
   ],
-  "totalFeatures": 73,
-  "numberMatched": 73,
-  "numberReturned": 73,
-  "timeStamp": "2024-10-03T02:48:30.503Z",
+  "totalFeatures": 76,
+  "numberMatched": 76,
+  "numberReturned": 76,
+  "timeStamp": "2024-10-03T03:37:55.535Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -3227,7 +3359,7 @@
   "bbox": [
     -117.2125,
     27.0142,
-    -80.6917,
+    -79.8261,
     40.042
   ]
 }
