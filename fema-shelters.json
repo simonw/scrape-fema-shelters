@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_-46f",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_3b38",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1512869,
+        "objectid": 1512891,
         "SHELTER_ID": 366619,
         "SHELTER_NAME": "First United Methodist Church",
         "ADDRESS": "603  11th St West",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_-46e",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_3b39",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1512870,
+        "objectid": 1512892,
         "SHELTER_ID": 366463,
         "SHELTER_NAME": "McDowell County Senior Center",
         "ADDRESS": "100 Spaulding Rd.",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_-46d",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_3b3a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1512871,
+        "objectid": 1512893,
         "SHELTER_ID": 366627,
         "SHELTER_NAME": "Light of Christ Church",
         "ADDRESS": "2176 Marilyn St",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_-46c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6244,
-          28.3905
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1512872,
-        "SHELTER_ID": 366461,
-        "SHELTER_NAME": "Fasano Regional Shelter",
-        "ADDRESS": "11611 Denton Ave",
-        "CITY": "Hudson",
-        "STATE": "FL",
-        "ZIP": "34667",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 8,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.6244,
-        28.3905,
-        -82.6244,
-        28.3905
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_-46b",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_3b3b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1512873,
+        "objectid": 1512894,
         "SHELTER_ID": 350767,
         "SHELTER_NAME": "Eastern New Mexico State Fairgrounds (Building 2)",
         "ADDRESS": "2500 SE Main Street",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_-46a",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_3b3c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6244,
+          28.3905
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1512895,
+        "SHELTER_ID": 366461,
+        "SHELTER_NAME": "Fasano Regional Shelter",
+        "ADDRESS": "11611 Denton Ave",
+        "CITY": "Hudson",
+        "STATE": "FL",
+        "ZIP": "34667",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 8,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.6244,
+        28.3905,
+        -82.6244,
+        28.3905
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_3b3d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1512874,
+        "objectid": 1512896,
         "SHELTER_ID": 296107,
         "SHELTER_NAME": "Mauldin United Methodist Church",
         "ADDRESS": "100 E. Butler Rd.",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_-469",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_3b3e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1512875,
+        "objectid": 1512897,
         "SHELTER_ID": 366616,
         "SHELTER_NAME": "Wesley Chapel Recreation Complex (Pet Friendly)",
         "ADDRESS": "7727 Boyette Rd",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_-468",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_3b3f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1512876,
+        "objectid": 1512898,
         "SHELTER_ID": 366626,
         "SHELTER_NAME": "Mitchell County Recovery Center",
         "ADDRESS": "121 Harris Street",
@@ -355,51 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_-467",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.2886,
-          41.2339
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1512877,
-        "SHELTER_ID": 366649,
-        "SHELTER_NAME": "American Legion Post 1443",
-        "ADDRESS": "40 Mountain Lakes Lane",
-        "CITY": "Greenwood Lake",
-        "STATE": "NY",
-        "ZIP": "10925",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -74.2886,
-        41.2339,
-        -74.2886,
-        41.2339
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_-466",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_3b40",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1512878,
+        "objectid": 1512899,
         "SHELTER_ID": 366628,
         "SHELTER_NAME": "All People's Community Center",
         "ADDRESS": "6105 E Sligh Ave",
@@ -443,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_-465",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_3b41",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1512879,
+        "objectid": 1512900,
         "SHELTER_ID": 366631,
         "SHELTER_NAME": "St. Catherine's",
         "ADDRESS": "1955 Belcher Road",
@@ -484,12 +440,56 @@
         -82.7452,
         27.9227
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_1931ffea505_3b42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2886,
+          41.2339
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1512901,
+        "SHELTER_ID": 366649,
+        "SHELTER_NAME": "American Legion Post 1443",
+        "ADDRESS": "40 Mountain Lakes Lane",
+        "CITY": "Greenwood Lake",
+        "STATE": "NY",
+        "ZIP": "10925",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -74.2886,
+        41.2339,
+        -74.2886,
+        41.2339
+      ]
     }
   ],
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2024-11-12T12:11:35.261Z",
+  "timeStamp": "2024-11-12T12:47:02.053Z",
   "crs": {
     "type": "name",
     "properties": {
