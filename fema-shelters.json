@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_19324929747_5bb3",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_19324929747_7c26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6244,
+          28.3905
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1513202,
+        "SHELTER_ID": 366461,
+        "SHELTER_NAME": "Fasano Regional Shelter",
+        "ADDRESS": "11611 Denton Ave",
+        "CITY": "Hudson",
+        "STATE": "FL",
+        "ZIP": "34667",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 8,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.6244,
+        28.3905,
+        -82.6244,
+        28.3905
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_19324929747_7c27",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1513198,
+        "objectid": 1513203,
         "SHELTER_ID": 366631,
         "SHELTER_NAME": "St. Catherine's",
         "ADDRESS": "1955 Belcher Road",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_19324929747_5bb4",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_19324929747_7c28",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1513199,
+        "objectid": 1513204,
         "SHELTER_ID": 366628,
         "SHELTER_NAME": "All People's Community Center",
         "ADDRESS": "6105 E Sligh Ave",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_19324929747_5bb5",
+      "id": "FEMANSSOpenShelters.fid-5e4b35f9_19324929747_7c29",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1513200,
+        "objectid": 1513205,
         "SHELTER_ID": 366649,
         "SHELTER_NAME": "American Legion Post 1443",
         "ADDRESS": "40 Mountain Lakes Lane",
@@ -132,56 +176,12 @@
         -74.2886,
         41.2339
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e4b35f9_19324929747_5bb6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6244,
-          28.3905
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1513201,
-        "SHELTER_ID": 366461,
-        "SHELTER_NAME": "Fasano Regional Shelter",
-        "ADDRESS": "11611 Denton Ave",
-        "CITY": "Hudson",
-        "STATE": "FL",
-        "ZIP": "34667",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 8,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.6244,
-        28.3905,
-        -82.6244,
-        28.3905
-      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2024-11-13T10:07:21.083Z",
+  "timeStamp": "2024-11-13T10:37:58.291Z",
   "crs": {
     "type": "name",
     "properties": {
