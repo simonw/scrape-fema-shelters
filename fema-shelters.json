@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19335eb4ea3_1419",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_19335eb4ea3_4dc1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1513962,
+        "objectid": 1513970,
         "SHELTER_ID": 366628,
         "SHELTER_NAME": "All People's Community Center",
         "ADDRESS": "6105 E Sligh Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19335eb4ea3_141a",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_19335eb4ea3_4dc2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1513963,
+        "objectid": 1513971,
         "SHELTER_ID": 366631,
         "SHELTER_NAME": "St. Catherine's",
         "ADDRESS": "1955 Belcher Road",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19335eb4ea3_141b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6244,
-          28.3905
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1513964,
-        "SHELTER_ID": 366461,
-        "SHELTER_NAME": "Fasano Regional Shelter",
-        "ADDRESS": "11611 Denton Ave",
-        "CITY": "Hudson",
-        "STATE": "FL",
-        "ZIP": "34667",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 8,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.6244,
-        28.3905,
-        -82.6244,
-        28.3905
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19335eb4ea3_141c",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_19335eb4ea3_4dc3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1513965,
+        "objectid": 1513972,
         "SHELTER_ID": 366651,
         "SHELTER_NAME": "Shatto Recreation Center",
         "ADDRESS": "3191 4th Street",
@@ -176,12 +132,56 @@
         -118.2894,
         34.0675
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_19335eb4ea3_4dc4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6244,
+          28.3905
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1513973,
+        "SHELTER_ID": 366461,
+        "SHELTER_NAME": "Fasano Regional Shelter",
+        "ADDRESS": "11611 Denton Ave",
+        "CITY": "Hudson",
+        "STATE": "FL",
+        "ZIP": "34667",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 8,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.6244,
+        28.3905,
+        -82.6244,
+        28.3905
+      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2024-11-16T17:35:08.990Z",
+  "timeStamp": "2024-11-16T18:07:47.782Z",
   "crs": {
     "type": "name",
     "properties": {
