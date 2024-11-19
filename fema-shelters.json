@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19343bc8350_2ade",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_1934475dfae_-7b9c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1515293,
+        "objectid": 1515305,
         "SHELTER_ID": 366631,
         "SHELTER_NAME": "St. Catherine's",
         "ADDRESS": "1955 Belcher Road",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19343bc8350_2adf",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_1934475dfae_-7b9b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1515294,
+        "objectid": 1515306,
         "SHELTER_ID": 366461,
         "SHELTER_NAME": "Fasano Regional Shelter",
         "ADDRESS": "11611 Denton Ave",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19343bc8350_2ae0",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_1934475dfae_-7b9a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1515295,
+        "objectid": 1515307,
         "SHELTER_ID": 347891,
         "SHELTER_NAME": "Mid-County Community Recreation Center",
         "ADDRESS": "2004 Queensguard Road",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19343bc8350_2ae1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.0308,
-          42.1095
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1515296,
-        "SHELTER_ID": 359334,
-        "SHELTER_NAME": "Broome West Senior Center",
-        "ADDRESS": "2801 Wayne Street",
-        "CITY": "Endicott",
-        "STATE": "NY",
-        "ZIP": "13760",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 243,
-        "POST_IMPACT_CAPACITY": 121,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 42.1095331,
-        "LONGITUDE": -76.0307935,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -76.0308,
-        42.1095,
-        -76.0308,
-        42.1095
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19343bc8350_2ae2",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_1934475dfae_-7b99",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1515297,
+        "objectid": 1515308,
         "SHELTER_ID": 366652,
         "SHELTER_NAME": "Asarese-Matters Community Center",
         "ADDRESS": "50 Rees Street",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19343bc8350_2ae3",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_1934475dfae_-7b98",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1515298,
+        "objectid": 1515309,
         "SHELTER_ID": 366651,
         "SHELTER_NAME": "Shatto Recreation Center",
         "ADDRESS": "3191 4th Street",
@@ -264,12 +220,56 @@
         -118.2894,
         34.0675
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_1934475dfae_-7b97",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0308,
+          42.1095
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1515310,
+        "SHELTER_ID": 359334,
+        "SHELTER_NAME": "Broome West Senior Center",
+        "ADDRESS": "2801 Wayne Street",
+        "CITY": "Endicott",
+        "STATE": "NY",
+        "ZIP": "13760",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 243,
+        "POST_IMPACT_CAPACITY": 121,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 42.1095331,
+        "LONGITUDE": -76.0307935,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -76.0308,
+        42.1095,
+        -76.0308,
+        42.1095
+      ]
     }
   ],
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2024-11-19T12:12:02.260Z",
+  "timeStamp": "2024-11-19T12:47:39.531Z",
   "crs": {
     "type": "name",
     "properties": {
