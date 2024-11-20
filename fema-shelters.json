@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_193471a1714_-59e3",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_193471a1714_-d6f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1515517,
+        "objectid": 1515532,
         "SHELTER_ID": 366631,
         "SHELTER_NAME": "St. Catherine's",
         "ADDRESS": "1955 Belcher Road",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_193471a1714_-59e2",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_193471a1714_-d6e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1515518,
+        "objectid": 1515533,
         "SHELTER_ID": 366461,
         "SHELTER_NAME": "Fasano Regional Shelter",
         "ADDRESS": "11611 Denton Ave",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_193471a1714_-59e1",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_193471a1714_-d6d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1515519,
+        "objectid": 1515534,
         "SHELTER_ID": 347891,
         "SHELTER_NAME": "Mid-County Community Recreation Center",
         "ADDRESS": "2004 Queensguard Road",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_193471a1714_-59e0",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_193471a1714_-d6c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1515520,
+        "objectid": 1515535,
         "SHELTER_ID": 359334,
         "SHELTER_NAME": "Broome West Senior Center",
         "ADDRESS": "2801 Wayne Street",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_193471a1714_-59df",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_193471a1714_-d6b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1515521,
+        "objectid": 1515536,
         "SHELTER_ID": 366652,
         "SHELTER_NAME": "Asarese-Matters Community Center",
         "ADDRESS": "50 Rees Street",
@@ -220,12 +220,56 @@
         -78.8884,
         42.9296
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_193471a1714_-d6a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.761,
+          68.3151
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1515537,
+        "SHELTER_ID": 339852,
+        "SHELTER_NAME": "Tikigaq School",
+        "ADDRESS": "1837 Tikigaq Ave",
+        "CITY": "Point Hope",
+        "STATE": "AK",
+        "ZIP": "99766",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 500,
+        "POST_IMPACT_CAPACITY": 250,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC OF ALASKA",
+        "ORG_ID": 121168,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 68.31508493,
+        "LONGITUDE": -166.76095761,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -166.761,
+        68.3151,
+        -166.761,
+        68.3151
+      ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2024-11-20T01:35:01.560Z",
+  "totalFeatures": 6,
+  "numberMatched": 6,
+  "numberReturned": 6,
+  "timeStamp": "2024-11-20T02:31:48.706Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -233,9 +277,9 @@
     }
   },
   "bbox": [
-    -82.7452,
+    -166.761,
     27.9227,
     -76.0308,
-    42.9296
+    68.3151
   ]
 }
