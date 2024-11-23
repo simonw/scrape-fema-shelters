@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19356d84b24_-e57",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_19356d84b24_3a5a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3025,
+          47.608
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1516183,
+        "SHELTER_ID": 109121,
+        "SHELTER_NAME": "Garfield Community Center",
+        "ADDRESS": "2323 E Cherry Street",
+        "CITY": "Seattle",
+        "STATE": "WA",
+        "ZIP": "98122",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 450,
+        "POST_IMPACT_CAPACITY": 225,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "KING & KITSAP COUNTIES",
+        "ORG_ID": 121519,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 47.60801534,
+        "LONGITUDE": -122.30248745,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.3025,
+        47.608,
+        -122.3025,
+        47.608
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_19356d84b24_3a5b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1516180,
+        "objectid": 1516184,
         "SHELTER_ID": 366654,
         "SHELTER_NAME": "(Warming Center) Yancey Senior Center (Open 7p-7a)",
         "ADDRESS": "503 Medical Campus",
@@ -46,10 +90,10 @@
       ]
     }
   ],
-  "totalFeatures": 1,
-  "numberMatched": 1,
-  "numberReturned": 1,
-  "timeStamp": "2024-11-23T03:40:00.619Z",
+  "totalFeatures": 2,
+  "numberMatched": 2,
+  "numberReturned": 2,
+  "timeStamp": "2024-11-23T04:08:09.948Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -57,9 +101,9 @@
     }
   },
   "bbox": [
-    -82.3341,
+    -122.3025,
     35.9163,
     -82.3341,
-    35.9163
+    47.608
   ]
 }
