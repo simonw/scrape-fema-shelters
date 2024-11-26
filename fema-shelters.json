@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19365b9b912_-e4",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_19366001c7d_-56af",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1516661,
+        "objectid": 1516665,
         "SHELTER_ID": 366654,
         "SHELTER_NAME": "(Warming Center) Yancey Senior Center (Open 7p-7a)",
         "ADDRESS": "503 Medical Campus",
@@ -44,56 +44,12 @@
         -82.3341,
         35.9163
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19365b9b912_-e3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.1565,
-          40.7738
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1516662,
-        "SHELTER_ID": 366655,
-        "SHELTER_NAME": "The Waterfront",
-        "ADDRESS": "2 Grafton Ave",
-        "CITY": "Newark",
-        "STATE": "NJ",
-        "ZIP": "07104",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 26,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -74.1565,
-        40.7738,
-        -74.1565,
-        40.7738
-      ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2024-11-26T00:55:16.232Z",
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2024-11-26T01:35:08.023Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -103,7 +59,7 @@
   "bbox": [
     -82.3341,
     35.9163,
-    -74.1565,
-    40.7738
+    -82.3341,
+    35.9163
   ]
 }
