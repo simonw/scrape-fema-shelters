@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19383f88f30_-522",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.0038,
-          42.1681
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1517437,
-        "SHELTER_ID": 366658,
-        "SHELTER_NAME": "Fairfield Fire Department",
-        "ADDRESS": "4896 East Lake Road",
-        "CITY": "Erie",
-        "STATE": "PA",
-        "ZIP": "16511",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 14,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -80.0038,
-        42.1681,
-        -80.0038,
-        42.1681
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19383f88f30_-521",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_19383f88f30_1574",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1517438,
+        "objectid": 1517439,
         "SHELTER_ID": 366654,
         "SHELTER_NAME": "(Warming Center) Yancey Senior Center (Open 7p-7a)",
         "ADDRESS": "503 Medical Campus",
@@ -90,10 +46,10 @@
       ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2024-12-01T21:06:16.629Z",
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2024-12-01T21:35:09.679Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -103,7 +59,7 @@
   "bbox": [
     -82.3341,
     35.9163,
-    -80.0038,
-    42.1681
+    -82.3341,
+    35.9163
   ]
 }
