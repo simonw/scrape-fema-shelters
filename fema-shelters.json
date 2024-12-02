@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19384e24ae6_6050",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.3341,
-          35.9163
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1517462,
-        "SHELTER_ID": 366654,
-        "SHELTER_NAME": "(Warming Center) Yancey Senior Center (Open 7p-7a)",
-        "ADDRESS": "503 Medical Campus",
-        "CITY": "Burnsville",
-        "STATE": "NC",
-        "ZIP": "28714",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "WC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.3341,
-        35.9163,
-        -82.3341,
-        35.9163
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4203be1b_19384e24ae6_6051",
+      "id": "FEMANSSOpenShelters.fid-4203be1b_19384e24ae6_7f54",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1517463,
+        "objectid": 1517464,
         "SHELTER_ID": 366658,
         "SHELTER_NAME": "Fairfield Fire Department",
         "ADDRESS": "4896 East Lake Road",
@@ -90,10 +46,10 @@
       ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2024-12-02T04:09:06.409Z",
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2024-12-02T04:38:56.826Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -101,8 +57,8 @@
     }
   },
   "bbox": [
-    -82.3341,
-    35.9163,
+    -80.0038,
+    42.1681,
     -80.0038,
     42.1681
   ]
