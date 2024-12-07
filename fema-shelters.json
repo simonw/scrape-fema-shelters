@@ -1,9 +1,65 @@
 {
   "type": "FeatureCollection",
-  "features": [],
-  "totalFeatures": 0,
-  "numberMatched": 0,
-  "numberReturned": 0,
-  "timeStamp": "2024-12-07T03:42:38.623Z",
-  "crs": null
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-408c1dac_1939ea285df_5902",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1653,
+          39.9394
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1517693,
+        "SHELTER_ID": 347381,
+        "SHELTER_NAME": "Creative and Performing Arts High School",
+        "ADDRESS": "901 south Broad Street",
+        "CITY": "PHILADELPHIA",
+        "STATE": "PA",
+        "ZIP": "19147",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 388,
+        "POST_IMPACT_CAPACITY": 194,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SOUTHEASTERN PENNSYLVANIA SEPA",
+        "ORG_ID": 121824,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 39.939394,
+        "LONGITUDE": -75.165266,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.1653,
+        39.9394,
+        -75.1653,
+        39.9394
+      ]
+    }
+  ],
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2024-12-07T04:08:24.060Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    -75.1653,
+    39.9394,
+    -75.1653,
+    39.9394
+  ]
 }
