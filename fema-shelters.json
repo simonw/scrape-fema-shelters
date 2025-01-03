@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1942976943b_-3c6d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.6817,
-          41.8745
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1522369,
-        "SHELTER_ID": 366080,
-        "SHELTER_NAME": "Rauner Center",
-        "ADDRESS": "2200 W Harrison Street",
-        "CITY": "Chicago",
-        "STATE": "IL",
-        "ZIP": "60612",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 6,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.6817,
-        41.8745,
-        -87.6817,
-        41.8745
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1942976943b_-3c6c",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1942976943b_48fc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1522370,
+        "objectid": 1522375,
         "SHELTER_ID": 365672,
         "SHELTER_NAME": "Muhammad Ali School",
         "ADDRESS": "63 Dayton Ave",
@@ -91,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1942976943b_-3c6b",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1942976943b_48fd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6817,
+          41.8745
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1522376,
+        "SHELTER_ID": 366080,
+        "SHELTER_NAME": "Rauner Center",
+        "ADDRESS": "2200 W Harrison Street",
+        "CITY": "Chicago",
+        "STATE": "IL",
+        "ZIP": "60612",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.6817,
+        41.8745,
+        -87.6817,
+        41.8745
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1942976943b_48fe",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1522371,
+        "objectid": 1522377,
         "SHELTER_ID": 239339,
         "SHELTER_NAME": "Calvary Baptist Church",
         "ADDRESS": "5700 Cantrell Road",
@@ -137,7 +137,7 @@
   "totalFeatures": 3,
   "numberMatched": 3,
   "numberReturned": 3,
-  "timeStamp": "2025-01-03T00:52:53.507Z",
+  "timeStamp": "2025-01-03T01:34:27.455Z",
   "crs": {
     "type": "name",
     "properties": {
