@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1943ffe40fe_9f5",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1943ffe40fe_1b8e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1523133,
+        "objectid": 1523143,
         "SHELTER_ID": 366668,
         "SHELTER_NAME": "Rolland Lewis Community Building",
         "ADDRESS": "800 S 27th Street",
@@ -47,95 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1943ffe40fe_9f6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.4486,
-          29.6732
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1523134,
-        "SHELTER_ID": 356514,
-        "SHELTER_NAME": "Warming Center-Attack Poverty - Friends of North Rosenberg",
-        "ADDRESS": "1908 Ave E",
-        "CITY": "Rosenberg",
-        "STATE": "TX",
-        "ZIP": "77471",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 300,
-        "POST_IMPACT_CAPACITY": 150,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "WC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 29.6731501,
-        "LONGITUDE": -95.4486092,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.4486,
-        29.6732,
-        -95.4486,
-        29.6732
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1943ffe40fe_9f7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.5561,
-          37.9694
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1523135,
-        "SHELTER_ID": 366669,
-        "SHELTER_NAME": "Lincoln Elementary School",
-        "ADDRESS": "635 Lincoln Ave",
-        "CITY": "Evansville",
-        "STATE": "IN",
-        "ZIP": "47713",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 6,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.5561,
-        37.9694,
-        -87.5561,
-        37.9694
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1943ffe40fe_9f8",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1943ffe40fe_1b8f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1523136,
+        "objectid": 1523144,
         "SHELTER_ID": 366670,
         "SHELTER_NAME": "Ohio Township Fire Dept.",
         "ADDRESS": "3433 Libbert Road",
@@ -179,7 +91,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1943ffe40fe_9f9",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1943ffe40fe_1b90",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5561,
+          37.9694
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1523145,
+        "SHELTER_ID": 366669,
+        "SHELTER_NAME": "Lincoln Elementary School",
+        "ADDRESS": "635 Lincoln Ave",
+        "CITY": "Evansville",
+        "STATE": "IN",
+        "ZIP": "47713",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.5561,
+        37.9694,
+        -87.5561,
+        37.9694
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1943ffe40fe_1b91",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4486,
+          29.6732
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1523146,
+        "SHELTER_ID": 356514,
+        "SHELTER_NAME": "Warming Center-Attack Poverty - Friends of North Rosenberg",
+        "ADDRESS": "1908 Ave E",
+        "CITY": "Rosenberg",
+        "STATE": "TX",
+        "ZIP": "77471",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 300,
+        "POST_IMPACT_CAPACITY": 150,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "WC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 29.6731501,
+        "LONGITUDE": -95.4486092,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.4486,
+        29.6732,
+        -95.4486,
+        29.6732
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1943ffe40fe_1b92",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1523137,
+        "objectid": 1523147,
         "SHELTER_ID": 239339,
         "SHELTER_NAME": "Calvary Baptist Church",
         "ADDRESS": "5700 Cantrell Road",
@@ -225,7 +225,7 @@
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2025-01-07T11:34:57.134Z",
+  "timeStamp": "2025-01-07T12:11:29.674Z",
   "crs": {
     "type": "name",
     "properties": {
