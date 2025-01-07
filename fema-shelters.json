@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19440da0818_c85",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19440da0818_3504",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1523188,
+        "objectid": 1523198,
         "SHELTER_ID": 366668,
         "SHELTER_NAME": "Rolland Lewis Community Building",
         "ADDRESS": "800 S 27th Street",
@@ -47,95 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19440da0818_c86",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.5561,
-          37.9694
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1523189,
-        "SHELTER_ID": 366669,
-        "SHELTER_NAME": "Lincoln Elementary School",
-        "ADDRESS": "635 Lincoln Ave",
-        "CITY": "Evansville",
-        "STATE": "IN",
-        "ZIP": "47713",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 6,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.5561,
-        37.9694,
-        -87.5561,
-        37.9694
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19440da0818_c87",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.4143,
-          37.9847
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1523190,
-        "SHELTER_ID": 366670,
-        "SHELTER_NAME": "Ohio Township Fire Dept.",
-        "ADDRESS": "3433 Libbert Road",
-        "CITY": "Newburgh",
-        "STATE": "IN",
-        "ZIP": "47630",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.4143,
-        37.9847,
-        -87.4143,
-        37.9847
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19440da0818_c88",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19440da0818_3505",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1523191,
+        "objectid": 1523199,
         "SHELTER_ID": 356514,
         "SHELTER_NAME": "Warming Center-Attack Poverty - Friends of North Rosenberg",
         "ADDRESS": "1908 Ave E",
@@ -179,7 +91,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19440da0818_c89",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19440da0818_3506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5561,
+          37.9694
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1523200,
+        "SHELTER_ID": 366669,
+        "SHELTER_NAME": "Lincoln Elementary School",
+        "ADDRESS": "635 Lincoln Ave",
+        "CITY": "Evansville",
+        "STATE": "IN",
+        "ZIP": "47713",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.5561,
+        37.9694,
+        -87.5561,
+        37.9694
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19440da0818_3507",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4143,
+          37.9847
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1523201,
+        "SHELTER_ID": 366670,
+        "SHELTER_NAME": "Ohio Township Fire Dept.",
+        "ADDRESS": "3433 Libbert Road",
+        "CITY": "Newburgh",
+        "STATE": "IN",
+        "ZIP": "47630",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.4143,
+        37.9847,
+        -87.4143,
+        37.9847
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19440da0818_3508",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1523192,
+        "objectid": 1523202,
         "SHELTER_ID": 239339,
         "SHELTER_NAME": "Calvary Baptist Church",
         "ADDRESS": "5700 Cantrell Road",
@@ -225,7 +225,7 @@
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2025-01-07T15:05:45.274Z",
+  "timeStamp": "2025-01-07T15:53:43.982Z",
   "crs": {
     "type": "name",
     "properties": {
