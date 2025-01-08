@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_fc3",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_5baa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1523406,
+        "objectid": 1523420,
         "SHELTER_ID": 356514,
         "SHELTER_NAME": "Warming Center-Attack Poverty - Friends of North Rosenberg",
         "ADDRESS": "1908 Ave E",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_fc4",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_5bab",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1523407,
+        "objectid": 1523421,
         "SHELTER_ID": 366669,
         "SHELTER_NAME": "Lincoln Elementary School",
         "ADDRESS": "635 Lincoln Ave",
@@ -67,7 +67,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 6,
+        "TOTAL_POPULATION": 1,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_fc5",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_5bac",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1523408,
+        "objectid": 1523422,
         "SHELTER_ID": 366670,
         "SHELTER_NAME": "Ohio Township Fire Dept.",
         "ADDRESS": "3433 Libbert Road",
@@ -111,7 +111,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
+        "TOTAL_POPULATION": 6,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_fc6",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_5bad",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1523409,
+        "objectid": 1523423,
         "SHELTER_ID": 366671,
         "SHELTER_NAME": "Unitarian Universalist (Open 7pm-9am MT)",
         "ADDRESS": "107 W Barcelona Road",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_fc7",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_5bae",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1523410,
+        "objectid": 1523424,
         "SHELTER_ID": 339677,
         "SHELTER_NAME": "McCully District Parks & Recreation",
         "ADDRESS": "831 Pumehana Street",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_fc8",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_5baf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1523411,
+        "objectid": 1523425,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -267,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_fc9",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_5bb0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8615,
+          37.7252
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1523426,
+        "SHELTER_ID": 366672,
+        "SHELTER_NAME": "Perry County Senior Center",
+        "ADDRESS": "4 N Spring Street",
+        "CITY": "Perryville",
+        "STATE": "MO",
+        "ZIP": "63775",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.8615,
+        37.7252,
+        -89.8615,
+        37.7252
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_194436ddcef_5bb1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1523412,
+        "objectid": 1523427,
         "SHELTER_ID": 239339,
         "SHELTER_NAME": "Calvary Baptist Church",
         "ADDRESS": "5700 Cantrell Road",
@@ -287,7 +331,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": 320,
         "POST_IMPACT_CAPACITY": 160,
-        "TOTAL_POPULATION": 50,
+        "TOTAL_POPULATION": 41,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC OF GREATER ARKANSAS",
@@ -310,10 +354,10 @@
       ]
     }
   ],
-  "totalFeatures": 7,
-  "numberMatched": 7,
-  "numberReturned": 7,
-  "timeStamp": "2025-01-08T03:37:26.725Z",
+  "totalFeatures": 8,
+  "numberMatched": 8,
+  "numberReturned": 8,
+  "timeStamp": "2025-01-08T04:08:29.656Z",
   "crs": {
     "type": "name",
     "properties": {
