@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6de6",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78b9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525452,
+        "objectid": 1525466,
         "SHELTER_ID": 170700,
         "SHELTER_NAME": "El Camino Real Charter High School",
         "ADDRESS": "5440 Valley Circle Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6de7",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78ba",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525453,
+        "objectid": 1525467,
         "SHELTER_ID": 366670,
         "SHELTER_NAME": "Ohio Township Fire Dept.",
         "ADDRESS": "3433 Libbert Road",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6de8",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4493,
-          34.0534
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1525454,
-        "SHELTER_ID": 174575,
-        "SHELTER_NAME": "Westwood Recreation Center",
-        "ADDRESS": " 1350 S Sepulveda Blvd",
-        "CITY": "Los Angeles",
-        "STATE": "CA",
-        "ZIP": "90025",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 855,
-        "POST_IMPACT_CAPACITY": 427,
-        "TOTAL_POPULATION": 164,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC OF GREATER LOS ANGELES",
-        "ORG_ID": 121973,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 34.05340674,
-        "LONGITUDE": -118.44925229,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.4493,
-        34.0534,
-        -118.4493,
-        34.0534
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6de9",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78bb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525455,
+        "objectid": 1525468,
         "SHELTER_ID": 328703,
         "SHELTER_NAME": "Bolton Ave Community Center",
         "ADDRESS": "315 Bolton Ave",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6dea",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78bc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525456,
+        "objectid": 1525469,
         "SHELTER_ID": 340161,
         "SHELTER_NAME": "Wadesboro Primary School",
         "ADDRESS": "1542 US-52",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6deb",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78bd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4493,
+          34.0534
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1525470,
+        "SHELTER_ID": 174575,
+        "SHELTER_NAME": "Westwood Recreation Center",
+        "ADDRESS": " 1350 S Sepulveda Blvd",
+        "CITY": "Los Angeles",
+        "STATE": "CA",
+        "ZIP": "90025",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 855,
+        "POST_IMPACT_CAPACITY": 427,
+        "TOTAL_POPULATION": 164,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC OF GREATER LOS ANGELES",
+        "ORG_ID": 121973,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.05340674,
+        "LONGITUDE": -118.44925229,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.4493,
+        34.0534,
+        -118.4493,
+        34.0534
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78be",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525457,
+        "objectid": 1525471,
         "SHELTER_ID": 174003,
         "SHELTER_NAME": "Stoner Recreation Center",
         "ADDRESS": "1835 Stoner Ave",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6dec",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78bf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525458,
+        "objectid": 1525472,
         "SHELTER_ID": 350922,
         "SHELTER_NAME": "Ritchie Valens Recreation Center ",
         "ADDRESS": "10736 Laurel Canyon Blvd",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6ded",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78c0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525459,
+        "objectid": 1525473,
         "SHELTER_ID": 366669,
         "SHELTER_NAME": "Lincoln Elementary School",
         "ADDRESS": "635 Lincoln Ave",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6dee",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78c1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525460,
+        "objectid": 1525474,
         "SHELTER_ID": 366672,
         "SHELTER_NAME": "Perry County Senior Center",
         "ADDRESS": "4 N Spring Street",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6def",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78c2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525461,
+        "objectid": 1525475,
         "SHELTER_ID": 366681,
         "SHELTER_NAME": "Yancy County Senior Center",
         "ADDRESS": "503 Medical Campus Drive",
@@ -443,95 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6df0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.3541,
-          34.0754
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1525462,
-        "SHELTER_ID": 366678,
-        "SHELTER_NAME": "Pan Pacific Recreation Center",
-        "ADDRESS": "7600 Beverly Blvd",
-        "CITY": "Los Angeles ",
-        "STATE": "CA",
-        "ZIP": "90036",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 10,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.3541,
-        34.0754,
-        -118.3541,
-        34.0754
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6df1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.8079,
-          34.1522
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1525463,
-        "SHELTER_ID": 366680,
-        "SHELTER_NAME": "Calvary Community Church",
-        "ADDRESS": "5495 Via Rocas",
-        "CITY": "Westlake Village",
-        "STATE": "CA",
-        "ZIP": "91362",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.8079,
-        34.1522,
-        -118.8079,
-        34.1522
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6df2",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78c3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525464,
+        "objectid": 1525476,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -575,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_6df3",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78c4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525465,
+        "objectid": 1525477,
         "SHELTER_ID": 366675,
         "SHELTER_NAME": "Pomona Fairplex (Gate 3)",
         "ADDRESS": "601 W McKinley Ave",
@@ -616,12 +528,100 @@
         -117.7627,
         34.0794
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78c5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3541,
+          34.0754
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1525478,
+        "SHELTER_ID": 366678,
+        "SHELTER_NAME": "Pan Pacific Recreation Center",
+        "ADDRESS": "7600 Beverly Blvd",
+        "CITY": "Los Angeles ",
+        "STATE": "CA",
+        "ZIP": "90036",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 10,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.3541,
+        34.0754,
+        -118.3541,
+        34.0754
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945204af76_78c6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8079,
+          34.1522
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1525479,
+        "SHELTER_ID": 366680,
+        "SHELTER_NAME": "Calvary Community Church",
+        "ADDRESS": "5495 Via Rocas",
+        "CITY": "Westlake Village",
+        "STATE": "CA",
+        "ZIP": "91362",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.8079,
+        34.1522,
+        -118.8079,
+        34.1522
+      ]
     }
   ],
   "totalFeatures": 14,
   "numberMatched": 14,
   "numberReturned": 14,
-  "timeStamp": "2025-01-11T00:29:50.069Z",
+  "timeStamp": "2025-01-11T00:52:51.181Z",
   "crs": {
     "type": "name",
     "properties": {
