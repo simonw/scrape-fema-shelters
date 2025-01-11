@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7c03",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67db",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.604,
+          34.2171
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1525622,
+        "SHELTER_ID": 350924,
+        "SHELTER_NAME": "Lanark Recreation Center",
+        "ADDRESS": "21816 Lanark Street",
+        "CITY": "Canoga Park",
+        "STATE": "CA",
+        "ZIP": "91304",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 3150,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 34.2171454,
+        "LONGITUDE": -118.6040045,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.604,
+        34.2171,
+        -118.604,
+        34.2171
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67da",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525607,
+        "objectid": 1525623,
         "SHELTER_ID": 170700,
         "SHELTER_NAME": "El Camino Real Charter High School",
         "ADDRESS": "5440 Valley Circle Blvd",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7c02",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67d9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525608,
+        "objectid": 1525624,
         "SHELTER_ID": 366670,
         "SHELTER_NAME": "Ohio Township Fire Dept.",
         "ADDRESS": "3433 Libbert Road",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7c01",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67d8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525609,
+        "objectid": 1525625,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7c00",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67d7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525610,
+        "objectid": 1525626,
         "SHELTER_ID": 328703,
         "SHELTER_NAME": "Bolton Ave Community Center",
         "ADDRESS": "315 Bolton Ave",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7bff",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67d6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525611,
+        "objectid": 1525627,
         "SHELTER_ID": 174003,
         "SHELTER_NAME": "Stoner Recreation Center",
         "ADDRESS": "1835 Stoner Ave",
@@ -223,183 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7bfe",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1076,
-          35.1051
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1525612,
-        "SHELTER_ID": 340161,
-        "SHELTER_NAME": "Wadesboro Primary School",
-        "ADDRESS": "1542 US-52",
-        "CITY": "Wadesboro",
-        "STATE": "NC",
-        "ZIP": "28170",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 25,
-        "POST_IMPACT_CAPACITY": 12,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "UNION COUNTY CHAPTER (NC)",
-        "ORG_ID": 121905,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 35.10513439,
-        "LONGITUDE": -80.10764839,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -80.1076,
-        35.1051,
-        -80.1076,
-        35.1051
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7bfd",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4392,
-          34.2655
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1525613,
-        "SHELTER_ID": 350922,
-        "SHELTER_NAME": "Ritchie Valens Recreation Center ",
-        "ADDRESS": "10736 Laurel Canyon Blvd",
-        "CITY": "Pacoima",
-        "STATE": "CA",
-        "ZIP": "91331",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 2476,
-        "TOTAL_POPULATION": 19,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 34.265534,
-        "LONGITUDE": -118.439241,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.4392,
-        34.2655,
-        -118.4392,
-        34.2655
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7bfc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.5561,
-          37.9694
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1525614,
-        "SHELTER_ID": 366669,
-        "SHELTER_NAME": "Lincoln Elementary School",
-        "ADDRESS": "635 Lincoln Ave",
-        "CITY": "Evansville",
-        "STATE": "IN",
-        "ZIP": "47713",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.5561,
-        37.9694,
-        -87.5561,
-        37.9694
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7bfb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.8615,
-          37.7252
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1525615,
-        "SHELTER_ID": 366672,
-        "SHELTER_NAME": "Perry County Senior Center",
-        "ADDRESS": "4 N Spring Street",
-        "CITY": "Perryville",
-        "STATE": "MO",
-        "ZIP": "63775",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 11,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -89.8615,
-        37.7252,
-        -89.8615,
-        37.7252
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7bfa",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67d5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525616,
+        "objectid": 1525628,
         "SHELTER_ID": 366681,
         "SHELTER_NAME": "Yancy County Senior Center",
         "ADDRESS": "503 Medical Campus Drive",
@@ -443,7 +311,227 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7bf9",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67d4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1076,
+          35.1051
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1525629,
+        "SHELTER_ID": 340161,
+        "SHELTER_NAME": "Wadesboro Primary School",
+        "ADDRESS": "1542 US-52",
+        "CITY": "Wadesboro",
+        "STATE": "NC",
+        "ZIP": "28170",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 25,
+        "POST_IMPACT_CAPACITY": 12,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "UNION COUNTY CHAPTER (NC)",
+        "ORG_ID": 121905,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 35.10513439,
+        "LONGITUDE": -80.10764839,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.1076,
+        35.1051,
+        -80.1076,
+        35.1051
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67d3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4392,
+          34.2655
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1525630,
+        "SHELTER_ID": 350922,
+        "SHELTER_NAME": "Ritchie Valens Recreation Center ",
+        "ADDRESS": "10736 Laurel Canyon Blvd",
+        "CITY": "Pacoima",
+        "STATE": "CA",
+        "ZIP": "91331",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 2476,
+        "TOTAL_POPULATION": 19,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 34.265534,
+        "LONGITUDE": -118.439241,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.4392,
+        34.2655,
+        -118.4392,
+        34.2655
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67d2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5561,
+          37.9694
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1525631,
+        "SHELTER_ID": 366669,
+        "SHELTER_NAME": "Lincoln Elementary School",
+        "ADDRESS": "635 Lincoln Ave",
+        "CITY": "Evansville",
+        "STATE": "IN",
+        "ZIP": "47713",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.5561,
+        37.9694,
+        -87.5561,
+        37.9694
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67d1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8615,
+          37.7252
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1525632,
+        "SHELTER_ID": 366672,
+        "SHELTER_NAME": "Perry County Senior Center",
+        "ADDRESS": "4 N Spring Street",
+        "CITY": "Perryville",
+        "STATE": "MO",
+        "ZIP": "63775",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 11,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.8615,
+        37.7252,
+        -89.8615,
+        37.7252
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67d0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4422,
+          34.16
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1525633,
+        "SHELTER_ID": 366682,
+        "SHELTER_NAME": "Van Nuys-Sherman Oaks Recreation Center",
+        "ADDRESS": "14201 Houston Street",
+        "CITY": "Sherman Oaks",
+        "STATE": "CA",
+        "ZIP": "91423",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.4422,
+        34.16,
+        -118.4422,
+        34.16
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67cf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525617,
+        "objectid": 1525634,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -487,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7bf8",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67ce",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525618,
+        "objectid": 1525635,
         "SHELTER_ID": 366675,
         "SHELTER_NAME": "Pomona Fairplex (Gate 3)",
         "ADDRESS": "601 W McKinley Ave",
@@ -531,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7bf7",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67cd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525619,
+        "objectid": 1525636,
         "SHELTER_ID": 366678,
         "SHELTER_NAME": "Pan Pacific Recreation Center",
         "ADDRESS": "7600 Beverly Blvd",
@@ -575,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7bf6",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67cc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525620,
+        "objectid": 1525637,
         "SHELTER_ID": 366680,
         "SHELTER_NAME": "Calvary Community Church",
         "ADDRESS": "5495 Via Rocas",
@@ -619,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-7bf5",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19453868bc3_-67cb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1525621,
+        "objectid": 1525638,
         "SHELTER_ID": 366613,
         "SHELTER_NAME": "ARC San Antonio",
         "ADDRESS": "3642 E Houston Street",
@@ -662,10 +750,10 @@
       ]
     }
   ],
-  "totalFeatures": 15,
-  "numberMatched": 15,
-  "numberReturned": 15,
-  "timeStamp": "2025-01-11T04:08:02.396Z",
+  "totalFeatures": 17,
+  "numberMatched": 17,
+  "numberReturned": 17,
+  "timeStamp": "2025-01-11T04:36:37.779Z",
   "crs": {
     "type": "name",
     "properties": {
