@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-1531",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_2a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528614,
+        "objectid": 1528648,
         "SHELTER_ID": 170700,
         "SHELTER_NAME": "El Camino Real Charter High School",
         "ADDRESS": "5440 Valley Circle Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-1530",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_2b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528615,
+        "objectid": 1528649,
         "SHELTER_ID": 366670,
         "SHELTER_NAME": "Ohio Township Fire Dept.",
         "ADDRESS": "3433 Libbert Road",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-152f",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_2c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528617,
+        "objectid": 1528650,
         "SHELTER_ID": 328703,
         "SHELTER_NAME": "Bolton Ave Community Center",
         "ADDRESS": "315 Bolton Ave",
@@ -135,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-152e",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_2d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4493,
+          34.0534
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1528651,
+        "SHELTER_ID": 174575,
+        "SHELTER_NAME": "Westwood Recreation Center",
+        "ADDRESS": "1350 S Sepulveda Blvd",
+        "CITY": "Los Angeles",
+        "STATE": "CA",
+        "ZIP": "90025",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 855,
+        "POST_IMPACT_CAPACITY": 427,
+        "TOTAL_POPULATION": 147,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC OF GREATER LOS ANGELES",
+        "ORG_ID": 121973,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.05340674,
+        "LONGITUDE": -118.44925229,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.4493,
+        34.0534,
+        -118.4493,
+        34.0534
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_2e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528618,
+        "objectid": 1528652,
         "SHELTER_ID": 174003,
         "SHELTER_NAME": "Stoner Recreation Center",
         "ADDRESS": "1835 Stoner Ave",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-152d",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_2f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528619,
+        "objectid": 1528653,
         "SHELTER_ID": 366682,
         "SHELTER_NAME": "Van Nuys-Sherman Oaks Recreation Center",
         "ADDRESS": "14201 Houston Street",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-152c",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_30",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528620,
+        "objectid": 1528654,
         "SHELTER_ID": 350922,
         "SHELTER_NAME": "Ritchie Valens Recreation Center ",
         "ADDRESS": "10736 Laurel Canyon Blvd",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-152b",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_31",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528621,
+        "objectid": 1528655,
         "SHELTER_ID": 350924,
         "SHELTER_NAME": "Lanark Recreation Center",
         "ADDRESS": "21816 Lanark Street",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-152a",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_32",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528622,
+        "objectid": 1528656,
         "SHELTER_ID": 340161,
         "SHELTER_NAME": "Wadesboro Primary School",
         "ADDRESS": "1542 US-52",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-1529",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_33",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528623,
+        "objectid": 1528657,
         "SHELTER_ID": 366669,
         "SHELTER_NAME": "Lincoln Elementary School",
         "ADDRESS": "635 Lincoln Ave",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-1528",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_34",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528624,
+        "objectid": 1528658,
         "SHELTER_ID": 366672,
         "SHELTER_NAME": "Perry County Senior Center",
         "ADDRESS": "4 N Spring Street",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-1527",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_35",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528625,
+        "objectid": 1528659,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-1526",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_36",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528626,
+        "objectid": 1528660,
         "SHELTER_ID": 366675,
         "SHELTER_NAME": "Pomona Fairplex (Gate 3)",
         "ADDRESS": "601 W McKinley Ave",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-1525",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_37",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528627,
+        "objectid": 1528661,
         "SHELTER_ID": 366678,
         "SHELTER_NAME": "Pan Pacific Recreation Center",
         "ADDRESS": "7600 Beverly Blvd",
@@ -575,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-1524",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_38",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528628,
+        "objectid": 1528662,
         "SHELTER_ID": 366680,
         "SHELTER_NAME": "Calvary Community Church",
         "ADDRESS": "5495 Via Rocas",
@@ -619,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-1523",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_39",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528629,
+        "objectid": 1528663,
         "SHELTER_ID": 366681,
         "SHELTER_NAME": "Yancy County Senior Center",
         "ADDRESS": "503 Medical Campus Drive",
@@ -663,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-1522",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_3a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1528630,
+        "objectid": 1528664,
         "SHELTER_ID": 366613,
         "SHELTER_NAME": "ARC San Antonio",
         "ADDRESS": "3642 E Houston Street",
@@ -704,56 +748,12 @@
         -98.4272,
         29.4243
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1945fcc3ecf_-1521",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4493,
-          34.0534
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1528616,
-        "SHELTER_ID": 174575,
-        "SHELTER_NAME": "Westwood Recreation Center",
-        "ADDRESS": "1350 S Sepulveda Blvd",
-        "CITY": "Los Angeles",
-        "STATE": "CA",
-        "ZIP": "90025",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 855,
-        "POST_IMPACT_CAPACITY": 427,
-        "TOTAL_POPULATION": 147,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC OF GREATER LOS ANGELES",
-        "ORG_ID": 121973,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 34.05340674,
-        "LONGITUDE": -118.44925229,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.4493,
-        34.0534,
-        -118.4493,
-        34.0534
-      ]
     }
   ],
   "totalFeatures": 17,
   "numberMatched": 17,
   "numberReturned": 17,
-  "timeStamp": "2025-01-13T15:36:17.167Z",
+  "timeStamp": "2025-01-13T16:08:08.014Z",
   "crs": {
     "type": "name",
     "properties": {
