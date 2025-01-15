@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_29ba",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_6994",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1531284,
+        "objectid": 1531300,
         "SHELTER_ID": 170700,
         "SHELTER_NAME": "El Camino Real Charter High School",
         "ADDRESS": "5440 Valley Circle Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_29bb",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_6995",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1531285,
+        "objectid": 1531301,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_29bc",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_6996",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1531286,
+        "objectid": 1531302,
         "SHELTER_ID": 174003,
         "SHELTER_NAME": "Stoner Recreation Center",
         "ADDRESS": "1835 Stoner Ave",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_29bd",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_6997",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1531287,
+        "objectid": 1531303,
         "SHELTER_ID": 366682,
         "SHELTER_NAME": "Van Nuys-Sherman Oaks Recreation Center",
         "ADDRESS": "14201 Houston Street",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_29be",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_6998",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1531288,
+        "objectid": 1531304,
         "SHELTER_ID": 350922,
         "SHELTER_NAME": "Ritchie Valens Recreation Center ",
         "ADDRESS": "10736 Laurel Canyon Blvd",
@@ -223,51 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_29bf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.1443,
-          34.1439
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1531289,
-        "SHELTER_ID": 366674,
-        "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
-        "ADDRESS": "300 E Green Street",
-        "CITY": "Pasadena",
-        "STATE": "CA",
-        "ZIP": "91101",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 355,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.1443,
-        34.1439,
-        -118.1443,
-        34.1439
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_29c0",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_6999",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1531290,
+        "objectid": 1531305,
         "SHELTER_ID": 366675,
         "SHELTER_NAME": "Pomona Fairplex (Gate 3)",
         "ADDRESS": "601 W McKinley Ave",
@@ -311,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_29c1",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_699a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1443,
+          34.1439
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1531306,
+        "SHELTER_ID": 366674,
+        "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
+        "ADDRESS": "300 E Green Street",
+        "CITY": "Pasadena",
+        "STATE": "CA",
+        "ZIP": "91101",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 355,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.1443,
+        34.1439,
+        -118.1443,
+        34.1439
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1946bc44b14_699b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1531291,
+        "objectid": 1531307,
         "SHELTER_ID": 366613,
         "SHELTER_NAME": "ARC San Antonio",
         "ADDRESS": "3642 E Houston Street",
@@ -357,7 +357,7 @@
   "totalFeatures": 8,
   "numberMatched": 8,
   "numberReturned": 8,
-  "timeStamp": "2025-01-15T22:35:15.137Z",
+  "timeStamp": "2025-01-15T23:06:38.409Z",
   "crs": {
     "type": "name",
     "properties": {
