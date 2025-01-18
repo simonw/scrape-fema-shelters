@@ -1,9 +1,417 @@
 {
   "type": "FeatureCollection",
-  "features": [],
-  "totalFeatures": 0,
-  "numberMatched": 0,
-  "numberReturned": 0,
-  "timeStamp": "2025-01-18T10:06:41.805Z",
-  "crs": null
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19478dbd3d7_-6e38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6453,
+          34.1714
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1532793,
+        "SHELTER_ID": 170700,
+        "SHELTER_NAME": "El Camino Real Charter High School",
+        "ADDRESS": "5440 Valley Circle Blvd",
+        "CITY": "Woodland Hills",
+        "STATE": "CA",
+        "ZIP": "91367",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1100,
+        "POST_IMPACT_CAPACITY": 550,
+        "TOTAL_POPULATION": 11,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC OF GREATER LOS ANGELES",
+        "ORG_ID": 121973,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.17142006,
+        "LONGITUDE": -118.6452664,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.6453,
+        34.1714,
+        -118.6453,
+        34.1714
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19478dbd3d7_-6e37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4493,
+          34.0534
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1532794,
+        "SHELTER_ID": 174575,
+        "SHELTER_NAME": "Westwood Recreation Center",
+        "ADDRESS": "1350 S Sepulveda Blvd",
+        "CITY": "Los Angeles",
+        "STATE": "CA",
+        "ZIP": "90025",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 855,
+        "POST_IMPACT_CAPACITY": 427,
+        "TOTAL_POPULATION": 160,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC OF GREATER LOS ANGELES",
+        "ORG_ID": 121973,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.05340674,
+        "LONGITUDE": -118.44925229,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.4493,
+        34.0534,
+        -118.4493,
+        34.0534
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19478dbd3d7_-6e36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4533,
+          34.0389
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1532795,
+        "SHELTER_ID": 174003,
+        "SHELTER_NAME": "Stoner Recreation Center",
+        "ADDRESS": "1835 Stoner Ave",
+        "CITY": "Los Angeles",
+        "STATE": "CA",
+        "ZIP": "90025",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 350,
+        "POST_IMPACT_CAPACITY": 175,
+        "TOTAL_POPULATION": 46,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC OF GREATER LOS ANGELES",
+        "ORG_ID": 121973,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.03889168,
+        "LONGITUDE": -118.45329924,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.4533,
+        34.0389,
+        -118.4533,
+        34.0389
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19478dbd3d7_-6e35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4422,
+          34.16
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1532796,
+        "SHELTER_ID": 366682,
+        "SHELTER_NAME": "Van Nuys-Sherman Oaks Recreation Center",
+        "ADDRESS": "14201 Houston Street",
+        "CITY": "Sherman Oaks",
+        "STATE": "CA",
+        "ZIP": "91423",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 24,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.4422,
+        34.16,
+        -118.4422,
+        34.16
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19478dbd3d7_-6e34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4392,
+          34.2655
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1532797,
+        "SHELTER_ID": 350922,
+        "SHELTER_NAME": "Ritchie Valens Recreation Center ",
+        "ADDRESS": "10736 Laurel Canyon Blvd",
+        "CITY": "Pacoima",
+        "STATE": "CA",
+        "ZIP": "91331",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 2476,
+        "TOTAL_POPULATION": 12,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 34.265534,
+        "LONGITUDE": -118.439241,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.4392,
+        34.2655,
+        -118.4392,
+        34.2655
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19478dbd3d7_-6e33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1443,
+          34.1439
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1532798,
+        "SHELTER_ID": 366674,
+        "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
+        "ADDRESS": "300 E Green Street",
+        "CITY": "Pasadena",
+        "STATE": "CA",
+        "ZIP": "91101",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 280,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.1443,
+        34.1439,
+        -118.1443,
+        34.1439
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19478dbd3d7_-6e32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7627,
+          34.0794
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1532799,
+        "SHELTER_ID": 366675,
+        "SHELTER_NAME": "Pomona Fairplex (Gate 3)",
+        "ADDRESS": "601 W McKinley Ave",
+        "CITY": "Pomona",
+        "STATE": "CA",
+        "ZIP": "91768",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 20,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.7627,
+        34.0794,
+        -117.7627,
+        34.0794
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19478dbd3d7_-6e31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4272,
+          29.4243
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1532800,
+        "SHELTER_ID": 366613,
+        "SHELTER_NAME": "ARC San Antonio",
+        "ADDRESS": "3642 E Houston Street",
+        "CITY": "San Antonio",
+        "STATE": "TX",
+        "ZIP": "78219",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -98.4272,
+        29.4243,
+        -98.4272,
+        29.4243
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_19478dbd3d7_-6e30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0654,
+          42.098
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1532801,
+        "SHELTER_ID": 218403,
+        "SHELTER_NAME": "Central United Methodist Church",
+        "ADDRESS": "17 Nanticoke Ave",
+        "CITY": "Endicott",
+        "STATE": "NY",
+        "ZIP": "13760",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 260,
+        "POST_IMPACT_CAPACITY": 130,
+        "TOTAL_POPULATION": 17,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SOUTHERN TIER",
+        "ORG_ID": 121834,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 42.09797719,
+        "LONGITUDE": -76.06541913,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -76.0654,
+        42.098,
+        -76.0654,
+        42.098
+      ]
+    }
+  ],
+  "totalFeatures": 9,
+  "numberMatched": 9,
+  "numberReturned": 9,
+  "timeStamp": "2025-01-18T10:35:33.630Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    -118.6453,
+    29.4243,
+    -76.0654,
+    42.098
+  ]
 }
