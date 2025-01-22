@@ -3,271 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e9e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.4526,
-          28.6715
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1536321,
-        "SHELTER_ID": 366694,
-        "SHELTER_NAME": "Bayside Community Church",
-        "ADDRESS": "25080 TX - 172",
-        "CITY": "Port Lavaca",
-        "STATE": "TX",
-        "ZIP": "77979",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -96.4526,
-        28.6715,
-        -96.4526,
-        28.6715
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e9d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.4731,
-          43.0009
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1536322,
-        "SHELTER_ID": 366221,
-        "SHELTER_NAME": "La Villa Middle School Gym",
-        "ADDRESS": "1300 Falcon Drive",
-        "CITY": "Hawarden",
-        "STATE": "IA",
-        "ZIP": "51023",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -96.4731,
-        43.0009,
-        -96.4731,
-        43.0009
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e9c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.8554,
-          27.4955
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1536323,
-        "SHELTER_ID": 364704,
-        "SHELTER_NAME": "HM King Early College High School - FEMA Dome",
-        "ADDRESS": "2210 South Brahma Blvd",
-        "CITY": "Kingsville",
-        "STATE": "TX",
-        "ZIP": "78363",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 100,
-        "POST_IMPACT_CAPACITY": 50,
-        "TOTAL_POPULATION": 4,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 27.4955372,
-        "LONGITUDE": -97.855351,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -97.8554,
-        27.4955,
-        -97.8554,
-        27.4955
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e9b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.748,
-          30.1101
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1536324,
-        "SHELTER_ID": 357210,
-        "SHELTER_NAME": "Orange Church Of God",
-        "ADDRESS": "1911 N 16th Street",
-        "CITY": "Orange",
-        "STATE": "TX",
-        "ZIP": "77630",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 350,
-        "POST_IMPACT_CAPACITY": 175,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 30.110053,
-        "LONGITUDE": -93.7480099,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.748,
-        30.1101,
-        -93.748,
-        30.1101
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e9a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.4272,
-          29.4243
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1536325,
-        "SHELTER_ID": 366613,
-        "SHELTER_NAME": "ARC San Antonio",
-        "ADDRESS": "3642 E Houston Street",
-        "CITY": "San Antonio",
-        "STATE": "TX",
-        "ZIP": "78219",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -98.4272,
-        29.4243,
-        -98.4272,
-        29.4243
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e99",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.0654,
-          42.098
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1536326,
-        "SHELTER_ID": 218403,
-        "SHELTER_NAME": "Central United Methodist Church",
-        "ADDRESS": "17 Nanticoke Ave",
-        "CITY": "Endicott",
-        "STATE": "NY",
-        "ZIP": "13760",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 260,
-        "POST_IMPACT_CAPACITY": 130,
-        "TOTAL_POPULATION": 17,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "SOUTHERN TIER",
-        "ORG_ID": 121834,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 42.09797719,
-        "LONGITUDE": -76.06541913,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -76.0654,
-        42.098,
-        -76.0654,
-        42.098
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e98",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-670",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536298,
+        "objectid": 1536385,
         "SHELTER_ID": 356514,
         "SHELTER_NAME": "Attack Poverty - Friends of North Rosenberg (8p-8a)",
         "ADDRESS": "1908 Ave E",
@@ -311,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e97",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-66f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536299,
+        "objectid": 1536386,
         "SHELTER_ID": 170700,
         "SHELTER_NAME": "El Camino Real Charter High School",
         "ADDRESS": "5440 Valley Circle Blvd",
@@ -355,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e96",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-66e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536300,
+        "objectid": 1536387,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -399,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e95",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-66d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536301,
+        "objectid": 1536388,
         "SHELTER_ID": 174003,
         "SHELTER_NAME": "Stoner Recreation Center",
         "ADDRESS": "1835 Stoner Ave",
@@ -443,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e94",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-66c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536302,
+        "objectid": 1536389,
         "SHELTER_ID": 366682,
         "SHELTER_NAME": "Van Nuys-Sherman Oaks Recreation Center",
         "ADDRESS": "14201 Houston Street",
@@ -487,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e93",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-66b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536303,
+        "objectid": 1536390,
         "SHELTER_ID": 350922,
         "SHELTER_NAME": "Ritchie Valens Recreation Center ",
         "ADDRESS": "10736 Laurel Canyon Blvd",
@@ -531,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e92",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-66a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536304,
+        "objectid": 1536391,
         "SHELTER_ID": 363958,
         "SHELTER_NAME": "Leon Grayson/Baldree Community Center",
         "ADDRESS": "13828 Corpus Christi Street",
@@ -575,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e91",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-669",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536305,
+        "objectid": 1536392,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -619,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e90",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-668",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536306,
+        "objectid": 1536393,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -663,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e8f",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-667",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536307,
+        "objectid": 1536394,
         "SHELTER_ID": 361499,
         "SHELTER_NAME": "Kingwood First Baptist",
         "ADDRESS": "3500 Woodland Hills Dr  ",
@@ -707,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e8e",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-666",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536308,
+        "objectid": 1536395,
         "SHELTER_ID": 366687,
         "SHELTER_NAME": "Bayland Community Center",
         "ADDRESS": "6400 Bissonnet Street",
@@ -751,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e8d",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-665",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536309,
+        "objectid": 1536396,
         "SHELTER_ID": 366696,
         "SHELTER_NAME": "Loaves & Fishes",
         "ADDRESS": "514 S E Street",
@@ -795,51 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e8c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.4914,
-          25.9057
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1536310,
-        "SHELTER_ID": 366697,
-        "SHELTER_NAME": "Good Neighbor Settlement House",
-        "ADDRESS": "1254 E Tyler Street",
-        "CITY": "Brownsville",
-        "STATE": "TX",
-        "ZIP": "78520",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -97.4914,
-        25.9057,
-        -97.4914,
-        25.9057
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e8b",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-664",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536311,
+        "objectid": 1536397,
         "SHELTER_ID": 366698,
         "SHELTER_NAME": "Edcouch-Elsa High School - Capello Gym",
         "ADDRESS": "601 N Yellow Jacket Drive",
@@ -883,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e8a",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-663",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536312,
+        "objectid": 1536398,
         "SHELTER_ID": 366699,
         "SHELTER_NAME": "Sgt. Juan Rodriguez Community Center",
         "ADDRESS": "320 W Santa Rosa Ave",
@@ -927,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e89",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-662",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -937,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536313,
+        "objectid": 1536399,
         "SHELTER_ID": 366700,
         "SHELTER_NAME": "Jim Hogg County Nutrition Center",
         "ADDRESS": "212 E Tilley Street",
@@ -971,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e88",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-661",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -981,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536314,
+        "objectid": 1536400,
         "SHELTER_ID": 366686,
         "SHELTER_NAME": "Tom Bass Community Center",
         "ADDRESS": "15108 Cullen Blvd",
@@ -1015,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e87",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-660",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1025,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536315,
+        "objectid": 1536401,
         "SHELTER_ID": 366688,
         "SHELTER_NAME": "PSJA Collegiate School of Health Professions Shelter ",
         "ADDRESS": "704 W Ridge Road",
@@ -1059,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e86",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-65f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1069,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536316,
+        "objectid": 1536402,
         "SHELTER_ID": 366689,
         "SHELTER_NAME": "Jaime Escalante Middle School Shelter¿",
         "ADDRESS": "6123 S Cage Blvd",
@@ -1103,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e85",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-65e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1113,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536317,
+        "objectid": 1536403,
         "SHELTER_ID": 366690,
         "SHELTER_NAME": "San Jacinto Church Baytown",
         "ADDRESS": "710 Alamo Street",
@@ -1147,7 +839,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e84",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-65d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1157,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536318,
+        "objectid": 1536404,
         "SHELTER_ID": 366691,
         "SHELTER_NAME": "Jesus \"Jesse\" Vela Jr. Middle School Shelter¿¿",
         "ADDRESS": "1819 West Highway 83",
@@ -1191,7 +883,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e83",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-65c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4914,
+          25.9057
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1536405,
+        "SHELTER_ID": 366697,
+        "SHELTER_NAME": "Good Neighbor Settlement House",
+        "ADDRESS": "1254 E Tyler Street",
+        "CITY": "Brownsville",
+        "STATE": "TX",
+        "ZIP": "78520",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -97.4914,
+        25.9057,
+        -97.4914,
+        25.9057
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-65b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1201,7 +937,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536319,
+        "objectid": 1536406,
         "SHELTER_ID": 366692,
         "SHELTER_NAME": "Robstown Community Center",
         "ADDRESS": "415 Mainer Road",
@@ -1235,7 +971,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-2e82",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-65a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1245,7 +981,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1536320,
+        "objectid": 1536407,
         "SHELTER_ID": 366693,
         "SHELTER_NAME": "Corpus Christi Natatorium",
         "ADDRESS": "3202 Cabaniss Pkwy",
@@ -1276,12 +1012,276 @@
         -97.4281,
         27.706
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-659",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4526,
+          28.6715
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1536408,
+        "SHELTER_ID": 366694,
+        "SHELTER_NAME": "Bayside Community Church",
+        "ADDRESS": "25080 TX - 172",
+        "CITY": "Port Lavaca",
+        "STATE": "TX",
+        "ZIP": "77979",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -96.4526,
+        28.6715,
+        -96.4526,
+        28.6715
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-658",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4731,
+          43.0009
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1536409,
+        "SHELTER_ID": 366221,
+        "SHELTER_NAME": "La Villa Middle School Gym",
+        "ADDRESS": "500 E 9th Street",
+        "CITY": "La Villa",
+        "STATE": "TX",
+        "ZIP": "78562",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -96.4731,
+        43.0009,
+        -96.4731,
+        43.0009
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-657",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8554,
+          27.4955
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1536410,
+        "SHELTER_ID": 364704,
+        "SHELTER_NAME": "HM King Early College High School - FEMA Dome",
+        "ADDRESS": "2210 South Brahma Blvd",
+        "CITY": "Kingsville",
+        "STATE": "TX",
+        "ZIP": "78363",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 100,
+        "POST_IMPACT_CAPACITY": 50,
+        "TOTAL_POPULATION": 4,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 27.4955372,
+        "LONGITUDE": -97.855351,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -97.8554,
+        27.4955,
+        -97.8554,
+        27.4955
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-656",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.748,
+          30.1101
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1536411,
+        "SHELTER_ID": 357210,
+        "SHELTER_NAME": "Orange Church Of God",
+        "ADDRESS": "1911 N 16th Street",
+        "CITY": "Orange",
+        "STATE": "TX",
+        "ZIP": "77630",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 350,
+        "POST_IMPACT_CAPACITY": 175,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 30.110053,
+        "LONGITUDE": -93.7480099,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.748,
+        30.1101,
+        -93.748,
+        30.1101
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-655",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4272,
+          29.4243
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1536412,
+        "SHELTER_ID": 366613,
+        "SHELTER_NAME": "ARC San Antonio",
+        "ADDRESS": "3642 E Houston Street",
+        "CITY": "San Antonio",
+        "STATE": "TX",
+        "ZIP": "78219",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -98.4272,
+        29.4243,
+        -98.4272,
+        29.4243
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fc67485_1948b864fb5_-654",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0654,
+          42.098
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1536413,
+        "SHELTER_ID": 218403,
+        "SHELTER_NAME": "Central United Methodist Church",
+        "ADDRESS": "17 Nanticoke Ave",
+        "CITY": "Endicott",
+        "STATE": "NY",
+        "ZIP": "13760",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 260,
+        "POST_IMPACT_CAPACITY": 130,
+        "TOTAL_POPULATION": 17,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SOUTHERN TIER",
+        "ORG_ID": 121834,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 42.09797719,
+        "LONGITUDE": -76.06541913,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -76.0654,
+        42.098,
+        -76.0654,
+        42.098
+      ]
     }
   ],
   "totalFeatures": 29,
   "numberMatched": 29,
   "numberReturned": 29,
-  "timeStamp": "2025-01-22T01:34:30.896Z",
+  "timeStamp": "2025-01-22T02:27:55.753Z",
   "crs": {
     "type": "name",
     "properties": {
