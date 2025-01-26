@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_405e",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4a04",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1544541,
+        "objectid": 1544561,
         "SHELTER_ID": 170700,
         "SHELTER_NAME": "El Camino Real Charter High School",
         "ADDRESS": "5440 Valley Circle Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_405f",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4a05",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1544542,
+        "objectid": 1544562,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4060",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4a06",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1544543,
+        "objectid": 1544563,
         "SHELTER_ID": 366682,
         "SHELTER_NAME": "Van Nuys-Sherman Oaks Recreation Center",
         "ADDRESS": "14201 Houston Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4061",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4a07",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1544544,
+        "objectid": 1544564,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4062",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4a08",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1544545,
+        "objectid": 1544565,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -223,51 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4063",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.9402,
-          32.7456
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1544546,
-        "SHELTER_ID": 170430,
-        "SHELTER_NAME": "Cuyamaca College - D Building Gym",
-        "ADDRESS": "900 Rancho San Diego Pkwy",
-        "CITY": "El Cajon",
-        "STATE": "CA",
-        "ZIP": "92019",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 4,
-        "POST_IMPACT_CAPACITY": 2,
-        "TOTAL_POPULATION": 31,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "SAN DIEGO/IMPERIAL COUNTY",
-        "ORG_ID": 121770,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 32.74563962,
-        "LONGITUDE": -116.94024388,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -116.9402,
-        32.7456,
-        -116.9402,
-        32.7456
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4064",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4a09",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1544547,
+        "objectid": 1544566,
         "SHELTER_ID": 366718,
         "SHELTER_NAME": "Onondago Community College",
         "ADDRESS": "4585 W Seneca Tpke",
@@ -311,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4065",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4a0a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9402,
+          32.7456
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1544567,
+        "SHELTER_ID": 170430,
+        "SHELTER_NAME": "Cuyamaca College - D Building Gym",
+        "ADDRESS": "900 Rancho San Diego Pkwy",
+        "CITY": "El Cajon",
+        "STATE": "CA",
+        "ZIP": "92019",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 4,
+        "POST_IMPACT_CAPACITY": 2,
+        "TOTAL_POPULATION": 20,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SAN DIEGO/IMPERIAL COUNTY",
+        "ORG_ID": 121770,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 32.74563962,
+        "LONGITUDE": -116.94024388,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -116.9402,
+        32.7456,
+        -116.9402,
+        32.7456
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4a0b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1544548,
+        "objectid": 1544568,
         "SHELTER_ID": 366719,
         "SHELTER_NAME": "Seventh Day Adventist",
         "ADDRESS": "9001 Lucas and Hunt Rd",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4066",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4a0c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1544549,
+        "objectid": 1544569,
         "SHELTER_ID": 366720,
         "SHELTER_NAME": "Chicago Ridge Emergency Management Center",
         "ADDRESS": "10655 Oak Ave",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4067",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194a0fb6272_4a0d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1544550,
+        "objectid": 1544570,
         "SHELTER_ID": 366613,
         "SHELTER_NAME": "ARC San Antonio",
         "ADDRESS": "3642 E Houston Street",
@@ -445,7 +445,7 @@
   "totalFeatures": 10,
   "numberMatched": 10,
   "numberReturned": 10,
-  "timeStamp": "2025-01-26T06:37:15.214Z",
+  "timeStamp": "2025-01-26T07:06:16.462Z",
   "crs": {
     "type": "name",
     "properties": {
