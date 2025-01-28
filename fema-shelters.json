@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-3f89",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-2f3c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546295,
+        "objectid": 1546317,
         "SHELTER_ID": 170700,
         "SHELTER_NAME": "El Camino Real Charter High School",
         "ADDRESS": "5440 Valley Circle Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-3f88",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-2f3b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546296,
+        "objectid": 1546318,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-3f87",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-2f3a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546297,
+        "objectid": 1546319,
         "SHELTER_ID": 366682,
         "SHELTER_NAME": "Van Nuys-Sherman Oaks Recreation Center",
         "ADDRESS": "14201 Houston Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-3f86",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-2f39",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546298,
+        "objectid": 1546320,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-3f85",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-2f38",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546299,
+        "objectid": 1546321,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -223,95 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-3f84",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.1953,
-          43.0063
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1546300,
-        "SHELTER_ID": 366718,
-        "SHELTER_NAME": "Onondago Community College",
-        "ADDRESS": "4585 W Seneca Tpke",
-        "CITY": "Syracuse",
-        "STATE": "NY",
-        "ZIP": "13215",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -76.1953,
-        43.0063,
-        -76.1953,
-        43.0063
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-3f83",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.2632,
-          38.738
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1546301,
-        "SHELTER_ID": 366719,
-        "SHELTER_NAME": "Seventh Day Adventist",
-        "ADDRESS": "9001 Lucas and Hunt Rd",
-        "CITY": "St Louis",
-        "STATE": "MO",
-        "ZIP": "63136",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 11,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.2632,
-        38.738,
-        -90.2632,
-        38.738
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-3f82",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-2f37",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546302,
+        "objectid": 1546322,
         "SHELTER_ID": 349778,
         "SHELTER_NAME": "Christ Lutheran Church",
         "ADDRESS": "324 2nd Ave SE",
@@ -355,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-3f81",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-2f36",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546303,
+        "objectid": 1546323,
         "SHELTER_ID": 366717,
         "SHELTER_NAME": "Our Lady of the Valley Church",
         "ADDRESS": "510 Valley Street",
@@ -399,7 +311,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-3f80",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-2f35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1953,
+          43.0063
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1546324,
+        "SHELTER_ID": 366718,
+        "SHELTER_NAME": "Onondago Community College",
+        "ADDRESS": "4585 W Seneca Tpke",
+        "CITY": "Syracuse",
+        "STATE": "NY",
+        "ZIP": "13215",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -76.1953,
+        43.0063,
+        -76.1953,
+        43.0063
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-2f34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2632,
+          38.738
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1546325,
+        "SHELTER_ID": 366719,
+        "SHELTER_NAME": "Seventh Day Adventist",
+        "ADDRESS": "9001 Lucas and Hunt Rd",
+        "CITY": "St Louis",
+        "STATE": "MO",
+        "ZIP": "63136",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 11,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.2632,
+        38.738,
+        -90.2632,
+        38.738
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-2f33",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546304,
+        "objectid": 1546326,
         "SHELTER_ID": 355883,
         "SHELTER_NAME": "Grace Church",
         "ADDRESS": "6901 San Antonio Dr NE",
@@ -443,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-3f7f",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194ac23f2f1_-2f32",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546305,
+        "objectid": 1546327,
         "SHELTER_ID": 366613,
         "SHELTER_NAME": "ARC San Antonio",
         "ADDRESS": "3642 E Houston Street",
@@ -489,7 +489,7 @@
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2025-01-28T11:35:03.914Z",
+  "timeStamp": "2025-01-28T12:11:23.667Z",
   "crs": {
     "type": "name",
     "properties": {
