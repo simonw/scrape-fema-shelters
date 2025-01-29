@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-2d7a",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-1ae5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547040,
+        "objectid": 1547054,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-2d79",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-1ae4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547041,
+        "objectid": 1547055,
         "SHELTER_ID": 366682,
         "SHELTER_NAME": "Van Nuys-Sherman Oaks Recreation Center",
         "ADDRESS": "14201 Houston Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-2d78",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-1ae3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547042,
+        "objectid": 1547056,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-2d77",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-1ae2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547043,
+        "objectid": 1547057,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -179,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-2d76",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-1ae1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1953,
+          43.0063
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1547058,
+        "SHELTER_ID": 366718,
+        "SHELTER_NAME": "Onondago Community College",
+        "ADDRESS": "4585 W Seneca Tpke",
+        "CITY": "Syracuse",
+        "STATE": "NY",
+        "ZIP": "13215",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -76.1953,
+        43.0063,
+        -76.1953,
+        43.0063
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-1ae0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547044,
+        "objectid": 1547059,
         "SHELTER_ID": 366719,
         "SHELTER_NAME": "Seventh Day Adventist",
         "ADDRESS": "9001 Lucas and Hunt Rd",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-2d75",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-1adf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547045,
+        "objectid": 1547060,
         "SHELTER_ID": 349778,
         "SHELTER_NAME": "Christ Lutheran Church",
         "ADDRESS": "324 2nd Ave SE",
@@ -264,56 +308,12 @@
         -81.332,
         35.7288
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b301b21f_-2d74",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.1953,
-          43.0063
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1547046,
-        "SHELTER_ID": 366718,
-        "SHELTER_NAME": "Onondago Community College",
-        "ADDRESS": "4585 W Seneca Tpke",
-        "CITY": "Syracuse",
-        "STATE": "NY",
-        "ZIP": "13215",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -76.1953,
-        43.0063,
-        -76.1953,
-        43.0063
-      ]
     }
   ],
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2025-01-29T17:35:08.838Z",
+  "timeStamp": "2025-01-29T18:08:52.022Z",
   "crs": {
     "type": "name",
     "properties": {
