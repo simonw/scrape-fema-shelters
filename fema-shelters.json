@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_-1749",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_2172",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547145,
+        "objectid": 1547159,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_-1748",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_2173",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547146,
+        "objectid": 1547160,
         "SHELTER_ID": 366682,
         "SHELTER_NAME": "Van Nuys-Sherman Oaks Recreation Center",
         "ADDRESS": "14201 Houston Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_-1747",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_2174",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547147,
+        "objectid": 1547161,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_-1746",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_2175",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547148,
+        "objectid": 1547162,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -179,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_-1745",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_2176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.332,
+          35.7288
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1547163,
+        "SHELTER_ID": 349778,
+        "SHELTER_NAME": "Christ Lutheran Church",
+        "ADDRESS": "324 2nd Ave SE",
+        "CITY": "Hickory",
+        "STATE": "NC",
+        "ZIP": "28602",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 255,
+        "POST_IMPACT_CAPACITY": 127,
+        "TOTAL_POPULATION": 10,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Catawba Valley Chapter",
+        "ORG_ID": 121255,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 35.728778,
+        "LONGITUDE": -81.331997,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.332,
+        35.7288,
+        -81.332,
+        35.7288
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_2177",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547149,
+        "objectid": 1547164,
         "SHELTER_ID": 366718,
         "SHELTER_NAME": "Onondago Community College",
         "ADDRESS": "4585 W Seneca Tpke",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_-1744",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_2178",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547150,
+        "objectid": 1547165,
         "SHELTER_ID": 366719,
         "SHELTER_NAME": "Seventh Day Adventist",
         "ADDRESS": "9001 Lucas and Hunt Rd",
@@ -264,56 +308,12 @@
         -90.2632,
         38.738
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194b3dd6c8b_-1743",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.332,
-          35.7288
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1547151,
-        "SHELTER_ID": 349778,
-        "SHELTER_NAME": "Christ Lutheran Church",
-        "ADDRESS": "324 2nd Ave SE",
-        "CITY": "Hickory",
-        "STATE": "NC",
-        "ZIP": "28602",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 255,
-        "POST_IMPACT_CAPACITY": 127,
-        "TOTAL_POPULATION": 10,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Catawba Valley Chapter",
-        "ORG_ID": 121255,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 35.728778,
-        "LONGITUDE": -81.331997,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.332,
-        35.7288,
-        -81.332,
-        35.7288
-      ]
     }
   ],
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2025-01-29T22:35:34.702Z",
+  "timeStamp": "2025-01-29T23:06:47.193Z",
   "crs": {
     "type": "name",
     "properties": {
