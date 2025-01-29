@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_160d",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_49a7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546744,
+        "objectid": 1546760,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_160e",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_49a8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546745,
+        "objectid": 1546761,
         "SHELTER_ID": 366682,
         "SHELTER_NAME": "Van Nuys-Sherman Oaks Recreation Center",
         "ADDRESS": "14201 Houston Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_160f",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_49a9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546746,
+        "objectid": 1546762,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_1610",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_49aa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546747,
+        "objectid": 1546763,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_1611",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_49ab",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546748,
+        "objectid": 1546764,
         "SHELTER_ID": 366718,
         "SHELTER_NAME": "Onondago Community College",
         "ADDRESS": "4585 W Seneca Tpke",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_1612",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_49ac",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546749,
+        "objectid": 1546765,
         "SHELTER_ID": 366719,
         "SHELTER_NAME": "Seventh Day Adventist",
         "ADDRESS": "9001 Lucas and Hunt Rd",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_1613",
+      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_49ad",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1546750,
+        "objectid": 1546766,
         "SHELTER_ID": 349778,
         "SHELTER_NAME": "Christ Lutheran Church",
         "ADDRESS": "324 2nd Ave SE",
@@ -308,56 +308,12 @@
         -81.332,
         35.7288
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5908d3a3_194af92d293_1614",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.5706,
-          35.1606
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1546751,
-        "SHELTER_ID": 355883,
-        "SHELTER_NAME": "Grace Church",
-        "ADDRESS": "6901 San Antonio Dr NE",
-        "CITY": "Albuquerque",
-        "STATE": "NM",
-        "ZIP": "87109",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 585,
-        "POST_IMPACT_CAPACITY": 292,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 35.160606,
-        "LONGITUDE": -106.570634,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -106.5706,
-        35.1606,
-        -106.5706,
-        35.1606
-      ]
     }
   ],
-  "totalFeatures": 8,
-  "numberMatched": 8,
-  "numberReturned": 8,
-  "timeStamp": "2025-01-29T03:35:40.090Z",
+  "totalFeatures": 7,
+  "numberMatched": 7,
+  "numberReturned": 7,
+  "timeStamp": "2025-01-29T04:08:21.354Z",
   "crs": {
     "type": "name",
     "properties": {
