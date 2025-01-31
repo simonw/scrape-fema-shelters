@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194b9a93554_1141",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194b9a93554_25e1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547642,
+        "objectid": 1547657,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194b9a93554_1142",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194b9a93554_25e2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547643,
+        "objectid": 1547658,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194b9a93554_1143",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194b9a93554_25e3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547644,
+        "objectid": 1547659,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194b9a93554_1144",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194b9a93554_25e4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547645,
+        "objectid": 1547660,
         "SHELTER_ID": 366718,
         "SHELTER_NAME": "Onondago Community College",
         "ADDRESS": "4585 W Seneca Tpke",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194b9a93554_1145",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194b9a93554_25e5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1547646,
+        "objectid": 1547661,
         "SHELTER_ID": 366719,
         "SHELTER_NAME": "Seventh Day Adventist",
         "ADDRESS": "9001 Lucas and Hunt Rd",
@@ -220,12 +220,100 @@
         -90.2632,
         38.738
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194b9a93554_25e6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6863,
+          20.9057
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1547662,
+        "SHELTER_ID": 138755,
+        "SHELTER_NAME": "Lahaina Civic Center",
+        "ADDRESS": "1840 HI-30",
+        "CITY": "Lahaina",
+        "STATE": "HI",
+        "ZIP": "96761",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 32,
+        "POST_IMPACT_CAPACITY": 8,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HAWAII STATE CHAPTER",
+        "ORG_ID": 121469,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 20.90566041,
+        "LONGITUDE": -156.68632056,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -156.6863,
+        20.9057,
+        -156.6863,
+        20.9057
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194b9a93554_25e7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4471,
+          20.7484
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1547663,
+        "SHELTER_ID": 138746,
+        "SHELTER_NAME": "Kihei Community Center",
+        "ADDRESS": "303 East Lipoa Street",
+        "CITY": "Kihei",
+        "STATE": "HI",
+        "ZIP": "96753",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 500,
+        "POST_IMPACT_CAPACITY": 50,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HAWAII STATE CHAPTER",
+        "ORG_ID": 121469,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 20.74839597,
+        "LONGITUDE": -156.44710989,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -156.4471,
+        20.7484,
+        -156.4471,
+        20.7484
+      ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2025-01-31T01:34:22.438Z",
+  "totalFeatures": 7,
+  "numberMatched": 7,
+  "numberReturned": 7,
+  "timeStamp": "2025-01-31T02:26:07.658Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -233,8 +321,8 @@
     }
   },
   "bbox": [
-    -118.4493,
-    34.0532,
+    -156.6863,
+    20.7484,
     -76.1953,
     43.0063
   ]
