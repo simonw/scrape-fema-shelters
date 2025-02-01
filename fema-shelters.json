@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_-6455",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_-5b6e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1548405,
+        "objectid": 1548410,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_-6454",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_-5b6d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1548406,
+        "objectid": 1548411,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_-6453",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_-5b6c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1548407,
+        "objectid": 1548412,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_-6452",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.2632,
-          38.738
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1548408,
-        "SHELTER_ID": 366719,
-        "SHELTER_NAME": "Seventh Day Adventist",
-        "ADDRESS": "9001 Lucas and Hunt Rd",
-        "CITY": "St Louis",
-        "STATE": "MO",
-        "ZIP": "63136",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 11,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.2632,
-        38.738,
-        -90.2632,
-        38.738
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_-6451",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_-5b6b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1548409,
+        "objectid": 1548413,
         "SHELTER_ID": 366718,
         "SHELTER_NAME": "Onondago Community College",
         "ADDRESS": "4585 W Seneca Tpke",
@@ -220,12 +176,56 @@
         -76.1953,
         43.0063
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_-5b6a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2632,
+          38.738
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1548414,
+        "SHELTER_ID": 366719,
+        "SHELTER_NAME": "Seventh Day Adventist",
+        "ADDRESS": "9001 Lucas and Hunt Rd",
+        "CITY": "St Louis",
+        "STATE": "MO",
+        "ZIP": "63136",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 11,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.2632,
+        38.738,
+        -90.2632,
+        38.738
+      ]
     }
   ],
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2025-02-01T00:32:03.727Z",
+  "timeStamp": "2025-02-01T00:56:07.661Z",
   "crs": {
     "type": "name",
     "properties": {
