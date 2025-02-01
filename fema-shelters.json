@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_3584",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_3c21",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1548445,
+        "objectid": 1548450,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_3585",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_3c22",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1548446,
+        "objectid": 1548451,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_3586",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_3c23",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1548447,
+        "objectid": 1548452,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_3587",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_3c24",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1548448,
+        "objectid": 1548453,
         "SHELTER_ID": 366718,
         "SHELTER_NAME": "Onondago Community College",
         "ADDRESS": "4585 W Seneca Tpke",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_3588",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_3c25",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1548449,
+        "objectid": 1548454,
         "SHELTER_ID": 366719,
         "SHELTER_NAME": "Seventh Day Adventist",
         "ADDRESS": "9001 Lucas and Hunt Rd",
@@ -220,12 +220,56 @@
         -90.2632,
         38.738
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194becf2d0a_3c26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0943,
+          40.0322
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1548455,
+        "SHELTER_ID": 334418,
+        "SHELTER_NAME": "Samuel Fels High School",
+        "ADDRESS": "5500 Langdon Street",
+        "CITY": "Philadelphia",
+        "STATE": "PA",
+        "ZIP": "19124",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 741,
+        "POST_IMPACT_CAPACITY": 741,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SOUTHEASTERN PENNSYLVANIA SEPA",
+        "ORG_ID": 121824,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 40.03218952,
+        "LONGITUDE": -75.09428624,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.0943,
+        40.0322,
+        -75.0943,
+        40.0322
+      ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2025-02-01T03:10:40.269Z",
+  "totalFeatures": 6,
+  "numberMatched": 6,
+  "numberReturned": 6,
+  "timeStamp": "2025-02-01T03:36:33.024Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -235,7 +279,7 @@
   "bbox": [
     -118.4493,
     34.0532,
-    -76.1953,
+    -75.0943,
     43.0063
   ]
 }
