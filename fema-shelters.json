@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2fb5",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2877",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1549356,
+        "objectid": 1549363,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2fb4",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2876",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1549357,
+        "objectid": 1549364,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2fb3",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2875",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1549358,
+        "objectid": 1549365,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2fb2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.2632,
-          38.738
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1549359,
-        "SHELTER_ID": 366719,
-        "SHELTER_NAME": "Seventh Day Adventist",
-        "ADDRESS": "9001 Lucas and Hunt Rd",
-        "CITY": "St Louis",
-        "STATE": "MO",
-        "ZIP": "63136",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 11,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.2632,
-        38.738,
-        -90.2632,
-        38.738
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2fb1",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2874",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1549360,
+        "objectid": 1549366,
         "SHELTER_ID": 366718,
         "SHELTER_NAME": "Onondago Community College",
         "ADDRESS": "4585 W Seneca Tpke",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2fb0",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2873",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2632,
+          38.738
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1549367,
+        "SHELTER_ID": 366719,
+        "SHELTER_NAME": "Seventh Day Adventist",
+        "ADDRESS": "9001 Lucas and Hunt Rd",
+        "CITY": "St Louis",
+        "STATE": "MO",
+        "ZIP": "63136",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 11,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.2632,
+        38.738,
+        -90.2632,
+        38.738
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2872",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1549361,
+        "objectid": 1549368,
         "SHELTER_ID": 366724,
         "SHELTER_NAME": "Downtown YMCA",
         "ADDRESS": "430 S 20th Street",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2faf",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194c8e5dd8b_-2871",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1549362,
+        "objectid": 1549369,
         "SHELTER_ID": 334418,
         "SHELTER_NAME": "Samuel Fels High School",
         "ADDRESS": "5500 Langdon St",
@@ -313,7 +313,7 @@
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2025-02-03T00:30:32.447Z",
+  "timeStamp": "2025-02-03T00:53:40.579Z",
   "crs": {
     "type": "name",
     "properties": {
