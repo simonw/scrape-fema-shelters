@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d1857ad7_-601c",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d1857ad7_12c9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550031,
+        "objectid": 1550039,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d1857ad7_-601b",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d1857ad7_12ca",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550032,
+        "objectid": 1550040,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d1857ad7_-601a",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d1857ad7_12cb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550033,
+        "objectid": 1550041,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d1857ad7_-6019",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d1857ad7_12cc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.272,
+          35.575
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1550042,
+        "SHELTER_ID": 353942,
+        "SHELTER_NAME": "Birdtown Community Center",
+        "ADDRESS": "1212 Birdtown Rd",
+        "CITY": "CHEROKEE",
+        "STATE": "NC",
+        "ZIP": "28719",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 462,
+        "POST_IMPACT_CAPACITY": 231,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Asheville-Mountain Area Chapter",
+        "ORG_ID": 121190,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 35.5749683,
+        "LONGITUDE": -83.2720082,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.272,
+        35.575,
+        -83.272,
+        35.575
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d1857ad7_12cd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550034,
+        "objectid": 1550043,
         "SHELTER_ID": 334418,
         "SHELTER_NAME": "Samuel Fels High School",
         "ADDRESS": "5500 Langdon St",
@@ -178,10 +222,10 @@
       ]
     }
   ],
-  "totalFeatures": 4,
-  "numberMatched": 4,
-  "numberReturned": 4,
-  "timeStamp": "2025-02-04T16:38:52.593Z",
+  "totalFeatures": 5,
+  "numberMatched": 5,
+  "numberReturned": 5,
+  "timeStamp": "2025-02-04T17:06:26.070Z",
   "crs": {
     "type": "name",
     "properties": {
