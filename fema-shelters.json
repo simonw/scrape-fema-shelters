@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d368743f_-52ea",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d368743f_261e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550170,
+        "objectid": 1550182,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d368743f_-52e9",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d368743f_261f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550171,
+        "objectid": 1550183,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d368743f_-52e8",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d368743f_2620",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550172,
+        "objectid": 1550184,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d368743f_-52e7",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d368743f_2621",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550173,
+        "objectid": 1550185,
         "SHELTER_ID": 353942,
         "SHELTER_NAME": "Birdtown Community Center",
         "ADDRESS": "1139 US 19",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d368743f_-52e6",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d368743f_2622",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550174,
+        "objectid": 1550186,
         "SHELTER_ID": 366726,
         "SHELTER_NAME": "Birdtown Gym",
         "ADDRESS": "1212 Bird Town Rd",
@@ -199,7 +199,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
+        "TOTAL_POPULATION": 10,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -220,56 +220,12 @@
         -83.3529,
         35.469
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d368743f_-52e5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.0943,
-          40.0322
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1550175,
-        "SHELTER_ID": 334418,
-        "SHELTER_NAME": "Samuel Fels High School",
-        "ADDRESS": "5500 Langdon St",
-        "CITY": "Philadelphia",
-        "STATE": "PA",
-        "ZIP": "19124",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 741,
-        "POST_IMPACT_CAPACITY": 741,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "SOUTHEASTERN PENNSYLVANIA SEPA",
-        "ORG_ID": 121824,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 40.03218952,
-        "LONGITUDE": -75.09428624,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -75.0943,
-        40.0322,
-        -75.0943,
-        40.0322
-      ]
     }
   ],
-  "totalFeatures": 6,
-  "numberMatched": 6,
-  "numberReturned": 6,
-  "timeStamp": "2025-02-05T00:52:38.161Z",
+  "totalFeatures": 5,
+  "numberMatched": 5,
+  "numberReturned": 5,
+  "timeStamp": "2025-02-05T01:34:38.370Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -279,7 +235,7 @@
   "bbox": [
     -118.4493,
     34.0532,
-    -75.0943,
-    40.0322
+    -83.272,
+    35.575
   ]
 }
