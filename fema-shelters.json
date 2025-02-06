@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-4bc0",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-41e9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550860,
+        "objectid": 1550867,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-4bbf",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-41e8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550861,
+        "objectid": 1550868,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-4bbe",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-41e7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550862,
+        "objectid": 1550869,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-4bbd",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-41e6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550863,
+        "objectid": 1550870,
         "SHELTER_ID": 73786,
         "SHELTER_NAME": "Spenard Rec Center",
         "ADDRESS": "2020 W 48th Ave",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-4bbc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.3529,
-          35.469
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1550864,
-        "SHELTER_ID": 366726,
-        "SHELTER_NAME": "Birdtown Gym",
-        "ADDRESS": "1212 Bird Town Rd",
-        "CITY": "Cherokee",
-        "STATE": "NC",
-        "ZIP": "28719",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 10,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -83.3529,
-        35.469,
-        -83.3529,
-        35.469
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-4bbb",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-41e5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550865,
+        "objectid": 1550871,
         "SHELTER_ID": 353942,
         "SHELTER_NAME": "Birdtown Community Center",
         "ADDRESS": "1139 US 19",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-4bba",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-41e4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3529,
+          35.469
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1550872,
+        "SHELTER_ID": 366726,
+        "SHELTER_NAME": "Birdtown Gym",
+        "ADDRESS": "1212 Bird Town Rd",
+        "CITY": "Cherokee",
+        "STATE": "NC",
+        "ZIP": "28719",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 10,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.3529,
+        35.469,
+        -83.3529,
+        35.469
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194dc34c3c0_-41e3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550866,
+        "objectid": 1550873,
         "SHELTER_ID": 366316,
         "SHELTER_NAME": "Los Molinos Veterans Hall",
         "ADDRESS": "7980 Sherwood Blvd",
@@ -313,7 +313,7 @@
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2025-02-06T18:08:59.948Z",
+  "timeStamp": "2025-02-06T18:38:37.886Z",
   "crs": {
     "type": "name",
     "properties": {
