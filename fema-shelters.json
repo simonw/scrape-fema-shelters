@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d9ded686_-48e6",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d9ded686_-210c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550651,
+        "objectid": 1550663,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d9ded686_-48e5",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d9ded686_-210b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550652,
+        "objectid": 1550664,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d9ded686_-48e4",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d9ded686_-210a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550653,
+        "objectid": 1550665,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d9ded686_-48e3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.272,
-          35.575
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1550654,
-        "SHELTER_ID": 353942,
-        "SHELTER_NAME": "Birdtown Community Center",
-        "ADDRESS": "1139 US 19",
-        "CITY": "Cherokee",
-        "STATE": "NC",
-        "ZIP": "28719",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 462,
-        "POST_IMPACT_CAPACITY": 231,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Asheville-Mountain Area Chapter",
-        "ORG_ID": 121190,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 35.5749683,
-        "LONGITUDE": -83.2720082,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -83.272,
-        35.575,
-        -83.272,
-        35.575
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d9ded686_-48e2",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d9ded686_-2109",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550655,
+        "objectid": 1550666,
         "SHELTER_ID": 366726,
         "SHELTER_NAME": "Birdtown Gym",
         "ADDRESS": "1212 Bird Town Rd",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194d9ded686_-48e1",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d9ded686_-2108",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.272,
+          35.575
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1550667,
+        "SHELTER_ID": 353942,
+        "SHELTER_NAME": "Birdtown Community Center",
+        "ADDRESS": "1139 US 19",
+        "CITY": "Cherokee",
+        "STATE": "NC",
+        "ZIP": "28719",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 462,
+        "POST_IMPACT_CAPACITY": 231,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Asheville-Mountain Area Chapter",
+        "ORG_ID": 121190,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 35.5749683,
+        "LONGITUDE": -83.2720082,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.272,
+        35.575,
+        -83.272,
+        35.575
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194d9ded686_-2107",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1550656,
+        "objectid": 1550668,
         "SHELTER_ID": 366316,
         "SHELTER_NAME": "Los Molinos Veterans Hall",
         "ADDRESS": "7980 Sherwood Blvd",
@@ -269,7 +269,7 @@
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2025-02-06T07:35:01.790Z",
+  "timeStamp": "2025-02-06T08:09:24.558Z",
   "crs": {
     "type": "name",
     "properties": {
