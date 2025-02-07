@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_fe",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_8da",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551429,
+        "objectid": 1551445,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_ff",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_8db",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551430,
+        "objectid": 1551446,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_100",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_8dc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551431,
+        "objectid": 1551447,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_101",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_8dd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551432,
+        "objectid": 1551448,
         "SHELTER_ID": 73786,
         "SHELTER_NAME": "Spenard Rec Center",
         "ADDRESS": "2020 W 48th Ave",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_102",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.9672,
-          42.1095
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1551433,
-        "SHELTER_ID": 366727,
-        "SHELTER_NAME": "Lakewood Chapel",
-        "ADDRESS": "1307 E Palatine Road",
-        "CITY": "Arlington Heights",
-        "STATE": "IL",
-        "ZIP": "60004",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.9672,
-        42.1095,
-        -87.9672,
-        42.1095
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_103",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_8de",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551434,
+        "objectid": 1551449,
         "SHELTER_ID": 353942,
         "SHELTER_NAME": "Birdtown Community Center",
         "ADDRESS": "1139 US 19",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_104",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_8df",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9672,
+          42.1095
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1551450,
+        "SHELTER_ID": 366727,
+        "SHELTER_NAME": "Lakewood Chapel",
+        "ADDRESS": "1307 E Palatine Road",
+        "CITY": "Arlington Heights",
+        "STATE": "IL",
+        "ZIP": "60004",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.9672,
+        42.1095,
+        -87.9672,
+        42.1095
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_8e0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551435,
+        "objectid": 1551451,
         "SHELTER_ID": 333381,
         "SHELTER_NAME": "Greater St. Matthew Church - Booker Family Life Ctr",
         "ADDRESS": "7701 Jutland Rd",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_105",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e1b6860e_8e1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551436,
+        "objectid": 1551452,
         "SHELTER_ID": 366316,
         "SHELTER_NAME": "Los Molinos Veterans Hall",
         "ADDRESS": "7980 Sherwood Blvd",
@@ -357,7 +357,7 @@
   "totalFeatures": 8,
   "numberMatched": 8,
   "numberReturned": 8,
-  "timeStamp": "2025-02-07T21:34:56.305Z",
+  "timeStamp": "2025-02-07T22:06:17.624Z",
   "crs": {
     "type": "name",
     "properties": {
