@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5f30",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5ac4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551744,
+        "objectid": 1551762,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5f2f",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5ac3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551745,
+        "objectid": 1551763,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5f2e",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5ac2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551746,
+        "objectid": 1551764,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5f2d",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5ac1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551747,
+        "objectid": 1551765,
         "SHELTER_ID": 73786,
         "SHELTER_NAME": "Spenard Rec Center",
         "ADDRESS": "2020 W 48th Ave",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5f2c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.9463,
-          43.0388
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1551748,
-        "SHELTER_ID": 145842,
-        "SHELTER_NAME": "American Red Cross Office",
-        "ADDRESS": "2600 W Wisconsin Ave",
-        "CITY": "Milwaukee",
-        "STATE": "WI",
-        "ZIP": "53233",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 60,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "American Red Cross in Southeastern Wisconsin",
-        "ORG_ID": 121144,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 43.03876696,
-        "LONGITUDE": -87.94634447,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.9463,
-        43.0388,
-        -87.9463,
-        43.0388
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5f2b",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5ac0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551749,
+        "objectid": 1551766,
         "SHELTER_ID": 353942,
         "SHELTER_NAME": "Birdtown Community Center",
         "ADDRESS": "1139 US 19",
@@ -267,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5f2a",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5abf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551750,
+        "objectid": 1551767,
         "SHELTER_ID": 366727,
         "SHELTER_NAME": "Lakewood Chapel",
         "ADDRESS": "1307 E Palatine Road",
@@ -311,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5f29",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5abe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9463,
+          43.0388
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1551768,
+        "SHELTER_ID": 145842,
+        "SHELTER_NAME": "American Red Cross Office",
+        "ADDRESS": "2600 W Wisconsin Ave",
+        "CITY": "Milwaukee",
+        "STATE": "WI",
+        "ZIP": "53233",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 60,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "American Red Cross in Southeastern Wisconsin",
+        "ORG_ID": 121144,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 43.03876696,
+        "LONGITUDE": -87.94634447,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.9463,
+        43.0388,
+        -87.9463,
+        43.0388
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5abd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551751,
+        "objectid": 1551769,
         "SHELTER_ID": 333381,
         "SHELTER_NAME": "Greater St. Matthew Church - Booker Family Life Ctr",
         "ADDRESS": "7701 Jutland Rd",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5f28",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e4c9d424_-5abc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1551752,
+        "objectid": 1551770,
         "SHELTER_ID": 366316,
         "SHELTER_NAME": "Los Molinos Veterans Hall",
         "ADDRESS": "7980 Sherwood Blvd",
@@ -401,7 +401,7 @@
   "totalFeatures": 9,
   "numberMatched": 9,
   "numberReturned": 9,
-  "timeStamp": "2025-02-08T10:35:37.850Z",
+  "timeStamp": "2025-02-08T11:05:53.824Z",
   "crs": {
     "type": "name",
     "properties": {
