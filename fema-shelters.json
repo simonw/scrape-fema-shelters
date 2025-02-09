@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-4573",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-1149",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552088,
+        "objectid": 1552112,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-4572",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-1148",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552089,
+        "objectid": 1552113,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-4571",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-1147",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552090,
+        "objectid": 1552114,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-4570",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-1146",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552091,
+        "objectid": 1552115,
         "SHELTER_ID": 73786,
         "SHELTER_NAME": "Spenard Rec Center",
         "ADDRESS": "2020 W 48th Ave",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-456f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.272,
-          35.575
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1552092,
-        "SHELTER_ID": 353942,
-        "SHELTER_NAME": "Birdtown Community Center",
-        "ADDRESS": "1139 US 19",
-        "CITY": "Cherokee",
-        "STATE": "NC",
-        "ZIP": "28719",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 462,
-        "POST_IMPACT_CAPACITY": 231,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Asheville-Mountain Area Chapter",
-        "ORG_ID": 121190,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 35.5749683,
-        "LONGITUDE": -83.2720082,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -83.272,
-        35.575,
-        -83.272,
-        35.575
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-456e",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-1145",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552093,
+        "objectid": 1552116,
         "SHELTER_ID": 366727,
         "SHELTER_NAME": "Lakewood Chapel",
         "ADDRESS": "1307 E Palatine Road",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-456d",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-1144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.272,
+          35.575
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1552117,
+        "SHELTER_ID": 353942,
+        "SHELTER_NAME": "Birdtown Community Center",
+        "ADDRESS": "1139 US 19",
+        "CITY": "Cherokee",
+        "STATE": "NC",
+        "ZIP": "28719",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 462,
+        "POST_IMPACT_CAPACITY": 231,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Asheville-Mountain Area Chapter",
+        "ORG_ID": 121190,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 35.5749683,
+        "LONGITUDE": -83.2720082,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.272,
+        35.575,
+        -83.272,
+        35.575
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-1143",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552094,
+        "objectid": 1552118,
         "SHELTER_ID": 333381,
         "SHELTER_NAME": "Greater St. Matthew Church - Booker Family Life Ctr",
         "ADDRESS": "7701 Jutland Rd",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-456c",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194e79dcfb8_-1142",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552095,
+        "objectid": 1552119,
         "SHELTER_ID": 366316,
         "SHELTER_NAME": "Los Molinos Veterans Hall",
         "ADDRESS": "7980 Sherwood Blvd",
@@ -357,7 +357,7 @@
   "totalFeatures": 8,
   "numberMatched": 8,
   "numberReturned": 8,
-  "timeStamp": "2025-02-08T23:34:57.581Z",
+  "timeStamp": "2025-02-09T00:32:18.501Z",
   "crs": {
     "type": "name",
     "properties": {
