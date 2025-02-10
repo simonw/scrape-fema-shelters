@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_20ad",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_284e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552753,
+        "objectid": 1552762,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_20ae",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_284f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552754,
+        "objectid": 1552763,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_20af",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_2850",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552755,
+        "objectid": 1552764,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_20b0",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_2851",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552756,
+        "objectid": 1552765,
         "SHELTER_ID": 73786,
         "SHELTER_NAME": "Spenard Rec Center",
         "ADDRESS": "2020 W 48th Ave",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_20b1",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_2852",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552757,
+        "objectid": 1552766,
         "SHELTER_ID": 366728,
         "SHELTER_NAME": "Beatty Community Center ",
         "ADDRESS": "24199 Godowa Springs Rd ",
@@ -223,51 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_20b2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.4028,
-          42.1995
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1552758,
-        "SHELTER_ID": 366729,
-        "SHELTER_NAME": "Living Springs Fellowship ",
-        "ADDRESS": "31897 Mission St",
-        "CITY": "Bonanza",
-        "STATE": "OR",
-        "ZIP": "97623",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 6,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -121.4028,
-        42.1995,
-        -121.4028,
-        42.1995
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_20b3",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_2853",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552759,
+        "objectid": 1552767,
         "SHELTER_ID": 353942,
         "SHELTER_NAME": "Birdtown Community Center",
         "ADDRESS": "1139 US 19",
@@ -311,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_20b4",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_2854",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4028,
+          42.1995
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1552768,
+        "SHELTER_ID": 366729,
+        "SHELTER_NAME": "Living Springs Fellowship ",
+        "ADDRESS": "31897 Mission St",
+        "CITY": "Bonanza",
+        "STATE": "OR",
+        "ZIP": "97623",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -121.4028,
+        42.1995,
+        -121.4028,
+        42.1995
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_2855",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552760,
+        "objectid": 1552769,
         "SHELTER_ID": 333381,
         "SHELTER_NAME": "Greater St. Matthew Church - Booker Family Life Ctr",
         "ADDRESS": "7701 Jutland Rd",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_20b5",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194ed281999_2856",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1552761,
+        "objectid": 1552770,
         "SHELTER_ID": 366316,
         "SHELTER_NAME": "Los Molinos Veterans Hall",
         "ADDRESS": "7980 Sherwood Blvd",
@@ -401,7 +401,7 @@
   "totalFeatures": 9,
   "numberMatched": 9,
   "numberReturned": 9,
-  "timeStamp": "2025-02-10T03:11:13.477Z",
+  "timeStamp": "2025-02-10T03:38:49.643Z",
   "crs": {
     "type": "name",
     "properties": {
