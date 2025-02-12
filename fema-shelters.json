@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194f7460eaa_444a",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194f7460eaa_4ca6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1553950,
+        "objectid": 1553957,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194f7460eaa_444b",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194f7460eaa_4ca7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1553951,
+        "objectid": 1553958,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194f7460eaa_444c",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194f7460eaa_4ca8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1553952,
+        "objectid": 1553959,
         "SHELTER_ID": 366685,
         "SHELTER_NAME": "Outside-Westwood Rec Center",
         "ADDRESS": " 1350 S Sepulveda Blvd",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194f7460eaa_444d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.9199,
-          61.1772
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1553953,
-        "SHELTER_ID": 73786,
-        "SHELTER_NAME": "Spenard Rec Center",
-        "ADDRESS": "2020 W 48th Ave",
-        "CITY": "Anchorage",
-        "STATE": "AK",
-        "ZIP": "99517",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 10,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC OF ALASKA",
-        "ORG_ID": 121168,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 61.17723793,
-        "LONGITUDE": -149.91989356,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -149.9199,
-        61.1772,
-        -149.9199,
-        61.1772
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194f7460eaa_444e",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194f7460eaa_4ca9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1553954,
+        "objectid": 1553960,
         "SHELTER_ID": 353942,
         "SHELTER_NAME": "Birdtown Community Center",
         "ADDRESS": "1139 US 19",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194f7460eaa_444f",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194f7460eaa_4caa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1553955,
+        "objectid": 1553961,
         "SHELTER_ID": 366729,
         "SHELTER_NAME": "Living Springs Fellowship ",
         "ADDRESS": "31897 Mission St",
@@ -267,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--d333ac9_194f7460eaa_4450",
+      "id": "FEMANSSOpenShelters.fid--d333ac9_194f7460eaa_4cab",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1553956,
+        "objectid": 1553962,
         "SHELTER_ID": 333381,
         "SHELTER_NAME": "Greater St. Matthew Church - Booker Family Life Ctr",
         "ADDRESS": "7701 Jutland Rd",
@@ -310,10 +266,10 @@
       ]
     }
   ],
-  "totalFeatures": 7,
-  "numberMatched": 7,
-  "numberReturned": 7,
-  "timeStamp": "2025-02-12T02:27:37.349Z",
+  "totalFeatures": 6,
+  "numberMatched": 6,
+  "numberReturned": 6,
+  "timeStamp": "2025-02-12T02:48:20.182Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -321,9 +277,9 @@
     }
   },
   "bbox": [
-    -149.9199,
+    -121.4028,
     29.6738,
     -83.272,
-    61.1772
+    42.1995
   ]
 }
