@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950071cf53_-6ddb",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950071cf53_-65c4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1554461,
+        "objectid": 1554464,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950071cf53_-6dda",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950071cf53_-65c3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1554462,
+        "objectid": 1554465,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950071cf53_-6dd9",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950071cf53_-65c2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1554463,
+        "objectid": 1554466,
         "SHELTER_ID": 366729,
         "SHELTER_NAME": "Living Springs Fellowship ",
         "ADDRESS": "31897 Mission St",
@@ -132,12 +132,56 @@
         -121.4028,
         42.1995
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950071cf53_-65c1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6589,
+          33.6807
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1554467,
+        "SHELTER_ID": 366732,
+        "SHELTER_NAME": "TEP-Foothill Ranch Library",
+        "ADDRESS": "27002 Cabriole Way",
+        "CITY": "Foothill Ranch",
+        "STATE": "CA",
+        "ZIP": "90610",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.6589,
+        33.6807,
+        -117.6589,
+        33.6807
+      ]
     }
   ],
-  "totalFeatures": 3,
-  "numberMatched": 3,
-  "numberReturned": 3,
-  "timeStamp": "2025-02-13T19:06:05.285Z",
+  "totalFeatures": 4,
+  "numberMatched": 4,
+  "numberReturned": 4,
+  "timeStamp": "2025-02-13T19:34:45.902Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -146,8 +190,8 @@
   },
   "bbox": [
     -121.4028,
-    34.0534,
-    -118.1443,
+    33.6807,
+    -117.6589,
     42.1995
   ]
 }
