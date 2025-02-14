@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19501c187c4_2b09",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19501c187c4_2ef7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1554556,
+        "objectid": 1554560,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19501c187c4_2b0a",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19501c187c4_2ef8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1554557,
+        "objectid": 1554561,
         "SHELTER_ID": 366674,
         "SHELTER_NAME": "Pasadena Civic Auditorium, Exhibition Hall",
         "ADDRESS": "300 E Green Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19501c187c4_2b0b",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19501c187c4_2ef9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1554558,
+        "objectid": 1554562,
         "SHELTER_ID": 366729,
         "SHELTER_NAME": "Living Springs Fellowship ",
         "ADDRESS": "31897 Mission St",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19501c187c4_2b0c",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19501c187c4_2efa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1554559,
+        "objectid": 1554563,
         "SHELTER_ID": 366732,
         "SHELTER_NAME": "TEP-Foothill Ranch Library",
         "ADDRESS": "27002 Cabriole Way",
@@ -176,12 +176,56 @@
         -117.6589,
         33.6807
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19501c187c4_2efb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.04,
+          34.1623
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1554564,
+        "SHELTER_ID": 366733,
+        "SHELTER_NAME": "Pasadena-Sierra Madre YMCA",
+        "ADDRESS": "611 E Sierra Madre Blvd",
+        "CITY": "Sierra Madre",
+        "STATE": "CA",
+        "ZIP": "91024",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.04,
+        34.1623,
+        -118.04,
+        34.1623
+      ]
     }
   ],
-  "totalFeatures": 4,
-  "numberMatched": 4,
-  "numberReturned": 4,
-  "timeStamp": "2025-02-14T03:09:52.728Z",
+  "totalFeatures": 5,
+  "numberMatched": 5,
+  "numberReturned": 5,
+  "timeStamp": "2025-02-14T03:36:45.652Z",
   "crs": {
     "type": "name",
     "properties": {
