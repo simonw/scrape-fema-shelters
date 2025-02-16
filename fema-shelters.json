@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-6335",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-5b44",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555522,
+        "objectid": 1555539,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-6334",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-5b43",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555523,
+        "objectid": 1555540,
         "SHELTER_ID": 366729,
         "SHELTER_NAME": "Living Springs Fellowship ",
         "ADDRESS": "31897 Mission St",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-6333",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-5b42",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555524,
+        "objectid": 1555541,
         "SHELTER_ID": 335875,
         "SHELTER_NAME": "Pamela Park Gym",
         "ADDRESS": "2236 Goodall Ave",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-6332",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-5b41",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555525,
+        "objectid": 1555542,
         "SHELTER_ID": 359128,
         "SHELTER_NAME": "Harlan Baptist Church",
         "ADDRESS": "102 W Mound Street",
@@ -155,7 +155,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": 1,
         "POST_IMPACT_CAPACITY": 1,
-        "TOTAL_POPULATION": 7,
+        "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": null,
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-6331",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-5b40",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555526,
+        "objectid": 1555543,
         "SHELTER_ID": 365449,
         "SHELTER_NAME": "Floyd County Community Center",
         "ADDRESS": "7199 KY 80",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-6330",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-5b3f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555527,
+        "objectid": 1555544,
         "SHELTER_ID": 366734,
         "SHELTER_NAME": "Salyersville Community Center",
         "ADDRESS": "150 S Church Street",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-632f",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-5b3e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555528,
+        "objectid": 1555545,
         "SHELTER_ID": 366735,
         "SHELTER_NAME": "Hazard/Perry County Senior Center",
         "ADDRESS": "354 Perry Park Road",
@@ -311,7 +311,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-632e",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-5b3d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7244,
+          37.6977
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1555546,
+        "SHELTER_ID": 365463,
+        "SHELTER_NAME": "Jenny Wiley State Park",
+        "ADDRESS": "419 Jenny Wiley Drive",
+        "CITY": "Prestonsburg",
+        "STATE": "KY",
+        "ZIP": "41653",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.7244,
+        37.6977,
+        -82.7244,
+        37.6977
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-5b3c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555529,
+        "objectid": 1555547,
         "SHELTER_ID": 365473,
         "SHELTER_NAME": "Hazard Community and Technical College - Lee College Campus",
         "ADDRESS": "601 Jefferson Ave",
@@ -354,10 +398,10 @@
       ]
     }
   ],
-  "totalFeatures": 8,
-  "numberMatched": 8,
-  "numberReturned": 8,
-  "timeStamp": "2025-02-16T17:35:21.217Z",
+  "totalFeatures": 9,
+  "numberMatched": 9,
+  "numberReturned": 9,
+  "timeStamp": "2025-02-16T18:07:46.334Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -367,7 +411,7 @@
   "bbox": [
     -121.4028,
     34.0534,
-    -82.7726,
+    -82.7244,
     42.1995
   ]
 }
