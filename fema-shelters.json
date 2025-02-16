@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4926",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-416a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9746,
+          37.2043
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1555593,
+        "SHELTER_ID": 365444,
+        "SHELTER_NAME": "Twin Valley Elementary School",
+        "ADDRESS": "9017 Riverside Drive",
+        "CITY": "Oakwood",
+        "STATE": "VA",
+        "ZIP": "24631",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.9746,
+        37.2043,
+        -81.9746,
+        37.2043
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4169",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555575,
+        "objectid": 1555594,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4925",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4168",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555576,
+        "objectid": 1555595,
         "SHELTER_ID": 366729,
         "SHELTER_NAME": "Living Springs Fellowship ",
         "ADDRESS": "31897 Mission St",
@@ -91,95 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4924",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.9944,
-          34.1233
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1555577,
-        "SHELTER_ID": 335875,
-        "SHELTER_NAME": "Pamela Park Gym",
-        "ADDRESS": "2236 Goodall Ave",
-        "CITY": "Duarte",
-        "STATE": "CA",
-        "ZIP": "91010",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 462,
-        "POST_IMPACT_CAPACITY": 231,
-        "TOTAL_POPULATION": 64,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "SAN GABRIEL POMONA VALLEY CHAP",
-        "ORG_ID": 121771,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 34.12328406,
-        "LONGITUDE": -117.9943752,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.9944,
-        34.1233,
-        -117.9944,
-        34.1233
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4923",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.3231,
-          36.8483
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1555578,
-        "SHELTER_ID": 359128,
-        "SHELTER_NAME": "Harlan Baptist Church",
-        "ADDRESS": "102 W Mound Street",
-        "CITY": "Harlan",
-        "STATE": "KY",
-        "ZIP": "40831",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1,
-        "POST_IMPACT_CAPACITY": 1,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "NO",
-        "LATITUDE": 36.8482831,
-        "LONGITUDE": -83.3231218,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -83.3231,
-        36.8483,
-        -83.3231,
-        36.8483
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4922",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4167",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555579,
+        "objectid": 1555596,
         "SHELTER_ID": 365449,
         "SHELTER_NAME": "Floyd County Community Center",
         "ADDRESS": "7199 KY 80",
@@ -223,7 +179,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4921",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4166",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9944,
+          34.1233
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1555597,
+        "SHELTER_ID": 335875,
+        "SHELTER_NAME": "Pamela Park Gym",
+        "ADDRESS": "2236 Goodall Ave",
+        "CITY": "Duarte",
+        "STATE": "CA",
+        "ZIP": "91010",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 462,
+        "POST_IMPACT_CAPACITY": 231,
+        "TOTAL_POPULATION": 64,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SAN GABRIEL POMONA VALLEY CHAP",
+        "ORG_ID": 121771,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.12328406,
+        "LONGITUDE": -117.9943752,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.9944,
+        34.1233,
+        -117.9944,
+        34.1233
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3231,
+          36.8483
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1555598,
+        "SHELTER_ID": 359128,
+        "SHELTER_NAME": "Harlan Baptist Church",
+        "ADDRESS": "102 W Mound Street",
+        "CITY": "Harlan",
+        "STATE": "KY",
+        "ZIP": "40831",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1,
+        "POST_IMPACT_CAPACITY": 1,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "NO",
+        "LATITUDE": 36.8482831,
+        "LONGITUDE": -83.3231218,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.3231,
+        36.8483,
+        -83.3231,
+        36.8483
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4164",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555580,
+        "objectid": 1555599,
         "SHELTER_ID": 366734,
         "SHELTER_NAME": "Salyersville Community Center",
         "ADDRESS": "150 S Church Street",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4920",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4163",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555581,
+        "objectid": 1555600,
         "SHELTER_ID": 366735,
         "SHELTER_NAME": "Hazard/Perry County Senior Center",
         "ADDRESS": "354 Perry Park Road",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-491f",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4162",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555582,
+        "objectid": 1555601,
         "SHELTER_ID": 365463,
         "SHELTER_NAME": "Jenny Wiley State Park",
         "ADDRESS": "419 Jenny Wiley Drive",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-491e",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4161",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555583,
+        "objectid": 1555602,
         "SHELTER_ID": 365473,
         "SHELTER_NAME": "Hazard Community and Technical College - Lee College Campus",
         "ADDRESS": "601 Jefferson Ave",
@@ -396,12 +440,56 @@
         -83.3815,
         37.554
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950fb427b6_-4160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5429,
+          37.1215
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1555603,
+        "SHELTER_ID": 366736,
+        "SHELTER_NAME": "Fuller Perry Hall - Tazewell Co Fairgrounds",
+        "ADDRESS": "515 Fairgound Road",
+        "CITY": "Tazewell",
+        "STATE": "VA",
+        "ZIP": "24651",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.5429,
+        37.1215,
+        -81.5429,
+        37.1215
+      ]
     }
   ],
-  "totalFeatures": 9,
-  "numberMatched": 9,
-  "numberReturned": 9,
-  "timeStamp": "2025-02-16T19:34:49.239Z",
+  "totalFeatures": 11,
+  "numberMatched": 11,
+  "numberReturned": 11,
+  "timeStamp": "2025-02-16T20:07:15.236Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -411,7 +499,7 @@
   "bbox": [
     -121.4028,
     34.0534,
-    -82.7244,
+    -81.5429,
     42.1995
   ]
 }
