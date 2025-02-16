@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950b995874_5d75",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.3231,
-          36.8483
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1555188,
-        "SHELTER_ID": 359128,
-        "SHELTER_NAME": "Harlan Baptist Church",
-        "ADDRESS": "102 West Mound Street",
-        "CITY": "HARLAN",
-        "STATE": "KY",
-        "ZIP": "40831",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1,
-        "POST_IMPACT_CAPACITY": 1,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "NO",
-        "LATITUDE": 36.8482831,
-        "LONGITUDE": -83.3231218,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -83.3231,
-        36.8483,
-        -83.3231,
-        36.8483
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950b995874_5d76",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950b995874_6966",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,10 +13,10 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555189,
+        "objectid": 1555207,
         "SHELTER_ID": 365473,
         "SHELTER_NAME": "Lee College Gym",
-        "ADDRESS": "680 Jefferson Ave",
+        "ADDRESS": "601 Jefferson Ave",
         "CITY": "Jackson",
         "STATE": "KY",
         "ZIP": "41339",
@@ -91,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950b995874_5d77",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950b995874_6967",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555190,
+        "objectid": 1555208,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950b995874_5d78",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950b995874_6968",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555191,
+        "objectid": 1555209,
         "SHELTER_ID": 366729,
         "SHELTER_NAME": "Living Springs Fellowship ",
         "ADDRESS": "31897 Mission St",
@@ -179,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950b995874_5d79",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950b995874_6969",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3231,
+          36.8483
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1555210,
+        "SHELTER_ID": 359128,
+        "SHELTER_NAME": "Harlan Baptist Church",
+        "ADDRESS": "102 W Mound Street",
+        "CITY": "Harlan",
+        "STATE": "KY",
+        "ZIP": "40831",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1,
+        "POST_IMPACT_CAPACITY": 1,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "NO",
+        "LATITUDE": 36.8482831,
+        "LONGITUDE": -83.3231218,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.3231,
+        36.8483,
+        -83.3231,
+        36.8483
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950b995874_696a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555192,
+        "objectid": 1555211,
         "SHELTER_ID": 335875,
         "SHELTER_NAME": "Pamela Park Gym",
         "ADDRESS": "2236 Goodall Ave",
@@ -220,12 +220,100 @@
         -117.9944,
         34.1233
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950b995874_696b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7726,
+          37.546
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1555212,
+        "SHELTER_ID": 365449,
+        "SHELTER_NAME": "Floyd County Community Center",
+        "ADDRESS": "7199 KY 80",
+        "CITY": "Langley",
+        "STATE": "KY",
+        "ZIP": "41645",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.7726,
+        37.546,
+        -82.7726,
+        37.546
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950b995874_696c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8906,
+          37.2156
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1555213,
+        "SHELTER_ID": 366734,
+        "SHELTER_NAME": "Fogertown Fire Dept",
+        "ADDRESS": "9988 KY 638",
+        "CITY": "Fogertown",
+        "STATE": "KY",
+        "ZIP": "40962",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.8906,
+        37.2156,
+        -83.8906,
+        37.2156
+      ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2025-02-16T01:34:24.683Z",
+  "totalFeatures": 7,
+  "numberMatched": 7,
+  "numberReturned": 7,
+  "timeStamp": "2025-02-16T02:30:34.187Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -235,7 +323,7 @@
   "bbox": [
     -121.4028,
     34.0534,
-    -83.3231,
+    -82.7726,
     42.1995
   ]
 }
