@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_55c1",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_5a50",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555347,
+        "objectid": 1555354,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_55c2",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_5a51",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555348,
+        "objectid": 1555355,
         "SHELTER_ID": 366729,
         "SHELTER_NAME": "Living Springs Fellowship ",
         "ADDRESS": "31897 Mission St",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_55c3",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_5a52",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555349,
+        "objectid": 1555356,
         "SHELTER_ID": 359128,
         "SHELTER_NAME": "Harlan Baptist Church",
         "ADDRESS": "102 W Mound Street",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_55c4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.9944,
-          34.1233
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1555350,
-        "SHELTER_ID": 335875,
-        "SHELTER_NAME": "Pamela Park Gym",
-        "ADDRESS": "2236 Goodall Ave",
-        "CITY": "Duarte",
-        "STATE": "CA",
-        "ZIP": "91010",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 462,
-        "POST_IMPACT_CAPACITY": 231,
-        "TOTAL_POPULATION": 64,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "SAN GABRIEL POMONA VALLEY CHAP",
-        "ORG_ID": 121771,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 34.12328406,
-        "LONGITUDE": -117.9943752,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.9944,
-        34.1233,
-        -117.9944,
-        34.1233
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_55c5",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_5a53",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555351,
+        "objectid": 1555357,
         "SHELTER_ID": 365449,
         "SHELTER_NAME": "Floyd County Community Center",
         "ADDRESS": "7199 KY 80",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_55c6",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_5a54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9944,
+          34.1233
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1555358,
+        "SHELTER_ID": 335875,
+        "SHELTER_NAME": "Pamela Park Gym",
+        "ADDRESS": "2236 Goodall Ave",
+        "CITY": "Duarte",
+        "STATE": "CA",
+        "ZIP": "91010",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 462,
+        "POST_IMPACT_CAPACITY": 231,
+        "TOTAL_POPULATION": 64,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SAN GABRIEL POMONA VALLEY CHAP",
+        "ORG_ID": 121771,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.12328406,
+        "LONGITUDE": -117.9943752,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.9944,
+        34.1233,
+        -117.9944,
+        34.1233
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_5a55",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555352,
+        "objectid": 1555359,
         "SHELTER_ID": 366734,
         "SHELTER_NAME": "Salyersville Community Center",
         "ADDRESS": "150 S Church Street",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_55c7",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_1950d5b4f03_5a56",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1555353,
+        "objectid": 1555360,
         "SHELTER_ID": 365473,
         "SHELTER_NAME": "Hazard Community and Technical College - Lee College Campus",
         "ADDRESS": "601 Jefferson Ave",
@@ -313,7 +313,7 @@
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2025-02-16T09:06:28.452Z",
+  "timeStamp": "2025-02-16T09:34:36.492Z",
   "crs": {
     "type": "name",
     "properties": {
