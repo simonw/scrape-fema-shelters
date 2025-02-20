@@ -3,579 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54c5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.5761,
-          35.2219
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1562844,
-        "SHELTER_ID": 185681,
-        "SHELTER_NAME": "Lenoir Community College",
-        "ADDRESS": "231 NC Hwy 58",
-        "CITY": "Kinston",
-        "STATE": "NC",
-        "ZIP": "28504",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 800,
-        "POST_IMPACT_CAPACITY": 400,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "LENOIR COUNTY",
-        "ORG_ID": 121542,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 35.22189878,
-        "LONGITUDE": -77.57612412,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -77.5761,
-        35.2219,
-        -77.5761,
-        35.2219
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54c6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.7119,
-          38.8201
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1562845,
-        "SHELTER_ID": 366764,
-        "SHELTER_NAME": "Warming Center-Calvary United Methodist Church",
-        "ADDRESS": "205 N Court Street",
-        "CITY": "Ripley",
-        "STATE": "WV",
-        "ZIP": "25271",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "WC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.7119,
-        38.8201,
-        -81.7119,
-        38.8201
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54c7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4096,
-          37.9991
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1562846,
-        "SHELTER_ID": 366765,
-        "SHELTER_NAME": "Warming Center-Dunlow Community Center",
-        "ADDRESS": "1475 Left Fork Dunlow Bypass Rd",
-        "CITY": "Dunlow",
-        "STATE": "WV",
-        "ZIP": "25511",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "WC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.4096,
-        37.9991,
-        -82.4096,
-        37.9991
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54c8",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.4244,
-          29.8806
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1562847,
-        "SHELTER_ID": 366771,
-        "SHELTER_NAME": "Lincoln Park Community Center",
-        "ADDRESS": "979 Grenshaw Street",
-        "CITY": "Houston",
-        "STATE": "TX",
-        "ZIP": "77078",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.4244,
-        29.8806,
-        -95.4244,
-        29.8806
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54c9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.0191,
-          37.9705
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1562848,
-        "SHELTER_ID": 366772,
-        "SHELTER_NAME": "Tracey Vickers Community Center ",
-        "ADDRESS": "68 Boise Street ",
-        "CITY": "Chapmanville",
-        "STATE": "WV",
-        "ZIP": "25508",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 7,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.0191,
-        37.9705,
-        -82.0191,
-        37.9705
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54ca",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.6904,
-          37.9636
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1562849,
-        "SHELTER_ID": 366741,
-        "SHELTER_NAME": "Rupert Community Center ",
-        "ADDRESS": "604 Nicholas Street",
-        "CITY": "Rupert",
-        "STATE": "WV",
-        "ZIP": "25984",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 8,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -80.6904,
-        37.9636,
-        -80.6904,
-        37.9636
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54cb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.5825,
-          37.4321
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1562850,
-        "SHELTER_ID": 366742,
-        "SHELTER_NAME": "Reclamation Church",
-        "ADDRESS": "151 Virginia Ave",
-        "CITY": "Welch",
-        "STATE": "WV",
-        "ZIP": "24801",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 31,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.5825,
-        37.4321,
-        -81.5825,
-        37.4321
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54cc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.2921,
-          37.6778
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1562851,
-        "SHELTER_ID": 366740,
-        "SHELTER_NAME": "Williamson Memorial Fieldhouse",
-        "ADDRESS": "1703 W 3rd Ave",
-        "CITY": "Williamson",
-        "STATE": "WV",
-        "ZIP": "25661",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 35,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.2921,
-        37.6778,
-        -82.2921,
-        37.6778
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54cd",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.5547,
-          38.213
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1562852,
-        "SHELTER_ID": 366766,
-        "SHELTER_NAME": "Gathering Place Mission",
-        "ADDRESS": "339 Bourbon Street",
-        "CITY": "Georgetown",
-        "STATE": "KY",
-        "ZIP": "40324",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 34,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.5547,
-        38.213,
-        -84.5547,
-        38.213
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54ce",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.6516,
-          37.2713
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1562853,
-        "SHELTER_ID": 366773,
-        "SHELTER_NAME": "Grace CHC Oneida Elementary School",
-        "ADDRESS": "435 Newfound Road",
-        "CITY": "Oneida",
-        "STATE": "KY",
-        "ZIP": "40972",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -83.6516,
-        37.2713,
-        -83.6516,
-        37.2713
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54cf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.766,
-          38.2577
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1562854,
-        "SHELTER_ID": 366767,
-        "SHELTER_NAME": "The Pentecostals",
-        "ADDRESS": "945 W Main Street",
-        "CITY": "Louisville",
-        "STATE": "KY",
-        "ZIP": "40219",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 4,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.766,
-        38.2577,
-        -85.766,
-        38.2577
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54d0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.8097,
-          37.8154
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1562855,
-        "SHELTER_ID": 366770,
-        "SHELTER_NAME": "Big Sandy KCTCS",
-        "ADDRESS": "513 3rd Street, Building C",
-        "CITY": "Paintsville",
-        "STATE": "KY",
-        "ZIP": "41240",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.8097,
-        37.8154,
-        -82.8097,
-        37.8154
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54d1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.4177,
-          36.5759
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1562856,
-        "SHELTER_ID": 366762,
-        "SHELTER_NAME": "Parklane Church of the Nazarene",
-        "ADDRESS": "225 Cunningham Lane",
-        "CITY": "Clarksville",
-        "STATE": "TN",
-        "ZIP": "37042",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.4177,
-        36.5759,
-        -87.4177,
-        36.5759
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54d2",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cea",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562828,
+        "objectid": 1562857,
         "SHELTER_ID": 174575,
         "SHELTER_NAME": "Westwood Recreation Center",
         "ADDRESS": "1350 S Sepulveda Blvd",
@@ -619,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54d3",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5ceb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562829,
+        "objectid": 1562858,
         "SHELTER_ID": 366687,
         "SHELTER_NAME": "Bayland Community Center",
         "ADDRESS": "6400 Bissonnet Street",
@@ -663,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54d4",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cec",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562830,
+        "objectid": 1562859,
         "SHELTER_ID": 366729,
         "SHELTER_NAME": "Living Springs Fellowship ",
         "ADDRESS": "31897 Mission St",
@@ -707,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54d5",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5ced",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562831,
+        "objectid": 1562860,
         "SHELTER_ID": 335875,
         "SHELTER_NAME": "Pamela Park Gym",
         "ADDRESS": "2236 Goodall Ave",
@@ -751,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54d6",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cee",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562832,
+        "objectid": 1562861,
         "SHELTER_ID": 366735,
         "SHELTER_NAME": "Hazard/Perry County Senior Center",
         "ADDRESS": "354 Perry Park Road",
@@ -795,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54d7",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cef",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562833,
+        "objectid": 1562862,
         "SHELTER_ID": 366745,
         "SHELTER_NAME": "Natural Bridge State Park",
         "ADDRESS": "2135 Natural Bridge Rd",
@@ -839,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54d8",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cf0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562834,
+        "objectid": 1562863,
         "SHELTER_ID": 365469,
         "SHELTER_NAME": "Buckhorn State Lodge",
         "ADDRESS": "4441 KY-1833",
@@ -883,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54d9",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cf1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562835,
+        "objectid": 1562864,
         "SHELTER_ID": 365449,
         "SHELTER_NAME": "Floyd County Community Center",
         "ADDRESS": "7199 KY 80",
@@ -927,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54da",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cf2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -937,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562836,
+        "objectid": 1562865,
         "SHELTER_ID": 366757,
         "SHELTER_NAME": "Belfry High School",
         "ADDRESS": "27678 US 119",
@@ -971,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54db",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cf3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -981,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562837,
+        "objectid": 1562866,
         "SHELTER_ID": 366758,
         "SHELTER_NAME": "Pike County Central High School",
         "ADDRESS": "100 Winners Circle",
@@ -1015,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54dc",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cf4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1025,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562838,
+        "objectid": 1562867,
         "SHELTER_ID": 366759,
         "SHELTER_NAME": "Millard High School",
         "ADDRESS": "5724 E. Shelbiana Hwy",
@@ -1059,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54dd",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cf5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1069,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562839,
+        "objectid": 1562868,
         "SHELTER_ID": 365094,
         "SHELTER_NAME": "Woodland Mills Civic Center",
         "ADDRESS": "201 Common Moore Drive",
@@ -1103,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54de",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cf6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1113,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562840,
+        "objectid": 1562869,
         "SHELTER_ID": 366754,
         "SHELTER_NAME": "Jackson City School",
         "ADDRESS": "940 Highland Avenue ",
@@ -1147,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54df",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cf7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1157,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562841,
+        "objectid": 1562870,
         "SHELTER_ID": 365462,
         "SHELTER_NAME": "Pine Mountain State Resort Park",
         "ADDRESS": "1050 State Park Rd",
@@ -1191,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54e0",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cf8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1201,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562842,
+        "objectid": 1562871,
         "SHELTER_ID": 365463,
         "SHELTER_NAME": "Jenny Wiley State Park",
         "ADDRESS": "419 Jenny Wiley Drive",
@@ -1235,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_54e1",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cf9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1245,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1562843,
+        "objectid": 1562872,
         "SHELTER_ID": 366748,
         "SHELTER_NAME": "Henderson County Public Library",
         "ADDRESS": "101 S Main St",
@@ -1276,12 +704,584 @@
         -87.5945,
         37.8382
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cfa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4096,
+          37.9991
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1562873,
+        "SHELTER_ID": 366765,
+        "SHELTER_NAME": "Warming Center-Dunlow Community Center",
+        "ADDRESS": "1475 Left Fork Dunlow Bypass Rd",
+        "CITY": "Dunlow",
+        "STATE": "WV",
+        "ZIP": "25511",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "WC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.4096,
+        37.9991,
+        -82.4096,
+        37.9991
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cfb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4244,
+          29.8806
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1562874,
+        "SHELTER_ID": 366771,
+        "SHELTER_NAME": "Lincoln Park Community Center",
+        "ADDRESS": "979 Grenshaw Street",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "ZIP": "77078",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.4244,
+        29.8806,
+        -95.4244,
+        29.8806
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cfc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5761,
+          35.2219
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1562875,
+        "SHELTER_ID": 185681,
+        "SHELTER_NAME": "Lenoir Community College",
+        "ADDRESS": "231 NC Hwy 58",
+        "CITY": "Kinston",
+        "STATE": "NC",
+        "ZIP": "28504",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 800,
+        "POST_IMPACT_CAPACITY": 400,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "LENOIR COUNTY",
+        "ORG_ID": 121542,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 35.22189878,
+        "LONGITUDE": -77.57612412,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -77.5761,
+        35.2219,
+        -77.5761,
+        35.2219
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cfd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7119,
+          38.8201
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1562876,
+        "SHELTER_ID": 366764,
+        "SHELTER_NAME": "Warming Center-Calvary United Methodist Church",
+        "ADDRESS": "205 N Court Street",
+        "CITY": "Ripley",
+        "STATE": "WV",
+        "ZIP": "25271",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "WC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.7119,
+        38.8201,
+        -81.7119,
+        38.8201
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cfe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0191,
+          37.9705
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1562877,
+        "SHELTER_ID": 366772,
+        "SHELTER_NAME": "Tracey Vickers Community Center ",
+        "ADDRESS": "68 Boise Street ",
+        "CITY": "Chapmanville",
+        "STATE": "WV",
+        "ZIP": "25508",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 7,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.0191,
+        37.9705,
+        -82.0191,
+        37.9705
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5cff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6904,
+          37.9636
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1562878,
+        "SHELTER_ID": 366741,
+        "SHELTER_NAME": "Rupert Community Center ",
+        "ADDRESS": "604 Nicholas Street",
+        "CITY": "Rupert",
+        "STATE": "WV",
+        "ZIP": "25984",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 8,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.6904,
+        37.9636,
+        -80.6904,
+        37.9636
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5d00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5825,
+          37.4321
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1562879,
+        "SHELTER_ID": 366742,
+        "SHELTER_NAME": "Reclamation Church",
+        "ADDRESS": "151 Virginia Ave",
+        "CITY": "Welch",
+        "STATE": "WV",
+        "ZIP": "24801",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 31,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.5825,
+        37.4321,
+        -81.5825,
+        37.4321
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5d01",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2921,
+          37.6778
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1562880,
+        "SHELTER_ID": 366740,
+        "SHELTER_NAME": "Williamson Memorial Fieldhouse",
+        "ADDRESS": "1703 W 3rd Ave",
+        "CITY": "Williamson",
+        "STATE": "WV",
+        "ZIP": "25661",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 35,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.2921,
+        37.6778,
+        -82.2921,
+        37.6778
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5d02",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5547,
+          38.213
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1562881,
+        "SHELTER_ID": 366766,
+        "SHELTER_NAME": "Gathering Place Mission",
+        "ADDRESS": "339 Bourbon Street",
+        "CITY": "Georgetown",
+        "STATE": "KY",
+        "ZIP": "40324",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 34,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.5547,
+        38.213,
+        -84.5547,
+        38.213
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5d03",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6516,
+          37.2713
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1562882,
+        "SHELTER_ID": 366773,
+        "SHELTER_NAME": "Grace CHC Oneida Elementary School",
+        "ADDRESS": "435 Newfound Road",
+        "CITY": "Oneida",
+        "STATE": "KY",
+        "ZIP": "40972",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.6516,
+        37.2713,
+        -83.6516,
+        37.2713
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5d04",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.766,
+          38.2577
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1562883,
+        "SHELTER_ID": 366767,
+        "SHELTER_NAME": "The Pentecostals",
+        "ADDRESS": "945 W Main Street",
+        "CITY": "Louisville",
+        "STATE": "KY",
+        "ZIP": "40219",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 4,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.766,
+        38.2577,
+        -85.766,
+        38.2577
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5d05",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8097,
+          37.8154
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1562884,
+        "SHELTER_ID": 366770,
+        "SHELTER_NAME": "Big Sandy KCTCS",
+        "ADDRESS": "513 3rd Street, Building C",
+        "CITY": "Paintsville",
+        "STATE": "KY",
+        "ZIP": "41240",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.8097,
+        37.8154,
+        -82.8097,
+        37.8154
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--333d95b1_19523ca6d1b_5d06",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4177,
+          36.5759
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1562885,
+        "SHELTER_ID": 366762,
+        "SHELTER_NAME": "Parklane Church of the Nazarene",
+        "ADDRESS": "225 Cunningham Lane",
+        "CITY": "Clarksville",
+        "STATE": "TN",
+        "ZIP": "37042",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.4177,
+        36.5759,
+        -87.4177,
+        36.5759
+      ]
     }
   ],
   "totalFeatures": 29,
   "numberMatched": 29,
   "numberReturned": 29,
-  "timeStamp": "2025-02-20T19:06:17.854Z",
+  "timeStamp": "2025-02-20T19:34:58.444Z",
   "crs": {
     "type": "name",
     "properties": {
