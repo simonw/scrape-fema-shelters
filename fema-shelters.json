@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-7940",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a9d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1602970,
+        "objectid": 1603012,
         "SHELTER_ID": 366745,
         "SHELTER_NAME": "NCS-Natural Bridge State Park",
         "ADDRESS": "2135 Natural Bridge Rd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-793f",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a9c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1602971,
+        "objectid": 1603013,
         "SHELTER_ID": 365469,
         "SHELTER_NAME": "NCS-Buckhorn State Lodge",
         "ADDRESS": "4441 KY-1833",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-793e",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a9b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1602972,
+        "objectid": 1603014,
         "SHELTER_ID": 365463,
         "SHELTER_NAME": "NCS-Jenny Wiley State Park",
         "ADDRESS": "419 Jenny Wiley Drive",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-793d",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a9a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1602973,
+        "objectid": 1603015,
         "SHELTER_ID": 366789,
         "SHELTER_NAME": "NCS-Cumberland Falls State Resort Park",
         "ADDRESS": "7351 Highway 90",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-793c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.2129,
-          35.2582
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1602974,
-        "SHELTER_ID": 366815,
-        "SHELTER_NAME": "Polk County Senior Center",
-        "ADDRESS": "75 Carmel Lane",
-        "CITY": "Columbus",
-        "STATE": "NC",
-        "ZIP": "28722",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.2129,
-        35.2582,
-        -82.2129,
-        35.2582
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-793b",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a99",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1602975,
+        "objectid": 1603016,
         "SHELTER_ID": 366814,
         "SHELTER_NAME": "National Guard Armory ",
         "ADDRESS": "908 Armory Drive",
@@ -267,7 +223,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-793a",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2129,
+          35.2582
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1603017,
+        "SHELTER_ID": 366815,
+        "SHELTER_NAME": "Polk County Senior Center",
+        "ADDRESS": "75 Carmel Lane",
+        "CITY": "Columbus",
+        "STATE": "NC",
+        "ZIP": "28722",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.2129,
+        35.2582,
+        -82.2129,
+        35.2582
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a97",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7535,
+          34.9724
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1603018,
+        "SHELTER_ID": 366816,
+        "SHELTER_NAME": "Holly Springs Center",
+        "ADDRESS": "120 Holly Springs School Road",
+        "CITY": "Pickens",
+        "STATE": "SC",
+        "ZIP": "29671",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.7535,
+        34.9724,
+        -82.7535,
+        34.9724
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a96",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1602976,
+        "objectid": 1603019,
         "SHELTER_ID": 173310,
         "SHELTER_NAME": "Ritchie Valens Recreation Center",
         "ADDRESS": "10736 Laurel Canyon Blvd",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-7939",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a95",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1602977,
+        "objectid": 1603020,
         "SHELTER_ID": 366791,
         "SHELTER_NAME": "Luther Community Center",
         "ADDRESS": "18120 Hogback Road",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-7938",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a94",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1602978,
+        "objectid": 1603021,
         "SHELTER_ID": 366813,
         "SHELTER_NAME": "Douglas County Fairgrounds - Douglas Hall",
         "ADDRESS": "2110 Frear Street",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-7937",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a93",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1602979,
+        "objectid": 1603022,
         "SHELTER_ID": 335588,
         "SHELTER_NAME": "First Baptist Church",
         "ADDRESS": "801 N Cedar Street",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-7936",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a92",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1602980,
+        "objectid": 1603023,
         "SHELTER_ID": 366793,
         "SHELTER_NAME": "Payne County Fairgrounds - Community Building",
         "ADDRESS": "4518 Expo Circle E ",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-7935",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a91",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1602981,
+        "objectid": 1603024,
         "SHELTER_ID": 366796,
         "SHELTER_NAME": "North County Recreation Complex",
         "ADDRESS": " 2577 Redman Avenue",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-7934",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a90",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1602982,
+        "objectid": 1603025,
         "SHELTER_ID": 366797,
         "SHELTER_NAME": "Black River Coliseum",
         "ADDRESS": "301 S 5th Street",
@@ -575,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195c01c1e83_-7933",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195c03d2178_-a8f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1602983,
+        "objectid": 1603026,
         "SHELTER_ID": 366803,
         "SHELTER_NAME": "Mannford First Methodist Church ",
         "ADDRESS": "100 Greenwood Ave",
@@ -618,10 +662,10 @@
       ]
     }
   ],
-  "totalFeatures": 14,
-  "numberMatched": 14,
-  "numberReturned": 14,
-  "timeStamp": "2025-03-22T23:34:51.439Z",
+  "totalFeatures": 15,
+  "numberMatched": 15,
+  "numberReturned": 15,
+  "timeStamp": "2025-03-23T00:34:48.082Z",
   "crs": {
     "type": "name",
     "properties": {
