@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195d09bb0f1_-3c2",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195d0d3fd1b_-64b0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1605523,
+        "objectid": 1605532,
         "SHELTER_ID": 366745,
         "SHELTER_NAME": "NCS-Natural Bridge State Park",
         "ADDRESS": "2135 Natural Bridge Rd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195d09bb0f1_-3c1",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195d0d3fd1b_-64af",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1605524,
+        "objectid": 1605533,
         "SHELTER_ID": 365469,
         "SHELTER_NAME": "NCS-Buckhorn State Lodge",
         "ADDRESS": "4441 KY-1833",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195d09bb0f1_-3c0",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195d0d3fd1b_-64ae",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1605525,
+        "objectid": 1605534,
         "SHELTER_ID": 365463,
         "SHELTER_NAME": "NCS-Jenny Wiley State Park",
         "ADDRESS": "419 Jenny Wiley Drive",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195d09bb0f1_-3bf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.5325,
-          35.0664
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1605526,
-        "SHELTER_ID": 296101,
-        "SHELTER_NAME": "Marietta First Baptist Church",
-        "ADDRESS": "2936 Geer Highway",
-        "CITY": "Marietta",
-        "STATE": "SC",
-        "ZIP": "29661",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 376,
-        "POST_IMPACT_CAPACITY": 188,
-        "TOTAL_POPULATION": 22,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "UPSTATE SOUTH CAROLINA CHAPTER",
-        "ORG_ID": 121908,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 35.06644499,
-        "LONGITUDE": -82.53253823,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.5325,
-        35.0664,
-        -82.5325,
-        35.0664
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195d09bb0f1_-3be",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195d0d3fd1b_-64ad",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1605527,
+        "objectid": 1605535,
         "SHELTER_ID": 366818,
         "SHELTER_NAME": "Douglas County Fairgrounds - Exhibit Bldg",
         "ADDRESS": "2110 Frear Street",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195d09bb0f1_-3bd",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195d0d3fd1b_-64ac",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5325,
+          35.0664
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1605536,
+        "SHELTER_ID": 296101,
+        "SHELTER_NAME": "Marietta First Baptist Church",
+        "ADDRESS": "2936 Geer Highway",
+        "CITY": "Marietta",
+        "STATE": "SC",
+        "ZIP": "29661",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 376,
+        "POST_IMPACT_CAPACITY": 188,
+        "TOTAL_POPULATION": 22,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "UPSTATE SOUTH CAROLINA CHAPTER",
+        "ORG_ID": 121908,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 35.06644499,
+        "LONGITUDE": -82.53253823,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.5325,
+        35.0664,
+        -82.5325,
+        35.0664
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195d0d3fd1b_-64ab",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1605528,
+        "objectid": 1605537,
         "SHELTER_ID": 366814,
         "SHELTER_NAME": "National Guard Armory ",
         "ADDRESS": "908 Armory Drive",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195d09bb0f1_-3bc",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195d0d3fd1b_-64aa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1605529,
+        "objectid": 1605538,
         "SHELTER_ID": 366815,
         "SHELTER_NAME": "Polk County Senior Center",
         "ADDRESS": "75 Carmel Lane",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195d09bb0f1_-3bb",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195d0d3fd1b_-64a9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1605530,
+        "objectid": 1605539,
         "SHELTER_ID": 363267,
         "SHELTER_NAME": "Henderson County Athletic Center",
         "ADDRESS": "708 S Grove Street",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-508a5a88_195d09bb0f1_-3ba",
+      "id": "FEMANSSOpenShelters.fid-681ced8b_195d0d3fd1b_-64a8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1605531,
+        "objectid": 1605540,
         "SHELTER_ID": 366819,
         "SHELTER_NAME": "Alarka Community Center",
         "ADDRESS": "3601 Alarka Road",
@@ -401,7 +401,7 @@
   "totalFeatures": 9,
   "numberMatched": 9,
   "numberReturned": 9,
-  "timeStamp": "2025-03-26T06:10:14.822Z",
+  "timeStamp": "2025-03-26T06:40:45.852Z",
   "crs": {
     "type": "name",
     "properties": {
