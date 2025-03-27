@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-1beecbbd_195d930ebf7_-e4f",
+      "id": "FEMANSSOpenShelters.fid-1beecbbd_195d930ebf7_-7c0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1606336,
+        "objectid": 1606348,
         "SHELTER_ID": 296101,
         "SHELTER_NAME": "Marietta First Baptist Church",
         "ADDRESS": "2936 Geer Highway",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-1beecbbd_195d930ebf7_-e4e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.3588,
-          43.195
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1606337,
-        "SHELTER_ID": 366818,
-        "SHELTER_NAME": "Douglas County Fairgrounds - Exhibit Bldg",
-        "ADDRESS": "2110 Frear Street",
-        "CITY": "Roseburg",
-        "STATE": "OR",
-        "ZIP": "97471",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -123.3588,
-        43.195,
-        -123.3588,
-        43.195
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-1beecbbd_195d930ebf7_-e4d",
+      "id": "FEMANSSOpenShelters.fid-1beecbbd_195d930ebf7_-7bf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1606338,
+        "objectid": 1606349,
         "SHELTER_ID": 366820,
         "SHELTER_NAME": "Victory Baptist Church",
         "ADDRESS": "1275 Fontana Road",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-1beecbbd_195d930ebf7_-e4c",
+      "id": "FEMANSSOpenShelters.fid-1beecbbd_195d930ebf7_-7be",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1606339,
+        "objectid": 1606350,
         "SHELTER_ID": 366815,
         "SHELTER_NAME": "Polk County Senior Center",
         "ADDRESS": "75 Carmel Lane",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-1beecbbd_195d930ebf7_-e4b",
+      "id": "FEMANSSOpenShelters.fid-1beecbbd_195d930ebf7_-7bd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1606340,
+        "objectid": 1606351,
         "SHELTER_ID": 363267,
         "SHELTER_NAME": "Henderson County Athletic Center",
         "ADDRESS": "708 S Grove Street",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-1beecbbd_195d930ebf7_-e4a",
+      "id": "FEMANSSOpenShelters.fid-1beecbbd_195d930ebf7_-7bc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1606341,
+        "objectid": 1606352,
         "SHELTER_ID": 350964,
         "SHELTER_NAME": "Transylvania County Activity Center",
         "ADDRESS": "1078 Ecusta Road",
@@ -266,10 +222,10 @@
       ]
     }
   ],
-  "totalFeatures": 6,
-  "numberMatched": 6,
-  "numberReturned": 6,
-  "timeStamp": "2025-03-27T22:36:45.940Z",
+  "totalFeatures": 5,
+  "numberMatched": 5,
+  "numberReturned": 5,
+  "timeStamp": "2025-03-27T23:07:35.112Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -277,9 +233,9 @@
     }
   },
   "bbox": [
-    -123.3588,
+    -83.4557,
     35.0664,
     -82.2129,
-    43.195
+    35.4437
   ]
 }
