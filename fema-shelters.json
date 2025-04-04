@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_196026b7a93_-58fd",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-5079",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609121,
+        "objectid": 1609132,
         "SHELTER_ID": 366824,
         "SHELTER_NAME": "Harlingen Convention Center",
         "ADDRESS": "701 Harlingen Heights Drive",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_196026b7a93_-58fc",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-5078",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609122,
+        "objectid": 1609133,
         "SHELTER_ID": 366826,
         "SHELTER_NAME": "Harney County Fairgrounds",
         "ADDRESS": "69660 S Egan Ave",
@@ -91,95 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_196026b7a93_-58fb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.7366,
-          37.2002
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1609123,
-        "SHELTER_ID": 366831,
-        "SHELTER_NAME": "Delta High School",
-        "ADDRESS": "324 N Liberty Street",
-        "CITY": "Delta",
-        "STATE": "MO",
-        "ZIP": "63744",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -89.7366,
-        37.2002,
-        -89.7366,
-        37.2002
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_196026b7a93_-58fa",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.5926,
-          35.1741
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1609124,
-        "SHELTER_ID": 366832,
-        "SHELTER_NAME": "Selmer Civic Center",
-        "ADDRESS": "230 N 5th Street",
-        "CITY": "Selmer",
-        "STATE": "TN",
-        "ZIP": "38375",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 7,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.5926,
-        35.1741,
-        -88.5926,
-        35.1741
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_196026b7a93_-58f9",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-5077",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609125,
+        "objectid": 1609134,
         "SHELTER_ID": 366830,
         "SHELTER_NAME": "Community Center",
         "ADDRESS": "200 N Ash Street",
@@ -223,7 +135,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_196026b7a93_-58f8",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-5076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7366,
+          37.2002
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1609135,
+        "SHELTER_ID": 366831,
+        "SHELTER_NAME": "Delta High School",
+        "ADDRESS": "324 N Liberty Street",
+        "CITY": "Delta",
+        "STATE": "MO",
+        "ZIP": "63744",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.7366,
+        37.2002,
+        -89.7366,
+        37.2002
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-5075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5926,
+          35.1741
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1609136,
+        "SHELTER_ID": 366832,
+        "SHELTER_NAME": "Selmer Civic Center",
+        "ADDRESS": "230 N 5th Street",
+        "CITY": "Selmer",
+        "STATE": "TN",
+        "ZIP": "38375",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 7,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.5926,
+        35.1741,
+        -88.5926,
+        35.1741
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-5074",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609126,
+        "objectid": 1609137,
         "SHELTER_ID": 366843,
         "SHELTER_NAME": "His House Ministries",
         "ADDRESS": "1250 KY 303",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_196026b7a93_-58f7",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-5073",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609127,
+        "objectid": 1609138,
         "SHELTER_ID": 366840,
         "SHELTER_NAME": "St. Johns Church",
         "ADDRESS": "2808 S Virginia Street",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_196026b7a93_-58f6",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-5072",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609128,
+        "objectid": 1609139,
         "SHELTER_ID": 366845,
         "SHELTER_NAME": "Madison Salvation Army",
         "ADDRESS": "331 E Main Street",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_196026b7a93_-58f5",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-5071",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609129,
+        "objectid": 1609140,
         "SHELTER_ID": 366835,
         "SHELTER_NAME": "Hudsonville C.M.E Church ",
         "ADDRESS": "778 S Slayden Road",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_196026b7a93_-58f4",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-5070",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609130,
+        "objectid": 1609141,
         "SHELTER_ID": 366836,
         "SHELTER_NAME": "Historic Old Hardy Gym  ",
         "ADDRESS": "201 School Ave",
@@ -443,27 +443,71 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_196026b7a93_-58f3",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-506f",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.7807,
-          45.5531
+          -84.9907,
+          45.4293
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609131,
-        "SHELTER_ID": 366837,
-        "SHELTER_NAME": "Pellston High School",
-        "ADDRESS": "172 Park Street",
-        "CITY": "Pellston",
+        "objectid": 1609142,
+        "SHELTER_ID": 366847,
+        "SHELTER_NAME": "Holy Childhood Church - Harbor Springs",
+        "ADDRESS": "150 W Main Street",
+        "CITY": "Harbor Springs",
         "STATE": "MI",
-        "ZIP": "49769",
+        "ZIP": "49740",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.9907,
+        45.4293,
+        -84.9907,
+        45.4293
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-506e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4499,
+          45.1111
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1609143,
+        "SHELTER_ID": 366848,
+        "SHELTER_NAME": "Alpena Township Hall",
+        "ADDRESS": "4385 US 23N ",
+        "CITY": "Alpena",
+        "STATE": "MI",
+        "ZIP": "49707",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "Independent",
@@ -479,17 +523,17 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -84.7807,
-        45.5531,
-        -84.7807,
-        45.5531
+        -83.4499,
+        45.1111,
+        -83.4499,
+        45.1111
       ]
     }
   ],
-  "totalFeatures": 11,
-  "numberMatched": 11,
-  "numberReturned": 11,
-  "timeStamp": "2025-04-04T23:07:00.612Z",
+  "totalFeatures": 12,
+  "numberMatched": 12,
+  "numberReturned": 12,
+  "timeStamp": "2025-04-04T23:35:02.467Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -499,7 +543,7 @@
   "bbox": [
     -119.0597,
     26.199,
-    -84.7807,
-    45.5531
+    -83.4499,
+    45.4293
   ]
 }
