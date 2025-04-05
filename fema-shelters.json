@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23ee",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7244,
+          37.6977
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1609284,
+        "SHELTER_ID": 365463,
+        "SHELTER_NAME": "Jenny Wiley State Park",
+        "ADDRESS": "419 Jenny Wiley Drive",
+        "CITY": "Prestonsburg",
+        "STATE": "KY",
+        "ZIP": "0v",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.7244,
+        37.6977,
+        -82.7244,
+        37.6977
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c48",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609270,
+        "objectid": 1609285,
         "SHELTER_ID": 366824,
         "SHELTER_NAME": "Harlingen Convention Center",
         "ADDRESS": "701 Harlingen Heights Drive",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23ed",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c47",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609271,
+        "objectid": 1609286,
         "SHELTER_ID": 366826,
         "SHELTER_NAME": "Harney County Fairgrounds",
         "ADDRESS": "69660 S Egan Ave",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23ec",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c46",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609272,
+        "objectid": 1609287,
         "SHELTER_ID": 366830,
         "SHELTER_NAME": "Community Center",
         "ADDRESS": "200 N Ash Street",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23eb",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c45",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609273,
+        "objectid": 1609288,
         "SHELTER_ID": 366831,
         "SHELTER_NAME": "Delta High School",
         "ADDRESS": "324 N Liberty Street",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23ea",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c44",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609274,
+        "objectid": 1609289,
         "SHELTER_ID": 366832,
         "SHELTER_NAME": "Selmer Civic Center",
         "ADDRESS": "230 N 5th Street",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23e9",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c43",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609275,
+        "objectid": 1609290,
         "SHELTER_ID": 366843,
         "SHELTER_NAME": "His House Ministries",
         "ADDRESS": "1250 KY 303",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23e8",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c42",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609276,
+        "objectid": 1609291,
         "SHELTER_ID": 366840,
         "SHELTER_NAME": "St. Johns Church",
         "ADDRESS": "2808 S Virginia Street",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23e7",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c41",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609277,
+        "objectid": 1609292,
         "SHELTER_ID": 366845,
         "SHELTER_NAME": "Madison Salvation Army",
         "ADDRESS": "331 E Main Street",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23e6",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c40",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609278,
+        "objectid": 1609293,
         "SHELTER_ID": 366835,
         "SHELTER_NAME": "Hudsonville C.M.E Church ",
         "ADDRESS": "778 S Slayden Road",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23e5",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c3f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609279,
+        "objectid": 1609294,
         "SHELTER_ID": 366836,
         "SHELTER_NAME": "Historic Old Hardy Gym  ",
         "ADDRESS": "201 School Ave",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23e4",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c3e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609280,
+        "objectid": 1609295,
         "SHELTER_ID": 366848,
         "SHELTER_NAME": "Alpena Township Hall",
         "ADDRESS": "4385 US 23N ",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23e3",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c3d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609281,
+        "objectid": 1609296,
         "SHELTER_ID": 366847,
         "SHELTER_NAME": "Holy Childhood Church - Harbor Springs",
         "ADDRESS": "150 W Main Street",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23e2",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c3c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609282,
+        "objectid": 1609297,
         "SHELTER_ID": 366839,
         "SHELTER_NAME": "Paducah Recreation Center",
         "ADDRESS": "1527 Martin Luther King Jr Drive",
@@ -575,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23e1",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-1c3b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1609283,
+        "objectid": 1609298,
         "SHELTER_ID": 366844,
         "SHELTER_NAME": "Shelby County Fairgrounds",
         "ADDRESS": "500 Frank Street",
@@ -616,56 +660,12 @@
         -85.76,
         39.5282
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-56e55631_1960264f990_-23e0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.7244,
-          37.6977
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1609269,
-        "SHELTER_ID": 365463,
-        "SHELTER_NAME": "Jenny Wiley State Park",
-        "ADDRESS": "419 Jenny Wiley Drive",
-        "CITY": "Prestonsburg",
-        "STATE": "KY",
-        "ZIP": "0v",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.7244,
-        37.6977,
-        -82.7244,
-        37.6977
-      ]
     }
   ],
   "totalFeatures": 15,
   "numberMatched": 15,
   "numberReturned": 15,
-  "timeStamp": "2025-04-05T02:55:11.009Z",
+  "timeStamp": "2025-04-05T03:17:46.921Z",
   "crs": {
     "type": "name",
     "properties": {
