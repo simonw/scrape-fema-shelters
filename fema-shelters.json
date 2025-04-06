@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-456b",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7244,
+          37.6977
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1613487,
+        "SHELTER_ID": 365463,
+        "SHELTER_NAME": "Jenny Wiley State Park",
+        "ADDRESS": "419 Jenny Wiley Drive",
+        "CITY": "Prestonsburg",
+        "STATE": "KY",
+        "ZIP": "0v",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.7244,
+        37.6977,
+        -82.7244,
+        37.6977
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5339",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613443,
+        "objectid": 1613488,
         "SHELTER_ID": 366824,
         "SHELTER_NAME": "Harlingen Convention Center",
         "ADDRESS": "701 Harlingen Heights Drive",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-456a",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_533a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613444,
+        "objectid": 1613489,
         "SHELTER_ID": 366826,
         "SHELTER_NAME": "Harney County Fairgrounds",
         "ADDRESS": "69660 S Egan Ave",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4569",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_533b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613445,
+        "objectid": 1613490,
         "SHELTER_ID": 366830,
         "SHELTER_NAME": "Community Center",
         "ADDRESS": "200 N Ash Street",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4568",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_533c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613446,
+        "objectid": 1613491,
         "SHELTER_ID": 366832,
         "SHELTER_NAME": "Selmer Civic Center",
         "ADDRESS": "230 N 5th Street",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4567",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_533d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613447,
+        "objectid": 1613492,
         "SHELTER_ID": 366843,
         "SHELTER_NAME": "His House Ministries",
         "ADDRESS": "1250 KY 303",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4566",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_533e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613448,
+        "objectid": 1613493,
         "SHELTER_ID": 366849,
         "SHELTER_NAME": "Jones Chapel Missionary Baptist Church",
         "ADDRESS": "3190 TN 18",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4565",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_533f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613449,
+        "objectid": 1613494,
         "SHELTER_ID": 366840,
         "SHELTER_NAME": "St. Johns Church",
         "ADDRESS": "2808 S Virginia Street",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4564",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5340",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613450,
+        "objectid": 1613495,
         "SHELTER_ID": 366845,
         "SHELTER_NAME": "Madison Salvation Army",
         "ADDRESS": "331 E Main Street",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4563",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5341",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613451,
+        "objectid": 1613496,
         "SHELTER_ID": 366857,
         "SHELTER_NAME": "Salem First Baptist Church",
         "ADDRESS": "721 W Main Street",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4562",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5342",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613452,
+        "objectid": 1613497,
         "SHELTER_ID": 366835,
         "SHELTER_NAME": "Hudsonville C.M.E Church ",
         "ADDRESS": "778 S Slayden Road",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4561",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5343",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613453,
+        "objectid": 1613498,
         "SHELTER_ID": 366836,
         "SHELTER_NAME": "Historic Old Hardy Gym  ",
         "ADDRESS": "201 School Ave",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4560",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5344",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613454,
+        "objectid": 1613499,
         "SHELTER_ID": 366859,
         "SHELTER_NAME": "Alpena Fairgrounds Merchant Building ",
         "ADDRESS": "625 S 11th Avenue ",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-455f",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5345",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613455,
+        "objectid": 1613500,
         "SHELTER_ID": 366860,
         "SHELTER_NAME": "Caledonia Twp Hall",
         "ADDRESS": "6161 Gillard Rd. ",
@@ -575,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-455e",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5346",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613456,
+        "objectid": 1613501,
         "SHELTER_ID": 366863,
         "SHELTER_NAME": "Paine Twp Hall",
         "ADDRESS": "36825 Kings Hwy",
@@ -619,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-455d",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5347",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613457,
+        "objectid": 1613502,
         "SHELTER_ID": 366847,
         "SHELTER_NAME": "Holy Childhood Church - Harbor Springs",
         "ADDRESS": "150 W Main Street",
@@ -663,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-455c",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5348",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613458,
+        "objectid": 1613503,
         "SHELTER_ID": 366872,
         "SHELTER_NAME": "Cheboygan County - Alverno Fire Station",
         "ADDRESS": "5009 Orchard Beach Road",
@@ -707,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-455b",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5349",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613459,
+        "objectid": 1613504,
         "SHELTER_ID": 366839,
         "SHELTER_NAME": "Paducah Recreation Center",
         "ADDRESS": "1527 Martin Luther King Jr Drive",
@@ -751,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-455a",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_534a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613460,
+        "objectid": 1613505,
         "SHELTER_ID": 366852,
         "SHELTER_NAME": "Christian Life Center",
         "ADDRESS": "201 West Conwell Street",
@@ -795,7 +839,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4559",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_534b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613461,
+        "objectid": 1613506,
         "SHELTER_ID": 366885,
         "SHELTER_NAME": "Atlanta Community Schools",
         "ADDRESS": "10500 County Road 489",
@@ -839,7 +883,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4558",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_534c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +893,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613462,
+        "objectid": 1613507,
         "SHELTER_ID": 366886,
         "SHELTER_NAME": "Beaver Lake Church",
         "ADDRESS": "9007 M-65",
@@ -883,7 +927,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4557",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_534d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +937,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613463,
+        "objectid": 1613508,
         "SHELTER_ID": 366892,
         "SHELTER_NAME": "Long Rapids Township Hall",
         "ADDRESS": "5310 M-65",
@@ -927,7 +971,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4556",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_534e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -937,7 +981,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613464,
+        "objectid": 1613509,
         "SHELTER_ID": 366893,
         "SHELTER_NAME": "Mio Baptist Church",
         "ADDRESS": " 357 S Mount Tom Road",
@@ -971,7 +1015,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4555",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_534f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -981,7 +1025,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613465,
+        "objectid": 1613510,
         "SHELTER_ID": 366894,
         "SHELTER_NAME": "Posen Consolidated Schools",
         "ADDRESS": "10575 Michigan Ave",
@@ -1015,7 +1059,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4554",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5350",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1025,7 +1069,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613466,
+        "objectid": 1613511,
         "SHELTER_ID": 366895,
         "SHELTER_NAME": "Nichols Elementary School",
         "ADDRESS": "10665 Highway 44 W",
@@ -1059,7 +1103,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4553",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5351",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1069,7 +1113,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613467,
+        "objectid": 1613512,
         "SHELTER_ID": 366896,
         "SHELTER_NAME": "St. Francis of Assisi Catholic Church",
         "ADDRESS": "3060 Casey Street",
@@ -1103,7 +1147,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4552",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5352",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1113,7 +1157,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613468,
+        "objectid": 1613513,
         "SHELTER_ID": 366864,
         "SHELTER_NAME": "Charlevoix Township Fire Station",
         "ADDRESS": "8977 Martin Road",
@@ -1147,7 +1191,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4551",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5353",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1157,7 +1201,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613469,
+        "objectid": 1613514,
         "SHELTER_ID": 366865,
         "SHELTER_NAME": "Lighthouse Missionary Church",
         "ADDRESS": "7824 Rogers Road",
@@ -1191,7 +1235,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4550",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5354",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1201,7 +1245,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613470,
+        "objectid": 1613515,
         "SHELTER_ID": 366868,
         "SHELTER_NAME": "St. Matthews Church",
         "ADDRESS": "1303 Boyne ave",
@@ -1235,7 +1279,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-454f",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5355",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1245,7 +1289,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613471,
+        "objectid": 1613516,
         "SHELTER_ID": 366897,
         "SHELTER_NAME": "St. Paul Catholic Church Parrish Hall",
         "ADDRESS": "20811 Washington Ave",
@@ -1279,7 +1323,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-454e",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5356",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1289,7 +1333,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613472,
+        "objectid": 1613517,
         "SHELTER_ID": 366887,
         "SHELTER_NAME": "Belknap Township Hall",
         "ADDRESS": "1720 W Co Road 638",
@@ -1323,7 +1367,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-454d",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5357",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1333,7 +1377,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613473,
+        "objectid": 1613518,
         "SHELTER_ID": 366898,
         "SHELTER_NAME": "Latonia Elementary",
         "ADDRESS": "3901 Huntington Ave",
@@ -1367,7 +1411,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-454c",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5358",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1377,7 +1421,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613474,
+        "objectid": 1613519,
         "SHELTER_ID": 366890,
         "SHELTER_NAME": "Evangelical Free Church",
         "ADDRESS": "6461 Gillard Road",
@@ -1411,51 +1455,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-454b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.2496,
-          38.9533
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1613475,
-        "SHELTER_ID": 196464,
-        "SHELTER_NAME": "New Richmond High School",
-        "ADDRESS": "1131 Bethel New Richmond Road",
-        "CITY": "New Richmond",
-        "STATE": "OH",
-        "ZIP": "45157",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 57,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "CINCINNATI AREA CHAPTER",
-        "ORG_ID": 121296,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 38.95334483,
-        "LONGITUDE": -84.24962731,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.2496,
-        38.9533,
-        -84.2496,
-        38.9533
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-454a",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5359",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1465,7 +1465,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613476,
+        "objectid": 1613520,
         "SHELTER_ID": 366841,
         "SHELTER_NAME": "Roby Elementary School",
         "ADDRESS": "1148 KY-44",
@@ -1499,7 +1499,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4549",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_535a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1509,7 +1509,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613477,
+        "objectid": 1613521,
         "SHELTER_ID": 366842,
         "SHELTER_NAME": "Lebanon Junction Elementary",
         "ADDRESS": "10920 Preston Hwy",
@@ -1543,7 +1543,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4548",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_535b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1553,7 +1553,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613478,
+        "objectid": 1613522,
         "SHELTER_ID": 366853,
         "SHELTER_NAME": "General Butler State Park",
         "ADDRESS": "1608 KY-227",
@@ -1587,7 +1587,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4547",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_535c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1597,7 +1597,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613479,
+        "objectid": 1613523,
         "SHELTER_ID": 366848,
         "SHELTER_NAME": "Alpena Township Hall",
         "ADDRESS": "4385 US 23N ",
@@ -1631,7 +1631,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4546",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_535d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2496,
+          38.9533
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1613524,
+        "SHELTER_ID": 196464,
+        "SHELTER_NAME": "New Richmond High School",
+        "ADDRESS": "1131 Bethel New Richmond Road",
+        "CITY": "New Richmond",
+        "STATE": "OH",
+        "ZIP": "45157",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 57,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "CINCINNATI AREA CHAPTER",
+        "ORG_ID": 121296,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 38.95334483,
+        "LONGITUDE": -84.24962731,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.2496,
+        38.9533,
+        -84.2496,
+        38.9533
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_535e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1641,7 +1685,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613480,
+        "objectid": 1613525,
         "SHELTER_ID": 366854,
         "SHELTER_NAME": "Camp Kysoc",
         "ADDRESS": "Camp Kysoc Rd",
@@ -1675,7 +1719,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4545",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_535f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1685,7 +1729,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613481,
+        "objectid": 1613526,
         "SHELTER_ID": 366850,
         "SHELTER_NAME": "Woodford County Senior Center",
         "ADDRESS": "185 Beasley Road",
@@ -1719,7 +1763,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4544",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5360",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1729,7 +1773,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613482,
+        "objectid": 1613527,
         "SHELTER_ID": 366855,
         "SHELTER_NAME": "North Bullitt High School ",
         "ADDRESS": "3200 E Hebron Lane",
@@ -1763,7 +1807,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4543",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5361",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1773,7 +1817,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613483,
+        "objectid": 1613528,
         "SHELTER_ID": 366908,
         "SHELTER_NAME": "Utica United",
         "ADDRESS": "605 Old Salem Rd",
@@ -1807,7 +1851,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4542",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5362",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1817,7 +1861,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613484,
+        "objectid": 1613529,
         "SHELTER_ID": 366888,
         "SHELTER_NAME": "Boston School",
         "ADDRESS": "130 Wilson Creek Road",
@@ -1851,7 +1895,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4541",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5363",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1861,7 +1905,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613485,
+        "objectid": 1613530,
         "SHELTER_ID": 366889,
         "SHELTER_NAME": "Cross Village Community Center",
         "ADDRESS": "5949 Wadsworth Street",
@@ -1895,7 +1939,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-4540",
+      "id": "FEMANSSOpenShelters.fid-56e55631_1960bd4c557_5364",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1905,7 +1949,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1613486,
+        "objectid": 1613531,
         "SHELTER_ID": 366899,
         "SHELTER_NAME": "Saint Peter's Lutheran Church",
         "ADDRESS": "719 5th Street",
@@ -1936,56 +1980,12 @@
         -85.9158,
         39.2031
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1023d7e6_1960c4e2d18_-453f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.7244,
-          37.6977
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1613442,
-        "SHELTER_ID": 365463,
-        "SHELTER_NAME": "Jenny Wiley State Park",
-        "ADDRESS": "419 Jenny Wiley Drive",
-        "CITY": "Prestonsburg",
-        "STATE": "KY",
-        "ZIP": "0v",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.7244,
-        37.6977,
-        -82.7244,
-        37.6977
-      ]
     }
   ],
   "totalFeatures": 45,
   "numberMatched": 45,
   "numberReturned": 45,
-  "timeStamp": "2025-04-06T21:06:31.741Z",
+  "timeStamp": "2025-04-06T21:35:15.175Z",
   "crs": {
     "type": "name",
     "properties": {
