@@ -3,271 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71c0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.0394,
-          33.4251
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1630796,
-        "SHELTER_ID": 366918,
-        "SHELTER_NAME": "Salvation Army of Texarkana",
-        "ADDRESS": "400 East 4th Street",
-        "CITY": "Texarkana",
-        "STATE": "AR",
-        "ZIP": "71854",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -94.0394,
-        33.4251,
-        -94.0394,
-        33.4251
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71c1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.3159,
-          38.5941
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1630797,
-        "SHELTER_ID": 336776,
-        "SHELTER_NAME": "Morgan Community Center",
-        "ADDRESS": "147 Victory Avenue",
-        "CITY": "Bedford",
-        "STATE": "KY",
-        "ZIP": "40006",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 437,
-        "POST_IMPACT_CAPACITY": 218,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Louisville Area Chapter",
-        "ORG_ID": 121558,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 38.59413384,
-        "LONGITUDE": -85.31588155,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.3159,
-        38.5941,
-        -85.3159,
-        38.5941
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71c2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.9028,
-          38.1593
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1630798,
-        "SHELTER_ID": 366903,
-        "SHELTER_NAME": "Capital City Activity Center",
-        "ADDRESS": "202 Medical Heights Drive",
-        "CITY": "Frankfort",
-        "STATE": "KY",
-        "ZIP": "40601",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 7,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.9028,
-        38.1593,
-        -84.9028,
-        38.1593
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71c3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.1364,
-          37.4879
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1630799,
-        "SHELTER_ID": 366902,
-        "SHELTER_NAME": "Livermore City Hall",
-        "ADDRESS": "105 W 3rd St",
-        "CITY": "Livermore",
-        "STATE": "KY",
-        "ZIP": "42352",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 3,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.1364,
-        37.4879,
-        -87.1364,
-        37.4879
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71c4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.3848,
-          36.0349
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1630800,
-        "SHELTER_ID": 366916,
-        "SHELTER_NAME": "First United Methodist Church",
-        "ADDRESS": "100 McGaughey Street",
-        "CITY": "Dyersburg",
-        "STATE": "TN",
-        "ZIP": "38024",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 12,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -89.3848,
-        36.0349,
-        -89.3848,
-        36.0349
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71c5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.1145,
-          36.4342
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1630801,
-        "SHELTER_ID": 299425,
-        "SHELTER_NAME": "Second Baptist Church",
-        "ADDRESS": "831 Everett Blvd",
-        "CITY": "Union City",
-        "STATE": "TN",
-        "ZIP": "38261",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 50,
-        "POST_IMPACT_CAPACITY": 50,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "MID-SOUTH CHAPTER",
-        "ORG_ID": 121612,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 36.43417909,
-        "LONGITUDE": -89.11446488,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -89.1145,
-        36.4342,
-        -89.1145,
-        36.4342
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71c6",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7528",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630776,
+        "objectid": 1630809,
         "SHELTER_ID": 366826,
         "SHELTER_NAME": "Harney County Fairgrounds",
         "ADDRESS": "69660 S Egan Ave",
@@ -311,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71c7",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7529",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630777,
+        "objectid": 1630810,
         "SHELTER_ID": 366832,
         "SHELTER_NAME": "Selmer Civic Center",
         "ADDRESS": "230 N 5th Street",
@@ -355,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71c8",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_752a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630778,
+        "objectid": 1630811,
         "SHELTER_ID": 366843,
         "SHELTER_NAME": "His House Ministries",
         "ADDRESS": "1250 KY 303",
@@ -399,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71c9",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_752b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630779,
+        "objectid": 1630812,
         "SHELTER_ID": 366836,
         "SHELTER_NAME": "Historic Old Hardy Gym  ",
         "ADDRESS": "201 School Ave",
@@ -443,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71ca",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_752c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630780,
+        "objectid": 1630813,
         "SHELTER_ID": 366839,
         "SHELTER_NAME": "Paducah Recreation Center",
         "ADDRESS": "1527 Martin Luther King Jr Drive",
@@ -487,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71cb",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_752d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630781,
+        "objectid": 1630814,
         "SHELTER_ID": 366896,
         "SHELTER_NAME": "St. Francis of Assisi Catholic Church",
         "ADDRESS": "3060 Casey Street",
@@ -531,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71cc",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_752e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630782,
+        "objectid": 1630815,
         "SHELTER_ID": 366887,
         "SHELTER_NAME": "Belknap Township Hall",
         "ADDRESS": "1720 W Co Road 638",
@@ -575,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71cd",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_752f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630783,
+        "objectid": 1630816,
         "SHELTER_ID": 366898,
         "SHELTER_NAME": "Latonia Elementary",
         "ADDRESS": "3901 Huntington Ave",
@@ -619,95 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71ce",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.7265,
-          37.8485
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1630784,
-        "SHELTER_ID": 366842,
-        "SHELTER_NAME": "Lebanon Junction Elementary",
-        "ADDRESS": "10920 Preston Hwy",
-        "CITY": "Lebanon Junction",
-        "STATE": "KY",
-        "ZIP": "40150",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 9,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.7265,
-        37.8485,
-        -85.7265,
-        37.8485
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71cf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.1539,
-          38.6704
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1630785,
-        "SHELTER_ID": 366853,
-        "SHELTER_NAME": "General Butler State Park",
-        "ADDRESS": "1608 KY-227",
-        "CITY": "Carrollton",
-        "STATE": "KY",
-        "ZIP": "41008",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 3,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.1539,
-        38.6704,
-        -85.1539,
-        38.6704
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71d0",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7530",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630786,
+        "objectid": 1630817,
         "SHELTER_ID": 366848,
         "SHELTER_NAME": "Alpena Township Hall",
         "ADDRESS": "4385 US 23N ",
@@ -751,7 +399,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71d1",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7531",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7265,
+          37.8485
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1630818,
+        "SHELTER_ID": 366842,
+        "SHELTER_NAME": "Lebanon Junction Elementary",
+        "ADDRESS": "10920 Preston Hwy",
+        "CITY": "Lebanon Junction",
+        "STATE": "KY",
+        "ZIP": "40150",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 9,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.7265,
+        37.8485,
+        -85.7265,
+        37.8485
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7532",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1539,
+          38.6704
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1630819,
+        "SHELTER_ID": 366853,
+        "SHELTER_NAME": "General Butler State Park",
+        "ADDRESS": "1608 KY-227",
+        "CITY": "Carrollton",
+        "STATE": "KY",
+        "ZIP": "41008",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 3,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.1539,
+        38.6704,
+        -85.1539,
+        38.6704
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7533",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630787,
+        "objectid": 1630820,
         "SHELTER_ID": 366854,
         "SHELTER_NAME": "Camp Kysoc",
         "ADDRESS": "Camp Kysoc Rd",
@@ -795,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71d2",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7534",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630788,
+        "objectid": 1630821,
         "SHELTER_ID": 366823,
         "SHELTER_NAME": "Loaves & Fishes",
         "ADDRESS": "616 W Taylor Avenue",
@@ -839,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71d3",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7535",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630789,
+        "objectid": 1630822,
         "SHELTER_ID": 366922,
         "SHELTER_NAME": "Henderson Senior Center",
         "ADDRESS": "1817 N Elm St",
@@ -883,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71d4",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7536",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630790,
+        "objectid": 1630823,
         "SHELTER_ID": 366929,
         "SHELTER_NAME": "The Great I Am Temple",
         "ADDRESS": "107 W Gaines Street",
@@ -927,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71d5",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7537",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -937,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630791,
+        "objectid": 1630824,
         "SHELTER_ID": 366930,
         "SHELTER_NAME": "St. Aloysius",
         "ADDRESS": "197 Plum Street",
@@ -971,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71d6",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7538",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -981,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630792,
+        "objectid": 1630825,
         "SHELTER_ID": 366924,
         "SHELTER_NAME": "Shoals School",
         "ADDRESS": "7900 US Hwy 50",
@@ -1015,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71d7",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7539",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1025,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630793,
+        "objectid": 1630826,
         "SHELTER_ID": 283681,
         "SHELTER_NAME": "Methodist Temple",
         "ADDRESS": "2109 Lincoln Ave",
@@ -1059,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71d8",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_753a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1069,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630794,
+        "objectid": 1630827,
         "SHELTER_ID": 366906,
         "SHELTER_NAME": "Michael Buchanon Park",
         "ADDRESS": "9222 Nashville Road",
@@ -1103,7 +839,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71d9",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_753b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1113,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630795,
+        "objectid": 1630828,
         "SHELTER_ID": 366910,
         "SHELTER_NAME": "Oakley Recreation Center",
         "ADDRESS": "3882 Paxton Ave",
@@ -1147,7 +883,271 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71da",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_753c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0394,
+          33.4251
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1630829,
+        "SHELTER_ID": 366918,
+        "SHELTER_NAME": "Salvation Army of Texarkana",
+        "ADDRESS": "400 East 4th Street",
+        "CITY": "Texarkana",
+        "STATE": "AR",
+        "ZIP": "71854",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -94.0394,
+        33.4251,
+        -94.0394,
+        33.4251
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_753d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9028,
+          38.1593
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1630830,
+        "SHELTER_ID": 366903,
+        "SHELTER_NAME": "Capital City Activity Center",
+        "ADDRESS": "202 Medical Heights Drive",
+        "CITY": "Frankfort",
+        "STATE": "KY",
+        "ZIP": "40601",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 7,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.9028,
+        38.1593,
+        -84.9028,
+        38.1593
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_753e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1364,
+          37.4879
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1630831,
+        "SHELTER_ID": 366902,
+        "SHELTER_NAME": "Livermore City Hall",
+        "ADDRESS": "105 W 3rd St",
+        "CITY": "Livermore",
+        "STATE": "KY",
+        "ZIP": "42352",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 3,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.1364,
+        37.4879,
+        -87.1364,
+        37.4879
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_753f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3159,
+          38.5941
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1630832,
+        "SHELTER_ID": 336776,
+        "SHELTER_NAME": "Morgan Community Center",
+        "ADDRESS": "147 Victory Avenue",
+        "CITY": "Bedford",
+        "STATE": "KY",
+        "ZIP": "40006",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 437,
+        "POST_IMPACT_CAPACITY": 218,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Louisville Area Chapter",
+        "ORG_ID": 121558,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 38.59413384,
+        "LONGITUDE": -85.31588155,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.3159,
+        38.5941,
+        -85.3159,
+        38.5941
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7540",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3848,
+          36.0349
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1630833,
+        "SHELTER_ID": 366916,
+        "SHELTER_NAME": "First United Methodist Church",
+        "ADDRESS": "100 McGaughey Street",
+        "CITY": "Dyersburg",
+        "STATE": "TN",
+        "ZIP": "38024",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 12,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.3848,
+        36.0349,
+        -89.3848,
+        36.0349
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7541",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1145,
+          36.4342
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1630834,
+        "SHELTER_ID": 299425,
+        "SHELTER_NAME": "Second Baptist Church",
+        "ADDRESS": "831 Everett Blvd",
+        "CITY": "Union City",
+        "STATE": "TN",
+        "ZIP": "38261",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 50,
+        "POST_IMPACT_CAPACITY": 50,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "MID-SOUTH CHAPTER",
+        "ORG_ID": 121612,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 36.43417909,
+        "LONGITUDE": -89.11446488,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.1145,
+        36.4342,
+        -89.1145,
+        36.4342
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7542",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1157,7 +1157,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630802,
+        "objectid": 1630835,
         "SHELTER_ID": 366850,
         "SHELTER_NAME": "Woodford County Senior Center",
         "ADDRESS": "185 Beasley Road",
@@ -1191,7 +1191,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71db",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7543",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1201,7 +1201,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630803,
+        "objectid": 1630836,
         "SHELTER_ID": 366901,
         "SHELTER_NAME": "Calhoun Baptist Church",
         "ADDRESS": "315 Main St.",
@@ -1235,7 +1235,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71dc",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7544",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1245,7 +1245,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630804,
+        "objectid": 1630837,
         "SHELTER_ID": 366908,
         "SHELTER_NAME": "Utica United",
         "ADDRESS": "605 Old Salem Rd",
@@ -1279,7 +1279,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71dd",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7545",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1289,7 +1289,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630805,
+        "objectid": 1630838,
         "SHELTER_ID": 366911,
         "SHELTER_NAME": "Roberta Jackson Neighborhood Center",
         "ADDRESS": "1300 E Polk",
@@ -1323,7 +1323,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71de",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7546",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1333,7 +1333,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630806,
+        "objectid": 1630839,
         "SHELTER_ID": 366917,
         "SHELTER_NAME": "Randy Sams Shelter",
         "ADDRESS": "402 Oak Street",
@@ -1367,7 +1367,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71df",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7547",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1377,7 +1377,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630807,
+        "objectid": 1630840,
         "SHELTER_ID": 366919,
         "SHELTER_NAME": "River of Life Full Gospel Church",
         "ADDRESS": "23491 Dixie Hwy N",
@@ -1411,7 +1411,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_71e0",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_19629df2556_7548",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1421,7 +1421,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1630808,
+        "objectid": 1630841,
         "SHELTER_ID": 366920,
         "SHELTER_NAME": "Pocahontas Community Center",
         "ADDRESS": "205 Geneva Drive",
@@ -1457,7 +1457,7 @@
   "totalFeatures": 33,
   "numberMatched": 33,
   "numberReturned": 33,
-  "timeStamp": "2025-04-12T20:07:14.910Z",
+  "timeStamp": "2025-04-12T20:35:11.554Z",
   "crs": {
     "type": "name",
     "properties": {
