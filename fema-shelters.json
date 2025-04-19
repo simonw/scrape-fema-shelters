@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-3377",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2ffb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1642588,
+        "objectid": 1642602,
         "SHELTER_ID": 366836,
         "SHELTER_NAME": "Historic Old Hardy Gym  ",
         "ADDRESS": "201 School Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-3376",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2ffa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1642589,
+        "objectid": 1642603,
         "SHELTER_ID": 366839,
         "SHELTER_NAME": "Paducah Recreation Center",
         "ADDRESS": "1527 Martin Luther King Jr Drive",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-3375",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2ff9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1642590,
+        "objectid": 1642604,
         "SHELTER_ID": 366930,
         "SHELTER_NAME": "St. Aloysius",
         "ADDRESS": "197 Plum Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-3374",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2ff8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1642591,
+        "objectid": 1642605,
         "SHELTER_ID": 366933,
         "SHELTER_NAME": "Outside - Calhoun Baptist Church",
         "ADDRESS": "315 Main St.",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-3373",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.1681,
-          35.1451
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1642592,
-        "SHELTER_ID": 366911,
-        "SHELTER_NAME": "Roberta Jackson Neighborhood Center",
-        "ADDRESS": "1300 E Polk",
-        "CITY": "West Memphis",
-        "STATE": "AR",
-        "ZIP": "72301",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 6,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.1681,
-        35.1451,
-        -90.1681,
-        35.1451
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-3372",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2ff7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1642593,
+        "objectid": 1642606,
         "SHELTER_ID": 366901,
         "SHELTER_NAME": "Calhoun Baptist Church",
         "ADDRESS": "315 Main St.",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-3371",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2ff6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1681,
+          35.1451
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1642607,
+        "SHELTER_ID": 366911,
+        "SHELTER_NAME": "Roberta Jackson Neighborhood Center",
+        "ADDRESS": "1300 E Polk",
+        "CITY": "West Memphis",
+        "STATE": "AR",
+        "ZIP": "72301",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.1681,
+        35.1451,
+        -90.1681,
+        35.1451
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2ff5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1642594,
+        "objectid": 1642608,
         "SHELTER_ID": 366917,
         "SHELTER_NAME": "Randy Sams Shelter",
         "ADDRESS": "402 Oak Street",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-3370",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2ff4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1642595,
+        "objectid": 1642609,
         "SHELTER_ID": 366920,
         "SHELTER_NAME": "Pocahontas Community Center",
         "ADDRESS": "205 Geneva Drive",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-336f",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2ff3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1642596,
+        "objectid": 1642610,
         "SHELTER_ID": 366903,
         "SHELTER_NAME": "Capital City Activity Center",
         "ADDRESS": "202 Medical Heights Drive",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-336e",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2ff2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1642597,
+        "objectid": 1642611,
         "SHELTER_ID": 366850,
         "SHELTER_NAME": "Woodford County Senior Center",
         "ADDRESS": "185 Beasley Road",
@@ -443,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-336d",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2ff1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1642598,
+        "objectid": 1642612,
         "SHELTER_ID": 366918,
         "SHELTER_NAME": "Salvation Army of Texarkana",
         "ADDRESS": "400 East 4th Street",
@@ -487,51 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-336c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.9906,
-          37.9606
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1642599,
-        "SHELTER_ID": 366919,
-        "SHELTER_NAME": "River of Life Full Gospel Church",
-        "ADDRESS": "23491 Dixie Hwy N",
-        "CITY": "West Point",
-        "STATE": "KY",
-        "ZIP": "40177",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.9906,
-        37.9606,
-        -85.9906,
-        37.9606
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-336b",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2ff0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1642600,
+        "objectid": 1642613,
         "SHELTER_ID": 366902,
         "SHELTER_NAME": "Livermore City Hall",
         "ADDRESS": "105 W 3rd St",
@@ -575,7 +531,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-336a",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2fef",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9906,
+          37.9606
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1642614,
+        "SHELTER_ID": 366919,
+        "SHELTER_NAME": "River of Life Full Gospel Church",
+        "ADDRESS": "23491 Dixie Hwy N",
+        "CITY": "West Point",
+        "STATE": "KY",
+        "ZIP": "40177",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.9906,
+        37.9606,
+        -85.9906,
+        37.9606
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-301e2ee4_1964d0ff1d6_-2fee",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1642601,
+        "objectid": 1642615,
         "SHELTER_ID": 366936,
         "SHELTER_NAME": "Knights of Columbus Hall",
         "ADDRESS": "110 S Crawford Street",
@@ -621,7 +621,7 @@
   "totalFeatures": 14,
   "numberMatched": 14,
   "numberReturned": 14,
-  "timeStamp": "2025-04-19T10:06:47.111Z",
+  "timeStamp": "2025-04-19T10:37:03.131Z",
   "crs": {
     "type": "name",
     "properties": {
