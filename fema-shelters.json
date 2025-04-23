@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1730",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1108",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646402,
+        "objectid": 1646432,
         "SHELTER_ID": 366826,
         "SHELTER_NAME": "Harney County Fairgrounds",
         "ADDRESS": "69660 S Egan Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-172f",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1107",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646403,
+        "objectid": 1646433,
         "SHELTER_ID": 366836,
         "SHELTER_NAME": "Historic Old Hardy Gym  ",
         "ADDRESS": "201 School Ave",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-172e",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1106",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646404,
+        "objectid": 1646434,
         "SHELTER_ID": 366839,
         "SHELTER_NAME": "Paducah Recreation Center",
         "ADDRESS": "1527 Martin Luther King Jr Drive",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-172d",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1105",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646405,
+        "objectid": 1646435,
         "SHELTER_ID": 366930,
         "SHELTER_NAME": "St. Aloysius",
         "ADDRESS": "197 Plum Street",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-172c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.2587,
-          37.5385
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1646406,
-        "SHELTER_ID": 366901,
-        "SHELTER_NAME": "Calhoun Baptist Church",
-        "ADDRESS": "315 Main St.",
-        "CITY": "Calhoun",
-        "STATE": "KY",
-        "ZIP": "42327",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 13,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.2587,
-        37.5385,
-        -87.2587,
-        37.5385
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-172b",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1104",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646407,
+        "objectid": 1646436,
         "SHELTER_ID": 366911,
         "SHELTER_NAME": "Roberta Jackson Neighborhood Center",
         "ADDRESS": "1300 E Polk",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-172a",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2587,
+          37.5385
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1646437,
+        "SHELTER_ID": 366901,
+        "SHELTER_NAME": "Calhoun Baptist Church",
+        "ADDRESS": "315 Main St.",
+        "CITY": "Calhoun",
+        "STATE": "KY",
+        "ZIP": "42327",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 13,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.2587,
+        37.5385,
+        -87.2587,
+        37.5385
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1102",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646408,
+        "objectid": 1646438,
         "SHELTER_ID": 366920,
         "SHELTER_NAME": "Pocahontas Community Center",
         "ADDRESS": "205 Geneva Drive",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1729",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1101",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646409,
+        "objectid": 1646439,
         "SHELTER_ID": 366903,
         "SHELTER_NAME": "Capital City Activity Center",
         "ADDRESS": "202 Medical Heights Drive",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1728",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1100",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646410,
+        "objectid": 1646440,
         "SHELTER_ID": 366850,
         "SHELTER_NAME": "Woodford County Senior Center",
         "ADDRESS": "185 Beasley Road",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1727",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-10ff",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646411,
+        "objectid": 1646441,
         "SHELTER_ID": 366940,
         "SHELTER_NAME": "Manchester High School",
         "ADDRESS": "101 Hawks Way",
@@ -443,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1726",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-10fe",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646412,
+        "objectid": 1646442,
         "SHELTER_ID": 366902,
         "SHELTER_NAME": "Livermore City Hall",
         "ADDRESS": "105 W 3rd St",
@@ -487,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1725",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-10fd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646413,
+        "objectid": 1646443,
         "SHELTER_ID": 366919,
         "SHELTER_NAME": "River of Life Full Gospel Church",
         "ADDRESS": "23491 Dixie Hwy N",
@@ -531,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1724",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-10fc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646414,
+        "objectid": 1646444,
         "SHELTER_ID": 366941,
         "SHELTER_NAME": "Ada First Baptist Church",
         "ADDRESS": "521 S Broadway Ave",
@@ -575,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1723",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-10fb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646415,
+        "objectid": 1646445,
         "SHELTER_ID": 366942,
         "SHELTER_NAME": "Iglesia Christiana El Redentor",
         "ADDRESS": "8811 Frey Rd",
@@ -619,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-1722",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19662851700_-10fa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1646416,
+        "objectid": 1646446,
         "SHELTER_ID": 366263,
         "SHELTER_NAME": "Ladysmith Elementary School",
         "ADDRESS": "624 E 6th Street S",
@@ -665,7 +665,7 @@
   "totalFeatures": 15,
   "numberMatched": 15,
   "numberReturned": 15,
-  "timeStamp": "2025-04-23T13:40:43.594Z",
+  "timeStamp": "2025-04-23T14:07:46.373Z",
   "crs": {
     "type": "name",
     "properties": {
