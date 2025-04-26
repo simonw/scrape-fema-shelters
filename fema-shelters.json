@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-4437",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-3e2f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1649434,
+        "objectid": 1649447,
         "SHELTER_ID": 366836,
         "SHELTER_NAME": "Historic Old Hardy Gym  ",
         "ADDRESS": "201 School Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-4436",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-3e2e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1649435,
+        "objectid": 1649448,
         "SHELTER_ID": 366839,
         "SHELTER_NAME": "Paducah Recreation Center",
         "ADDRESS": "1527 Martin Luther King Jr Drive",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-4435",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-3e2d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1649436,
+        "objectid": 1649449,
         "SHELTER_ID": 366930,
         "SHELTER_NAME": "St. Aloysius",
         "ADDRESS": "197 Plum Street",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-4434",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.2587,
-          37.5385
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1649437,
-        "SHELTER_ID": 366901,
-        "SHELTER_NAME": "Calhoun Baptist Church",
-        "ADDRESS": "315 Main St.",
-        "CITY": "Calhoun",
-        "STATE": "KY",
-        "ZIP": "42327",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 8,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.2587,
-        37.5385,
-        -87.2587,
-        37.5385
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-4433",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-3e2c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1649438,
+        "objectid": 1649450,
         "SHELTER_ID": 366911,
         "SHELTER_NAME": "Roberta Jackson Neighborhood Center",
         "ADDRESS": "1300 E Polk",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-4432",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-3e2b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2587,
+          37.5385
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1649451,
+        "SHELTER_ID": 366901,
+        "SHELTER_NAME": "Calhoun Baptist Church",
+        "ADDRESS": "315 Main St.",
+        "CITY": "Calhoun",
+        "STATE": "KY",
+        "ZIP": "42327",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 8,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.2587,
+        37.5385,
+        -87.2587,
+        37.5385
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-3e2a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1649439,
+        "objectid": 1649452,
         "SHELTER_ID": 366903,
         "SHELTER_NAME": "Capital City Activity Center",
         "ADDRESS": "202 Medical Heights Drive",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-4431",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-3e29",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1649440,
+        "objectid": 1649453,
         "SHELTER_ID": 366920,
         "SHELTER_NAME": "Pocahontas Community Center",
         "ADDRESS": "205 Geneva Drive",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-4430",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-3e28",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1649441,
+        "objectid": 1649454,
         "SHELTER_ID": 366850,
         "SHELTER_NAME": "Woodford County Senior Center",
         "ADDRESS": "185 Beasley Road",
@@ -355,51 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-442f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.5011,
-          40.0448
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1649442,
-        "SHELTER_ID": 366943,
-        "SHELTER_NAME": "First Assembly of God ",
-        "ADDRESS": "420 Baltimore Road",
-        "CITY": "Shippensburg",
-        "STATE": "PA",
-        "ZIP": "17257",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -77.5011,
-        40.0448,
-        -77.5011,
-        40.0448
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-442e",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-3e27",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1649443,
+        "objectid": 1649455,
         "SHELTER_ID": 366902,
         "SHELTER_NAME": "Livermore City Hall",
         "ADDRESS": "105 W 3rd St",
@@ -443,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-442d",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-3e26",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1649444,
+        "objectid": 1649456,
         "SHELTER_ID": 366919,
         "SHELTER_NAME": "River of Life Full Gospel Church",
         "ADDRESS": "23491 Dixie Hwy N",
@@ -487,7 +443,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-442c",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-3e25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5011,
+          40.0448
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1649457,
+        "SHELTER_ID": 366943,
+        "SHELTER_NAME": "First Assembly of God ",
+        "ADDRESS": "420 Baltimore Road",
+        "CITY": "Shippensburg",
+        "STATE": "PA",
+        "ZIP": "17257",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -77.5011,
+        40.0448,
+        -77.5011,
+        40.0448
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-3e24",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1649445,
+        "objectid": 1649458,
         "SHELTER_ID": 366942,
         "SHELTER_NAME": "Iglesia Christiana El Redentor",
         "ADDRESS": "8811 Frey Rd",
@@ -531,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-442b",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_19672d408ee_-3e23",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1649446,
+        "objectid": 1649459,
         "SHELTER_ID": 115852,
         "SHELTER_NAME": "Addis VFW Post 3785",
         "ADDRESS": "4453 Myhand Street",
@@ -577,7 +577,7 @@
   "totalFeatures": 13,
   "numberMatched": 13,
   "numberReturned": 13,
-  "timeStamp": "2025-04-26T19:06:24.505Z",
+  "timeStamp": "2025-04-26T19:34:52.707Z",
   "crs": {
     "type": "name",
     "properties": {
