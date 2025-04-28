@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3748",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3ba5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1650749,
+        "objectid": 1650779,
         "SHELTER_ID": 366836,
         "SHELTER_NAME": "Historic Old Hardy Gym  ",
         "ADDRESS": "201 School Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3749",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3ba6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1650750,
+        "objectid": 1650780,
         "SHELTER_ID": 366839,
         "SHELTER_NAME": "Paducah Recreation Center",
         "ADDRESS": "1527 Martin Luther King Jr Drive",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_374a",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3ba7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1650751,
+        "objectid": 1650781,
         "SHELTER_ID": 366930,
         "SHELTER_NAME": "St. Aloysius",
         "ADDRESS": "197 Plum Street",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_374b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.1681,
-          35.1451
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1650752,
-        "SHELTER_ID": 366911,
-        "SHELTER_NAME": "Roberta Jackson Neighborhood Center",
-        "ADDRESS": "1300 E Polk",
-        "CITY": "West Memphis",
-        "STATE": "AR",
-        "ZIP": "72301",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 6,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.1681,
-        35.1451,
-        -90.1681,
-        35.1451
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_374c",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3ba8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1650753,
+        "objectid": 1650782,
         "SHELTER_ID": 366901,
         "SHELTER_NAME": "Calhoun Baptist Church",
         "ADDRESS": "315 Main St.",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_374d",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3ba9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1681,
+          35.1451
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1650783,
+        "SHELTER_ID": 366911,
+        "SHELTER_NAME": "Roberta Jackson Neighborhood Center",
+        "ADDRESS": "1300 E Polk",
+        "CITY": "West Memphis",
+        "STATE": "AR",
+        "ZIP": "72301",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.1681,
+        35.1451,
+        -90.1681,
+        35.1451
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3baa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1650754,
+        "objectid": 1650784,
         "SHELTER_ID": 366903,
         "SHELTER_NAME": "Capital City Activity Center",
         "ADDRESS": "202 Medical Heights Drive",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_374e",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3bab",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1650755,
+        "objectid": 1650785,
         "SHELTER_ID": 366920,
         "SHELTER_NAME": "Pocahontas Community Center",
         "ADDRESS": "205 Geneva Drive",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_374f",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3bac",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1650756,
+        "objectid": 1650786,
         "SHELTER_ID": 366850,
         "SHELTER_NAME": "Woodford County Senior Center",
         "ADDRESS": "185 Beasley Road",
@@ -355,51 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3750",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.8177,
-          35.1533
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1650757,
-        "SHELTER_ID": 366945,
-        "SHELTER_NAME": "The Way Truth and Life Ministries",
-        "ADDRESS": "700 Sakelares Blvd",
-        "CITY": "Grants",
-        "STATE": "NM",
-        "ZIP": "87020",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -107.8177,
-        35.1533,
-        -107.8177,
-        35.1533
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3751",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3bad",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1650758,
+        "objectid": 1650787,
         "SHELTER_ID": 366902,
         "SHELTER_NAME": "Livermore City Hall",
         "ADDRESS": "105 W 3rd St",
@@ -443,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3752",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3bae",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1650759,
+        "objectid": 1650788,
         "SHELTER_ID": 366919,
         "SHELTER_NAME": "River of Life Full Gospel Church",
         "ADDRESS": "23491 Dixie Hwy N",
@@ -487,51 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3753",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.4295,
-          34.6053
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1650760,
-        "SHELTER_ID": 225478,
-        "SHELTER_NAME": "Cameron Baptist Church",
-        "ADDRESS": "2621 SW C Ave",
-        "CITY": "Lawton",
-        "STATE": "OK",
-        "ZIP": "73505",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 100,
-        "POST_IMPACT_CAPACITY": 100,
-        "TOTAL_POPULATION": 6,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "GREAT PLAINS",
-        "ORG_ID": 121424,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 34.60529369,
-        "LONGITUDE": -98.42950755,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -98.4295,
-        34.6053,
-        -98.4295,
-        34.6053
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3754",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3baf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1650761,
+        "objectid": 1650789,
         "SHELTER_ID": 366942,
         "SHELTER_NAME": "Iglesia Christiana El Redentor",
         "ADDRESS": "8811 Frey Rd",
@@ -575,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3755",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3bb0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1650762,
+        "objectid": 1650790,
         "SHELTER_ID": 359526,
         "SHELTER_NAME": "LDS Chapel",
         "ADDRESS": "3805 S Main Street",
@@ -619,7 +531,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3756",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3bb1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4295,
+          34.6053
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1650791,
+        "SHELTER_ID": 225478,
+        "SHELTER_NAME": "Cameron Baptist Church",
+        "ADDRESS": "2621 SW C Ave",
+        "CITY": "Lawton",
+        "STATE": "OK",
+        "ZIP": "73505",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 100,
+        "POST_IMPACT_CAPACITY": 100,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "GREAT PLAINS",
+        "ORG_ID": 121424,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.60529369,
+        "LONGITUDE": -98.42950755,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -98.4295,
+        34.6053,
+        -98.4295,
+        34.6053
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3bb2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8177,
+          35.1533
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1650792,
+        "SHELTER_ID": 366945,
+        "SHELTER_NAME": "The Way Truth and Life Ministries",
+        "ADDRESS": "700 Sakelares Blvd",
+        "CITY": "Grants",
+        "STATE": "NM",
+        "ZIP": "87020",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -107.8177,
+        35.1533,
+        -107.8177,
+        35.1533
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5d744df5_1967a8d91d7_3bb3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1650763,
+        "objectid": 1650793,
         "SHELTER_ID": 115852,
         "SHELTER_NAME": "Addis VFW Post 3785",
         "ADDRESS": "4453 Myhand Street",
@@ -665,7 +665,7 @@
   "totalFeatures": 15,
   "numberMatched": 15,
   "numberReturned": 15,
-  "timeStamp": "2025-04-28T06:16:45.741Z",
+  "timeStamp": "2025-04-28T06:45:52.941Z",
   "crs": {
     "type": "name",
     "properties": {
