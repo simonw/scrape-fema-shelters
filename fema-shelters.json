@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7c9b07d6_1968adc445e_3a0b",
+      "id": "FEMANSSOpenShelters.fid--7c9b07d6_1968adc445e_3e64",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1654347,
+        "objectid": 1654351,
         "SHELTER_ID": 366950,
         "SHELTER_NAME": "First Baptist Church",
         "ADDRESS": "501 SW B Ave",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7c9b07d6_1968adc445e_3a0c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.004,
-          26.4003
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1654348,
-        "SHELTER_ID": 366948,
-        "SHELTER_NAME": "Roma Community Center",
-        "ADDRESS": "450 E 6th Street",
-        "CITY": "Roma",
-        "STATE": "TX",
-        "ZIP": "78584",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 11,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -99.004,
-        26.4003,
-        -99.004,
-        26.4003
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7c9b07d6_1968adc445e_3a0d",
+      "id": "FEMANSSOpenShelters.fid--7c9b07d6_1968adc445e_3e65",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1654349,
+        "objectid": 1654352,
         "SHELTER_ID": 366949,
         "SHELTER_NAME": "Christ Church",
         "ADDRESS": "970 State Street",
@@ -135,7 +91,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7c9b07d6_1968adc445e_3a0e",
+      "id": "FEMANSSOpenShelters.fid--7c9b07d6_1968adc445e_3e66",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.004,
+          26.4003
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1654353,
+        "SHELTER_ID": 366948,
+        "SHELTER_NAME": "Roma Community Center",
+        "ADDRESS": "450 E 6th Street",
+        "CITY": "Roma",
+        "STATE": "TX",
+        "ZIP": "78584",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 11,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -99.004,
+        26.4003,
+        -99.004,
+        26.4003
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7c9b07d6_1968adc445e_3e67",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1654350,
+        "objectid": 1654354,
         "SHELTER_ID": 225478,
         "SHELTER_NAME": "Cameron Baptist Church",
         "ADDRESS": "2621 SW C Ave",
@@ -181,7 +181,7 @@
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2025-05-01T15:07:37.013Z",
+  "timeStamp": "2025-05-01T15:37:42.392Z",
   "crs": {
     "type": "name",
     "properties": {
