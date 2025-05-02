@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7c9b07d6_19691bce15d_1799",
+      "id": "FEMANSSOpenShelters.fid--15810f20_19692625dae_-1e72",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6458,
+          45.6389
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1654638,
+        "SHELTER_ID": 366951,
+        "SHELTER_NAME": "River City Church",
+        "ADDRESS": "2400 E 4th Plain Blvd",
+        "CITY": "Vancouver",
+        "STATE": "WA",
+        "ZIP": "98661",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.6458,
+        45.6389,
+        -122.6458,
+        45.6389
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--15810f20_19692625dae_-1e71",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1654637,
+        "objectid": 1654639,
         "SHELTER_ID": 366948,
         "SHELTER_NAME": "Roma Community Center",
         "ADDRESS": "450 E 6th Street",
@@ -46,10 +90,10 @@
       ]
     }
   ],
-  "totalFeatures": 1,
-  "numberMatched": 1,
-  "numberReturned": 1,
-  "timeStamp": "2025-05-02T22:07:02.101Z",
+  "totalFeatures": 2,
+  "numberMatched": 2,
+  "numberReturned": 2,
+  "timeStamp": "2025-05-02T22:38:17.260Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -57,9 +101,9 @@
     }
   },
   "bbox": [
-    -99.004,
+    -122.6458,
     26.4003,
     -99.004,
-    26.4003
+    45.6389
   ]
 }
