@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--15810f20_196a0516478_36ce",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.044,
-          34.0121
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1655199,
-        "SHELTER_ID": 185641,
-        "SHELTER_NAME": "South Brunswick High School",
-        "ADDRESS": "280 Cougar Road",
-        "CITY": "Southport",
-        "STATE": "NC",
-        "ZIP": "28461",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 528,
-        "POST_IMPACT_CAPACITY": 264,
-        "TOTAL_POPULATION": 4,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "CAPE FEAR",
-        "ORG_ID": 121244,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 34.01211886,
-        "LONGITUDE": -78.04397256,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -78.044,
-        34.0121,
-        -78.044,
-        34.0121
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--15810f20_196a0516478_36cf",
+      "id": "FEMANSSOpenShelters.fid--15810f20_196a0516478_3c8c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1655200,
+        "objectid": 1655201,
         "SHELTER_ID": 366951,
         "SHELTER_NAME": "River City Church",
         "ADDRESS": "2400 E 4th Plain Blvd",
@@ -90,10 +46,10 @@
       ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2025-05-05T17:06:59.275Z",
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2025-05-05T17:36:41.122Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -102,8 +58,8 @@
   },
   "bbox": [
     -122.6458,
-    34.0121,
-    -78.044,
+    45.6389,
+    -122.6458,
     45.6389
   ]
 }
