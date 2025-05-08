@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--15810f20_196aab80759_7466",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196adbbcb6d_-7fa1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1655425,
+        "objectid": 1655431,
         "SHELTER_ID": 366952,
         "SHELTER_NAME": "St Andrews Lutheran Church",
         "ADDRESS": "5607 NE Gher Road",
@@ -44,56 +44,12 @@
         -122.5595,
         45.6641
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--15810f20_196aab80759_7467",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.9672,
-          42.1095
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1655426,
-        "SHELTER_ID": 366953,
-        "SHELTER_NAME": "Lakewood Chapel",
-        "ADDRESS": "1307 East Palatine Road",
-        "CITY": "Arlington Heights",
-        "STATE": "IL",
-        "ZIP": "60004",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.9672,
-        42.1095,
-        -87.9672,
-        42.1095
-      ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2025-05-08T01:35:58.230Z",
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2025-05-08T02:36:48.882Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -102,8 +58,8 @@
   },
   "bbox": [
     -122.5595,
-    42.1095,
-    -87.9672,
+    45.6641,
+    -122.5595,
     45.6641
   ]
 }
