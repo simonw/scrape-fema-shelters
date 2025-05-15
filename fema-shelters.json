@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-6684",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5f69",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1656966,
+        "objectid": 1656993,
         "SHELTER_ID": 366952,
         "SHELTER_NAME": "St Andrews Lutheran Church",
         "ADDRESS": "5607 NE Gher Road",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-6683",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5f68",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1656967,
+        "objectid": 1656994,
         "SHELTER_ID": 366955,
         "SHELTER_NAME": "Hope Lutheran Church",
         "ADDRESS": "204 Elm Avenue",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-6682",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.9504,
-          39.5906
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1656968,
-        "SHELTER_ID": 366963,
-        "SHELTER_NAME": "Midland Fire Company",
-        "ADDRESS": "14823 Broadway Ave SW",
-        "CITY": "Frostburg",
-        "STATE": "MD",
-        "ZIP": "21532",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 60,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -78.9504,
-        39.5906,
-        -78.9504,
-        39.5906
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-6681",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5f67",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1656969,
+        "objectid": 1656995,
         "SHELTER_ID": 366965,
         "SHELTER_NAME": "Berkeley Baptist Church",
         "ADDRESS": "172 Winchester Grade Rd",
@@ -155,7 +111,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
+        "TOTAL_POPULATION": 3,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-6680",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5f66",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1656970,
+        "objectid": 1656996,
         "SHELTER_ID": 366964,
         "SHELTER_NAME": "Apache County Fairgrounds",
         "ADDRESS": "825 4th N",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-667f",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5f65",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1656971,
+        "objectid": 1656997,
         "SHELTER_ID": 366966,
         "SHELTER_NAME": "Larkin Avenue Baptist Church",
         "ADDRESS": "1158 Larkin Ave",
@@ -267,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-667e",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5f64",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1656972,
+        "objectid": 1656998,
         "SHELTER_ID": 366007,
         "SHELTER_NAME": "Holler Park Lodge",
         "ADDRESS": "5151 S 6th Street",
@@ -287,7 +243,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 44,
+        "TOTAL_POPULATION": 26,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -311,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-667d",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5f63",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1656973,
+        "objectid": 1656999,
         "SHELTER_ID": 366958,
         "SHELTER_NAME": "Alpine Community Center",
         "ADDRESS": "12 County Rd 2061",
@@ -355,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-667c",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5f62",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1656974,
+        "objectid": 1657000,
         "SHELTER_ID": 366959,
         "SHELTER_NAME": "Fredenberg Community Center",
         "ADDRESS": "5104 Fish Lake Road",
@@ -398,10 +354,10 @@
       ]
     }
   ],
-  "totalFeatures": 9,
-  "numberMatched": 9,
-  "numberReturned": 9,
-  "timeStamp": "2025-05-15T02:36:19.278Z",
+  "totalFeatures": 8,
+  "numberMatched": 8,
+  "numberReturned": 8,
+  "timeStamp": "2025-05-15T03:25:15.580Z",
   "crs": {
     "type": "name",
     "properties": {
