@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5d0d",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-594f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657001,
+        "objectid": 1657009,
         "SHELTER_ID": 366952,
         "SHELTER_NAME": "St Andrews Lutheran Church",
         "ADDRESS": "5607 NE Gher Road",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5d0c",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-594e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657002,
+        "objectid": 1657010,
         "SHELTER_ID": 366955,
         "SHELTER_NAME": "Hope Lutheran Church",
         "ADDRESS": "204 Elm Avenue",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5d0b",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-594d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657003,
+        "objectid": 1657011,
         "SHELTER_ID": 366965,
         "SHELTER_NAME": "Berkeley Baptist Church",
         "ADDRESS": "172 Winchester Grade Rd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5d0a",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-594c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657004,
+        "objectid": 1657012,
         "SHELTER_ID": 366964,
         "SHELTER_NAME": "Apache County Fairgrounds",
         "ADDRESS": "825 4th N",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5d09",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-594b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657005,
+        "objectid": 1657013,
         "SHELTER_ID": 366966,
         "SHELTER_NAME": "Larkin Avenue Baptist Church",
         "ADDRESS": "1158 Larkin Ave",
@@ -223,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5d08",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-594a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2181,
+          46.9737
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1657014,
+        "SHELTER_ID": 366959,
+        "SHELTER_NAME": "Fredenberg Community Center",
+        "ADDRESS": "5104 Fish Lake Road",
+        "CITY": "Duluth",
+        "STATE": "MN",
+        "ZIP": "55803",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -92.2181,
+        46.9737,
+        -92.2181,
+        46.9737
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5949",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657006,
+        "objectid": 1657015,
         "SHELTER_ID": 366007,
         "SHELTER_NAME": "Holler Park Lodge",
         "ADDRESS": "5151 S 6th Street",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5d07",
+      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5948",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657007,
+        "objectid": 1657016,
         "SHELTER_ID": 366958,
         "SHELTER_NAME": "Alpine Community Center",
         "ADDRESS": "12 County Rd 2061",
@@ -308,56 +352,12 @@
         -109.1408,
         33.8479
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-400faf3c_196d144c080_-5d06",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.2181,
-          46.9737
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1657008,
-        "SHELTER_ID": 366959,
-        "SHELTER_NAME": "Fredenberg Community Center",
-        "ADDRESS": "5104 Fish Lake Road",
-        "CITY": "Duluth",
-        "STATE": "MN",
-        "ZIP": "55803",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -92.2181,
-        46.9737,
-        -92.2181,
-        46.9737
-      ]
     }
   ],
   "totalFeatures": 8,
   "numberMatched": 8,
   "numberReturned": 8,
-  "timeStamp": "2025-05-15T03:45:59.526Z",
+  "timeStamp": "2025-05-15T04:09:49.986Z",
   "crs": {
     "type": "name",
     "properties": {
