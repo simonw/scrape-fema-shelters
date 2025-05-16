@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_4685",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d7401b8b_-6796",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657577,
+        "objectid": 1657586,
         "SHELTER_ID": 366952,
         "SHELTER_NAME": "St Andrews Lutheran Church",
         "ADDRESS": "5607 NE Gher Road",
@@ -23,7 +23,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
+        "TOTAL_POPULATION": 1,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_4686",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d7401b8b_-6795",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657578,
+        "objectid": 1657587,
         "SHELTER_ID": 366955,
         "SHELTER_NAME": "Hope Lutheran Church",
         "ADDRESS": "204 Elm Avenue",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_4687",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d7401b8b_-6794",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657579,
+        "objectid": 1657588,
         "SHELTER_ID": 366968,
         "SHELTER_NAME": "Dodgeland School",
         "ADDRESS": "401 South Western Ave",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_4688",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d7401b8b_-6793",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657580,
+        "objectid": 1657589,
         "SHELTER_ID": 366964,
         "SHELTER_NAME": "Apache County Fairgrounds",
         "ADDRESS": "825 4th N",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_4689",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.5551,
-          43.5044
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1657581,
-        "SHELTER_ID": 366969,
-        "SHELTER_NAME": "Mayville Junior/Senior High School",
-        "ADDRESS": "500 N Clark Street",
-        "CITY": "Mayville",
-        "STATE": "WI",
-        "ZIP": "53050",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.5551,
-        43.5044,
-        -88.5551,
-        43.5044
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_468a",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d7401b8b_-6792",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657582,
+        "objectid": 1657590,
         "SHELTER_ID": 366966,
         "SHELTER_NAME": "Larkin Avenue Baptist Church",
         "ADDRESS": "1158 Larkin Ave",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_468b",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d7401b8b_-6791",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5551,
+          43.5044
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1657591,
+        "SHELTER_ID": 366969,
+        "SHELTER_NAME": "Mayville Junior/Senior High School",
+        "ADDRESS": "500 N Clark Street",
+        "CITY": "Mayville",
+        "STATE": "WI",
+        "ZIP": "53050",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.5551,
+        43.5044,
+        -88.5551,
+        43.5044
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d7401b8b_-6790",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657583,
+        "objectid": 1657592,
         "SHELTER_ID": 366007,
         "SHELTER_NAME": "Holler Park Lodge",
         "ADDRESS": "5151 S 6th Street",
@@ -287,7 +287,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 26,
+        "TOTAL_POPULATION": 46,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_468c",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d7401b8b_-678f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657584,
+        "objectid": 1657593,
         "SHELTER_ID": 366958,
         "SHELTER_NAME": "Alpine Community Center",
         "ADDRESS": "12 County Rd 2061",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_468d",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d7401b8b_-678e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657585,
+        "objectid": 1657594,
         "SHELTER_ID": 366959,
         "SHELTER_NAME": "Fredenberg Community Center",
         "ADDRESS": "5104 Fish Lake Road",
@@ -401,7 +401,7 @@
   "totalFeatures": 9,
   "numberMatched": 9,
   "numberReturned": 9,
-  "timeStamp": "2025-05-16T03:46:55.146Z",
+  "timeStamp": "2025-05-16T04:10:36.425Z",
   "crs": {
     "type": "name",
     "properties": {
