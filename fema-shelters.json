@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_18f7",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_3329",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657517,
+        "objectid": 1657541,
         "SHELTER_ID": 366952,
         "SHELTER_NAME": "St Andrews Lutheran Church",
         "ADDRESS": "5607 NE Gher Road",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_18f8",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_332a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657518,
+        "objectid": 1657542,
         "SHELTER_ID": 366955,
         "SHELTER_NAME": "Hope Lutheran Church",
         "ADDRESS": "204 Elm Avenue",
@@ -91,7 +91,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_18f9",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_332b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7162,
+          43.4028
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1657543,
+        "SHELTER_ID": 366968,
+        "SHELTER_NAME": "Dodgeland School",
+        "ADDRESS": "401 South Western Ave",
+        "CITY": "Juneau",
+        "STATE": "WI",
+        "ZIP": "53039",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.7162,
+        43.4028,
+        -88.7162,
+        43.4028
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_332c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657519,
+        "objectid": 1657544,
         "SHELTER_ID": 366964,
         "SHELTER_NAME": "Apache County Fairgrounds",
         "ADDRESS": "825 4th N",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_18fa",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_332d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657520,
+        "objectid": 1657545,
         "SHELTER_ID": 366966,
         "SHELTER_NAME": "Larkin Avenue Baptist Church",
         "ADDRESS": "1158 Larkin Ave",
@@ -179,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_18fb",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_332e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5551,
+          43.5044
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1657546,
+        "SHELTER_ID": 366969,
+        "SHELTER_NAME": "Mayville Junior/Senior High School",
+        "ADDRESS": "500 N Clark Street",
+        "CITY": "Mayville",
+        "STATE": "WI",
+        "ZIP": "53050",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.5551,
+        43.5044,
+        -88.5551,
+        43.5044
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_332f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657521,
+        "objectid": 1657547,
         "SHELTER_ID": 366007,
         "SHELTER_NAME": "Holler Park Lodge",
         "ADDRESS": "5151 S 6th Street",
@@ -223,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_18fc",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_3330",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657522,
+        "objectid": 1657548,
         "SHELTER_ID": 366958,
         "SHELTER_NAME": "Alpine Community Center",
         "ADDRESS": "12 County Rd 2061",
@@ -267,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_18fd",
+      "id": "FEMANSSOpenShelters.fid-49f9e196_196d6073c0c_3331",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1657523,
+        "objectid": 1657549,
         "SHELTER_ID": 366959,
         "SHELTER_NAME": "Fredenberg Community Center",
         "ADDRESS": "5104 Fish Lake Road",
@@ -310,10 +398,10 @@
       ]
     }
   ],
-  "totalFeatures": 7,
-  "numberMatched": 7,
-  "numberReturned": 7,
-  "timeStamp": "2025-05-16T01:35:47.689Z",
+  "totalFeatures": 9,
+  "numberMatched": 9,
+  "numberReturned": 9,
+  "timeStamp": "2025-05-16T02:37:11.616Z",
   "crs": {
     "type": "name",
     "properties": {
