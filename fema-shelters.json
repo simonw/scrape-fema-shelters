@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5888",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b7a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1664684,
+        "objectid": 1664698,
         "SHELTER_ID": 366955,
         "SHELTER_NAME": "Hope Lutheran Church",
         "ADDRESS": "204 Elm Avenue",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5889",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b7b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1664685,
+        "objectid": 1664699,
         "SHELTER_ID": 366978,
         "SHELTER_NAME": "Southern Brown Volunteer Fire",
         "ADDRESS": "4040 IN-135",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_588a",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b7c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1664686,
+        "objectid": 1664700,
         "SHELTER_ID": 365164,
         "SHELTER_NAME": "12th & Park Recreation Center",
         "ADDRESS": "1410 S Tucker Blvd",
@@ -135,95 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_588b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.0545,
-          46.3403
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1664687,
-        "SHELTER_ID": 109188,
-        "SHELTER_NAME": "West London Baptist Church (Open 24 Hours)",
-        "ADDRESS": "360 Parker Rd",
-        "CITY": "London",
-        "STATE": "KY",
-        "ZIP": "40741",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "AMERICAN RED CROSS OF GREATER IDAHO CHAPTER",
-        "ORG_ID": 121147,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 46.34026017,
-        "LONGITUDE": -117.05451818,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.0545,
-        46.3403,
-        -117.0545,
-        46.3403
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_588c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.9705,
-          32.3748
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1664688,
-        "SHELTER_ID": 366985,
-        "SHELTER_NAME": "Canyon Del Oro High School",
-        "ADDRESS": "25 W Calle Concordia",
-        "CITY": "Oro Valley",
-        "STATE": "AZ",
-        "ZIP": "85704",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 6,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -110.9705,
-        32.3748,
-        -110.9705,
-        32.3748
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_588d",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b7d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1664689,
+        "objectid": 1664701,
         "SHELTER_ID": 366989,
         "SHELTER_NAME": "First Baptist Church of Warsaw",
         "ADDRESS": "305 W Jefferson St",
@@ -267,7 +179,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_588e",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b7e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0545,
+          46.3403
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1664702,
+        "SHELTER_ID": 109188,
+        "SHELTER_NAME": "West London Baptist Church (Open 24 Hours)",
+        "ADDRESS": "360 Parker Rd",
+        "CITY": "London",
+        "STATE": "KY",
+        "ZIP": "40741",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "AMERICAN RED CROSS OF GREATER IDAHO CHAPTER",
+        "ORG_ID": 121147,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 46.34026017,
+        "LONGITUDE": -117.05451818,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.0545,
+        46.3403,
+        -117.0545,
+        46.3403
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b7f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9705,
+          32.3748
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1664703,
+        "SHELTER_ID": 366985,
+        "SHELTER_NAME": "Canyon Del Oro High School",
+        "ADDRESS": "25 W Calle Concordia",
+        "CITY": "Oro Valley",
+        "STATE": "AZ",
+        "ZIP": "85704",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 6,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -110.9705,
+        32.3748,
+        -110.9705,
+        32.3748
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b80",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1664690,
+        "objectid": 1664704,
         "SHELTER_ID": 366972,
         "SHELTER_NAME": "Friendly Temple Outreach Center",
         "ADDRESS": "6356 Dr Martin Luther King Dr",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_588f",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b81",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1664691,
+        "objectid": 1664705,
         "SHELTER_ID": 366981,
         "SHELTER_NAME": "Refresh Community Church",
         "ADDRESS": "829 N Hanley Road",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5890",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b82",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1664692,
+        "objectid": 1664706,
         "SHELTER_ID": 366986,
         "SHELTER_NAME": "Mammoth Community Center",
         "ADDRESS": "101 W 5th Street",
@@ -399,51 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5891",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.9676,
-          37.7389
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1664693,
-        "SHELTER_ID": 366973,
-        "SHELTER_NAME": "Cornerstone Church",
-        "ADDRESS": "2705 Walton Way",
-        "CITY": "Marion",
-        "STATE": "IL",
-        "ZIP": "62959",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.9676,
-        37.7389,
-        -88.9676,
-        37.7389
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5892",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b83",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1664694,
+        "objectid": 1664707,
         "SHELTER_ID": 366982,
         "SHELTER_NAME": "New Life Church (Open 24 Hours)",
         "ADDRESS": "222 Murphy Ave",
@@ -487,7 +443,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5893",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b84",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9676,
+          37.7389
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1664708,
+        "SHELTER_ID": 366973,
+        "SHELTER_NAME": "Cornerstone Church",
+        "ADDRESS": "2705 Walton Way",
+        "CITY": "Marion",
+        "STATE": "IL",
+        "ZIP": "62959",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.9676,
+        37.7389,
+        -88.9676,
+        37.7389
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b85",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1664695,
+        "objectid": 1664709,
         "SHELTER_ID": 366007,
         "SHELTER_NAME": "Holler Park Lodge",
         "ADDRESS": "5151 S 6th Street",
@@ -531,51 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5894",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.854,
-          34.7137
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1664696,
-        "SHELTER_ID": 366984,
-        "SHELTER_NAME": "Pittsburg Public Schools (Old Gymnasium)",
-        "ADDRESS": "200 W Grand Ave",
-        "CITY": "Pittsburg",
-        "STATE": "OK",
-        "ZIP": "74560",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.854,
-        34.7137,
-        -95.854,
-        34.7137
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5895",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b86",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1664697,
+        "objectid": 1664710,
         "SHELTER_ID": 366975,
         "SHELTER_NAME": "First Baptist Church of London (Open 24 Hours)",
         "ADDRESS": "804 W 5th Street",
@@ -616,12 +572,56 @@
         -84.0911,
         37.1209
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_196fb4c7aff_5b87",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.854,
+          34.7137
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1664711,
+        "SHELTER_ID": 366984,
+        "SHELTER_NAME": "Pittsburg Public Schools (Old Gymnasium)",
+        "ADDRESS": "200 W Grand Ave",
+        "CITY": "Pittsburg",
+        "STATE": "OK",
+        "ZIP": "74560",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.854,
+        34.7137,
+        -95.854,
+        34.7137
+      ]
     }
   ],
   "totalFeatures": 14,
   "numberMatched": 14,
   "numberReturned": 14,
-  "timeStamp": "2025-05-23T08:10:31.021Z",
+  "timeStamp": "2025-05-23T08:40:48.519Z",
   "crs": {
     "type": "name",
     "properties": {
