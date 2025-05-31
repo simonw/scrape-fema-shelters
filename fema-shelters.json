@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19724b93619_-62e3",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972461bf27_28af",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1670803,
+        "objectid": 1670812,
         "SHELTER_ID": 365164,
         "SHELTER_NAME": "12th & Park Recreation Center",
         "ADDRESS": "1410 S Tucker Blvd",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19724b93619_-62e2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.2098,
-          38.6689
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1670804,
-        "SHELTER_ID": 366992,
-        "SHELTER_NAME": "Grace Hill Water Tower Hub",
-        "ADDRESS": "2125 Bissel Street",
-        "CITY": "St. Louis",
-        "STATE": "MO",
-        "ZIP": "63107",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.2098,
-        38.6689,
-        -90.2098,
-        38.6689
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19724b93619_-62e1",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972461bf27_28b0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1670805,
+        "objectid": 1670813,
         "SHELTER_ID": 134995,
         "SHELTER_NAME": "Turner Roberts Recreation Center",
         "ADDRESS": "7201 Colony Loop Drive",
@@ -135,27 +91,27 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19724b93619_-62e0",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972461bf27_28b1",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.2252,
-          38.5966
+          -90.2098,
+          38.6689
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1670806,
-        "SHELTER_ID": 366988,
-        "SHELTER_NAME": "Peter & Paul Community Services (Garfield Bldg)",
-        "ADDRESS": "2612 Wyoming St",
+        "objectid": 1670814,
+        "SHELTER_ID": 366992,
+        "SHELTER_NAME": "Grace Hill Water Tower Hub",
+        "ADDRESS": "2125 Bissel Street",
         "CITY": "St. Louis",
         "STATE": "MO",
-        "ZIP": "63118",
+        "ZIP": "63107",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 40,
+        "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -171,103 +127,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -90.2252,
-        38.5966,
-        -90.2252,
-        38.5966
+        -90.2098,
+        38.6689,
+        -90.2098,
+        38.6689
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19724b93619_-62df",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.301,
-          38.7642
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1670807,
-        "SHELTER_ID": 366991,
-        "SHELTER_NAME": "Ferguson Church The Nazarene",
-        "ADDRESS": "1309 N Elizabeth Ave",
-        "CITY": "Ferguson",
-        "STATE": "MO",
-        "ZIP": "63135",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 77,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.301,
-        38.7642,
-        -90.301,
-        38.7642
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19724b93619_-62de",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.2895,
-          38.677
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1670808,
-        "SHELTER_ID": 366972,
-        "SHELTER_NAME": "Friendly Temple Outreach Center",
-        "ADDRESS": "6356 Dr Martin Luther King Dr",
-        "CITY": "St. Louis",
-        "STATE": "MO",
-        "ZIP": "63133",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 48,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.2895,
-        38.677,
-        -90.2895,
-        38.677
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19724b93619_-62dd",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972461bf27_28b2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1670809,
+        "objectid": 1670815,
         "SHELTER_ID": 366981,
         "SHELTER_NAME": "Refresh Community Church",
         "ADDRESS": "829 N Hanley Road",
@@ -311,7 +179,139 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19724b93619_-62dc",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972461bf27_28b3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2252,
+          38.5966
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1670816,
+        "SHELTER_ID": 366988,
+        "SHELTER_NAME": "Peter & Paul Community Services (Garfield Bldg)",
+        "ADDRESS": "2612 Wyoming St",
+        "CITY": "St. Louis",
+        "STATE": "MO",
+        "ZIP": "63118",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 40,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.2252,
+        38.5966,
+        -90.2252,
+        38.5966
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972461bf27_28b4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.301,
+          38.7642
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1670817,
+        "SHELTER_ID": 366991,
+        "SHELTER_NAME": "Ferguson Church The Nazarene",
+        "ADDRESS": "1309 N Elizabeth Ave",
+        "CITY": "Ferguson",
+        "STATE": "MO",
+        "ZIP": "63135",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 77,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.301,
+        38.7642,
+        -90.301,
+        38.7642
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972461bf27_28b5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2895,
+          38.677
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1670818,
+        "SHELTER_ID": 366972,
+        "SHELTER_NAME": "Friendly Temple Outreach Center",
+        "ADDRESS": "6356 Dr Martin Luther King Dr",
+        "CITY": "St. Louis",
+        "STATE": "MO",
+        "ZIP": "63133",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 48,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.2895,
+        38.677,
+        -90.2895,
+        38.677
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972461bf27_28b6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1670810,
+        "objectid": 1670819,
         "SHELTER_ID": 109188,
         "SHELTER_NAME": "West London Baptist Church (Open 24 Hours)",
         "ADDRESS": "360 Parker Rd",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19724b93619_-62db",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972461bf27_28b7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1670811,
+        "objectid": 1670820,
         "SHELTER_ID": 366007,
         "SHELTER_NAME": "Holler Park Lodge",
         "ADDRESS": "5151 S 6th Street",
@@ -401,7 +401,7 @@
   "totalFeatures": 9,
   "numberMatched": 9,
   "numberReturned": 9,
-  "timeStamp": "2025-05-31T06:09:33.842Z",
+  "timeStamp": "2025-05-31T06:40:45.899Z",
   "crs": {
     "type": "name",
     "properties": {
