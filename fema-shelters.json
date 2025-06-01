@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972b6716a0_-2d32",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1972b27108e_2a13",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1671709,
+        "objectid": 1671717,
         "SHELTER_ID": 365164,
         "SHELTER_NAME": "12th & Park Recreation Center",
         "ADDRESS": "1410 S Tucker Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972b6716a0_-2d31",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1972b27108e_2a14",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1671710,
+        "objectid": 1671718,
         "SHELTER_ID": 366992,
         "SHELTER_NAME": "Urban League Penter Bunce Campus",
         "ADDRESS": "2125 Bissel Street",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972b6716a0_-2d30",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.3328,
-          38.6626
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1671711,
-        "SHELTER_ID": 366981,
-        "SHELTER_NAME": "Refresh Community Church",
-        "ADDRESS": "829 N Hanley Road",
-        "CITY": "St. Louis",
-        "STATE": "MO",
-        "ZIP": "63130",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 56,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.3328,
-        38.6626,
-        -90.3328,
-        38.6626
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972b6716a0_-2d2f",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1972b27108e_2a15",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1671712,
+        "objectid": 1671719,
         "SHELTER_ID": 366988,
         "SHELTER_NAME": "Peter & Paul Community Services (Garfield Bldg)",
         "ADDRESS": "2612 Wyoming St",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972b6716a0_-2d2e",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1972b27108e_2a16",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1671713,
+        "objectid": 1671720,
         "SHELTER_ID": 366991,
         "SHELTER_NAME": "Ferguson Church The Nazarene",
         "ADDRESS": "1309 N Elizabeth Ave",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972b6716a0_-2d2d",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1972b27108e_2a17",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1671714,
+        "objectid": 1671721,
         "SHELTER_ID": 366972,
         "SHELTER_NAME": "Friendly Temple Outreach Center",
         "ADDRESS": "6356 Dr Martin Luther King Dr",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972b6716a0_-2d2c",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1972b27108e_2a18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3328,
+          38.6626
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1671722,
+        "SHELTER_ID": 366981,
+        "SHELTER_NAME": "Refresh Community Church",
+        "ADDRESS": "829 N Hanley Road",
+        "CITY": "St. Louis",
+        "STATE": "MO",
+        "ZIP": "63130",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 56,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.3328,
+        38.6626,
+        -90.3328,
+        38.6626
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1972b27108e_2a19",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1671715,
+        "objectid": 1671723,
         "SHELTER_ID": 109188,
         "SHELTER_NAME": "West London Baptist Church (Open 24 Hours)",
         "ADDRESS": "360 Parker Rd",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_1972b6716a0_-2d2b",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1972b27108e_2a1a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1671716,
+        "objectid": 1671724,
         "SHELTER_ID": 366007,
         "SHELTER_NAME": "Holler Park Lodge",
         "ADDRESS": "5151 S 6th Street",
@@ -357,7 +357,7 @@
   "totalFeatures": 8,
   "numberMatched": 8,
   "numberReturned": 8,
-  "timeStamp": "2025-06-01T16:07:58.792Z",
+  "timeStamp": "2025-06-01T16:40:11.835Z",
   "crs": {
     "type": "name",
     "properties": {
