@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_19739ce9e03_-638b",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19739f4ad5d_-5faa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1673443,
+        "objectid": 1673454,
         "SHELTER_ID": 365164,
         "SHELTER_NAME": "12th & Park Recreation Center",
         "ADDRESS": "1410 S Tucker Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_19739ce9e03_-638a",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19739f4ad5d_-5fa9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1673444,
+        "objectid": 1673455,
         "SHELTER_ID": 366992,
         "SHELTER_NAME": "Urban League Penter Bunce Campus",
         "ADDRESS": "2125 Bissel Street",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_19739ce9e03_-6389",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.301,
-          38.7642
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1673445,
-        "SHELTER_ID": 366991,
-        "SHELTER_NAME": "Ferguson Church The Nazarene",
-        "ADDRESS": "1309 N Elizabeth Ave",
-        "CITY": "Ferguson",
-        "STATE": "MO",
-        "ZIP": "63135",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 85,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.301,
-        38.7642,
-        -90.301,
-        38.7642
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_19739ce9e03_-6388",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19739f4ad5d_-5fa8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1673446,
+        "objectid": 1673456,
         "SHELTER_ID": 366972,
         "SHELTER_NAME": "Friendly Temple Outreach Center",
         "ADDRESS": "6356 Dr Martin Luther King Dr",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_19739ce9e03_-6387",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19739f4ad5d_-5fa7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1673447,
+        "objectid": 1673457,
         "SHELTER_ID": 366981,
         "SHELTER_NAME": "Refresh Community Church",
         "ADDRESS": "829 N Hanley Road",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_19739ce9e03_-6386",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19739f4ad5d_-5fa6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1673448,
+        "objectid": 1673458,
         "SHELTER_ID": 366988,
         "SHELTER_NAME": "Peter & Paul Community Services (Garfield Bldg)",
         "ADDRESS": "2612 Wyoming St",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_19739ce9e03_-6385",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19739f4ad5d_-5fa5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.301,
+          38.7642
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1673459,
+        "SHELTER_ID": 366991,
+        "SHELTER_NAME": "Ferguson Church The Nazarene",
+        "ADDRESS": "1309 N Elizabeth Ave",
+        "CITY": "Ferguson",
+        "STATE": "MO",
+        "ZIP": "63135",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 85,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.301,
+        38.7642,
+        -90.301,
+        38.7642
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19739f4ad5d_-5fa4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1673449,
+        "objectid": 1673460,
         "SHELTER_ID": 366007,
         "SHELTER_NAME": "Holler Park Lodge",
         "ADDRESS": "5151 S 6th Street",
@@ -311,7 +311,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_19739ce9e03_-6384",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19739f4ad5d_-5fa3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.436,
+          45.801
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1673461,
+        "SHELTER_ID": 341279,
+        "SHELTER_NAME": "St. Paul¿s Lutheran Church",
+        "ADDRESS": "2812 W Wisconsin Ave",
+        "CITY": "Milwaukee",
+        "STATE": "WI",
+        "ZIP": "53208",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 100,
+        "POST_IMPACT_CAPACITY": 50,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 45.80098065,
+        "LONGITUDE": -121.43603809,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -121.436,
+        45.801,
+        -121.436,
+        45.801
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19739f4ad5d_-5fa2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1673450,
+        "objectid": 1673462,
         "SHELTER_ID": 366994,
         "SHELTER_NAME": "El Dorado Community Center",
         "ADDRESS": "206 N Griffith Ave",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_19739ce9e03_-6383",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19739f4ad5d_-5fa1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1673451,
+        "objectid": 1673463,
         "SHELTER_ID": 366995,
         "SHELTER_NAME": "Griffith Elementary",
         "ADDRESS": "1802 S Bluff Ave",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_19739ce9e03_-6382",
+      "id": "FEMANSSOpenShelters.fid--4cebaf3a_19739f4ad5d_-5fa0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1673452,
+        "objectid": 1673464,
         "SHELTER_ID": 366996,
         "SHELTER_NAME": "Jackson Elementary School",
         "ADDRESS": "2717 N Woodlawn St",
@@ -440,56 +484,12 @@
         -97.3494,
         37.7325
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--41ff02f7_19739ce9e03_-6381",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.436,
-          45.801
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1673453,
-        "SHELTER_ID": 341279,
-        "SHELTER_NAME": "St. Paul¿s Lutheran Church",
-        "ADDRESS": "2812 W Wisconsin Ave",
-        "CITY": "Milwaukee",
-        "STATE": "WI",
-        "ZIP": "53208",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 100,
-        "POST_IMPACT_CAPACITY": 50,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 45.80098065,
-        "LONGITUDE": -121.43603809,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -121.436,
-        45.801,
-        -121.436,
-        45.801
-      ]
     }
   ],
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2025-06-04T08:41:34.118Z",
+  "timeStamp": "2025-06-04T09:08:27.006Z",
   "crs": {
     "type": "name",
     "properties": {
