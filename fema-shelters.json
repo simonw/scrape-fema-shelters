@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1976137f0c8_-7544",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_19761700a90_-5fd3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1678703,
+        "objectid": 1678733,
         "SHELTER_ID": 366992,
         "SHELTER_NAME": "Urban League Penter Bunce Campus",
         "ADDRESS": "2125 Bissel Street",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1976137f0c8_-7543",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.2252,
-          38.5966
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1678704,
-        "SHELTER_ID": 366988,
-        "SHELTER_NAME": "Peter & Paul Community Services (Garfield Bldg)",
-        "ADDRESS": "2612 Wyoming St",
-        "CITY": "St. Louis",
-        "STATE": "MO",
-        "ZIP": "63118",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 40,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.2252,
-        38.5966,
-        -90.2252,
-        38.5966
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1976137f0c8_-7542",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_19761700a90_-5fd2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1678705,
+        "objectid": 1678734,
         "SHELTER_ID": 366991,
         "SHELTER_NAME": "Ferguson Church The Nazarene",
         "ADDRESS": "1309 N Elizabeth Ave",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1976137f0c8_-7541",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_19761700a90_-5fd1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1678706,
+        "objectid": 1678735,
         "SHELTER_ID": 366972,
         "SHELTER_NAME": "Friendly Temple Outreach Center",
         "ADDRESS": "6356 Dr Martin Luther King Dr",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1976137f0c8_-7540",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_19761700a90_-5fd0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1678707,
+        "objectid": 1678736,
         "SHELTER_ID": 366981,
         "SHELTER_NAME": "Refresh Community Church",
         "ADDRESS": "829 N Hanley Road",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1976137f0c8_-753f",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_19761700a90_-5fcf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2252,
+          38.5966
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1678737,
+        "SHELTER_ID": 366988,
+        "SHELTER_NAME": "Peter & Paul Community Services (Garfield Bldg)",
+        "ADDRESS": "2612 Wyoming St",
+        "CITY": "St. Louis",
+        "STATE": "MO",
+        "ZIP": "63118",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 40,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.2252,
+        38.5966,
+        -90.2252,
+        38.5966
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_19761700a90_-5fce",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1678708,
+        "objectid": 1678738,
         "SHELTER_ID": 366998,
         "SHELTER_NAME": "Fred R. Field Western Heritage Center",
         "ADDRESS": "275 S Spruce Street",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1976137f0c8_-753e",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_19761700a90_-5fcd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1678709,
+        "objectid": 1678739,
         "SHELTER_ID": 185361,
         "SHELTER_NAME": "Acres Homes Community Development Corporation",
         "ADDRESS": "6719 W Montgomery Road",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1976137f0c8_-753d",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_19761700a90_-5fcc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1678710,
+        "objectid": 1678740,
         "SHELTER_ID": 366997,
         "SHELTER_NAME": "Crossroads College Prep School",
         "ADDRESS": "500 DeBaliviere Ave",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1976137f0c8_-753c",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_19761700a90_-5fcb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1678711,
+        "objectid": 1678741,
         "SHELTER_ID": 135835,
         "SHELTER_NAME": "Sitting Bull Academy Gym",
         "ADDRESS": "19445 Sitting Bull Road",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4cebaf3a_1976137f0c8_-753b",
+      "id": "FEMANSSOpenShelters.fid--41ff02f7_19761700a90_-5fca",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1678712,
+        "objectid": 1678742,
         "SHELTER_ID": 366999,
         "SHELTER_NAME": "Unitarian Church of Evanston",
         "ADDRESS": "1330 Ridge Avenue",
@@ -445,7 +445,7 @@
   "totalFeatures": 10,
   "numberMatched": 10,
   "numberReturned": 10,
-  "timeStamp": "2025-06-11T23:36:48.561Z",
+  "timeStamp": "2025-06-12T00:34:49.572Z",
   "crs": {
     "type": "name",
     "properties": {
