@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_19773762847_-2a6c",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197741a21f7_-7df4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1681025,
+        "objectid": 1681045,
         "SHELTER_ID": 366992,
         "SHELTER_NAME": "Urban League Penter Bunce Campus",
         "ADDRESS": "2125 Bissel Street",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_19773762847_-2a6b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.301,
-          38.7642
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1681026,
-        "SHELTER_ID": 366991,
-        "SHELTER_NAME": "Ferguson Church The Nazarene",
-        "ADDRESS": "1309 N Elizabeth Ave",
-        "CITY": "Ferguson",
-        "STATE": "MO",
-        "ZIP": "63135",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 52,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.301,
-        38.7642,
-        -90.301,
-        38.7642
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_19773762847_-2a6a",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197741a21f7_-7df3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1681027,
+        "objectid": 1681046,
         "SHELTER_ID": 366972,
         "SHELTER_NAME": "Friendly Temple Outreach Center",
         "ADDRESS": "6356 Dr Martin Luther King Dr",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_19773762847_-2a69",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197741a21f7_-7df2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1681028,
+        "objectid": 1681047,
         "SHELTER_ID": 366981,
         "SHELTER_NAME": "Refresh Community Church",
         "ADDRESS": "829 N Hanley Road",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_19773762847_-2a68",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197741a21f7_-7df1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1681029,
+        "objectid": 1681048,
         "SHELTER_ID": 366988,
         "SHELTER_NAME": "Peter & Paul Community Services (Garfield Bldg)",
         "ADDRESS": "2612 Wyoming St",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_19773762847_-2a67",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197741a21f7_-7df0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.301,
+          38.7642
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1681049,
+        "SHELTER_ID": 366991,
+        "SHELTER_NAME": "Ferguson Church The Nazarene",
+        "ADDRESS": "1309 N Elizabeth Ave",
+        "CITY": "Ferguson",
+        "STATE": "MO",
+        "ZIP": "63135",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 52,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.301,
+        38.7642,
+        -90.301,
+        38.7642
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197741a21f7_-7def",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1681030,
+        "objectid": 1681050,
         "SHELTER_ID": 366997,
         "SHELTER_NAME": "Crossroads College Prep School",
         "ADDRESS": "500 DeBaliviere Ave",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_19773762847_-2a66",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197741a21f7_-7dee",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1681031,
+        "objectid": 1681051,
         "SHELTER_ID": 344004,
         "SHELTER_NAME": "Grant County Business & Conference Center",
         "ADDRESS": "3031 Hwy 180 E",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_19773762847_-2a65",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197741a21f7_-7ded",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1681032,
+        "objectid": 1681052,
         "SHELTER_ID": 366999,
         "SHELTER_NAME": "Unitarian Church of Evanston",
         "ADDRESS": "1330 Ridge Avenue",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_19773762847_-2a64",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197741a21f7_-7dec",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1681033,
+        "objectid": 1681053,
         "SHELTER_ID": 367001,
         "SHELTER_NAME": "Elm Grove Elementary",
         "ADDRESS": "85 Mil Acres Drive",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_19773762847_-2a63",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197741a21f7_-7deb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1681034,
+        "objectid": 1681054,
         "SHELTER_ID": 367000,
         "SHELTER_NAME": "The Dalles Middle School",
         "ADDRESS": "1100 E 12th Street",
@@ -445,7 +445,7 @@
   "totalFeatures": 10,
   "numberMatched": 10,
   "numberReturned": 10,
-  "timeStamp": "2025-06-15T14:36:47.968Z",
+  "timeStamp": "2025-06-15T15:06:47.879Z",
   "crs": {
     "type": "name",
     "properties": {
