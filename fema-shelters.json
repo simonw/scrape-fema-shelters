@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_197a9892a38_1c72",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197aa64b3e0_-15d4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1689841,
+        "objectid": 1689863,
         "SHELTER_ID": 366288,
         "SHELTER_NAME": "VFW Post 600",
         "ADDRESS": "3835 Canal Road",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_197a9892a38_1c73",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197aa64b3e0_-15d3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1689842,
+        "objectid": 1689864,
         "SHELTER_ID": 366992,
         "SHELTER_NAME": "Urban League Penter Bunce Campus",
         "ADDRESS": "2125 Bissel Street",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_197a9892a38_1c74",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.2895,
-          38.677
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1689843,
-        "SHELTER_ID": 366972,
-        "SHELTER_NAME": "Friendly Temple Outreach Center",
-        "ADDRESS": "6356 Dr Martin Luther King Dr",
-        "CITY": "St. Louis",
-        "STATE": "MO",
-        "ZIP": "63133",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 48,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.2895,
-        38.677,
-        -90.2895,
-        38.677
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_197a9892a38_1c75",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197aa64b3e0_-15d2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1689844,
+        "objectid": 1689865,
         "SHELTER_ID": 366981,
         "SHELTER_NAME": "Refresh Community Church",
         "ADDRESS": "829 N Hanley Road",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_197a9892a38_1c76",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197aa64b3e0_-15d1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1689845,
+        "objectid": 1689866,
         "SHELTER_ID": 366991,
         "SHELTER_NAME": "Ferguson Church The Nazarene",
         "ADDRESS": "1309 N Elizabeth Ave",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_197a9892a38_1c77",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197aa64b3e0_-15d0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1689846,
+        "objectid": 1689867,
         "SHELTER_ID": 366988,
         "SHELTER_NAME": "Peter & Paul Community Services (Garfield Bldg)",
         "ADDRESS": "2612 Wyoming St",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_197a9892a38_1c78",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197aa64b3e0_-15cf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2895,
+          38.677
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1689868,
+        "SHELTER_ID": 366972,
+        "SHELTER_NAME": "Friendly Temple Outreach Center",
+        "ADDRESS": "6356 Dr Martin Luther King Dr",
+        "CITY": "St. Louis",
+        "STATE": "MO",
+        "ZIP": "63133",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 48,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.2895,
+        38.677,
+        -90.2895,
+        38.677
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197aa64b3e0_-15ce",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1689847,
+        "objectid": 1689869,
         "SHELTER_ID": 366997,
         "SHELTER_NAME": "Crossroads College Prep School",
         "ADDRESS": "500 DeBaliviere Ave",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_197a9892a38_1c79",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197aa64b3e0_-15cd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1689848,
+        "objectid": 1689870,
         "SHELTER_ID": 344004,
         "SHELTER_NAME": "Grant County Business & Conference Center",
         "ADDRESS": "3031 Hwy 180 E",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_197a9892a38_1c7a",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197aa64b3e0_-15cc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1689849,
+        "objectid": 1689871,
         "SHELTER_ID": 366999,
         "SHELTER_NAME": "Unitarian Church of Evanston",
         "ADDRESS": "1330 Ridge Avenue",
@@ -399,51 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_197a9892a38_1c7b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.8151,
-          64.8504
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1689850,
-        "SHELTER_ID": 367014,
-        "SHELTER_NAME": "Hutchison High School",
-        "ADDRESS": "3750 Geist Rd",
-        "CITY": "Fairbanks",
-        "STATE": "AK",
-        "ZIP": "99709",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -147.8151,
-        64.8504,
-        -147.8151,
-        64.8504
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4431fb7a_197a9892a38_1c7c",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197aa64b3e0_-15cb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1689851,
+        "objectid": 1689872,
         "SHELTER_ID": 225629,
         "SHELTER_NAME": "Kensington High School For The Creative & Perf Arts",
         "ADDRESS": "1901 N Front Street",
@@ -484,12 +440,56 @@
         -71.3287,
         42.7268
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-14c053f2_197aa64b3e0_-15ca",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8151,
+          64.8504
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1689873,
+        "SHELTER_ID": 367014,
+        "SHELTER_NAME": "Hutchison High School",
+        "ADDRESS": "3750 Geist Rd",
+        "CITY": "Fairbanks",
+        "STATE": "AK",
+        "ZIP": "99709",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -147.8151,
+        64.8504,
+        -147.8151,
+        64.8504
+      ]
     }
   ],
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2025-06-26T04:13:55.538Z",
+  "timeStamp": "2025-06-26T04:42:46.647Z",
   "crs": {
     "type": "name",
     "properties": {
