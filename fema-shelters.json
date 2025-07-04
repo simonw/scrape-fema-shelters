@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_6078",
+      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_6345",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1695731,
+        "objectid": 1695749,
         "SHELTER_ID": 366992,
         "SHELTER_NAME": "Urban League Penter Bunce Campus",
         "ADDRESS": "2125 Bissel Street",
@@ -47,95 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_6079",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.3328,
-          38.6626
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1695732,
-        "SHELTER_ID": 366981,
-        "SHELTER_NAME": "Refresh Community Church",
-        "ADDRESS": "829 N Hanley Road",
-        "CITY": "St. Louis",
-        "STATE": "MO",
-        "ZIP": "63130",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 56,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.3328,
-        38.6626,
-        -90.3328,
-        38.6626
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_607a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.301,
-          38.7642
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1695733,
-        "SHELTER_ID": 366991,
-        "SHELTER_NAME": "Ferguson Church The Nazarene",
-        "ADDRESS": "1309 N Elizabeth Ave",
-        "CITY": "Ferguson",
-        "STATE": "MO",
-        "ZIP": "63135",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 52,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.301,
-        38.7642,
-        -90.301,
-        38.7642
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_607b",
+      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_6346",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1695734,
+        "objectid": 1695750,
         "SHELTER_ID": 366972,
         "SHELTER_NAME": "Friendly Temple Outreach Center",
         "ADDRESS": "6356 Dr Martin Luther King Dr",
@@ -179,7 +91,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_607c",
+      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_6347",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3328,
+          38.6626
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1695751,
+        "SHELTER_ID": 366981,
+        "SHELTER_NAME": "Refresh Community Church",
+        "ADDRESS": "829 N Hanley Road",
+        "CITY": "St. Louis",
+        "STATE": "MO",
+        "ZIP": "63130",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 56,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.3328,
+        38.6626,
+        -90.3328,
+        38.6626
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_6348",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.301,
+          38.7642
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1695752,
+        "SHELTER_ID": 366991,
+        "SHELTER_NAME": "Ferguson Church The Nazarene",
+        "ADDRESS": "1309 N Elizabeth Ave",
+        "CITY": "Ferguson",
+        "STATE": "MO",
+        "ZIP": "63135",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 52,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.301,
+        38.7642,
+        -90.301,
+        38.7642
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_6349",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1695735,
+        "objectid": 1695753,
         "SHELTER_ID": 366997,
         "SHELTER_NAME": "Crossroads College Prep School",
         "ADDRESS": "500 DeBaliviere Ave",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_607d",
+      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_634a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1695736,
+        "objectid": 1695754,
         "SHELTER_ID": 366999,
         "SHELTER_NAME": "Unitarian Church of Evanston",
         "ADDRESS": "1330 Ridge Avenue",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_607e",
+      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_634b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1695737,
+        "objectid": 1695755,
         "SHELTER_ID": 367014,
         "SHELTER_NAME": "Hutchison High School",
         "ADDRESS": "3750 Geist Rd",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_607f",
+      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_634c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1695738,
+        "objectid": 1695756,
         "SHELTER_ID": 367015,
         "SHELTER_NAME": "Mitchel Athletic Complex",
         "ADDRESS": "1 Charles Lindbergh Blvd",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_6080",
+      "id": "FEMANSSOpenShelters.fid-3851ed77_197d1e9dd37_634d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1695739,
+        "objectid": 1695757,
         "SHELTER_ID": 367017,
         "SHELTER_NAME": "Las Vegas Convention Center",
         "ADDRESS": "3150 Paradise Road",
@@ -401,7 +401,7 @@
   "totalFeatures": 9,
   "numberMatched": 9,
   "numberReturned": 9,
-  "timeStamp": "2025-07-04T05:40:20.814Z",
+  "timeStamp": "2025-07-04T06:11:24.095Z",
   "crs": {
     "type": "name",
     "properties": {
