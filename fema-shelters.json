@@ -3,51 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_310b",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_3af0",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.6947,
-          43.067
+          -88.1885,
+          32.1249
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1713085,
-        "SHELTER_ID": 367065,
-        "SHELTER_NAME": "Great Lakes Tech Building",
-        "ADDRESS": "5905 North Saginaw Street",
-        "CITY": "Flint",
-        "STATE": "MI",
-        "ZIP": "48505",
+        "objectid": 1713116,
+        "SHELTER_ID": 73773,
+        "SHELTER_NAME": "Pogosa Springs High School",
+        "ADDRESS": "800 South 8th Street",
+        "CITY": "Pagosa Springs",
+        "STATE": "CO",
+        "ZIP": "81147",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
+        "EVACUATION_CAPACITY": 250,
+        "POST_IMPACT_CAPACITY": 125,
         "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
+        "ORG_NAME": "WASHINGTON COUNTY (AL)",
+        "ORG_ID": 121925,
+        "MATCH_TYPE": "A",
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 32.12490212,
+        "LONGITUDE": -88.18849567,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -83.6947,
-        43.067,
-        -83.6947,
-        43.067
+        -88.1885,
+        32.1249,
+        -88.1885,
+        32.1249
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_310c",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_3af1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1713086,
+        "objectid": 1713117,
         "SHELTER_ID": 116002,
         "SHELTER_NAME": "Westminster Presbyterian Church",
         "ADDRESS": "1200 Marquette Avenue",
@@ -67,7 +67,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": 0,
         "POST_IMPACT_CAPACITY": 1,
-        "TOTAL_POPULATION": 12,
+        "TOTAL_POPULATION": 9,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "NORTHEAST LOUISIANA CHAPTER",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_310d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.7029,
-          42.5601
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1713087,
-        "SHELTER_ID": 217759,
-        "SHELTER_NAME": "Amador Senior Center",
-        "ADDRESS": "229 New York Ranch Rd",
-        "CITY": "Jackson",
-        "STATE": "CA",
-        "ZIP": "95642",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 250,
-        "POST_IMPACT_CAPACITY": 125,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "AMERICAN RED CROSS OF NORTHEASTERN NY",
-        "ORG_ID": 121149,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 42.56014777,
-        "LONGITUDE": -73.70287318,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -73.7029,
-        42.5601,
-        -73.7029,
-        42.5601
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_310e",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_3af2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1713088,
+        "objectid": 1713118,
         "SHELTER_ID": 367066,
         "SHELTER_NAME": "New Life Community Church - Student Center",
         "ADDRESS": "941 N Oak Park Blvd",
@@ -179,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_310f",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_3af3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9696,
+          43.0495
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1713119,
+        "SHELTER_ID": 367067,
+        "SHELTER_NAME": "Washington Park Senior Center",
+        "ADDRESS": "4420 West Vliet Street",
+        "CITY": "Milwaukee",
+        "STATE": "WI",
+        "ZIP": "53208",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.9696,
+        43.0495,
+        -87.9696,
+        43.0495
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_3af4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1713089,
+        "objectid": 1713120,
         "SHELTER_ID": 367060,
         "SHELTER_NAME": "Palm Desert Community Center",
         "ADDRESS": "43099 San Pablo Ave",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_3110",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_3af5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1713090,
+        "objectid": 1713121,
         "SHELTER_ID": 367061,
         "SHELTER_NAME": "Department of Youth & Women's Affairs",
         "ADDRESS": "Korea House, Rte 1",
@@ -267,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_3111",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_3af6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6947,
+          43.067
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1713122,
+        "SHELTER_ID": 367065,
+        "SHELTER_NAME": "Great Lakes Tech Building",
+        "ADDRESS": "5905 North Saginaw Street",
+        "CITY": "Flint",
+        "STATE": "MI",
+        "ZIP": "48505",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.6947,
+        43.067,
+        -83.6947,
+        43.067
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_1989591f7b0_3af7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1713091,
+        "objectid": 1713123,
         "SHELTER_ID": 144924,
         "SHELTER_NAME": "Holler Park Community/Pavillion Building",
         "ADDRESS": "5151 S 6th Street",
@@ -310,10 +354,10 @@
       ]
     }
   ],
-  "totalFeatures": 7,
-  "numberMatched": 7,
-  "numberReturned": 7,
-  "timeStamp": "2025-08-11T01:37:48.937Z",
+  "totalFeatures": 8,
+  "numberMatched": 8,
+  "numberReturned": 8,
+  "timeStamp": "2025-08-11T02:49:34.637Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -322,8 +366,8 @@
   },
   "bbox": [
     -120.6066,
-    32.5328,
-    -73.7029,
+    32.1249,
+    -83.6947,
     44.0269
   ]
 }
