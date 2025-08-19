@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198be95fe09_7647",
+      "id": "FEMANSSOpenShelters.fid-7c63f37f_198be95fe09_7fac",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1718457,
+        "objectid": 1718472,
         "SHELTER_ID": 116002,
         "SHELTER_NAME": "Westminster Presbyterian Church",
         "ADDRESS": "1200 Marquette Avenue",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198be95fe09_7648",
+      "id": "FEMANSSOpenShelters.fid-7c63f37f_198be95fe09_7fad",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1718458,
+        "objectid": 1718473,
         "SHELTER_ID": 367061,
         "SHELTER_NAME": "Department of Youth & Women's Affairs",
         "ADDRESS": "Korea House, Rte 1",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198be95fe09_7649",
+      "id": "FEMANSSOpenShelters.fid-7c63f37f_198be95fe09_7fae",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1718459,
+        "objectid": 1718474,
         "SHELTER_ID": 367072,
         "SHELTER_NAME": "Marshall High School",
         "ADDRESS": "4141 N 64h Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198be95fe09_764a",
+      "id": "FEMANSSOpenShelters.fid-7c63f37f_198be95fe09_7faf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1718460,
+        "objectid": 1718475,
         "SHELTER_ID": 367078,
         "SHELTER_NAME": "Cocolalla Lake Bible Camp",
         "ADDRESS": "209 Cocolalla Loop Road",
@@ -176,56 +176,12 @@
         -116.6052,
         48.1428
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198be95fe09_764b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.944,
-          42.0386
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1718461,
-        "SHELTER_ID": 367080,
-        "SHELTER_NAME": "RecPlex",
-        "ADDRESS": "420 Dempster St",
-        "CITY": "Mt. Prospect",
-        "STATE": "IL",
-        "ZIP": "60056",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 19,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.944,
-        42.0386,
-        -87.944,
-        42.0386
-      ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2025-08-19T01:35:46.595Z",
+  "totalFeatures": 4,
+  "numberMatched": 4,
+  "numberReturned": 4,
+  "timeStamp": "2025-08-19T02:37:25.280Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -235,7 +191,7 @@
   "bbox": [
     -170.6998,
     -14.2712,
-    -87.944,
+    -88.0021,
     48.1428
   ]
 }
