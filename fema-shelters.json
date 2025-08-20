@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-5fc3",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-f13",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1718912,
+        "objectid": 1718920,
         "SHELTER_ID": 116002,
         "SHELTER_NAME": "Westminster Presbyterian Church",
         "ADDRESS": "1200 Marquette Avenue",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-5fc2",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-f12",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1718913,
+        "objectid": 1718921,
         "SHELTER_ID": 367061,
         "SHELTER_NAME": "Department of Youth & Women's Affairs",
         "ADDRESS": "Korea House, Rte 1",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-5fc1",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-f11",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1718914,
+        "objectid": 1718922,
         "SHELTER_ID": 367072,
         "SHELTER_NAME": "Marshall High School",
         "ADDRESS": "4141 N 64h Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-5fc0",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-f10",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1718915,
+        "objectid": 1718923,
         "SHELTER_ID": 367078,
         "SHELTER_NAME": "Cocolalla Lake Bible Camp",
         "ADDRESS": "209 Cocolalla Loop Road",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-5fbf",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-f0f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1718916,
+        "objectid": 1718924,
         "SHELTER_ID": 367082,
         "SHELTER_NAME": "Redemption Bible Church",
         "ADDRESS": "505 W Golf Rd",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-5fbe",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-f0e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1718917,
+        "objectid": 1718925,
         "SHELTER_ID": 367083,
         "SHELTER_NAME": "Toby Grant Recreation Center",
         "ADDRESS": "593 Parkdale Dr",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-5fbd",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-f0d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1718918,
+        "objectid": 1718926,
         "SHELTER_ID": 138829,
         "SHELTER_NAME": "TEP-Hoaeae Community Park",
         "ADDRESS": "94-709 Kaaholo St",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-5fbc",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-f0c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,11 +321,11 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1718919,
+        "objectid": 1718927,
         "SHELTER_ID": 330651,
         "SHELTER_NAME": "TEP-Waipahu District Park",
         "ADDRESS": "94-230 Paiwa St",
-        "CITY": "WAIPAHU",
+        "CITY": "Waipahu",
         "STATE": "HI",
         "ZIP": "96797",
         "SHELTER_STATUS": "OPEN",
@@ -338,7 +338,7 @@
         "ORG_ID": 121469,
         "MATCH_TYPE": "A",
         "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "SUBFACILITY_CODE": "EVAC",
         "ADA_COMPLIANT": " ",
         "PET_ACCOMMODATIONS_CODE": " ",
         "WHEELCHAIR_ACCESSIBLE": " ",
@@ -352,12 +352,56 @@
         -157.9986,
         21.3872
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198c4c711f6_-f0b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0226,
+          21.5004
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1718928,
+        "SHELTER_ID": 367084,
+        "SHELTER_NAME": "TEP-Wahiawa District Park",
+        "ADDRESS": "1129 Kilani Ave",
+        "CITY": "Wahiawa",
+        "STATE": "HI",
+        "ZIP": "96786",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -158.0226,
+        21.5004,
+        -158.0226,
+        21.5004
+      ]
     }
   ],
-  "totalFeatures": 8,
-  "numberMatched": 8,
-  "numberReturned": 8,
-  "timeStamp": "2025-08-20T03:45:23.042Z",
+  "totalFeatures": 9,
+  "numberMatched": 9,
+  "numberReturned": 9,
+  "timeStamp": "2025-08-20T04:09:21.066Z",
   "crs": {
     "type": "name",
     "properties": {
