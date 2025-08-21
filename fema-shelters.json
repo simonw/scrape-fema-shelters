@@ -3,51 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cac923a4_334b",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198cba5013b_1c06",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.2756,
-          44.9713
+          -93.2879,
+          44.9691
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1719533,
-        "SHELTER_ID": 116002,
+        "objectid": 1719538,
+        "SHELTER_ID": 355712,
         "SHELTER_NAME": "Westminster Presbyterian Church",
-        "ADDRESS": "1200 Marquette Avenue",
+        "ADDRESS": "1200 Marquette Ave",
         "CITY": "Minneapolis",
         "STATE": "MN",
         "ZIP": "55403",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
+        "EVACUATION_CAPACITY": 1,
         "POST_IMPACT_CAPACITY": 1,
         "TOTAL_POPULATION": 2,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "NORTHEAST LOUISIANA CHAPTER",
-        "ORG_ID": 121670,
-        "MATCH_TYPE": "A",
+        "ORG_NAME": "Minnesota Region",
+        "ORG_ID": 126130,
+        "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 32.53282193,
-        "LONGITUDE": -92.1051145,
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 44.9691279,
+        "LONGITUDE": -93.2878982,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -93.2756,
-        44.9713,
-        -93.2756,
-        44.9713
+        -93.2879,
+        44.9691,
+        -93.2879,
+        44.9691
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cac923a4_334c",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198cba5013b_1c07",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1719534,
+        "objectid": 1719539,
         "SHELTER_ID": 367061,
         "SHELTER_NAME": "Department of Youth & Women's Affairs",
         "ADDRESS": "Korea House, Rte 1",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cac923a4_334d",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198cba5013b_1c08",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1719535,
+        "objectid": 1719540,
         "SHELTER_ID": 367072,
         "SHELTER_NAME": "Marshall High School",
         "ADDRESS": "4141 N 64h Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cac923a4_334e",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198cba5013b_1c09",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1719536,
+        "objectid": 1719541,
         "SHELTER_ID": 367078,
         "SHELTER_NAME": "Cocolalla Lake Bible Camp",
         "ADDRESS": "209 Cocolalla Loop Road",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cac923a4_334f",
+      "id": "FEMANSSOpenShelters.fid-6fae9472_198cba5013b_1c0a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1719537,
+        "objectid": 1719542,
         "SHELTER_ID": 367083,
         "SHELTER_NAME": "Toby Grant Recreation Center",
         "ADDRESS": "593 Parkdale Dr",
@@ -225,7 +225,7 @@
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2025-08-21T14:07:50.549Z",
+  "timeStamp": "2025-08-21T14:39:16.548Z",
   "crs": {
     "type": "name",
     "properties": {
