@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cd5c600c_-3be0",
+      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cd5c600c_-3862",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1719608,
+        "objectid": 1719613,
         "SHELTER_ID": 355712,
         "SHELTER_NAME": "Westminster Presbyterian Church",
         "ADDRESS": "1200 Marquette Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cd5c600c_-3bdf",
+      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cd5c600c_-3861",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1719609,
+        "objectid": 1719614,
         "SHELTER_ID": 367061,
         "SHELTER_NAME": "Department of Youth & Women's Affairs",
         "ADDRESS": "Korea House, Rte 1",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cd5c600c_-3bde",
+      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cd5c600c_-3860",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1719610,
+        "objectid": 1719615,
         "SHELTER_ID": 367072,
         "SHELTER_NAME": "Marshall High School",
         "ADDRESS": "4141 N 64h Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cd5c600c_-3bdd",
+      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cd5c600c_-385f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1719611,
+        "objectid": 1719616,
         "SHELTER_ID": 367078,
         "SHELTER_NAME": "Cocolalla Lake Bible Camp",
         "ADDRESS": "209 Cocolalla Loop Road",
@@ -176,56 +176,12 @@
         -116.6052,
         48.1428
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7c63f37f_198cd5c600c_-3bdc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.2566,
-          33.7941
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1719612,
-        "SHELTER_ID": 367083,
-        "SHELTER_NAME": "Toby Grant Recreation Center",
-        "ADDRESS": "593 Parkdale Dr",
-        "CITY": "Scottdale",
-        "STATE": "GA",
-        "ZIP": "30079",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 40,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.2566,
-        33.7941,
-        -84.2566,
-        33.7941
-      ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2025-08-21T19:06:16.523Z",
+  "totalFeatures": 4,
+  "numberMatched": 4,
+  "numberReturned": 4,
+  "timeStamp": "2025-08-21T19:34:59.589Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -235,7 +191,7 @@
   "bbox": [
     -170.6998,
     -14.2712,
-    -84.2566,
+    -88.0021,
     48.1428
   ]
 }
