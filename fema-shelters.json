@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e7fa99f5_-77c6",
+      "id": "FEMANSSOpenShelters.fid--71adc9ef_198e5caceda_3862",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722305,
+        "objectid": 1722323,
         "SHELTER_ID": 355712,
         "SHELTER_NAME": "Westminster Presbyterian Church",
         "ADDRESS": "1200 Marquette Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e7fa99f5_-77c5",
+      "id": "FEMANSSOpenShelters.fid--71adc9ef_198e5caceda_3863",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722306,
+        "objectid": 1722324,
         "SHELTER_ID": 225480,
         "SHELTER_NAME": "Highland Baptist Church",
         "ADDRESS": "3100 SW Highland Ave",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e7fa99f5_-77c4",
+      "id": "FEMANSSOpenShelters.fid--71adc9ef_198e5caceda_3864",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722307,
+        "objectid": 1722325,
         "SHELTER_ID": 367072,
         "SHELTER_NAME": "Marshall High School",
         "ADDRESS": "4141 N 64h Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e7fa99f5_-77c3",
+      "id": "FEMANSSOpenShelters.fid--71adc9ef_198e5caceda_3865",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722308,
+        "objectid": 1722326,
         "SHELTER_ID": 367078,
         "SHELTER_NAME": "Cocolalla Lake Bible Camp",
         "ADDRESS": "209 Cocolalla Loop Road",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e7fa99f5_-77c2",
+      "id": "FEMANSSOpenShelters.fid--71adc9ef_198e5caceda_3866",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722309,
+        "objectid": 1722327,
         "SHELTER_ID": 363533,
         "SHELTER_NAME": "Westmorland Union Elementary School",
         "ADDRESS": "200 South C St",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e7fa99f5_-77c1",
+      "id": "FEMANSSOpenShelters.fid--71adc9ef_198e5caceda_3867",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722310,
+        "objectid": 1722328,
         "SHELTER_ID": 367087,
         "SHELTER_NAME": "Outside-Highland Baptist Church",
         "ADDRESS": "3100 SW Highland Ave",
@@ -267,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e7fa99f5_-77c0",
+      "id": "FEMANSSOpenShelters.fid--71adc9ef_198e5caceda_3868",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1102,
+          40.5533
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1722329,
+        "SHELTER_ID": 367088,
+        "SHELTER_NAME": "Foothills Unitarian Universalist Church",
+        "ADDRESS": "1815 Yorktown Ave",
+        "CITY": "Fort Collins",
+        "STATE": "CO",
+        "ZIP": "80526",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -105.1102,
+        40.5533,
+        -105.1102,
+        40.5533
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71adc9ef_198e5caceda_3869",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722311,
+        "objectid": 1722330,
         "SHELTER_ID": 367090,
         "SHELTER_NAME": "Saint Angela Merici Catholic Church",
         "ADDRESS": "3860 N Hwy 67",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e7fa99f5_-77bf",
+      "id": "FEMANSSOpenShelters.fid--71adc9ef_198e5caceda_386a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722312,
+        "objectid": 1722331,
         "SHELTER_ID": 367092,
         "SHELTER_NAME": "Faith Church Ferguson-Florissant",
         "ADDRESS": "5320 N Hwy 67",
@@ -352,56 +396,12 @@
         -90.2611,
         38.8216
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e7fa99f5_-77be",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.1102,
-          40.5533
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1722313,
-        "SHELTER_ID": 367088,
-        "SHELTER_NAME": "Foothills Unitarian Universalist Church",
-        "ADDRESS": "1815 Yorktown Ave",
-        "CITY": "Fort Collins",
-        "STATE": "CO",
-        "ZIP": "80526",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -105.1102,
-        40.5533,
-        -105.1102,
-        40.5533
-      ]
     }
   ],
   "totalFeatures": 9,
   "numberMatched": 9,
   "numberReturned": 9,
-  "timeStamp": "2025-08-26T20:36:53.346Z",
+  "timeStamp": "2025-08-26T21:06:40.939Z",
   "crs": {
     "type": "name",
     "properties": {
