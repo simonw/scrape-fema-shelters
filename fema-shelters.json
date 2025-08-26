@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-3c1",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-105",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722211,
+        "objectid": 1722220,
         "SHELTER_ID": 355712,
         "SHELTER_NAME": "Westminster Presbyterian Church",
         "ADDRESS": "1200 Marquette Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-3c0",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-104",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722212,
+        "objectid": 1722221,
         "SHELTER_ID": 225480,
         "SHELTER_NAME": "Highland Baptist Church",
         "ADDRESS": "3100 SW Highland Ave",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-3bf",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-103",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722213,
+        "objectid": 1722222,
         "SHELTER_ID": 367061,
         "SHELTER_NAME": "Department of Youth & Women's Affairs",
         "ADDRESS": "Korea House, Rte 1",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-3be",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-102",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722214,
+        "objectid": 1722223,
         "SHELTER_ID": 367072,
         "SHELTER_NAME": "Marshall High School",
         "ADDRESS": "4141 N 64h Street",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-3bd",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-101",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722215,
+        "objectid": 1722224,
         "SHELTER_ID": 367078,
         "SHELTER_NAME": "Cocolalla Lake Bible Camp",
         "ADDRESS": "209 Cocolalla Loop Road",
@@ -223,51 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-3bc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2065,
-          44.2685
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1722216,
-        "SHELTER_ID": 367087,
-        "SHELTER_NAME": "Outside-Highland Baptist Church",
-        "ADDRESS": "3100 SW Highland Ave",
-        "CITY": "Redmond ",
-        "STATE": "OR",
-        "ZIP": "97756",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -121.2065,
-        44.2685,
-        -121.2065,
-        44.2685
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-3bb",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-100",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722217,
+        "objectid": 1722225,
         "SHELTER_ID": 363533,
         "SHELTER_NAME": "Westmorland Union Elementary School",
         "ADDRESS": "200 South C St",
@@ -311,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-3ba",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-ff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2065,
+          44.2685
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1722226,
+        "SHELTER_ID": 367087,
+        "SHELTER_NAME": "Outside-Highland Baptist Church",
+        "ADDRESS": "3100 SW Highland Ave",
+        "CITY": "Redmond ",
+        "STATE": "OR",
+        "ZIP": "97756",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -121.2065,
+        44.2685,
+        -121.2065,
+        44.2685
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-fe",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722218,
+        "objectid": 1722227,
         "SHELTER_ID": 367090,
         "SHELTER_NAME": "Saint Angela Merici Catholic Church",
         "ADDRESS": "3860 N Hwy 67",
@@ -355,7 +355,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-3b9",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-fd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2611,
+          38.8216
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1722228,
+        "SHELTER_ID": 367092,
+        "SHELTER_NAME": "Faith Church Ferguson-Florissant",
+        "ADDRESS": "5320 N Hwy 67",
+        "CITY": "Florissant",
+        "STATE": "MO",
+        "ZIP": "63034",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.2611,
+        38.8216,
+        -90.2611,
+        38.8216
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198e6406e0c_-fc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722219,
+        "objectid": 1722229,
         "SHELTER_ID": 367088,
         "SHELTER_NAME": "Foothills Unitarian Universalist Church",
         "ADDRESS": "1815 Yorktown Ave",
@@ -398,10 +442,10 @@
       ]
     }
   ],
-  "totalFeatures": 9,
-  "numberMatched": 9,
-  "numberReturned": 9,
-  "timeStamp": "2025-08-26T17:06:53.250Z",
+  "totalFeatures": 10,
+  "numberMatched": 10,
+  "numberReturned": 10,
+  "timeStamp": "2025-08-26T17:36:23.226Z",
   "crs": {
     "type": "name",
     "properties": {
