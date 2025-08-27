@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71adc9ef_198ed7e9c4e_-78ee",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198ed1e7de3_-12fb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722798,
+        "objectid": 1722803,
         "SHELTER_ID": 355712,
         "SHELTER_NAME": "Westminster Presbyterian Church",
         "ADDRESS": "1200 Marquette Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71adc9ef_198ed7e9c4e_-78ed",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198ed1e7de3_-12fa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722799,
+        "objectid": 1722804,
         "SHELTER_ID": 225480,
         "SHELTER_NAME": "Highland Baptist Church",
         "ADDRESS": "3100 SW Highland Ave",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71adc9ef_198ed7e9c4e_-78ec",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198ed1e7de3_-12f9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722800,
+        "objectid": 1722805,
         "SHELTER_ID": 367094,
         "SHELTER_NAME": "North Side Church of Christ",
         "ADDRESS": "378 NW Gibson Lane",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71adc9ef_198ed7e9c4e_-78eb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.9949,
-          43.0883
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1722801,
-        "SHELTER_ID": 367093,
-        "SHELTER_NAME": "Milwaukee Environmental Sciences School",
-        "ADDRESS": "6600 W Melvina St",
-        "CITY": "Milwaukee",
-        "STATE": "WI",
-        "ZIP": "53216",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.9949,
-        43.0883,
-        -87.9949,
-        43.0883
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71adc9ef_198ed7e9c4e_-78ea",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198ed1e7de3_-12f8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722802,
+        "objectid": 1722806,
         "SHELTER_ID": 367087,
         "SHELTER_NAME": "Outside-Highland Baptist Church",
         "ADDRESS": "3100 SW Highland Ave",
@@ -220,12 +176,56 @@
         -121.2065,
         44.2685
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198ed1e7de3_-12f7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9949,
+          43.0883
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1722807,
+        "SHELTER_ID": 367093,
+        "SHELTER_NAME": "Milwaukee Environmental Sciences School",
+        "ADDRESS": "6600 W Melvina St",
+        "CITY": "Milwaukee",
+        "STATE": "WI",
+        "ZIP": "53216",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.9949,
+        43.0883,
+        -87.9949,
+        43.0883
+      ]
     }
   ],
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2025-08-27T23:07:13.934Z",
+  "timeStamp": "2025-08-27T23:35:17.261Z",
   "crs": {
     "type": "name",
     "properties": {
