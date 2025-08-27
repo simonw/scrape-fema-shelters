@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71adc9ef_198ea8b1cc1_12fe",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198ea8aff5e_76b0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722726,
+        "objectid": 1722737,
         "SHELTER_ID": 355712,
         "SHELTER_NAME": "Westminster Presbyterian Church",
         "ADDRESS": "1200 Marquette Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71adc9ef_198ea8b1cc1_12ff",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198ea8aff5e_76b1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722727,
+        "objectid": 1722738,
         "SHELTER_ID": 225480,
         "SHELTER_NAME": "Highland Baptist Church",
         "ADDRESS": "3100 SW Highland Ave",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71adc9ef_198ea8b1cc1_1300",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.0021,
-          43.0928
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1722728,
-        "SHELTER_ID": 367072,
-        "SHELTER_NAME": "Marshall High School",
-        "ADDRESS": "4141 N 64h Street",
-        "CITY": "Milwaukee",
-        "STATE": "WI",
-        "ZIP": "53216",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 51,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.0021,
-        43.0928,
-        -88.0021,
-        43.0928
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71adc9ef_198ea8b1cc1_1301",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198ea8aff5e_76b2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722729,
+        "objectid": 1722739,
         "SHELTER_ID": 367090,
         "SHELTER_NAME": "Saint Angela Merici Catholic Church",
         "ADDRESS": "3860 N Hwy 67",
@@ -179,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71adc9ef_198ea8b1cc1_1302",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198ea8aff5e_76b3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9949,
+          43.0883
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1722740,
+        "SHELTER_ID": 367093,
+        "SHELTER_NAME": "Milwaukee Environmental Sciences School",
+        "ADDRESS": "6600 W Melvina St",
+        "CITY": "Milwaukee",
+        "STATE": "WI",
+        "ZIP": "53216",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.9949,
+        43.0883,
+        -87.9949,
+        43.0883
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2343e272_198ea8aff5e_76b4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722730,
+        "objectid": 1722741,
         "SHELTER_ID": 367087,
         "SHELTER_NAME": "Outside-Highland Baptist Church",
         "ADDRESS": "3100 SW Highland Ave",
@@ -225,7 +225,7 @@
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2025-08-27T18:40:34.472Z",
+  "timeStamp": "2025-08-27T19:06:17.091Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -235,7 +235,7 @@
   "bbox": [
     -121.2065,
     34.8748,
-    -88.0021,
+    -87.9949,
     44.9691
   ]
 }
