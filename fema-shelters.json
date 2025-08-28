@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198ef0d503e_26bf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.2879,
-          44.9691
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1722993,
-        "SHELTER_ID": 355712,
-        "SHELTER_NAME": "Westminster Presbyterian Church",
-        "ADDRESS": "1200 Marquette Ave",
-        "CITY": "Minneapolis",
-        "STATE": "MN",
-        "ZIP": "55403",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1,
-        "POST_IMPACT_CAPACITY": 1,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Minnesota Region",
-        "ORG_ID": 126130,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 44.9691279,
-        "LONGITUDE": -93.2878982,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.2879,
-        44.9691,
-        -93.2879,
-        44.9691
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198ef0d503e_26c0",
+      "id": "FEMANSSOpenShelters.fid--71adc9ef_198efb16da6_222",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722994,
+        "objectid": 1723002,
         "SHELTER_ID": 225480,
         "SHELTER_NAME": "Highland Baptist Church",
         "ADDRESS": "3100 SW Highland Ave",
@@ -91,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198ef0d503e_26c1",
+      "id": "FEMANSSOpenShelters.fid--71adc9ef_198efb16da6_223",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722995,
+        "objectid": 1723003,
         "SHELTER_ID": 367094,
         "SHELTER_NAME": "North Side Church of Christ",
         "ADDRESS": "378 NW Gibson Lane",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198ef0d503e_26c2",
+      "id": "FEMANSSOpenShelters.fid--71adc9ef_198efb16da6_224",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722996,
+        "objectid": 1723004,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2343e272_198ef0d503e_26c3",
+      "id": "FEMANSSOpenShelters.fid--71adc9ef_198efb16da6_225",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1722997,
+        "objectid": 1723005,
         "SHELTER_ID": 367087,
         "SHELTER_NAME": "Outside-Highland Baptist Church",
         "ADDRESS": "3100 SW Highland Ave",
@@ -222,10 +178,10 @@
       ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2025-08-28T12:13:06.375Z",
+  "totalFeatures": 4,
+  "numberMatched": 4,
+  "numberReturned": 4,
+  "timeStamp": "2025-08-28T12:47:59.915Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -236,6 +192,6 @@
     -121.2065,
     30.2004,
     -82.6421,
-    44.9691
+    44.2685
   ]
 }
