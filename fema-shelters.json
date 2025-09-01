@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_19902936274_-4b06",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_198ff24792a_-16a3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1724120,
+        "objectid": 1724134,
         "SHELTER_ID": 225480,
         "SHELTER_NAME": "Highland Baptist Church",
         "ADDRESS": "3100 SW Highland Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_19902936274_-4b05",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_198ff24792a_-16a2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1724121,
+        "objectid": 1724135,
         "SHELTER_ID": 367094,
         "SHELTER_NAME": "North Side Church of Christ",
         "ADDRESS": "378 NW Gibson Lane",
@@ -91,7 +91,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_19902936274_-4b04",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_198ff24792a_-16a1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0919,
+          48.6105
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1724136,
+        "SHELTER_ID": 367096,
+        "SHELTER_NAME": "American Legion",
+        "ADDRESS": "1057 US 395",
+        "CITY": "N Kettle Falls",
+        "STATE": "WA",
+        "ZIP": "99141",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.0919,
+        48.6105,
+        -118.0919,
+        48.6105
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_198ff24792a_-16a0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1724122,
+        "objectid": 1724137,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_19902936274_-4b03",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_198ff24792a_-169f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1724123,
+        "objectid": 1724138,
         "SHELTER_ID": 367087,
         "SHELTER_NAME": "Outside-Highland Baptist Church",
         "ADDRESS": "3100 SW Highland Ave",
@@ -178,10 +222,10 @@
       ]
     }
   ],
-  "totalFeatures": 4,
-  "numberMatched": 4,
-  "numberReturned": 4,
-  "timeStamp": "2025-09-01T00:41:35.039Z",
+  "totalFeatures": 5,
+  "numberMatched": 5,
+  "numberReturned": 5,
+  "timeStamp": "2025-09-01T01:37:00.184Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -192,6 +236,6 @@
     -121.2065,
     30.2004,
     -82.6421,
-    44.2685
+    48.6105
   ]
 }
