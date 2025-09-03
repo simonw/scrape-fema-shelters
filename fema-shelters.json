@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1990ce08898_4015",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_1990dbbf116_2562",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1725003,
+        "objectid": 1725018,
         "SHELTER_ID": 365465,
         "SHELTER_NAME": "Karuk Tribe Wellness Center - Yreka",
         "ADDRESS": "1403 Kahtishraam",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1990ce08898_4016",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_1990dbbf116_2563",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1725004,
+        "objectid": 1725019,
         "SHELTER_ID": 367096,
         "SHELTER_NAME": "American Legion",
         "ADDRESS": "1057 US 395",
@@ -67,7 +67,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 4,
+        "TOTAL_POPULATION": 8,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -91,95 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1990ce08898_4017",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.5534,
-          38.0793
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1725005,
-        "SHELTER_ID": 353707,
-        "SHELTER_NAME": "Bret Harte Union High School",
-        "ADDRESS": "364 Murphys Grade Road",
-        "CITY": "Angels Camp",
-        "STATE": "CA",
-        "ZIP": "95221",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 414,
-        "POST_IMPACT_CAPACITY": 207,
-        "TOTAL_POPULATION": 11,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 38.0792659,
-        "LONGITUDE": -120.553429,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.5534,
-        38.0793,
-        -120.5534,
-        38.0793
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1990ce08898_4018",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6421,
-          30.2004
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1725006,
-        "SHELTER_ID": 367094,
-        "SHELTER_NAME": "North Side Church of Christ",
-        "ADDRESS": "378 NW Gibson Lane",
-        "CITY": "Lake City",
-        "STATE": "FL",
-        "ZIP": "32055",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 16,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.6421,
-        30.2004,
-        -82.6421,
-        30.2004
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1990ce08898_4019",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_1990dbbf116_2564",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1725007,
+        "objectid": 1725020,
         "SHELTER_ID": 367098,
         "SHELTER_NAME": "Crook County Fairgrounds - Carey Foster",
         "ADDRESS": "590 SE Lynn Blvd",
@@ -223,7 +135,139 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1990ce08898_401a",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_1990dbbf116_2565",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5534,
+          38.0793
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1725021,
+        "SHELTER_ID": 353707,
+        "SHELTER_NAME": "Bret Harte Union High School",
+        "ADDRESS": "364 Murphys Grade Road",
+        "CITY": "Angels Camp",
+        "STATE": "CA",
+        "ZIP": "95221",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 414,
+        "POST_IMPACT_CAPACITY": 207,
+        "TOTAL_POPULATION": 11,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 38.0792659,
+        "LONGITUDE": -120.553429,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.5534,
+        38.0793,
+        -120.5534,
+        38.0793
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_1990dbbf116_2566",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6421,
+          30.2004
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1725022,
+        "SHELTER_ID": 367094,
+        "SHELTER_NAME": "North Side Church of Christ",
+        "ADDRESS": "378 NW Gibson Lane",
+        "CITY": "Lake City",
+        "STATE": "FL",
+        "ZIP": "32055",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 16,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.6421,
+        30.2004,
+        -82.6421,
+        30.2004
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_1990dbbf116_2567",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3692,
+          37.9817
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1725023,
+        "SHELTER_ID": 367099,
+        "SHELTER_NAME": "Sonora Senior Center",
+        "ADDRESS": "540 Greenley Rd",
+        "CITY": "Sonora",
+        "STATE": "CA",
+        "ZIP": "95370",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.3692,
+        37.9817,
+        -120.3692,
+        37.9817
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_1990dbbf116_2568",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1725008,
+        "objectid": 1725024,
         "SHELTER_ID": 362131,
         "SHELTER_NAME": "The Bridge Church",
         "ADDRESS": "188 Whitley Church Road",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1990ce08898_401b",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_1990dbbf116_2569",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1725009,
+        "objectid": 1725025,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -310,10 +354,10 @@
       ]
     }
   ],
-  "totalFeatures": 7,
-  "numberMatched": 7,
-  "numberReturned": 7,
-  "timeStamp": "2025-09-03T07:35:13.202Z",
+  "totalFeatures": 8,
+  "numberMatched": 8,
+  "numberReturned": 8,
+  "timeStamp": "2025-09-03T08:09:56.278Z",
   "crs": {
     "type": "name",
     "properties": {
