@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_19918e449ce_62ab",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_19918402f4a_3e23",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1726530,
+        "objectid": 1726548,
         "SHELTER_ID": 365465,
         "SHELTER_NAME": "Karuk Tribe Wellness Center - Yreka",
         "ADDRESS": "1403 Kahtishraam",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_19918e449ce_62ac",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_19918402f4a_3e24",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1726531,
+        "objectid": 1726549,
         "SHELTER_ID": 353707,
         "SHELTER_NAME": "Bret Harte Union High School",
         "ADDRESS": "364 Murphys Grade Road",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_19918e449ce_62ad",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_19918402f4a_3e25",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1726532,
+        "objectid": 1726550,
         "SHELTER_ID": 358729,
         "SHELTER_NAME": "Joe W. Brown Recreation Center",
         "ADDRESS": "5601 Read Blvd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_19918e449ce_62ae",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_19918402f4a_3e26",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1726533,
+        "objectid": 1726551,
         "SHELTER_ID": 367096,
         "SHELTER_NAME": "American Legion",
         "ADDRESS": "1057 US 395",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_19918e449ce_62af",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8401,
-          44.2939
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1726534,
-        "SHELTER_ID": 367098,
-        "SHELTER_NAME": "Crook County Fairgrounds - Carey Foster",
-        "ADDRESS": "590 SE Lynn Blvd",
-        "CITY": "Prineville",
-        "STATE": "OR",
-        "ZIP": "97754",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.8401,
-        44.2939,
-        -120.8401,
-        44.2939
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_19918e449ce_62b0",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_19918402f4a_3e27",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1726535,
+        "objectid": 1726552,
         "SHELTER_ID": 367099,
         "SHELTER_NAME": "Sonora Senior Center",
         "ADDRESS": "540 Greenley Rd",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_19918e449ce_62b1",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_19918402f4a_3e28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8401,
+          44.2939
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1726553,
+        "SHELTER_ID": 367098,
+        "SHELTER_NAME": "Crook County Fairgrounds - Carey Foster",
+        "ADDRESS": "590 SE Lynn Blvd",
+        "CITY": "Prineville",
+        "STATE": "OR",
+        "ZIP": "97754",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.8401,
+        44.2939,
+        -120.8401,
+        44.2939
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_19918402f4a_3e29",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1726536,
+        "objectid": 1726554,
         "SHELTER_ID": 362131,
         "SHELTER_NAME": "The Bridge Church",
         "ADDRESS": "188 Whitley Church Road",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_19918e449ce_62b2",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_19918402f4a_3e2a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1726537,
+        "objectid": 1726555,
         "SHELTER_ID": 367101,
         "SHELTER_NAME": "Entiat Warehouse Community Church",
         "ADDRESS": "14916 Hwy 97A",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_19918e449ce_62b3",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_19918402f4a_3e2b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1726538,
+        "objectid": 1726556,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -401,7 +401,7 @@
   "totalFeatures": 9,
   "numberMatched": 9,
   "numberReturned": 9,
-  "timeStamp": "2025-09-05T17:35:44.466Z",
+  "timeStamp": "2025-09-05T18:10:12.980Z",
   "crs": {
     "type": "name",
     "properties": {
