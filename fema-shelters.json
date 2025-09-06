@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-7953",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.5135,
-          34.0027
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1726878,
-        "SHELTER_ID": 171713,
-        "SHELTER_NAME": "Jurupa Valley High School",
-        "ADDRESS": "10551 Bellegrave Ave",
-        "CITY": "Jurupa Valley",
-        "STATE": "CA",
-        "ZIP": "91752",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 536,
-        "POST_IMPACT_CAPACITY": 268,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "RIVERSIDE COUNTY CHAPTER",
-        "ORG_ID": 121757,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 34.00272994,
-        "LONGITUDE": -117.51345376,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.5135,
-        34.0027,
-        -117.5135,
-        34.0027
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-7952",
+      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-77db",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1726879,
+        "objectid": 1726885,
         "SHELTER_ID": 358729,
         "SHELTER_NAME": "Joe W. Brown Recreation Center",
         "ADDRESS": "5601 Read Blvd",
@@ -91,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-7951",
+      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-77da",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1726880,
+        "objectid": 1726886,
         "SHELTER_ID": 367096,
         "SHELTER_NAME": "American Legion",
         "ADDRESS": "1057 US 395",
@@ -135,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-7950",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.3692,
-          37.9817
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1726881,
-        "SHELTER_ID": 367099,
-        "SHELTER_NAME": "Sonora Senior Center",
-        "ADDRESS": "540 Greenley Rd",
-        "CITY": "Sonora",
-        "STATE": "CA",
-        "ZIP": "95370",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 7,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.3692,
-        37.9817,
-        -120.3692,
-        37.9817
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-794f",
+      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-77d9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1726882,
+        "objectid": 1726887,
         "SHELTER_ID": 367098,
         "SHELTER_NAME": "Crook County Fairgrounds - Carey Foster",
         "ADDRESS": "590 SE Lynn Blvd",
@@ -223,7 +135,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-794e",
+      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-77d8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3692,
+          37.9817
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1726888,
+        "SHELTER_ID": 367099,
+        "SHELTER_NAME": "Sonora Senior Center",
+        "ADDRESS": "540 Greenley Rd",
+        "CITY": "Sonora",
+        "STATE": "CA",
+        "ZIP": "95370",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 7,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.3692,
+        37.9817,
+        -120.3692,
+        37.9817
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-77d7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5135,
+          34.0027
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1726889,
+        "SHELTER_ID": 171713,
+        "SHELTER_NAME": "Jurupa Valley High School",
+        "ADDRESS": "10551 Bellegrave Ave",
+        "CITY": "Jurupa Valley",
+        "STATE": "CA",
+        "ZIP": "91752",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 536,
+        "POST_IMPACT_CAPACITY": 268,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "RIVERSIDE COUNTY CHAPTER",
+        "ORG_ID": 121757,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.00272994,
+        "LONGITUDE": -117.51345376,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.5135,
+        34.0027,
+        -117.5135,
+        34.0027
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-77d6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1726883,
+        "objectid": 1726890,
         "SHELTER_ID": 367101,
         "SHELTER_NAME": "Entiat Warehouse Community Church",
         "ADDRESS": "14916 Hwy 97A",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-794d",
+      "id": "FEMANSSOpenShelters.fid--4b05ba2_1991e0ab129_-77d5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1726884,
+        "objectid": 1726891,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -313,7 +313,7 @@
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2025-09-06T08:08:32.948Z",
+  "timeStamp": "2025-09-06T08:36:55.500Z",
   "crs": {
     "type": "name",
     "properties": {
