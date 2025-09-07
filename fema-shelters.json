@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_199209d8d93_22cd",
+      "id": "FEMANSSOpenShelters.fid--4b05ba2_199209d8d93_6081",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1727286,
+        "objectid": 1727292,
         "SHELTER_ID": 367096,
         "SHELTER_NAME": "American Legion",
         "ADDRESS": "1057 US 395",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_199209d8d93_22ce",
+      "id": "FEMANSSOpenShelters.fid--4b05ba2_199209d8d93_6082",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1727287,
+        "objectid": 1727293,
         "SHELTER_ID": 367099,
         "SHELTER_NAME": "Sonora Senior Center",
         "ADDRESS": "540 Greenley Rd",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_199209d8d93_22cf",
+      "id": "FEMANSSOpenShelters.fid--4b05ba2_199209d8d93_6083",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1727288,
+        "objectid": 1727294,
         "SHELTER_ID": 171713,
         "SHELTER_NAME": "Jurupa Valley High School",
         "ADDRESS": "10551 Bellegrave Ave",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_199209d8d93_22d0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.2307,
-          33.777
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1727289,
-        "SHELTER_ID": 367103,
-        "SHELTER_NAME": "Pinacate Middle School",
-        "ADDRESS": "1990 South A St",
-        "CITY": "Perris",
-        "STATE": "CA",
-        "ZIP": "92570",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.2307,
-        33.777,
-        -117.2307,
-        33.777
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_199209d8d93_22d1",
+      "id": "FEMANSSOpenShelters.fid--4b05ba2_199209d8d93_6084",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1727290,
+        "objectid": 1727295,
         "SHELTER_ID": 367101,
         "SHELTER_NAME": "Entiat Warehouse Community Church",
         "ADDRESS": "14916 Hwy 97A",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_199209d8d93_22d2",
+      "id": "FEMANSSOpenShelters.fid--4b05ba2_199209d8d93_6085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2307,
+          33.777
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1727296,
+        "SHELTER_ID": 367103,
+        "SHELTER_NAME": "Pinacate Middle School",
+        "ADDRESS": "1990 South A St",
+        "CITY": "Perris",
+        "STATE": "CA",
+        "ZIP": "92570",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.2307,
+        33.777,
+        -117.2307,
+        33.777
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--4b05ba2_199209d8d93_6086",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1727291,
+        "objectid": 1727297,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -269,7 +269,7 @@
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2025-09-07T03:41:38.251Z",
+  "timeStamp": "2025-09-07T04:08:44.381Z",
   "crs": {
     "type": "name",
     "properties": {
