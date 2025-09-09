@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1992c7738ad_-7e83",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_1992a0ee4cd_7751",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1727848,
+        "objectid": 1727852,
         "SHELTER_ID": 367096,
         "SHELTER_NAME": "American Legion",
         "ADDRESS": "1057 US 395",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1992c7738ad_-7e82",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_1992a0ee4cd_7752",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1727849,
+        "objectid": 1727853,
         "SHELTER_ID": 367099,
         "SHELTER_NAME": "Sonora Senior Center",
         "ADDRESS": "540 Greenley Rd",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1992c7738ad_-7e81",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.5936,
-          39.0376
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1727850,
-        "SHELTER_ID": 137882,
-        "SHELTER_NAME": "Bennington Bible Church",
-        "ADDRESS": "824 N Nelson Street",
-        "CITY": "Bennington",
-        "STATE": "KS",
-        "ZIP": "67422",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 100,
-        "POST_IMPACT_CAPACITY": 50,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "NORTH CENTRAL KANSAS",
-        "ORG_ID": 121654,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 39.03761794,
-        "LONGITUDE": -97.59355807,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -97.5936,
-        39.0376,
-        -97.5936,
-        39.0376
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4b05ba2_1992c7738ad_-7e80",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_1992a0ee4cd_7753",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1727851,
+        "objectid": 1727854,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -176,12 +132,56 @@
         -87.9949,
         43.0883
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-7a6e47bb_1992a0ee4cd_7754",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5936,
+          39.0376
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1727855,
+        "SHELTER_ID": 137882,
+        "SHELTER_NAME": "Bennington Bible Church",
+        "ADDRESS": "824 N Nelson Street",
+        "CITY": "Bennington",
+        "STATE": "KS",
+        "ZIP": "67422",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 100,
+        "POST_IMPACT_CAPACITY": 50,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "NORTH CENTRAL KANSAS",
+        "ORG_ID": 121654,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 39.03761794,
+        "LONGITUDE": -97.59355807,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -97.5936,
+        39.0376,
+        -97.5936,
+        39.0376
+      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2025-09-09T03:42:07.968Z",
+  "timeStamp": "2025-09-09T04:09:03.326Z",
   "crs": {
     "type": "name",
     "properties": {
