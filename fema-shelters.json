@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7e758cbd_199353706d0_12fe",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_19939cdf8d2_-7ee3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1728622,
+        "objectid": 1728879,
         "SHELTER_ID": 367096,
         "SHELTER_NAME": "American Legion",
         "ADDRESS": "1057 US 395",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7e758cbd_199353706d0_12ff",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_19939cdf8d2_-7ee2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1728623,
+        "objectid": 1728880,
         "SHELTER_ID": 367099,
         "SHELTER_NAME": "Sonora Senior Center",
         "ADDRESS": "540 Greenley Rd",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7e758cbd_199353706d0_1300",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_19939cdf8d2_-7ee1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1728624,
+        "objectid": 1728881,
         "SHELTER_ID": 367105,
         "SHELTER_NAME": "Inchelium Convention Center",
         "ADDRESS": "14 Comunity Center Loop",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7e758cbd_199353706d0_1301",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_19939cdf8d2_-7ee0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1728625,
+        "objectid": 1728882,
         "SHELTER_ID": 367106,
         "SHELTER_NAME": "Magee Recreation Center",
         "ADDRESS": "745 Greenfield Ave",
@@ -155,7 +155,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
+        "TOTAL_POPULATION": 6,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -179,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-7e758cbd_199353706d0_1302",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_19939cdf8d2_-7edf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.396,
+          29.8901
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1728883,
+        "SHELTER_ID": 367107,
+        "SHELTER_NAME": "Cathedral of Saint Matthew - Parish Center",
+        "ADDRESS": "9101 Airline Drive",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "ZIP": "77037",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.396,
+        29.8901,
+        -95.396,
+        29.8901
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_19939cdf8d2_-7ede",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1728626,
+        "objectid": 1728884,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -199,7 +243,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 35,
+        "TOTAL_POPULATION": 28,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -222,10 +266,10 @@
       ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2025-09-11T01:35:34.973Z",
+  "totalFeatures": 6,
+  "numberMatched": 6,
+  "numberReturned": 6,
+  "timeStamp": "2025-09-11T17:34:42.650Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -234,7 +278,7 @@
   },
   "bbox": [
     -120.3692,
-    37.9817,
+    29.8901,
     -79.9368,
     48.6105
   ]
