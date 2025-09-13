@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-6aa2",
+      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-5576",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729433,
+        "objectid": 1729438,
         "SHELTER_ID": 367096,
         "SHELTER_NAME": "American Legion",
         "ADDRESS": "1057 US 395",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-6aa1",
+      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-5575",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729434,
+        "objectid": 1729439,
         "SHELTER_ID": 367099,
         "SHELTER_NAME": "Sonora Senior Center",
         "ADDRESS": "540 Greenley Rd",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-6aa0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.9368,
-          40.4244
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1729435,
-        "SHELTER_ID": 367106,
-        "SHELTER_NAME": "Magee Recreation Center",
-        "ADDRESS": "745 Greenfield Ave",
-        "CITY": "Pittsburgh",
-        "STATE": "PA",
-        "ZIP": "15217",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 3,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -79.9368,
-        40.4244,
-        -79.9368,
-        40.4244
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-6a9f",
+      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-5574",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729436,
+        "objectid": 1729440,
         "SHELTER_ID": 367105,
         "SHELTER_NAME": "Inchelium Convention Center",
         "ADDRESS": "14 Comunity Center Loop",
@@ -179,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-6a9e",
+      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-5573",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9368,
+          40.4244
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1729441,
+        "SHELTER_ID": 367106,
+        "SHELTER_NAME": "Magee Recreation Center",
+        "ADDRESS": "745 Greenfield Ave",
+        "CITY": "Pittsburgh",
+        "STATE": "PA",
+        "ZIP": "15217",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 3,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -79.9368,
+        40.4244,
+        -79.9368,
+        40.4244
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-5572",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729437,
+        "objectid": 1729442,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -225,7 +225,7 @@
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2025-09-13T05:07:00.226Z",
+  "timeStamp": "2025-09-13T05:35:19.913Z",
   "crs": {
     "type": "name",
     "properties": {
