@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_2ae",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_199413b948a_-9f2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729478,
+        "objectid": 1729486,
         "SHELTER_ID": 367096,
         "SHELTER_NAME": "American Legion",
         "ADDRESS": "1057 US 395",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_2af",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2027,
-          48.3012
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1729479,
-        "SHELTER_ID": 367105,
-        "SHELTER_NAME": "Inchelium Convention Center",
-        "ADDRESS": "14 Comunity Center Loop",
-        "CITY": "Inchelium",
-        "STATE": "WA",
-        "ZIP": "99138",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.2027,
-        48.3012,
-        -118.2027,
-        48.3012
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_2b0",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_199413b948a_-9f1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729480,
+        "objectid": 1729487,
         "SHELTER_ID": 367106,
         "SHELTER_NAME": "Magee Recreation Center",
         "ADDRESS": "745 Greenfield Ave",
@@ -135,7 +91,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_2b1",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_199413b948a_-9f0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2027,
+          48.3012
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1729488,
+        "SHELTER_ID": 367105,
+        "SHELTER_NAME": "Inchelium Convention Center",
+        "ADDRESS": "14 Comunity Center Loop",
+        "CITY": "Inchelium",
+        "STATE": "WA",
+        "ZIP": "99138",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.2027,
+        48.3012,
+        -118.2027,
+        48.3012
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_199413b948a_-9ef",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729481,
+        "objectid": 1729489,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -181,7 +181,7 @@
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2025-09-13T08:36:45.114Z",
+  "timeStamp": "2025-09-13T09:06:58.204Z",
   "crs": {
     "type": "name",
     "properties": {
