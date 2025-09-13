@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_19943ce54a0_-313b",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_19943ce5050_-16cf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729630,
+        "objectid": 1729634,
         "SHELTER_ID": 367096,
         "SHELTER_NAME": "American Legion",
         "ADDRESS": "1057 US 395",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_19943ce54a0_-313a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.9368,
-          40.4244
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1729631,
-        "SHELTER_ID": 367106,
-        "SHELTER_NAME": "Magee Recreation Center",
-        "ADDRESS": "745 Greenfield Ave",
-        "CITY": "Pittsburgh",
-        "STATE": "PA",
-        "ZIP": "15217",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -79.9368,
-        40.4244,
-        -79.9368,
-        40.4244
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_19943ce54a0_-3139",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_19943ce5050_-16ce",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729632,
+        "objectid": 1729635,
         "SHELTER_ID": 367105,
         "SHELTER_NAME": "Inchelium Convention Center",
         "ADDRESS": "14 Comunity Center Loop",
@@ -135,7 +91,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_19943ce54a0_-3138",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_19943ce5050_-16cd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9368,
+          40.4244
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1729636,
+        "SHELTER_ID": 367106,
+        "SHELTER_NAME": "Magee Recreation Center",
+        "ADDRESS": "745 Greenfield Ave",
+        "CITY": "Pittsburgh",
+        "STATE": "PA",
+        "ZIP": "15217",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -79.9368,
+        40.4244,
+        -79.9368,
+        40.4244
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_19943ce5050_-16cc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729633,
+        "objectid": 1729637,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -181,7 +181,7 @@
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2025-09-13T21:06:31.038Z",
+  "timeStamp": "2025-09-13T21:34:47.156Z",
   "crs": {
     "type": "name",
     "properties": {
