@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7b5af195_199413b948a_-38bc",
+      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-5038",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729453,
+        "objectid": 1729462,
         "SHELTER_ID": 367096,
         "SHELTER_NAME": "American Legion",
         "ADDRESS": "1057 US 395",
@@ -23,7 +23,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 13,
+        "TOTAL_POPULATION": 8,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7b5af195_199413b948a_-38bb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.3692,
-          37.9817
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1729454,
-        "SHELTER_ID": 367099,
-        "SHELTER_NAME": "Sonora Senior Center",
-        "ADDRESS": "540 Greenley Rd",
-        "CITY": "Sonora",
-        "STATE": "CA",
-        "ZIP": "95370",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 6,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.3692,
-        37.9817,
-        -120.3692,
-        37.9817
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7b5af195_199413b948a_-38ba",
+      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-5037",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729455,
+        "objectid": 1729463,
         "SHELTER_ID": 367105,
         "SHELTER_NAME": "Inchelium Convention Center",
         "ADDRESS": "14 Comunity Center Loop",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7b5af195_199413b948a_-38b9",
+      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-5036",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729456,
+        "objectid": 1729464,
         "SHELTER_ID": 367106,
         "SHELTER_NAME": "Magee Recreation Center",
         "ADDRESS": "745 Greenfield Ave",
@@ -155,7 +111,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 3,
+        "TOTAL_POPULATION": 2,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7b5af195_199413b948a_-38b8",
+      "id": "FEMANSSOpenShelters.fid-15e2a36_199413b8685_-5035",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1729457,
+        "objectid": 1729465,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -222,10 +178,10 @@
       ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2025-09-13T06:39:08.608Z",
+  "totalFeatures": 4,
+  "numberMatched": 4,
+  "numberReturned": 4,
+  "timeStamp": "2025-09-13T07:06:37.257Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -233,8 +189,8 @@
     }
   },
   "bbox": [
-    -120.3692,
-    37.9817,
+    -118.2027,
+    40.4244,
     -79.9368,
     48.6105
   ]
