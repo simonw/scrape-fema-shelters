@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_1994ef75a8a_-2d22",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_1994e1af223_-df8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1730256,
+        "objectid": 1730261,
         "SHELTER_ID": 367096,
         "SHELTER_NAME": "American Legion",
         "ADDRESS": "1057 US 395",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_1994ef75a8a_-2d21",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.2803,
-          28.2482
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1730257,
-        "SHELTER_ID": 367110,
-        "SHELTER_NAME": "First United Methodist Church",
-        "ADDRESS": "1000 Ohio Ave",
-        "CITY": "St Cloud",
-        "STATE": "FL",
-        "ZIP": "34769",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.2803,
-        28.2482,
-        -81.2803,
-        28.2482
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_1994ef75a8a_-2d20",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_1994e1af223_-df7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1730258,
+        "objectid": 1730262,
         "SHELTER_ID": 367105,
         "SHELTER_NAME": "Inchelium Convention Center",
         "ADDRESS": "14 Comunity Center Loop",
@@ -135,7 +91,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_1994ef75a8a_-2d1f",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_1994e1af223_-df6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2803,
+          28.2482
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1730263,
+        "SHELTER_ID": 367110,
+        "SHELTER_NAME": "First United Methodist Church",
+        "ADDRESS": "1000 Ohio Ave",
+        "CITY": "St Cloud",
+        "STATE": "FL",
+        "ZIP": "34769",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.2803,
+        28.2482,
+        -81.2803,
+        28.2482
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_1994e1af223_-df5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1730259,
+        "objectid": 1730264,
         "SHELTER_ID": 335218,
         "SHELTER_NAME": "Bethesda Temple",
         "ADDRESS": "3701 Salem Ave",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-15e2a36_1994ef75a8a_-2d1e",
+      "id": "FEMANSSOpenShelters.fid--7b5af195_1994e1af223_-df4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1730260,
+        "objectid": 1730265,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -225,7 +225,7 @@
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2025-09-15T23:06:52.556Z",
+  "timeStamp": "2025-09-15T23:34:47.307Z",
   "crs": {
     "type": "name",
     "properties": {
