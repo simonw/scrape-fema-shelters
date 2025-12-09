@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b040f923a_-7077",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8242,
-          40.9173
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1735408,
-        "SHELTER_ID": 367196,
-        "SHELTER_NAME": "Holmes Elementary",
-        "ADDRESS": "195 North Columbus Ave",
-        "CITY": "Mount Vernon",
-        "STATE": "NY",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -73.8242,
-        40.9173,
-        -73.8242,
-        40.9173
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b040f923a_-7076",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.4493,
-          29.6739
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1735409,
-        "SHELTER_ID": 367197,
-        "SHELTER_NAME": "Willow Meadows Baptist Church - Fellowship Hall & Gym",
-        "ADDRESS": "4300 W Bellfort Ave",
-        "CITY": "Houston",
-        "STATE": "TX",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.4493,
-        29.6739,
-        -95.4493,
-        29.6739
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b040f923a_-7075",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b040f923a_-48ac",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735410,
+        "objectid": 1735420,
         "SHELTER_ID": 367198,
         "SHELTER_NAME": "Scott T. Johnson Recreation Center",
         "ADDRESS": "15 Vanderbilt Ave",
@@ -135,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b040f923a_-7074",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b040f923a_-48ab",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735411,
+        "objectid": 1735421,
         "SHELTER_ID": 367199,
         "SHELTER_NAME": "First Baptist Church Universal City",
         "ADDRESS": "1401 Pat Booker Rd",
@@ -179,7 +91,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b040f923a_-7073",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b040f923a_-48aa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8242,
+          40.9173
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1735422,
+        "SHELTER_ID": 367196,
+        "SHELTER_NAME": "Holmes Elementary",
+        "ADDRESS": "195 North Columbus Ave",
+        "CITY": "Mount Vernon",
+        "STATE": "NY",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -73.8242,
+        40.9173,
+        -73.8242,
+        40.9173
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b040f923a_-48a9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4493,
+          29.6739
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1735423,
+        "SHELTER_ID": 367197,
+        "SHELTER_NAME": "Willow Meadows Baptist Church - Fellowship Hall & Gym",
+        "ADDRESS": "4300 W Bellfort Ave",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.4493,
+        29.6739,
+        -95.4493,
+        29.6739
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b040f923a_-48a8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735412,
+        "objectid": 1735424,
         "SHELTER_ID": 367200,
         "SHELTER_NAME": "New Hope Apartments",
         "ADDRESS": "301 NE Jefferson Ave",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b040f923a_-7072",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b040f923a_-48a7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735413,
+        "objectid": 1735425,
         "SHELTER_ID": 367201,
         "SHELTER_NAME": "Curtis D Menard Memorial Sports Center",
         "ADDRESS": "1001 S Mack Drive",
@@ -269,7 +269,7 @@
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2025-12-09T20:36:24.182Z",
+  "timeStamp": "2025-12-09T21:07:27.441Z",
   "crs": {
     "type": "name",
     "properties": {
