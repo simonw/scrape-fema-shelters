@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19afee83909_6335",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5882,
-          40.6948
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1735312,
-        "SHELTER_ID": 367200,
-        "SHELTER_NAME": "New Hope Apartments",
-        "ADDRESS": "301 NE Jefferson Ave",
-        "CITY": "Peoria",
-        "STATE": "IL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -89.5882,
-        40.6948,
-        -89.5882,
-        40.6948
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19afee83909_6336",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.517,
-          61.5721
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1735313,
-        "SHELTER_ID": 367201,
-        "SHELTER_NAME": "Curtis D Menard Memorial Sports Center",
-        "ADDRESS": "1001 S Mack Drive",
-        "CITY": "Wasilla",
-        "STATE": "AK",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -149.517,
-        61.5721,
-        -149.517,
-        61.5721
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19afee83909_6337",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b0332e432_-4ee7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735314,
+        "objectid": 1735318,
         "SHELTER_ID": 367196,
         "SHELTER_NAME": "Holmes Elementary",
         "ADDRESS": "195 North Columbus Ave",
@@ -135,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19afee83909_6338",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b0332e432_-4ee6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735315,
+        "objectid": 1735319,
         "SHELTER_ID": 367197,
         "SHELTER_NAME": "Willow Meadows Baptist Church - Fellowship Hall & Gym",
         "ADDRESS": "4300 W Bellfort Ave",
@@ -179,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19afee83909_6339",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b0332e432_-4ee5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735316,
+        "objectid": 1735320,
         "SHELTER_ID": 367198,
         "SHELTER_NAME": "Scott T. Johnson Recreation Center",
         "ADDRESS": "15 Vanderbilt Ave",
@@ -223,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19afee83909_633a",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b0332e432_-4ee4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735317,
+        "objectid": 1735321,
         "SHELTER_ID": 367199,
         "SHELTER_NAME": "First Baptist Church Universal City",
         "ADDRESS": "1401 Pat Booker Rd",
@@ -264,12 +176,100 @@
         -98.301,
         29.5505
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b0332e432_-4ee3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5882,
+          40.6948
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1735322,
+        "SHELTER_ID": 367200,
+        "SHELTER_NAME": "New Hope Apartments",
+        "ADDRESS": "301 NE Jefferson Ave",
+        "CITY": "Peoria",
+        "STATE": "IL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.5882,
+        40.6948,
+        -89.5882,
+        40.6948
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b0332e432_-4ee2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.517,
+          61.5721
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1735323,
+        "SHELTER_ID": 367201,
+        "SHELTER_NAME": "Curtis D Menard Memorial Sports Center",
+        "ADDRESS": "1001 S Mack Drive",
+        "CITY": "Wasilla",
+        "STATE": "AK",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -149.517,
+        61.5721,
+        -149.517,
+        61.5721
+      ]
     }
   ],
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2025-12-09T15:09:18.910Z",
+  "timeStamp": "2025-12-09T15:39:08.243Z",
   "crs": {
     "type": "name",
     "properties": {
