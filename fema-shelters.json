@@ -3,183 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_3ed9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.3456,
-          29.6738
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1735819,
-        "SHELTER_ID": 333381,
-        "SHELTER_NAME": "Greater St. Matthew Church - Booker Family Life Ctr",
-        "ADDRESS": "7701 Jutland Rd",
-        "CITY": "Houston",
-        "STATE": "TX",
-        "ZIP": "77033",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 5,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Hill Country Chapter",
-        "ORG_ID": 121434,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 29.67381637,
-        "LONGITUDE": -95.3456064,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.3456,
-        29.6738,
-        -95.3456,
-        29.6738
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_3eda",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.9336,
-          46.6447
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1735820,
-        "SHELTER_ID": 109172,
-        "SHELTER_NAME": "St Johns Lutheran Church",
-        "ADDRESS": "2190 Jackson Highway",
-        "CITY": "CHEHALIS",
-        "STATE": "WA",
-        "ZIP": "98532",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 235,
-        "POST_IMPACT_CAPACITY": 117,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "MOUNT RAINIER",
-        "ORG_ID": 121632,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 46.64465259,
-        "LONGITUDE": -122.93355072,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.9336,
-        46.6447,
-        -122.9336,
-        46.6447
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_3edb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.4493,
-          29.6739
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1735821,
-        "SHELTER_ID": 367197,
-        "SHELTER_NAME": "Willow Meadows Baptist Church - Fellowship Hall & Gym",
-        "ADDRESS": "4300 W Bellfort Ave",
-        "CITY": "Houston",
-        "STATE": "TX",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.4493,
-        29.6739,
-        -95.4493,
-        29.6739
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_3edc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.301,
-          29.5505
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1735822,
-        "SHELTER_ID": 367199,
-        "SHELTER_NAME": "First Baptist Church Universal City",
-        "ADDRESS": "1401 Pat Booker Rd",
-        "CITY": "Universal City",
-        "STATE": "TX",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -98.301,
-        29.5505,
-        -98.301,
-        29.5505
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_3edd",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_405a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735823,
+        "objectid": 1735842,
         "SHELTER_ID": 367200,
         "SHELTER_NAME": "New Hope Apartments",
         "ADDRESS": "301 NE Jefferson Ave",
@@ -223,22 +47,22 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_3ede",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_405b",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.6759,
-          46.6023
+          -95.4493,
+          29.6739
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735824,
-        "SHELTER_ID": 367202,
-        "SHELTER_NAME": "Packwood Community Hall",
-        "ADDRESS": "12935 US 12",
-        "CITY": "Randle",
-        "STATE": "WA",
+        "objectid": 1735844,
+        "SHELTER_ID": 367197,
+        "SHELTER_NAME": "Willow Meadows Baptist Church - Fellowship Hall & Gym",
+        "ADDRESS": "4300 W Bellfort Ave",
+        "CITY": "Houston",
+        "STATE": "TX",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
@@ -259,15 +83,59 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -121.6759,
-        46.6023,
-        -121.6759,
-        46.6023
+        -95.4493,
+        29.6739,
+        -95.4493,
+        29.6739
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_3edf",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_405c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.301,
+          29.5505
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1735845,
+        "SHELTER_ID": 367199,
+        "SHELTER_NAME": "First Baptist Church Universal City",
+        "ADDRESS": "1401 Pat Booker Rd",
+        "CITY": "Universal City",
+        "STATE": "TX",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -98.301,
+        29.5505,
+        -98.301,
+        29.5505
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_405d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735825,
+        "objectid": 1735846,
         "SHELTER_ID": 367203,
         "SHELTER_NAME": "Evergreen State Fairgrounds",
         "ADDRESS": "14405 179th Ave SE",
@@ -311,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_3ee0",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_405e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6759,
+          46.6023
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1735847,
+        "SHELTER_ID": 367202,
+        "SHELTER_NAME": "Packwood Community Hall",
+        "ADDRESS": "12935 US 12",
+        "CITY": "Randle",
+        "STATE": "WA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -121.6759,
+        46.6023,
+        -121.6759,
+        46.6023
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_405f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735826,
+        "objectid": 1735848,
         "SHELTER_ID": 367204,
         "SHELTER_NAME": "St. James Church",
         "ADDRESS": "200 N James St",
@@ -355,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_3ee1",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_4060",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735827,
+        "objectid": 1735849,
         "SHELTER_ID": 367205,
         "SHELTER_NAME": "West Scranton High School",
         "ADDRESS": "1201 Luzerne Street",
@@ -399,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_3ee2",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_4061",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735828,
+        "objectid": 1735850,
         "SHELTER_ID": 367206,
         "SHELTER_NAME": "New Community Church",
         "ADDRESS": "21401 244th Ave SE",
@@ -443,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_3ee3",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_4062",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1735829,
+        "objectid": 1735851,
         "SHELTER_ID": 367201,
         "SHELTER_NAME": "Curtis D Menard Memorial Sports Center",
         "ADDRESS": "1001 S Mack Drive",
@@ -484,12 +396,100 @@
         -149.517,
         61.5721
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_4063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3456,
+          29.6738
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1735841,
+        "SHELTER_ID": 333381,
+        "SHELTER_NAME": "Greater St. Matthew Church - Booker Family Life Ctr",
+        "ADDRESS": "7701 Jutland Rd",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "ZIP": "77033",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 5,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Hill Country Chapter",
+        "ORG_ID": 121434,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 29.67381637,
+        "LONGITUDE": -95.3456064,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.3456,
+        29.6738,
+        -95.3456,
+        29.6738
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b077d7be0_4064",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9336,
+          46.6447
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1735843,
+        "SHELTER_ID": 109172,
+        "SHELTER_NAME": "St Johns Lutheran Church",
+        "ADDRESS": "2190 Jackson Highway",
+        "CITY": "CHEHALIS",
+        "STATE": "WA",
+        "ZIP": "98532",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 235,
+        "POST_IMPACT_CAPACITY": 117,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "MOUNT RAINIER",
+        "ORG_ID": 121632,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 46.64465259,
+        "LONGITUDE": -122.93355072,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.9336,
+        46.6447,
+        -122.9336,
+        46.6447
+      ]
     }
   ],
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2025-12-10T17:40:16.581Z",
+  "timeStamp": "2025-12-10T18:12:03.459Z",
   "crs": {
     "type": "name",
     "properties": {
