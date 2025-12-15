@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_108e",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1259",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1740260,
+        "objectid": 1740277,
         "SHELTER_ID": 333381,
         "SHELTER_NAME": "Greater St. Matthew Church - Booker Family Life Ctr",
         "ADDRESS": "7701 Jutland Rd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_108f",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_125a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1740261,
+        "objectid": 1740278,
         "SHELTER_ID": 367214,
         "SHELTER_NAME": "Central Church",
         "ADDRESS": "1124 Stevens Dr",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1090",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_125b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1740262,
+        "objectid": 1740279,
         "SHELTER_ID": 367225,
         "SHELTER_NAME": "George Dupuis Rec",
         "ADDRESS": "1212 E Pont Des Mouton",
@@ -135,139 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1091",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5882,
-          40.6948
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1740263,
-        "SHELTER_ID": 367200,
-        "SHELTER_NAME": "New Hope Apartments",
-        "ADDRESS": "301 NE Jefferson Ave",
-        "CITY": "Peoria",
-        "STATE": "IL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -89.5882,
-        40.6948,
-        -89.5882,
-        40.6948
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1092",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.6759,
-          46.6023
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1740264,
-        "SHELTER_ID": 367202,
-        "SHELTER_NAME": "Packwood Community Hall",
-        "ADDRESS": "12935 US 12",
-        "CITY": "Randle",
-        "STATE": "WA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -121.6759,
-        46.6023,
-        -121.6759,
-        46.6023
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1093",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.1848,
-          30.9545
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1740265,
-        "SHELTER_ID": 367226,
-        "SHELTER_NAME": "Bunkie City Hall Annex",
-        "ADDRESS": "107 W Oak St",
-        "CITY": "Bunkie",
-        "STATE": "LA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -92.1848,
-        30.9545,
-        -92.1848,
-        30.9545
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1094",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_125c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1740266,
+        "objectid": 1740280,
         "SHELTER_ID": 367203,
         "SHELTER_NAME": "Evergreen State Fairgrounds",
         "ADDRESS": "14405 179th Ave SE",
@@ -311,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1095",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_125d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1740267,
+        "objectid": 1740281,
         "SHELTER_ID": 367207,
         "SHELTER_NAME": "Bethany Covenant Church",
         "ADDRESS": "1318 S 18th St",
@@ -355,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1096",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_125e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1740268,
+        "objectid": 1740282,
         "SHELTER_ID": 367208,
         "SHELTER_NAME": "Outside-Evergreen State Fairgrounds",
         "ADDRESS": "14405 179th Ave SE",
@@ -399,21 +267,65 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1097",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_125f",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3199,
-          48.4114
+          -89.5882,
+          40.6948
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1740269,
-        "SHELTER_ID": 367213,
-        "SHELTER_NAME": "The Church of Jesus Christ of Latter-day Saints - Mount Vernon",
-        "ADDRESS": "1700 E Hazel St",
-        "CITY": "Mount Vernon",
+        "objectid": 1740283,
+        "SHELTER_ID": 367200,
+        "SHELTER_NAME": "New Hope Apartments",
+        "ADDRESS": "301 NE Jefferson Ave",
+        "CITY": "Peoria",
+        "STATE": "IL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.5882,
+        40.6948,
+        -89.5882,
+        40.6948
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1260",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6759,
+          46.6023
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1740284,
+        "SHELTER_ID": 367202,
+        "SHELTER_NAME": "Packwood Community Hall",
+        "ADDRESS": "12935 US 12",
+        "CITY": "Randle",
         "STATE": "WA",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
@@ -435,30 +347,30 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -122.3199,
-        48.4114,
-        -122.3199,
-        48.4114
+        -121.6759,
+        46.6023,
+        -121.6759,
+        46.6023
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1098",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1261",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.5633,
-          28.788
+          -92.1848,
+          30.9545
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1740270,
-        "SHELTER_ID": 367219,
-        "SHELTER_NAME": "Nature Coast Church",
-        "ADDRESS": "5113 S Suncoast Blvd",
-        "CITY": "Homosassa",
-        "STATE": "FL",
+        "objectid": 1740285,
+        "SHELTER_ID": 367226,
+        "SHELTER_NAME": "Bunkie City Hall Annex",
+        "ADDRESS": "107 W Oak St",
+        "CITY": "Bunkie",
+        "STATE": "LA",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
@@ -479,59 +391,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -82.5633,
-        28.788,
-        -82.5633,
-        28.788
+        -92.1848,
+        30.9545,
+        -92.1848,
+        30.9545
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1099",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.2169,
-          47.2999
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1740271,
-        "SHELTER_ID": 367220,
-        "SHELTER_NAME": "Auburn Community And Event Center",
-        "ADDRESS": "910 9th St S",
-        "CITY": "Auburn",
-        "STATE": "WA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.2169,
-        47.2999,
-        -122.2169,
-        47.2999
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_109a",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1262",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1740272,
+        "objectid": 1740286,
         "SHELTER_ID": 367222,
         "SHELTER_NAME": "New Life Church",
         "ADDRESS": "1410 N Springfield Ave",
@@ -575,22 +443,22 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_109b",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1263",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.5039,
-          40.648
+          -122.3199,
+          48.4114
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1740273,
-        "SHELTER_ID": 367217,
-        "SHELTER_NAME": "Whitehall High School",
-        "ADDRESS": "3800 Mechanicsville Rd",
-        "CITY": "Whitehall",
-        "STATE": "PA",
+        "objectid": 1740287,
+        "SHELTER_ID": 367213,
+        "SHELTER_NAME": "The Church of Jesus Christ of Latter-day Saints - Mount Vernon",
+        "ADDRESS": "1700 E Hazel St",
+        "CITY": "Mount Vernon",
+        "STATE": "WA",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
@@ -611,30 +479,30 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -75.5039,
-        40.648,
-        -75.5039,
-        40.648
+        -122.3199,
+        48.4114,
+        -122.3199,
+        48.4114
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_109c",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1264",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.9949,
-          43.0883
+          -82.5633,
+          28.788
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1740274,
-        "SHELTER_ID": 367223,
-        "SHELTER_NAME": "Milwaukee Environmental Sciences School",
-        "ADDRESS": "6600 W Melvina St",
-        "CITY": "Milwaukee",
-        "STATE": "WI",
+        "objectid": 1740288,
+        "SHELTER_ID": 367219,
+        "SHELTER_NAME": "Nature Coast Church",
+        "ADDRESS": "5113 S Suncoast Blvd",
+        "CITY": "Homosassa",
+        "STATE": "FL",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
@@ -655,15 +523,59 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -87.9949,
-        43.0883,
-        -87.9949,
-        43.0883
+        -82.5633,
+        28.788,
+        -82.5633,
+        28.788
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_109d",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1265",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2169,
+          47.2999
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1740289,
+        "SHELTER_ID": 367220,
+        "SHELTER_NAME": "Auburn Community And Event Center",
+        "ADDRESS": "910 9th St S",
+        "CITY": "Auburn",
+        "STATE": "WA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.2169,
+        47.2999,
+        -122.2169,
+        47.2999
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1266",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1740275,
+        "objectid": 1740290,
         "SHELTER_ID": 367224,
         "SHELTER_NAME": "Lehigh Carbon Community College - Berrier Hall",
         "ADDRESS": "4525 Educational Park Drive",
@@ -707,7 +619,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_109e",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1267",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5039,
+          40.648
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1740291,
+        "SHELTER_ID": 367217,
+        "SHELTER_NAME": "Whitehall High School",
+        "ADDRESS": "3800 Mechanicsville Rd",
+        "CITY": "Whitehall",
+        "STATE": "PA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.5039,
+        40.648,
+        -75.5039,
+        40.648
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1268",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9949,
+          43.0883
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1740292,
+        "SHELTER_ID": 367223,
+        "SHELTER_NAME": "Milwaukee Environmental Sciences School",
+        "ADDRESS": "6600 W Melvina St",
+        "CITY": "Milwaukee",
+        "STATE": "WI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.9949,
+        43.0883,
+        -87.9949,
+        43.0883
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2218f9cc_1269",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1740276,
+        "objectid": 1740293,
         "SHELTER_ID": 367227,
         "SHELTER_NAME": "Hopewell Missionary Baptist Church",
         "ADDRESS": "182 Hunter St",
@@ -753,7 +753,7 @@
   "totalFeatures": 17,
   "numberMatched": 17,
   "numberReturned": 17,
-  "timeStamp": "2025-12-15T17:11:14.905Z",
+  "timeStamp": "2025-12-15T17:41:12.297Z",
   "crs": {
     "type": "name",
     "properties": {
