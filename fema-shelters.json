@@ -3,315 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c01",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.3456,
-          29.6738
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1744338,
-        "SHELTER_ID": 333381,
-        "SHELTER_NAME": "Greater St. Matthew Church - Booker Family Life Ctr",
-        "ADDRESS": "7701 Jutland Rd",
-        "CITY": "Houston",
-        "STATE": "TX",
-        "ZIP": "77033",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 5,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Hill Country Chapter",
-        "ORG_ID": 121434,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 29.67381637,
-        "LONGITUDE": -95.3456064,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.3456,
-        29.6738,
-        -95.3456,
-        29.6738
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c02",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.6817,
-          41.8745
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1744339,
-        "SHELTER_ID": 366080,
-        "SHELTER_NAME": "Rauner Center",
-        "ADDRESS": "2200 W Harrison Street",
-        "CITY": "Chicago",
-        "STATE": "IL",
-        "ZIP": "60612",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.6817,
-        41.8745,
-        -87.6817,
-        41.8745
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c03",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.5351,
-          38.2899
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1744352,
-        "SHELTER_ID": 337665,
-        "SHELTER_NAME": "UAW 862 Chamberlain Lane",
-        "ADDRESS": "2702 Chamberlain Lane",
-        "CITY": "LOUISVILLE",
-        "STATE": "KY",
-        "ZIP": "40245",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 100,
-        "POST_IMPACT_CAPACITY": 50,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Louisville Area Chapter",
-        "ORG_ID": 121558,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 38.28993295,
-        "LONGITUDE": -85.53511822,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.5351,
-        38.2899,
-        -85.5351,
-        38.2899
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c04",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -100.2099,
-          34.8593
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1744356,
-        "SHELTER_ID": 366043,
-        "SHELTER_NAME": "Wellington Activity Center",
-        "ADDRESS": "50 Corsicana Street",
-        "CITY": "Wellington",
-        "STATE": "TX",
-        "ZIP": "79095",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -100.2099,
-        34.8593,
-        -100.2099,
-        34.8593
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c05",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.4191,
-          39.4189
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1744357,
-        "SHELTER_ID": 367119,
-        "SHELTER_NAME": "Horticulture Building Wabash Valley Fairgrounds",
-        "ADDRESS": "3901 S US Highway 41",
-        "CITY": "Terre Haute",
-        "STATE": "IN",
-        "ZIP": "47803",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.4191,
-        39.4189,
-        -87.4191,
-        39.4189
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c06",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.4031,
-          35.6645
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1744359,
-        "SHELTER_ID": 366044,
-        "SHELTER_NAME": "Johnson Park Youth Center",
-        "ADDRESS": "1210 Bulldog Blvd",
-        "CITY": "Borger",
-        "STATE": "TX",
-        "ZIP": "79007",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -101.4031,
-        35.6645,
-        -101.4031,
-        35.6645
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c07",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.8497,
-          35.2342
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1744360,
-        "SHELTER_ID": 366045,
-        "SHELTER_NAME": "Charles E Warford Activity Center",
-        "ADDRESS": "1330 NW 18th Avenue",
-        "CITY": "Amarillo",
-        "STATE": "TX",
-        "ZIP": "79107",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 9,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -101.8497,
-        35.2342,
-        -101.8497,
-        35.2342
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c08",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f0f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744340,
+        "objectid": 1744409,
         "SHELTER_ID": 367214,
         "SHELTER_NAME": "Central Church",
         "ADDRESS": "1124 Stevens Dr",
@@ -355,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c09",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f10",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,95 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744341,
-        "SHELTER_ID": 367203,
-        "SHELTER_NAME": "Evergreen State Fairgrounds",
-        "ADDRESS": "14405 179th Ave SE",
-        "CITY": "Monroe",
-        "STATE": "WA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -121.9863,
-        47.8654,
-        -121.9863,
-        47.8654
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c0a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3179,
-          48.4124
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1744342,
-        "SHELTER_ID": 367207,
-        "SHELTER_NAME": "Bethany Covenant Church",
-        "ADDRESS": "1318 S 18th St",
-        "CITY": "Mount Vernon",
-        "STATE": "WA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.3179,
-        48.4124,
-        -122.3179,
-        48.4124
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c0b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.9863,
-          47.8654
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1744343,
+        "objectid": 1744410,
         "SHELTER_ID": 367208,
         "SHELTER_NAME": "Outside-Evergreen State Fairgrounds",
         "ADDRESS": "14405 179th Ave SE",
@@ -487,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c0c",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f11",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744344,
+        "objectid": 1744411,
         "SHELTER_ID": 367209,
         "SHELTER_NAME": "Meridian Habitat Park",
         "ADDRESS": "14422 Meridian Ave E",
@@ -531,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c0d",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f12",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744345,
+        "objectid": 1744412,
         "SHELTER_ID": 367200,
         "SHELTER_NAME": "New Hope Apartments",
         "ADDRESS": "301 NE Jefferson Ave",
@@ -575,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c0e",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f13",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744346,
+        "objectid": 1744413,
         "SHELTER_ID": 367202,
         "SHELTER_NAME": "Packwood Community Hall",
         "ADDRESS": "12935 US 12",
@@ -619,7 +223,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c0f",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9863,
+          47.8654
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1744414,
+        "SHELTER_ID": 367203,
+        "SHELTER_NAME": "Evergreen State Fairgrounds",
+        "ADDRESS": "14405 179th Ave SE",
+        "CITY": "Monroe",
+        "STATE": "WA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -121.9863,
+        47.8654,
+        -121.9863,
+        47.8654
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3179,
+          48.4124
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1744415,
+        "SHELTER_ID": 367207,
+        "SHELTER_NAME": "Bethany Covenant Church",
+        "ADDRESS": "1318 S 18th St",
+        "CITY": "Mount Vernon",
+        "STATE": "WA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.3179,
+        48.4124,
+        -122.3179,
+        48.4124
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f16",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744347,
+        "objectid": 1744416,
         "SHELTER_ID": 367213,
         "SHELTER_NAME": "The Church of Jesus Christ of Latter-day Saints - Mount Vernon",
         "ADDRESS": "1700 E Hazel St",
@@ -663,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c10",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f17",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744348,
+        "objectid": 1744417,
         "SHELTER_ID": 367220,
         "SHELTER_NAME": "Auburn Community And Event Center",
         "ADDRESS": "910 9th St S",
@@ -707,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c11",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f18",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744349,
+        "objectid": 1744418,
         "SHELTER_ID": 367222,
         "SHELTER_NAME": "New Life Church",
         "ADDRESS": "1410 N Springfield Ave",
@@ -751,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c12",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f19",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744350,
+        "objectid": 1744419,
         "SHELTER_ID": 367223,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -795,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c13",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f1a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744351,
+        "objectid": 1744420,
         "SHELTER_ID": 367224,
         "SHELTER_NAME": "Lehigh Carbon Community College - Berrier Hall",
         "ADDRESS": "4525 Educational Park Drive",
@@ -839,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c14",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f1b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744353,
+        "objectid": 1744421,
         "SHELTER_ID": 367232,
         "SHELTER_NAME": "Callahan Methodist Church",
         "ADDRESS": "449638 US 301",
@@ -883,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c15",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f1c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744354,
+        "objectid": 1744422,
         "SHELTER_ID": 367233,
         "SHELTER_NAME": "Mount Baker Presbyterian Church",
         "ADDRESS": "45705 Main St",
@@ -927,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c16",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f1d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -937,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744355,
+        "objectid": 1744423,
         "SHELTER_ID": 367234,
         "SHELTER_NAME": "NCS - Days Inn Mt Vernon",
         "ADDRESS": "2009 Riverside Dr",
@@ -971,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7c17",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f1e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -981,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1744358,
+        "objectid": 1744427,
         "SHELTER_ID": 367235,
         "SHELTER_NAME": "Glenwood Recreation Center",
         "ADDRESS": "2010 Coliseum Blvd",
@@ -1012,12 +704,320 @@
         -79.8226,
         36.0494
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f1f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3456,
+          29.6738
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1744407,
+        "SHELTER_ID": 333381,
+        "SHELTER_NAME": "Greater St. Matthew Church - Booker Family Life Ctr",
+        "ADDRESS": "7701 Jutland Rd",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "ZIP": "77033",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 5,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Hill Country Chapter",
+        "ORG_ID": 121434,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 29.67381637,
+        "LONGITUDE": -95.3456064,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.3456,
+        29.6738,
+        -95.3456,
+        29.6738
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6817,
+          41.8745
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1744408,
+        "SHELTER_ID": 366080,
+        "SHELTER_NAME": "Rauner Center",
+        "ADDRESS": "2200 W Harrison Street",
+        "CITY": "Chicago",
+        "STATE": "IL",
+        "ZIP": "60612",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.6817,
+        41.8745,
+        -87.6817,
+        41.8745
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2099,
+          34.8593
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1744424,
+        "SHELTER_ID": 366043,
+        "SHELTER_NAME": "Wellington Activity Center",
+        "ADDRESS": "50 Corsicana Street",
+        "CITY": "Wellington",
+        "STATE": "TX",
+        "ZIP": "79095",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -100.2099,
+        34.8593,
+        -100.2099,
+        34.8593
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5351,
+          38.2899
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1744425,
+        "SHELTER_ID": 337665,
+        "SHELTER_NAME": "UAW 862 Chamberlain Lane",
+        "ADDRESS": "2702 Chamberlain Lane",
+        "CITY": "LOUISVILLE",
+        "STATE": "KY",
+        "ZIP": "40245",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 100,
+        "POST_IMPACT_CAPACITY": 50,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Louisville Area Chapter",
+        "ORG_ID": 121558,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 38.28993295,
+        "LONGITUDE": -85.53511822,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.5351,
+        38.2899,
+        -85.5351,
+        38.2899
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4191,
+          39.4189
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1744426,
+        "SHELTER_ID": 367119,
+        "SHELTER_NAME": "Horticulture Building Wabash Valley Fairgrounds",
+        "ADDRESS": "3901 S US Highway 41",
+        "CITY": "Terre Haute",
+        "STATE": "IN",
+        "ZIP": "47803",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.4191,
+        39.4189,
+        -87.4191,
+        39.4189
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4031,
+          35.6645
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1744428,
+        "SHELTER_ID": 366044,
+        "SHELTER_NAME": "Johnson Park Youth Center",
+        "ADDRESS": "1210 Bulldog Blvd",
+        "CITY": "Borger",
+        "STATE": "TX",
+        "ZIP": "79007",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -101.4031,
+        35.6645,
+        -101.4031,
+        35.6645
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b2fd4af63_7f25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8497,
+          35.2342
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1744429,
+        "SHELTER_ID": 366045,
+        "SHELTER_NAME": "Charles E Warford Activity Center",
+        "ADDRESS": "1330 NW 18th Avenue",
+        "CITY": "Amarillo",
+        "STATE": "TX",
+        "ZIP": "79107",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 9,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -101.8497,
+        35.2342,
+        -101.8497,
+        35.2342
+      ]
     }
   ],
   "totalFeatures": 23,
   "numberMatched": 23,
   "numberReturned": 23,
-  "timeStamp": "2025-12-18T15:08:59.313Z",
+  "timeStamp": "2025-12-18T16:10:46.875Z",
   "crs": {
     "type": "name",
     "properties": {
