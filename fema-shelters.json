@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54df",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-545b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8582,
+          37.5018
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1750740,
+        "SHELTER_ID": 359011,
+        "SHELTER_NAME": "Stanislaus County Fairgrounds",
+        "ADDRESS": "900 N Broadway",
+        "CITY": "Turlock",
+        "STATE": "CA",
+        "ZIP": "95380",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 40,
+        "POST_IMPACT_CAPACITY": 1,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 37.5017919,
+        "LONGITUDE": -120.8582462,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.8582,
+        37.5018,
+        -120.8582,
+        37.5018
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-545a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1750696,
+        "objectid": 1750741,
         "SHELTER_ID": 366080,
         "SHELTER_NAME": "Rauner Center",
         "ADDRESS": "2200 W Harrison St",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54de",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-5459",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1750697,
+        "objectid": 1750742,
         "SHELTER_ID": 367093,
         "SHELTER_NAME": "Milwaukee Environmental Sciences School",
         "ADDRESS": "6600 W Melvina St",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54dd",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-5458",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1750698,
+        "objectid": 1750743,
         "SHELTER_ID": 367220,
         "SHELTER_NAME": "Auburn Community And Event Center",
         "ADDRESS": "910 9th St S",
@@ -111,7 +155,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 35,
+        "TOTAL_POPULATION": 34,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": null,
@@ -135,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54dc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.8312,
-          30.5619
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1750699,
-        "SHELTER_ID": 367232,
-        "SHELTER_NAME": "Callahan Methodist Church",
-        "ADDRESS": "449638 US 301",
-        "CITY": "Callahan",
-        "STATE": "FL",
-        "ZIP": "32011",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.8312,
-        30.5619,
-        -81.8312,
-        30.5619
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54db",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-5457",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1750700,
+        "objectid": 1750744,
         "SHELTER_ID": 367216,
         "SHELTER_NAME": "Libby Memorial Events Center",
         "ADDRESS": "111 E Lincoln Blvd",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54da",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-5456",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1750701,
+        "objectid": 1750745,
         "SHELTER_ID": 367240,
         "SHELTER_NAME": "Bethlehem Lutheran Church",
         "ADDRESS": "1006 Wicker Rd",
@@ -267,51 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54d9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3154,
-          48.4073
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1750703,
-        "SHELTER_ID": 367244,
-        "SHELTER_NAME": "First Evangelical Lutheran Church",
-        "ADDRESS": "2015 E Blackburn Rd",
-        "CITY": "Mount Vernon",
-        "STATE": "WA",
-        "ZIP": "98274",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 28,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.3154,
-        48.4073,
-        -122.3154,
-        48.4073
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54d8",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-5455",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1750704,
+        "objectid": 1750747,
         "SHELTER_ID": 367203,
         "SHELTER_NAME": "Evergreen State Fairgrounds",
         "ADDRESS": "14405 179th Ave SE",
@@ -331,7 +287,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 60,
+        "TOTAL_POPULATION": 31,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": null,
@@ -355,51 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54d7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.5817,
-          45.0582
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1750705,
-        "SHELTER_ID": 367241,
-        "SHELTER_NAME": "Spirit Mountain Casino",
-        "ADDRESS": "27100 Salmon River Hwy",
-        "CITY": "Grand Rhonde",
-        "STATE": "OR",
-        "ZIP": "97347",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -123.5817,
-        45.0582,
-        -123.5817,
-        45.0582
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54d6",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-5454",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1750706,
+        "objectid": 1750748,
         "SHELTER_ID": 367202,
         "SHELTER_NAME": "Packwood Community Hall",
         "ADDRESS": "12935 US 12",
@@ -419,7 +331,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 20,
+        "TOTAL_POPULATION": 18,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": null,
@@ -443,227 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54d5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.2835,
-          46.2839
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1750707,
-        "SHELTER_ID": 367214,
-        "SHELTER_NAME": "Central Church",
-        "ADDRESS": "1124 Stevens Dr",
-        "CITY": "Richland",
-        "STATE": "WA",
-        "ZIP": "99352",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -119.2835,
-        46.2839,
-        -119.2835,
-        46.2839
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54d4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.2073,
-          41.17
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1750709,
-        "SHELTER_ID": 367247,
-        "SHELTER_NAME": "Cesar A. Batalla School",
-        "ADDRESS": "606 Howard Ave",
-        "CITY": "Bridgeport",
-        "STATE": "CT",
-        "ZIP": "06605",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -73.2073,
-        41.17,
-        -73.2073,
-        41.17
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54d3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.1191,
-          40.3483
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1750710,
-        "SHELTER_ID": 367248,
-        "SHELTER_NAME": "Conrad Weiser High School",
-        "ADDRESS": "44 Big Spring Rd",
-        "CITY": "Robesonia",
-        "STATE": "PA",
-        "ZIP": "19551",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -76.1191,
-        40.3483,
-        -76.1191,
-        40.3483
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54d2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3511,
-          48.8849
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1750711,
-        "SHELTER_ID": 367249,
-        "SHELTER_NAME": "Sulwhanon Community Building of the Nooksack Indian Tribe",
-        "ADDRESS": "2515 Sulwhanon Dr",
-        "CITY": "Everson",
-        "STATE": "WA",
-        "ZIP": "98247",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.3511,
-        48.8849,
-        -122.3511,
-        48.8849
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54d1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.4945,
-          29.6677
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1750712,
-        "SHELTER_ID": 367250,
-        "SHELTER_NAME": "Westbury Christian School",
-        "ADDRESS": "10420 Hillcroft Street",
-        "CITY": "Houston",
-        "STATE": "TX",
-        "ZIP": "77096",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.4945,
-        29.6677,
-        -95.4945,
-        29.6677
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54d0",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-5453",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1750713,
+        "objectid": 1750750,
         "SHELTER_ID": 367208,
         "SHELTER_NAME": "Outside-Evergreen State Fairgrounds",
         "ADDRESS": "14405 179th Ave SE",
@@ -683,7 +375,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 3,
+        "TOTAL_POPULATION": 2,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": null,
@@ -707,34 +399,34 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54cf",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-5452",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.109,
-          39.6796
+          -95.4945,
+          29.6677
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1750714,
-        "SHELTER_ID": 367246,
-        "SHELTER_NAME": "Carmody Middle School",
-        "ADDRESS": "2050 S Kipling Street",
-        "CITY": "Lakewood",
-        "STATE": "CO",
-        "ZIP": "80227",
+        "objectid": 1750751,
+        "SHELTER_ID": 367250,
+        "SHELTER_NAME": "Westbury Christian School",
+        "ADDRESS": "10420 Hillcroft Street",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "ZIP": "77096",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
+        "TOTAL_POPULATION": 5,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
         "ORG_ID": 126165,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
+        "SUBFACILITY_CODE": "GENPOPSHEL",
         "ADA_COMPLIANT": null,
         "PET_ACCOMMODATIONS_CODE": null,
         "WHEELCHAIR_ACCESSIBLE": null,
@@ -743,103 +435,59 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -105.109,
-        39.6796,
-        -105.109,
-        39.6796
+        -95.4945,
+        29.6677,
+        -95.4945,
+        29.6677
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54ce",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-5451",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.1116,
-          46.9945
+          -123.3117,
+          44.9196
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1750715,
-        "SHELTER_ID": 110164,
-        "SHELTER_NAME": "Superior Elementary School",
-        "ADDRESS": "1003 5th Avenue East",
-        "CITY": "Superior",
-        "STATE": "MT",
-        "ZIP": "59872",
+        "objectid": 1750752,
+        "SHELTER_ID": 76351,
+        "SHELTER_NAME": "Trinity Lutheran Church",
+        "ADDRESS": "320 SE Fir Villa Rd",
+        "CITY": "Dallas",
+        "STATE": "OR",
+        "ZIP": "97338",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 0,
+        "EVACUATION_CAPACITY": 250,
+        "POST_IMPACT_CAPACITY": 125,
         "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC OF MONTANA CHAPTER",
-        "ORG_ID": 121180,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 46.99451773,
-        "LONGITUDE": -114.11159573,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -114.1116,
-        46.9945,
-        -114.1116,
-        46.9945
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54cd",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.5169,
-          39.8343
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1750716,
-        "SHELTER_ID": 236574,
-        "SHELTER_NAME": "Gilpin County School",
-        "ADDRESS": "10595 Highway 119",
-        "CITY": "Black Hawk",
-        "STATE": "CO",
-        "ZIP": "80422",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 200,
-        "POST_IMPACT_CAPACITY": 100,
-        "TOTAL_POPULATION": 3,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "MILE HIGH CHAPTER",
-        "ORG_ID": 121615,
+        "ORG_NAME": "WILLAMETTE CHAPTER",
+        "ORG_ID": 121956,
         "MATCH_TYPE": "A",
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "GENPOPSHEL",
         "ADA_COMPLIANT": " ",
         "PET_ACCOMMODATIONS_CODE": " ",
         "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 39.83428332,
-        "LONGITUDE": -105.51689972,
+        "LATITUDE": 44.91959106,
+        "LONGITUDE": -123.31174261,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -105.5169,
-        39.8343,
-        -105.5169,
-        39.8343
+        -123.3117,
+        44.9196,
+        -123.3117,
+        44.9196
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54cc",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-5450",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1750717,
+        "objectid": 1750753,
         "SHELTER_ID": 76332,
         "SHELTER_NAME": "Upper Mckenzie Community Center",
         "ADDRESS": "54745 Mckenzie River Dr",
@@ -883,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54cb",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-544f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1750702,
+        "objectid": 1750746,
         "SHELTER_ID": 367245,
         "SHELTER_NAME": "NCS-Packwood Inn",
         "ADDRESS": "13032 US Hwy 12",
@@ -927,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-54ca",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b46259dbf_-544e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -937,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1750708,
+        "objectid": 1750749,
         "SHELTER_ID": 367234,
         "SHELTER_NAME": "NCS - Days Inn Mt Vernon",
         "ADDRESS": "2009 Riverside Dr",
@@ -970,10 +618,10 @@
       ]
     }
   ],
-  "totalFeatures": 22,
-  "numberMatched": 22,
-  "numberReturned": 22,
-  "timeStamp": "2025-12-22T13:44:11.438Z",
+  "totalFeatures": 14,
+  "numberMatched": 14,
+  "numberReturned": 14,
+  "timeStamp": "2025-12-22T14:09:00.630Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -981,9 +629,9 @@
     }
   },
   "bbox": [
-    -123.5817,
+    -123.3117,
     29.6677,
-    -73.2073,
-    48.8849
+    -87.6817,
+    48.5077
   ]
 }
