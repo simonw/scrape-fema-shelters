@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b6b0db593_-9eb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.9949,
-          43.0883
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1752087,
-        "SHELTER_ID": 367093,
-        "SHELTER_NAME": "Milwaukee Environmental Sciences School",
-        "ADDRESS": "6600 W Melvina St",
-        "CITY": "Milwaukee",
-        "STATE": "WI",
-        "ZIP": "53216",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.9949,
-        43.0883,
-        -87.9949,
-        43.0883
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b6b0db593_-9ea",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.2169,
-          47.2999
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1752088,
-        "SHELTER_ID": 367220,
-        "SHELTER_NAME": "Auburn Community And Event Center",
-        "ADDRESS": "910 9th St S",
-        "CITY": "Auburn",
-        "STATE": "WA",
-        "ZIP": "98002",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 33,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.2169,
-        47.2999,
-        -122.2169,
-        47.2999
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b6b0db593_-9e9",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b6b0db593_-996",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1752089,
+        "objectid": 1752096,
         "SHELTER_ID": 367216,
         "SHELTER_NAME": "Libby Memorial Events Center",
         "ADDRESS": "111 E Lincoln Blvd",
@@ -135,27 +47,71 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b6b0db593_-9e8",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b6b0db593_-995",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2237,
-          48.5077
+          -117.5724,
+          34.4131
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1752090,
-        "SHELTER_ID": 367240,
-        "SHELTER_NAME": "Bethlehem Lutheran Church",
-        "ADDRESS": "1006 Wicker Rd",
-        "CITY": "Sedro Woolley",
-        "STATE": "WA",
-        "ZIP": "98284",
+        "objectid": 1752097,
+        "SHELTER_ID": 173683,
+        "SHELTER_NAME": "Serrano High School",
+        "ADDRESS": "9292 Sheep Creek Road",
+        "CITY": "Phelan",
+        "STATE": "CA",
+        "ZIP": "92371",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1150,
+        "POST_IMPACT_CAPACITY": 575,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HIGH DESERT CHAPTER",
+        "ORG_ID": 121481,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.41314454,
+        "LONGITUDE": -117.57235935,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.5724,
+        34.4131,
+        -117.5724,
+        34.4131
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b6b0db593_-994",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0805,
+          37.7785
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1752098,
+        "SHELTER_ID": 367277,
+        "SHELTER_NAME": "June Lake Community Center",
+        "ADDRESS": "90 W Granite Ave",
+        "CITY": "June Lake",
+        "STATE": "CA",
+        "ZIP": "93529",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 14,
+        "TOTAL_POPULATION": null,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "Independent",
@@ -163,245 +119,69 @@
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
         "LATITUDE": null,
         "LONGITUDE": null,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -122.2237,
-        48.5077,
-        -122.2237,
-        48.5077
+        -119.0805,
+        37.7785,
+        -119.0805,
+        37.7785
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b6b0db593_-9e7",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b6b0db593_-993",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.4945,
-          29.6677
+          -96.8317,
+          32.8089
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1752091,
-        "SHELTER_ID": 367250,
-        "SHELTER_NAME": "Westbury Christian School",
-        "ADDRESS": "10420 Hillcroft Street",
-        "CITY": "Houston",
-        "STATE": "TX",
-        "ZIP": "77096",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.4945,
-        29.6677,
-        -95.4945,
-        29.6677
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b6b0db593_-9e6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.3117,
-          44.9196
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1752092,
-        "SHELTER_ID": 76351,
-        "SHELTER_NAME": "Trinity Lutheran Church",
-        "ADDRESS": "320 SE Fir Villa Rd",
+        "objectid": 1752099,
+        "SHELTER_ID": 367278,
+        "SHELTER_NAME": "Dallas Red Cross Office",
+        "ADDRESS": "2055 Kendall Dr",
         "CITY": "Dallas",
-        "STATE": "OR",
-        "ZIP": "97338",
+        "STATE": "TX",
+        "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 250,
-        "POST_IMPACT_CAPACITY": 125,
-        "TOTAL_POPULATION": 0,
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "WILLAMETTE CHAPTER",
-        "ORG_ID": 121956,
-        "MATCH_TYPE": "A",
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 44.91959106,
-        "LONGITUDE": -123.31174261,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -123.3117,
-        44.9196,
-        -123.3117,
-        44.9196
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b6b0db593_-9e5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9474,
-          37.5905
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1752093,
-        "SHELTER_ID": 367272,
-        "SHELTER_NAME": "American Legion Hall",
-        "ADDRESS": "2609 Lawrence St",
-        "CITY": "Ceres",
-        "STATE": "CA",
-        "ZIP": "95307",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "3",
-        "ORG_ID": 119230,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
         "LATITUDE": null,
         "LONGITUDE": null,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -120.9474,
-        37.5905,
-        -120.9474,
-        37.5905
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b6b0db593_-9e4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.413,
-          40.5836
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1752094,
-        "SHELTER_ID": 367251,
-        "SHELTER_NAME": "Pilgrim Congregational Church",
-        "ADDRESS": "2850 Foothill Blvd",
-        "CITY": "Redding",
-        "STATE": "CA",
-        "ZIP": "96001",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.413,
-        40.5836,
-        -122.413,
-        40.5836
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b6b0db593_-9e3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.2216,
-          44.171
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1752095,
-        "SHELTER_ID": 76332,
-        "SHELTER_NAME": "Upper Mckenzie Community Center",
-        "ADDRESS": "54745 Mckenzie River Dr",
-        "CITY": "Blue River",
-        "STATE": "OR",
-        "ZIP": "97413",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 120,
-        "POST_IMPACT_CAPACITY": 60,
-        "TOTAL_POPULATION": 3,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "OREGON PACIFIC CHAPTER",
-        "ORG_ID": 121707,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 44.17104037,
-        "LONGITUDE": -122.22156646,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.2216,
-        44.171,
-        -122.2216,
-        44.171
+        -96.8317,
+        32.8089,
+        -96.8317,
+        32.8089
       ]
     }
   ],
-  "totalFeatures": 9,
-  "numberMatched": 9,
-  "numberReturned": 9,
-  "timeStamp": "2025-12-29T17:07:47.260Z",
+  "totalFeatures": 4,
+  "numberMatched": 4,
+  "numberReturned": 4,
+  "timeStamp": "2025-12-29T17:37:56.446Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -409,9 +189,9 @@
     }
   },
   "bbox": [
-    -123.3117,
-    29.6677,
-    -87.9949,
-    48.5077
+    -119.0805,
+    32.8089,
+    -96.8317,
+    48.3887
   ]
 }
