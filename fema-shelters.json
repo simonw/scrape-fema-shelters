@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-391c",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-37d8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1752503,
+        "objectid": 1752512,
         "SHELTER_ID": 367216,
         "SHELTER_NAME": "Libby Memorial Events Center",
         "ADDRESS": "111 E Lincoln Blvd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-391b",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-37d7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1752509,
+        "objectid": 1752515,
         "SHELTER_ID": 173683,
         "SHELTER_NAME": "Serrano High School",
         "ADDRESS": "9292 Sheep Creek Road",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-391a",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-37d6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1752510,
+        "objectid": 1752519,
         "SHELTER_ID": 367277,
         "SHELTER_NAME": "June Lake Community Center",
         "ADDRESS": "90 W Granite Ave",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-3919",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-37d5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1752504,
+        "objectid": 1752513,
         "SHELTER_ID": 367279,
         "SHELTER_NAME": "Sister Bay Liberty Grove Fire Department",
         "ADDRESS": "2258 Mill Rd",
@@ -179,139 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-3918",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.0844,
-          32.5135
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1752505,
-        "SHELTER_ID": 367280,
-        "SHELTER_NAME": "Lillie M. Marbles Community Center",
-        "ADDRESS": "2950 Renwick Street",
-        "CITY": "Monroe",
-        "STATE": "LA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -92.0844,
-        32.5135,
-        -92.0844,
-        32.5135
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-3917",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.9978,
-          30.2718
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1752506,
-        "SHELTER_ID": 367281,
-        "SHELTER_NAME": "George Dupuis Rec",
-        "ADDRESS": "1212 E Pont Des Mouton",
-        "CITY": "Lafayette",
-        "STATE": "LA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -91.9978,
-        30.2718,
-        -91.9978,
-        30.2718
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-3916",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.1848,
-          30.9545
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1752507,
-        "SHELTER_ID": 367282,
-        "SHELTER_NAME": "Bunkie City Hall Annex",
-        "ADDRESS": "107 W Oak St",
-        "CITY": "Bunkie",
-        "STATE": "LA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -92.1848,
-        30.9545,
-        -92.1848,
-        30.9545
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-3915",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-37d4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1752508,
+        "objectid": 1752514,
         "SHELTER_ID": 367283,
         "SHELTER_NAME": "Callahan Methodist Church",
         "ADDRESS": "449638 US 301",
@@ -355,7 +223,139 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-3914",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-37d3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0844,
+          32.5135
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1752516,
+        "SHELTER_ID": 367280,
+        "SHELTER_NAME": "Lillie M. Marbles Community Center",
+        "ADDRESS": "2950 Renwick Street",
+        "CITY": "Monroe",
+        "STATE": "LA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -92.0844,
+        32.5135,
+        -92.0844,
+        32.5135
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-37d2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9978,
+          30.2718
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1752517,
+        "SHELTER_ID": 367281,
+        "SHELTER_NAME": "George Dupuis Rec",
+        "ADDRESS": "1212 E Pont Des Mouton",
+        "CITY": "Lafayette",
+        "STATE": "LA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -91.9978,
+        30.2718,
+        -91.9978,
+        30.2718
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-37d1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1848,
+          30.9545
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1752518,
+        "SHELTER_ID": 367282,
+        "SHELTER_NAME": "Bunkie City Hall Annex",
+        "ADDRESS": "107 W Oak St",
+        "CITY": "Bunkie",
+        "STATE": "LA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -92.1848,
+        30.9545,
+        -92.1848,
+        30.9545
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b70af5647_-37d0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1752511,
+        "objectid": 1752520,
         "SHELTER_ID": 367278,
         "SHELTER_NAME": "Dallas Red Cross Office",
         "ADDRESS": "2055 Kendall Dr",
@@ -401,7 +401,7 @@
   "totalFeatures": 9,
   "numberMatched": 9,
   "numberReturned": 9,
-  "timeStamp": "2025-12-30T20:09:02.077Z",
+  "timeStamp": "2025-12-30T20:39:03.883Z",
   "crs": {
     "type": "name",
     "properties": {
