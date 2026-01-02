@@ -3,34 +3,34 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b7d14340f_768f",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_273d",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.5522,
-          48.3887
+          -94.4708,
+          38.8114
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754338,
-        "SHELTER_ID": 367216,
-        "SHELTER_NAME": "Libby Memorial Events Center",
-        "ADDRESS": "111 E Lincoln Blvd",
-        "CITY": "Libby",
-        "STATE": "MT",
-        "ZIP": "59923",
+        "objectid": 1754351,
+        "SHELTER_ID": 367289,
+        "SHELTER_NAME": "Bethlehem Lutheran Church",
+        "ADDRESS": "310 Johnston Pkwy",
+        "CITY": "Raymore",
+        "STATE": "MO",
+        "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
         "TOTAL_POPULATION": null,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
+        "ORG_NAME": null,
+        "ORG_ID": null,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
+        "SUBFACILITY_CODE": "GENPOPSHEL",
         "ADA_COMPLIANT": "UNK",
         "PET_ACCOMMODATIONS_CODE": "NONE",
         "WHEELCHAIR_ACCESSIBLE": "UNK",
@@ -39,15 +39,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -115.5522,
-        48.3887,
-        -115.5522,
-        48.3887
+        -94.4708,
+        38.8114,
+        -94.4708,
+        38.8114
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b7d14340f_7690",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_273e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754339,
+        "objectid": 1754352,
         "SHELTER_ID": 367291,
         "SHELTER_NAME": "Valhalla High School",
         "ADDRESS": "1725 Hillsdale Rd",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b7d14340f_7691",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.5633,
-          28.788
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1754340,
-        "SHELTER_ID": 367287,
-        "SHELTER_NAME": "Nature Coast Community Church",
-        "ADDRESS": "5113 S Suncoast Blvd",
-        "CITY": "Homosassa",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.5633,
-        28.788,
-        -82.5633,
-        28.788
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b7d14340f_7692",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_273f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754341,
+        "objectid": 1754353,
         "SHELTER_ID": 367292,
         "SHELTER_NAME": "Mt. Enon Baptist Church",
         "ADDRESS": "1501 W Third Street",
@@ -179,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b7d14340f_7693",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_2740",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5633,
+          28.788
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1754354,
+        "SHELTER_ID": 367287,
+        "SHELTER_NAME": "Nature Coast Community Church",
+        "ADDRESS": "5113 S Suncoast Blvd",
+        "CITY": "Homosassa",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.5633,
+        28.788,
+        -82.5633,
+        28.788
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_2741",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754342,
+        "objectid": 1754355,
         "SHELTER_ID": 367288,
         "SHELTER_NAME": "Rite 2Life",
         "ADDRESS": "202 NE 2nd Street",
@@ -223,34 +223,34 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b7d14340f_7694",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_2742",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.4708,
-          38.8114
+          -115.5522,
+          48.3887
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754343,
-        "SHELTER_ID": 367289,
-        "SHELTER_NAME": "Bethlehem Lutheran Church",
-        "ADDRESS": "310 Johnston Pkwy",
-        "CITY": "Raymore",
-        "STATE": "MO",
-        "ZIP": "0",
+        "objectid": 1754350,
+        "SHELTER_ID": 367216,
+        "SHELTER_NAME": "Libby Memorial Events Center",
+        "ADDRESS": "111 E Lincoln Blvd",
+        "CITY": "Libby",
+        "STATE": "MT",
+        "ZIP": "59923",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
         "TOTAL_POPULATION": null,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "SUBFACILITY_CODE": "EMEREVAC",
         "ADA_COMPLIANT": "UNK",
         "PET_ACCOMMODATIONS_CODE": "NONE",
         "WHEELCHAIR_ACCESSIBLE": "UNK",
@@ -259,17 +259,17 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -94.4708,
-        38.8114,
-        -94.4708,
-        38.8114
+        -115.5522,
+        48.3887,
+        -115.5522,
+        48.3887
       ]
     }
   ],
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2026-01-02T17:37:22.207Z",
+  "timeStamp": "2026-01-02T18:11:59.434Z",
   "crs": {
     "type": "name",
     "properties": {
