@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b8082e907_6878",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_654",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754566,
+        "objectid": 1754572,
         "SHELTER_ID": 367216,
         "SHELTER_NAME": "Libby Memorial Events Center",
         "ADDRESS": "111 E Lincoln Blvd",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b8082e907_6879",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.2212,
-          39.7549
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1754567,
-        "SHELTER_ID": 367292,
-        "SHELTER_NAME": "Mt. Enon Baptist Church",
-        "ADDRESS": "1501 W Third Street",
-        "CITY": "Dayton",
-        "STATE": "OH",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.2212,
-        39.7549,
-        -84.2212,
-        39.7549
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b8082e907_687a",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_655",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754568,
+        "objectid": 1754573,
         "SHELTER_ID": 367287,
         "SHELTER_NAME": "Nature Coast Community Church",
         "ADDRESS": "5113 S Suncoast Blvd",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b8082e907_687b",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_656",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754569,
+        "objectid": 1754574,
         "SHELTER_ID": 367288,
         "SHELTER_NAME": "Rite 2Life",
         "ADDRESS": "202 NE 2nd Street",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b8082e907_687c",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_657",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754570,
+        "objectid": 1754575,
         "SHELTER_ID": 367289,
         "SHELTER_NAME": "Bethlehem Lutheran Church",
         "ADDRESS": "310 Johnston Pkwy",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b8082e907_687d",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_658",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754571,
+        "objectid": 1754576,
         "SHELTER_ID": 367291,
         "SHELTER_NAME": "Valhalla High School",
         "ADDRESS": "1725 Hillsdale Rd",
@@ -264,12 +220,56 @@
         -116.9212,
         32.7595
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_659",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2212,
+          39.7549
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1754577,
+        "SHELTER_ID": 367292,
+        "SHELTER_NAME": "Mt. Enon Baptist Church",
+        "ADDRESS": "1501 W Third Street",
+        "CITY": "Dayton",
+        "STATE": "OH",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.2212,
+        39.7549,
+        -84.2212,
+        39.7549
+      ]
     }
   ],
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2026-01-03T06:11:58.419Z",
+  "timeStamp": "2026-01-03T06:45:34.138Z",
   "crs": {
     "type": "name",
     "properties": {
