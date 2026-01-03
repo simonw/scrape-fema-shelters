@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_7a7d",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_7abf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754518,
+        "objectid": 1754530,
         "SHELTER_ID": 367216,
         "SHELTER_NAME": "Libby Memorial Events Center",
         "ADDRESS": "111 E Lincoln Blvd",
@@ -47,95 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_7a7e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.5633,
-          28.788
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1754519,
-        "SHELTER_ID": 367287,
-        "SHELTER_NAME": "Nature Coast Community Church",
-        "ADDRESS": "5113 S Suncoast Blvd",
-        "CITY": "Homosassa",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.5633,
-        28.788,
-        -82.5633,
-        28.788
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_7a7f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.8284,
-          27.2446
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1754520,
-        "SHELTER_ID": 367288,
-        "SHELTER_NAME": "Rite 2Life",
-        "ADDRESS": "202 NE 2nd Street",
-        "CITY": "Okeechobee",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -80.8284,
-        27.2446,
-        -80.8284,
-        27.2446
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_7a80",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_7ac0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754521,
+        "objectid": 1754531,
         "SHELTER_ID": 367289,
         "SHELTER_NAME": "Bethlehem Lutheran Church",
         "ADDRESS": "310 Johnston Pkwy",
@@ -179,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_7a81",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_7ac1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754522,
+        "objectid": 1754532,
         "SHELTER_ID": 367291,
         "SHELTER_NAME": "Valhalla High School",
         "ADDRESS": "1725 Hillsdale Rd",
@@ -223,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_7a82",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_7ac2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754523,
+        "objectid": 1754533,
         "SHELTER_ID": 367292,
         "SHELTER_NAME": "Mt. Enon Baptist Church",
         "ADDRESS": "1501 W Third Street",
@@ -264,12 +176,100 @@
         -84.2212,
         39.7549
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_7ac3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5633,
+          28.788
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1754534,
+        "SHELTER_ID": 367287,
+        "SHELTER_NAME": "Nature Coast Community Church",
+        "ADDRESS": "5113 S Suncoast Blvd",
+        "CITY": "Homosassa",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.5633,
+        28.788,
+        -82.5633,
+        28.788
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b7d4d0fa2_7ac4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8284,
+          27.2446
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1754535,
+        "SHELTER_ID": 367288,
+        "SHELTER_NAME": "Rite 2Life",
+        "ADDRESS": "202 NE 2nd Street",
+        "CITY": "Okeechobee",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.8284,
+        27.2446,
+        -80.8284,
+        27.2446
+      ]
     }
   ],
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2026-01-03T03:34:43.694Z",
+  "timeStamp": "2026-01-03T04:15:48.163Z",
   "crs": {
     "type": "name",
     "properties": {
