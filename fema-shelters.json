@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_30c4",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_30e8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5522,
+          48.3887
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1754710,
+        "SHELTER_ID": 367216,
+        "SHELTER_NAME": "Libby Memorial Events Center",
+        "ADDRESS": "111 E Lincoln Blvd",
+        "CITY": "Libby",
+        "STATE": "MT",
+        "ZIP": "59923",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -115.5522,
+        48.3887,
+        -115.5522,
+        48.3887
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_30e9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754707,
+        "objectid": 1754711,
         "SHELTER_ID": 367291,
         "SHELTER_NAME": "Valhalla High School",
         "ADDRESS": "1725 Hillsdale Rd",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_30c5",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_30ea",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754708,
+        "objectid": 1754712,
         "SHELTER_ID": 367292,
         "SHELTER_NAME": "Mt. Enon Baptist Church",
         "ADDRESS": "1501 W Third Street",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_30c6",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_30eb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754709,
+        "objectid": 1754713,
         "SHELTER_ID": 367293,
         "SHELTER_NAME": "Glendale Sports Center",
         "ADDRESS": "4500 East Kentucky Avenue",
@@ -132,56 +176,12 @@
         -104.9349,
         39.6998
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b823a58c0_30c7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.5522,
-          48.3887
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1754706,
-        "SHELTER_ID": 367216,
-        "SHELTER_NAME": "Libby Memorial Events Center",
-        "ADDRESS": "111 E Lincoln Blvd",
-        "CITY": "Libby",
-        "STATE": "MT",
-        "ZIP": "59923",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -115.5522,
-        48.3887,
-        -115.5522,
-        48.3887
-      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-01-03T14:07:23.780Z",
+  "timeStamp": "2026-01-03T14:38:23.114Z",
   "crs": {
     "type": "name",
     "properties": {
