@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b86180eb6_5ee8",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3df5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754946,
+        "objectid": 1754950,
         "SHELTER_ID": 367216,
         "SHELTER_NAME": "Libby Memorial Events Center",
         "ADDRESS": "111 E Lincoln Blvd",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b86180eb6_5ee9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.2212,
-          39.7549
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1754947,
-        "SHELTER_ID": 367292,
-        "SHELTER_NAME": "Mt. Enon Baptist Church",
-        "ADDRESS": "1501 W Third Street",
-        "CITY": "Dayton",
-        "STATE": "OH",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.2212,
-        39.7549,
-        -84.2212,
-        39.7549
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b86180eb6_5eea",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3df4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754948,
+        "objectid": 1754951,
         "SHELTER_ID": 367291,
         "SHELTER_NAME": "Valhalla High School",
         "ADDRESS": "1725 Hillsdale Rd",
@@ -135,7 +91,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b86180eb6_5eeb",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3df3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2212,
+          39.7549
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1754952,
+        "SHELTER_ID": 367292,
+        "SHELTER_NAME": "Mt. Enon Baptist Church",
+        "ADDRESS": "1501 W Third Street",
+        "CITY": "Dayton",
+        "STATE": "OH",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.2212,
+        39.7549,
+        -84.2212,
+        39.7549
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3df2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754949,
+        "objectid": 1754953,
         "SHELTER_ID": 367293,
         "SHELTER_NAME": "Glendale Sports Center",
         "ADDRESS": "4500 East Kentucky Avenue",
@@ -181,7 +181,7 @@
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-01-04T10:08:05.930Z",
+  "timeStamp": "2026-01-04T10:39:10.176Z",
   "crs": {
     "type": "name",
     "properties": {
