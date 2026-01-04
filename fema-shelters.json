@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3dd1",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3da1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754962,
+        "objectid": 1754970,
         "SHELTER_ID": 367216,
         "SHELTER_NAME": "Libby Memorial Events Center",
         "ADDRESS": "111 E Lincoln Blvd",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3dd0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.9212,
-          32.7595
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1754963,
-        "SHELTER_ID": 367291,
-        "SHELTER_NAME": "Valhalla High School",
-        "ADDRESS": "1725 Hillsdale Rd",
-        "CITY": "El Cajon",
-        "STATE": "CA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -116.9212,
-        32.7595,
-        -116.9212,
-        32.7595
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3dcf",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3da0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754964,
+        "objectid": 1754971,
         "SHELTER_ID": 367292,
         "SHELTER_NAME": "Mt. Enon Baptist Church",
         "ADDRESS": "1501 W Third Street",
@@ -135,7 +91,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3dce",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3d9f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9212,
+          32.7595
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1754972,
+        "SHELTER_ID": 367291,
+        "SHELTER_NAME": "Valhalla High School",
+        "ADDRESS": "1725 Hillsdale Rd",
+        "CITY": "El Cajon",
+        "STATE": "CA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -116.9212,
+        32.7595,
+        -116.9212,
+        32.7595
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3d9e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754965,
+        "objectid": 1754973,
         "SHELTER_ID": 367293,
         "SHELTER_NAME": "Glendale Sports Center",
         "ADDRESS": "4500 East Kentucky Avenue",
@@ -181,7 +181,7 @@
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-01-04T11:35:29.102Z",
+  "timeStamp": "2026-01-04T12:13:28.554Z",
   "crs": {
     "type": "name",
     "properties": {
