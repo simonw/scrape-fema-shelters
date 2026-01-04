@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b89183673_-141",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.2212,
-          39.7549
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1755015,
-        "SHELTER_ID": 367292,
-        "SHELTER_NAME": "Mt. Enon Baptist Church",
-        "ADDRESS": "1501 W Third Street",
-        "CITY": "Dayton",
-        "STATE": "OH",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.2212,
-        39.7549,
-        -84.2212,
-        39.7549
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b89183673_-140",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_12b1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1755014,
+        "objectid": 1755016,
         "SHELTER_ID": 367216,
         "SHELTER_NAME": "Libby Memorial Events Center",
         "ADDRESS": "111 E Lincoln Blvd",
@@ -88,12 +44,56 @@
         -115.5522,
         48.3887
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_12b2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2212,
+          39.7549
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1755017,
+        "SHELTER_ID": 367292,
+        "SHELTER_NAME": "Mt. Enon Baptist Church",
+        "ADDRESS": "1501 W Third Street",
+        "CITY": "Dayton",
+        "STATE": "OH",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.2212,
+        39.7549,
+        -84.2212,
+        39.7549
+      ]
     }
   ],
   "totalFeatures": 2,
   "numberMatched": 2,
   "numberReturned": 2,
-  "timeStamp": "2026-01-04T17:07:23.572Z",
+  "timeStamp": "2026-01-04T17:37:38.938Z",
   "crs": {
     "type": "name",
     "properties": {
