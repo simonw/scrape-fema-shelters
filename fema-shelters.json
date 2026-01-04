@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b86180eb6_5ea0",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3e11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9349,
+          39.6998
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1754941,
+        "SHELTER_ID": 367293,
+        "SHELTER_NAME": "Glendale Sports Center",
+        "ADDRESS": "4500 East Kentucky Avenue",
+        "CITY": "Denver",
+        "STATE": "CO",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -104.9349,
+        39.6998,
+        -104.9349,
+        39.6998
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3e10",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754934,
+        "objectid": 1754938,
         "SHELTER_ID": 367216,
         "SHELTER_NAME": "Libby Memorial Events Center",
         "ADDRESS": "111 E Lincoln Blvd",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b86180eb6_5ea1",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3e0f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754935,
+        "objectid": 1754939,
         "SHELTER_ID": 367291,
         "SHELTER_NAME": "Valhalla High School",
         "ADDRESS": "1725 Hillsdale Rd",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b86180eb6_5ea2",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b883c695f_-3e0e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1754936,
+        "objectid": 1754940,
         "SHELTER_ID": 367292,
         "SHELTER_NAME": "Mt. Enon Baptist Church",
         "ADDRESS": "1501 W Third Street",
@@ -132,56 +176,12 @@
         -84.2212,
         39.7549
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19b86180eb6_5ea3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9349,
-          39.6998
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1754937,
-        "SHELTER_ID": 367293,
-        "SHELTER_NAME": "Glendale Sports Center",
-        "ADDRESS": "4500 East Kentucky Avenue",
-        "CITY": "Denver",
-        "STATE": "CO",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -104.9349,
-        39.6998,
-        -104.9349,
-        39.6998
-      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-01-04T09:08:14.440Z",
+  "timeStamp": "2026-01-04T09:36:39.286Z",
   "crs": {
     "type": "name",
     "properties": {
