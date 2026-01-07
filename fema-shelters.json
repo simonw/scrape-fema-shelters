@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b97afa6fe_-52ce",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.5522,
-          48.3887
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1755509,
-        "SHELTER_ID": 367216,
-        "SHELTER_NAME": "Libby Memorial Events Center",
-        "ADDRESS": "111 E Lincoln Blvd",
-        "CITY": "Libby",
-        "STATE": "MT",
-        "ZIP": "59923",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": -1,
-        "POST_IMPACT_CAPACITY": -1,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -115.5522,
-        48.3887,
-        -115.5522,
-        48.3887
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19b97afa6fe_-52cd",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19b97afa6fe_-52ab",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1755508,
+        "objectid": 1755511,
         "SHELTER_ID": 367294,
         "SHELTER_NAME": "Westminster Presbyterian Church",
         "ADDRESS": "1200 Marquette Avenue",
@@ -90,10 +46,10 @@
       ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2026-01-07T14:09:47.202Z",
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2026-01-07T14:41:58.276Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -101,9 +57,9 @@
     }
   },
   "bbox": [
-    -115.5522,
+    -93.2757,
     44.9714,
     -93.2757,
-    48.3887
+    44.9714
   ]
 }
