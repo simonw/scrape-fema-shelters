@@ -3,23 +3,23 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19ba8da2a1d_-6511",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19ba8da2a1d_-64f0",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.2757,
-          44.9714
+          -134.4115,
+          58.2998
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1755817,
-        "SHELTER_ID": 367294,
-        "SHELTER_NAME": "Westminster Presbyterian Church",
-        "ADDRESS": "1200 Marquette Avenue",
-        "CITY": "Minneapolis",
-        "STATE": "MN",
-        "ZIP": "0",
+        "objectid": 1755820,
+        "SHELTER_ID": 367311,
+        "SHELTER_NAME": "Centennial Hall Convention Center",
+        "ADDRESS": "101 Egan Drive",
+        "CITY": "Juneau",
+        "STATE": "AK",
+        "ZIP": "99801",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
@@ -39,15 +39,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -93.2757,
-        44.9714,
-        -93.2757,
-        44.9714
+        -134.4115,
+        58.2998,
+        -134.4115,
+        58.2998
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19ba8da2a1d_-6510",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19ba8da2a1d_-64ef",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1755818,
+        "objectid": 1755819,
         "SHELTER_ID": 367310,
         "SHELTER_NAME": "First Christian Church",
         "ADDRESS": "401 W Jefferson St",
@@ -88,12 +88,56 @@
         -88.997,
         40.4807
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19ba8da2a1d_-64ee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2757,
+          44.9714
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1755821,
+        "SHELTER_ID": 367294,
+        "SHELTER_NAME": "Westminster Presbyterian Church",
+        "ADDRESS": "1200 Marquette Avenue",
+        "CITY": "Minneapolis",
+        "STATE": "MN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.2757,
+        44.9714,
+        -93.2757,
+        44.9714
+      ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2026-01-10T17:07:07.200Z",
+  "totalFeatures": 3,
+  "numberMatched": 3,
+  "numberReturned": 3,
+  "timeStamp": "2026-01-10T17:37:09.577Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -101,9 +145,9 @@
     }
   },
   "bbox": [
-    -93.2757,
+    -134.4115,
     40.4807,
     -88.997,
-    44.9714
+    58.2998
   ]
 }
