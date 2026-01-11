@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19bac490bc0_6f2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.4801,
-          31.1697
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1756073,
-        "SHELTER_ID": 367312,
-        "SHELTER_NAME": "Pike County Community Saferoom (P361)",
-        "ADDRESS": "2017 Quinliven Road",
-        "CITY": "Magnolia",
-        "STATE": "MS",
-        "ZIP": "39648",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.4801,
-        31.1697,
-        -90.4801,
-        31.1697
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19bac490bc0_6f3",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19bac490bc0_71e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756076,
+        "objectid": 1756079,
         "SHELTER_ID": 367311,
         "SHELTER_NAME": "Centennial Hall Convention Center",
         "ADDRESS": "101 Egan Drive",
@@ -91,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19bac490bc0_6f4",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19bac490bc0_71f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4801,
+          31.1697
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1756080,
+        "SHELTER_ID": 367312,
+        "SHELTER_NAME": "Pike County Community Saferoom (P361)",
+        "ADDRESS": "2017 Quinliven Road",
+        "CITY": "Magnolia",
+        "STATE": "MS",
+        "ZIP": "39648",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.4801,
+        31.1697,
+        -90.4801,
+        31.1697
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19bac490bc0_720",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756074,
+        "objectid": 1756077,
         "SHELTER_ID": 367294,
         "SHELTER_NAME": "Westminster Presbyterian Church",
         "ADDRESS": "1200 Marquette Avenue",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19bac490bc0_6f5",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19bac490bc0_721",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756075,
+        "objectid": 1756078,
         "SHELTER_ID": 367310,
         "SHELTER_NAME": "First Christian Church",
         "ADDRESS": "401 W Jefferson St",
@@ -181,7 +181,7 @@
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-01-11T20:08:45.736Z",
+  "timeStamp": "2026-01-11T20:38:56.830Z",
   "crs": {
     "type": "name",
     "properties": {
