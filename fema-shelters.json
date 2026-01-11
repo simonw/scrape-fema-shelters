@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bab6d343b_7d10",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -134.4115,
-          58.2998
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1756043,
-        "SHELTER_ID": 367311,
-        "SHELTER_NAME": "Centennial Hall Convention Center",
-        "ADDRESS": "101 Egan Drive",
-        "CITY": "Juneau",
-        "STATE": "AK",
-        "ZIP": "99801",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -134.4115,
-        58.2998,
-        -134.4115,
-        58.2998
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bab6d343b_7d11",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19bac490bc0_65a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756044,
+        "objectid": 1756049,
         "SHELTER_ID": 367312,
         "SHELTER_NAME": "Pike County Community Saferoom (P361)",
         "ADDRESS": "2017 Quinliven Road",
@@ -91,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bab6d343b_7d12",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19bac490bc0_65b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.4115,
+          58.2998
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1756052,
+        "SHELTER_ID": 367311,
+        "SHELTER_NAME": "Centennial Hall Convention Center",
+        "ADDRESS": "101 Egan Drive",
+        "CITY": "Juneau",
+        "STATE": "AK",
+        "ZIP": "99801",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -134.4115,
+        58.2998,
+        -134.4115,
+        58.2998
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19bac490bc0_65c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756041,
+        "objectid": 1756050,
         "SHELTER_ID": 367294,
         "SHELTER_NAME": "Westminster Presbyterian Church",
         "ADDRESS": "1200 Marquette Avenue",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bab6d343b_7d13",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19bac490bc0_65d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756042,
+        "objectid": 1756051,
         "SHELTER_ID": 367310,
         "SHELTER_NAME": "First Christian Church",
         "ADDRESS": "401 W Jefferson St",
@@ -181,7 +181,7 @@
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-01-11T17:37:05.682Z",
+  "timeStamp": "2026-01-11T18:11:15.427Z",
   "crs": {
     "type": "name",
     "properties": {
