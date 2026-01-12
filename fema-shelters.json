@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bafb7d51b_-3120",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.2757,
-          44.9714
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1756181,
-        "SHELTER_ID": 367294,
-        "SHELTER_NAME": "Westminster Presbyterian Church",
-        "ADDRESS": "1200 Marquette Avenue",
-        "CITY": "Minneapolis",
-        "STATE": "MN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.2757,
-        44.9714,
-        -93.2757,
-        44.9714
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bafb7d51b_-311f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.997,
-          40.4807
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1756182,
-        "SHELTER_ID": 367310,
-        "SHELTER_NAME": "First Christian Church",
-        "ADDRESS": "401 W Jefferson St",
-        "CITY": "Bloomington",
-        "STATE": "IL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.997,
-        40.4807,
-        -88.997,
-        40.4807
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bafb7d51b_-311e",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19baf4ac86a_45ec",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756183,
+        "objectid": 1756187,
         "SHELTER_ID": 367311,
         "SHELTER_NAME": "Centennial Hall Convention Center",
         "ADDRESS": "101 Egan Drive",
@@ -135,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bafb7d51b_-311d",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19baf4ac86a_45ed",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756184,
+        "objectid": 1756188,
         "SHELTER_ID": 367312,
         "SHELTER_NAME": "Pike County Community Saferoom (P361)",
         "ADDRESS": "2017 Quinliven Road",
@@ -176,12 +88,100 @@
         -90.4801,
         31.1697
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19baf4ac86a_45ee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2757,
+          44.9714
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1756185,
+        "SHELTER_ID": 367294,
+        "SHELTER_NAME": "Westminster Presbyterian Church",
+        "ADDRESS": "1200 Marquette Avenue",
+        "CITY": "Minneapolis",
+        "STATE": "MN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.2757,
+        44.9714,
+        -93.2757,
+        44.9714
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19baf4ac86a_45ef",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.997,
+          40.4807
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1756186,
+        "SHELTER_ID": 367310,
+        "SHELTER_NAME": "First Christian Church",
+        "ADDRESS": "401 W Jefferson St",
+        "CITY": "Bloomington",
+        "STATE": "IL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.997,
+        40.4807,
+        -88.997,
+        40.4807
+      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-01-12T05:15:47.616Z",
+  "timeStamp": "2026-01-12T05:44:20.463Z",
   "crs": {
     "type": "name",
     "properties": {
