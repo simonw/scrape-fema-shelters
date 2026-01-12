@@ -1,9 +1,241 @@
 {
   "type": "FeatureCollection",
-  "features": [],
-  "totalFeatures": 0,
-  "numberMatched": 0,
-  "numberReturned": 0,
-  "timeStamp": "2026-01-12T18:46:29.665Z",
-  "crs": null
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb24b5e8d_-2c65",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.4115,
+          58.2998
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1756365,
+        "SHELTER_ID": 367311,
+        "SHELTER_NAME": "Centennial Hall Convention Center",
+        "ADDRESS": "101 Egan Drive",
+        "CITY": "Juneau",
+        "STATE": "AK",
+        "ZIP": "99801",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -134.4115,
+        58.2998,
+        -134.4115,
+        58.2998
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb24b5e8d_-2c64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4801,
+          31.1697
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1756366,
+        "SHELTER_ID": 367312,
+        "SHELTER_NAME": "Pike County Community Saferoom (P361)",
+        "ADDRESS": "2017 Quinliven Road",
+        "CITY": "Magnolia",
+        "STATE": "MS",
+        "ZIP": "39648",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.4801,
+        31.1697,
+        -90.4801,
+        31.1697
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb24b5e8d_-2c63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8303,
+          30.5619
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1756362,
+        "SHELTER_ID": 367313,
+        "SHELTER_NAME": "Callahan Methodist Church",
+        "ADDRESS": "449648 US 301",
+        "CITY": "Callahan",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.8303,
+        30.5619,
+        -81.8303,
+        30.5619
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb24b5e8d_-2c62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2011,
+          40.7588
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1756363,
+        "SHELTER_ID": 367314,
+        "SHELTER_NAME": "Fellowship Civic Center",
+        "ADDRESS": "1 Greenwood Ave",
+        "CITY": "East Orange",
+        "STATE": "NJ",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -74.2011,
+        40.7588,
+        -74.2011,
+        40.7588
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb24b5e8d_-2c61",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2757,
+          44.9714
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1756364,
+        "SHELTER_ID": 367294,
+        "SHELTER_NAME": "Westminster Presbyterian Church",
+        "ADDRESS": "1200 Marquette Avenue",
+        "CITY": "Minneapolis",
+        "STATE": "MN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.2757,
+        44.9714,
+        -93.2757,
+        44.9714
+      ]
+    }
+  ],
+  "totalFeatures": 5,
+  "numberMatched": 5,
+  "numberReturned": 5,
+  "timeStamp": "2026-01-12T19:09:17.163Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    -134.4115,
+    30.5619,
+    -74.2011,
+    58.2998
+  ]
 }
