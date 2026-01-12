@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bb24b5e8d_-7cc0",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19bb16f59d0_-40f4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756320,
+        "objectid": 1756323,
         "SHELTER_ID": 367311,
         "SHELTER_NAME": "Centennial Hall Convention Center",
         "ADDRESS": "101 Egan Drive",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bb24b5e8d_-7cbf",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19bb16f59d0_-40f3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756321,
+        "objectid": 1756324,
         "SHELTER_ID": 367312,
         "SHELTER_NAME": "Pike County Community Saferoom (P361)",
         "ADDRESS": "2017 Quinliven Road",
@@ -91,7 +91,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bb24b5e8d_-7cbe",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19bb16f59d0_-40f2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2757,
+          44.9714
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1756322,
+        "SHELTER_ID": 367294,
+        "SHELTER_NAME": "Westminster Presbyterian Church",
+        "ADDRESS": "1200 Marquette Avenue",
+        "CITY": "Minneapolis",
+        "STATE": "MN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.2757,
+        44.9714,
+        -93.2757,
+        44.9714
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19bb16f59d0_-40f1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756317,
+        "objectid": 1756325,
         "SHELTER_ID": 367313,
         "SHELTER_NAME": "Callahan Methodist Church",
         "ADDRESS": "449648 US 301",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bb24b5e8d_-7cbd",
+      "id": "FEMANSSOpenShelters.fid--7f95f743_19bb16f59d0_-40f0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756318,
+        "objectid": 1756326,
         "SHELTER_ID": 367314,
         "SHELTER_NAME": "Fellowship Civic Center",
         "ADDRESS": "1 Greenwood Ave",
@@ -176,56 +220,12 @@
         -74.2011,
         40.7588
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bb24b5e8d_-7cbc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.2757,
-          44.9714
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1756319,
-        "SHELTER_ID": 367294,
-        "SHELTER_NAME": "Westminster Presbyterian Church",
-        "ADDRESS": "1200 Marquette Avenue",
-        "CITY": "Minneapolis",
-        "STATE": "MN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.2757,
-        44.9714,
-        -93.2757,
-        44.9714
-      ]
     }
   ],
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-01-12T16:11:17.694Z",
+  "timeStamp": "2026-01-12T16:43:33.058Z",
   "crs": {
     "type": "name",
     "properties": {
