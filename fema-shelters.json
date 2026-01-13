@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-4980",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -134.4115,
-          58.2998
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1756630,
-        "SHELTER_ID": 367311,
-        "SHELTER_NAME": "Centennial Hall Convention Center",
-        "ADDRESS": "101 Egan Drive",
-        "CITY": "Juneau",
-        "STATE": "AK",
-        "ZIP": "99801",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -134.4115,
-        58.2998,
-        -134.4115,
-        58.2998
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-497f",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-213e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756631,
+        "objectid": 1756632,
         "SHELTER_ID": 367312,
         "SHELTER_NAME": "Pike County Community Saferoom (P361)",
         "ADDRESS": "2017 Quinliven Road",
@@ -91,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-497e",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-213d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.4115,
+          58.2998
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1756636,
+        "SHELTER_ID": 367311,
+        "SHELTER_NAME": "Centennial Hall Convention Center",
+        "ADDRESS": "101 Egan Drive",
+        "CITY": "Juneau",
+        "STATE": "AK",
+        "ZIP": "99801",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -134.4115,
+        58.2998,
+        -134.4115,
+        58.2998
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-213c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756627,
+        "objectid": 1756633,
         "SHELTER_ID": 367313,
         "SHELTER_NAME": "Callahan Methodist Church",
         "ADDRESS": "449648 US 301",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-497d",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-213b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756628,
+        "objectid": 1756634,
         "SHELTER_ID": 367314,
         "SHELTER_NAME": "Fellowship Civic Center",
         "ADDRESS": "1 Greenwood Ave",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-497c",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-213a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756629,
+        "objectid": 1756635,
         "SHELTER_ID": 367294,
         "SHELTER_NAME": "Westminster Presbyterian Church",
         "ADDRESS": "1200 Marquette Avenue",
@@ -225,7 +225,7 @@
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-01-13T12:48:55.953Z",
+  "timeStamp": "2026-01-13T13:21:09.128Z",
   "crs": {
     "type": "name",
     "properties": {
