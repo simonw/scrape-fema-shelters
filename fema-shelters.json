@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19bb4de570f_-266b",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-74d7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756519,
+        "objectid": 1756530,
         "SHELTER_ID": 367311,
         "SHELTER_NAME": "Centennial Hall Convention Center",
         "ADDRESS": "101 Egan Drive",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19bb4de570f_-266a",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-74d6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756520,
+        "objectid": 1756531,
         "SHELTER_ID": 367312,
         "SHELTER_NAME": "Pike County Community Saferoom (P361)",
         "ADDRESS": "2017 Quinliven Road",
@@ -91,7 +91,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19bb4de570f_-2669",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-74d5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8303,
+          30.5619
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1756527,
+        "SHELTER_ID": 367313,
+        "SHELTER_NAME": "Callahan Methodist Church",
+        "ADDRESS": "449648 US 301",
+        "CITY": "Callahan",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.8303,
+        30.5619,
+        -81.8303,
+        30.5619
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-74d4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756517,
+        "objectid": 1756528,
         "SHELTER_ID": 367314,
         "SHELTER_NAME": "Fellowship Civic Center",
         "ADDRESS": "1 Greenwood Ave",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19bb4de570f_-2668",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bb5f333f1_-74d3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1756518,
+        "objectid": 1756529,
         "SHELTER_ID": 367294,
         "SHELTER_NAME": "Westminster Presbyterian Church",
         "ADDRESS": "1200 Marquette Avenue",
@@ -176,56 +220,12 @@
         -93.2757,
         44.9714
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19bb4de570f_-2667",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.8303,
-          30.5619
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1756521,
-        "SHELTER_ID": 367313,
-        "SHELTER_NAME": "Callahan Methodist Church",
-        "ADDRESS": "449648 US 301",
-        "CITY": "Callahan",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.8303,
-        30.5619,
-        -81.8303,
-        30.5619
-      ]
     }
   ],
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-01-13T05:41:40.610Z",
+  "timeStamp": "2026-01-13T06:13:28.388Z",
   "crs": {
     "type": "name",
     "properties": {
