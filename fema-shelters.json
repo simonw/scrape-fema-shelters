@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19bbae06ece_2833",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bbc97c2ce_-5fbf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9413,
+          43.1079
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1757035,
+        "SHELTER_ID": 367315,
+        "SHELTER_NAME": "McNair Elementary School",
+        "ADDRESS": "4950 N 24th St",
+        "CITY": "Milwaukee",
+        "STATE": "WI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.9413,
+        43.1079,
+        -87.9413,
+        43.1079
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bbc97c2ce_-5fbe",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1757030,
+        "objectid": 1757032,
         "SHELTER_ID": 367311,
         "SHELTER_NAME": "Centennial Hall Convention Center",
         "ADDRESS": "101 Egan Drive",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19bbae06ece_2834",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bbc97c2ce_-5fbd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1757031,
+        "objectid": 1757033,
         "SHELTER_ID": 367312,
         "SHELTER_NAME": "Pike County Community Saferoom (P361)",
         "ADDRESS": "2017 Quinliven Road",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19bbae06ece_2835",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bbc97c2ce_-5fbc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1757028,
+        "objectid": 1757034,
         "SHELTER_ID": 367314,
         "SHELTER_NAME": "Fellowship Civic Center",
         "ADDRESS": "1 Greenwood Ave",
@@ -132,56 +176,12 @@
         -74.2011,
         40.7588
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7f95f743_19bbae06ece_2836",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.9413,
-          43.1079
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1757029,
-        "SHELTER_ID": 367315,
-        "SHELTER_NAME": "McNair Elementary School",
-        "ADDRESS": "4950 N 24th St",
-        "CITY": "Milwaukee",
-        "STATE": "WI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.9413,
-        43.1079,
-        -87.9413,
-        43.1079
-      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-01-14T16:11:44.451Z",
+  "timeStamp": "2026-01-14T16:45:47.646Z",
   "crs": {
     "type": "name",
     "properties": {
