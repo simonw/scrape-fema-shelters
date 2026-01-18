@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31b0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.9413,
-          43.1079
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1758617,
-        "SHELTER_ID": 367315,
-        "SHELTER_NAME": "McNair Elementary School",
-        "ADDRESS": "4950 N 24th St",
-        "CITY": "Milwaukee",
-        "STATE": "WI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.9413,
-        43.1079,
-        -87.9413,
-        43.1079
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31b1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.8303,
-          30.5619
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1758618,
-        "SHELTER_ID": 367316,
-        "SHELTER_NAME": "Callahan Methodist Church",
-        "ADDRESS": "449648 US 301",
-        "CITY": "Callahan",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.8303,
-        30.5619,
-        -81.8303,
-        30.5619
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31b2",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31dd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1758619,
+        "objectid": 1758626,
         "SHELTER_ID": 367323,
         "SHELTER_NAME": "Nature Coast Community Church",
         "ADDRESS": "5113 S Suncoast Blvd",
@@ -135,21 +47,65 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31b3",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31de",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.4135,
-          27.5935
+          -87.9413,
+          43.1079
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1758620,
-        "SHELTER_ID": 367322,
-        "SHELTER_NAME": "Salvation Army Site",
-        "ADDRESS": "2655 5th St SW",
-        "CITY": "Vero Beach",
+        "objectid": 1758627,
+        "SHELTER_ID": 367315,
+        "SHELTER_NAME": "McNair Elementary School",
+        "ADDRESS": "4950 N 24th St",
+        "CITY": "Milwaukee",
+        "STATE": "WI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.9413,
+        43.1079,
+        -87.9413,
+        43.1079
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31df",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8303,
+          30.5619
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1758628,
+        "SHELTER_ID": 367316,
+        "SHELTER_NAME": "Callahan Methodist Church",
+        "ADDRESS": "449648 US 301",
+        "CITY": "Callahan",
         "STATE": "FL",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
@@ -171,15 +127,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -80.4135,
-        27.5935,
-        -80.4135,
-        27.5935
+        -81.8303,
+        30.5619,
+        -81.8303,
+        30.5619
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31b4",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31e0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1758621,
+        "objectid": 1758629,
         "SHELTER_ID": 367317,
         "SHELTER_NAME": "Rite 2Life",
         "ADDRESS": "202 NE 2nd Street",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31b5",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31e1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1758622,
+        "objectid": 1758630,
         "SHELTER_ID": 367318,
         "SHELTER_NAME": "Bert Harris Agriculture Center",
         "ADDRESS": "4509 George Blvd",
@@ -267,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31b6",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31e2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1758623,
+        "objectid": 1758631,
         "SHELTER_ID": 367319,
         "SHELTER_NAME": "Percy Peek Gym",
         "ADDRESS": "2902 Ave D",
@@ -311,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31b7",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31e3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1758624,
+        "objectid": 1758632,
         "SHELTER_ID": 367320,
         "SHELTER_NAME": "Gertrude Weldin Daycare Ctr",
         "ADDRESS": "601 SE Lake Street",
@@ -355,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31b8",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31e4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1758625,
+        "objectid": 1758633,
         "SHELTER_ID": 367321,
         "SHELTER_NAME": "Belle Glade Transitional Facility",
         "ADDRESS": "341 NW 11th St",
@@ -396,12 +352,56 @@
         -80.6787,
         26.6888
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bcf79b476_31e5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4135,
+          27.5935
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1758634,
+        "SHELTER_ID": 367322,
+        "SHELTER_NAME": "Salvation Army Site",
+        "ADDRESS": "2655 5th St SW",
+        "CITY": "Vero Beach",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.4135,
+        27.5935,
+        -80.4135,
+        27.5935
+      ]
     }
   ],
   "totalFeatures": 9,
   "numberMatched": 9,
   "numberReturned": 9,
-  "timeStamp": "2026-01-18T11:06:41.470Z",
+  "timeStamp": "2026-01-18T11:35:14.911Z",
   "crs": {
     "type": "name",
     "properties": {
