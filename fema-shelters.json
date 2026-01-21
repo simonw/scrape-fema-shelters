@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_474c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.8303,
-          30.5619
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1760751,
-        "SHELTER_ID": 367316,
-        "SHELTER_NAME": "Callahan Methodist Church",
-        "ADDRESS": "449648 US 301",
-        "CITY": "Callahan",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.8303,
-        30.5619,
-        -81.8303,
-        30.5619
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_474d",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_6f8b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760752,
+        "objectid": 1760759,
         "SHELTER_ID": 367315,
         "SHELTER_NAME": "McNair Elementary School",
         "ADDRESS": "4950 N 24th St",
@@ -91,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_474e",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_6f8c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8303,
+          30.5619
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1760760,
+        "SHELTER_ID": 367316,
+        "SHELTER_NAME": "Callahan Methodist Church",
+        "ADDRESS": "449648 US 301",
+        "CITY": "Callahan",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.8303,
+        30.5619,
+        -81.8303,
+        30.5619
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_6f8d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760753,
+        "objectid": 1760761,
         "SHELTER_ID": 367324,
         "SHELTER_NAME": "Willie Keyes Community Recreation Center",
         "ADDRESS": "3131 Union St",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_474f",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_6f8e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760754,
+        "objectid": 1760762,
         "SHELTER_ID": 367325,
         "SHELTER_NAME": "The Well Hanger",
         "ADDRESS": "2456 84th St SW",
@@ -181,7 +181,7 @@
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-01-21T20:45:16.382Z",
+  "timeStamp": "2026-01-21T21:13:16.194Z",
   "crs": {
     "type": "name",
     "properties": {
