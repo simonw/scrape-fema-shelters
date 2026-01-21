@@ -3,22 +3,22 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_7069",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-7bbe",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.8303,
-          30.5619
+          -87.9413,
+          43.1079
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760775,
-        "SHELTER_ID": 367316,
-        "SHELTER_NAME": "Callahan Methodist Church",
-        "ADDRESS": "449648 US 301",
-        "CITY": "Callahan",
-        "STATE": "FL",
+        "objectid": 1760783,
+        "SHELTER_ID": 367315,
+        "SHELTER_NAME": "McNair Elementary School",
+        "ADDRESS": "4950 N 24th St",
+        "CITY": "Milwaukee",
+        "STATE": "WI",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
@@ -39,15 +39,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -81.8303,
-        30.5619,
-        -81.8303,
-        30.5619
+        -87.9413,
+        43.1079,
+        -87.9413,
+        43.1079
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_706a",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-7bbd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760776,
+        "objectid": 1760784,
         "SHELTER_ID": 367324,
         "SHELTER_NAME": "Willie Keyes Community Recreation Center",
         "ADDRESS": "3131 Union St",
@@ -91,7 +91,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_706b",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-7bbc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8303,
+          30.5619
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1760785,
+        "SHELTER_ID": 367316,
+        "SHELTER_NAME": "Callahan Methodist Church",
+        "ADDRESS": "449648 US 301",
+        "CITY": "Callahan",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.8303,
+        30.5619,
+        -81.8303,
+        30.5619
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-7bbb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760777,
+        "objectid": 1760786,
         "SHELTER_ID": 367325,
         "SHELTER_NAME": "The Well Hanger",
         "ADDRESS": "2456 84th St SW",
@@ -132,56 +176,12 @@
         -85.7241,
         42.8117
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_706c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.9413,
-          43.1079
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1760778,
-        "SHELTER_ID": 367315,
-        "SHELTER_NAME": "McNair Elementary School",
-        "ADDRESS": "4950 N 24th St",
-        "CITY": "Milwaukee",
-        "STATE": "WI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.9413,
-        43.1079,
-        -87.9413,
-        43.1079
-      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-01-21T22:43:22.204Z",
+  "timeStamp": "2026-01-21T23:10:53.212Z",
   "crs": {
     "type": "name",
     "properties": {
