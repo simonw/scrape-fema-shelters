@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5d24",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5c8e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760563,
+        "objectid": 1760573,
         "SHELTER_ID": 367319,
         "SHELTER_NAME": "Percy Peek Gym",
         "ADDRESS": "2902 Ave D",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5d23",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5c8d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760564,
+        "objectid": 1760574,
         "SHELTER_ID": 367320,
         "SHELTER_NAME": "Gertrude Weldin Daycare Ctr",
         "ADDRESS": "601 SE Lake Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5d22",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5c8c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760565,
+        "objectid": 1760575,
         "SHELTER_ID": 367321,
         "SHELTER_NAME": "Belle Glade Transitional Facility",
         "ADDRESS": "341 NW 11th St",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5d21",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5c8b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760566,
+        "objectid": 1760576,
         "SHELTER_ID": 367322,
         "SHELTER_NAME": "Salvation Army Site",
         "ADDRESS": "2655 5th St SW",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5d20",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.8303,
-          30.5619
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1760557,
-        "SHELTER_ID": 367316,
-        "SHELTER_NAME": "Callahan Methodist Church",
-        "ADDRESS": "449648 US 301",
-        "CITY": "Callahan",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.8303,
-        30.5619,
-        -81.8303,
-        30.5619
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5d1f",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5c8a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760558,
+        "objectid": 1760567,
         "SHELTER_ID": 367315,
         "SHELTER_NAME": "McNair Elementary School",
         "ADDRESS": "4950 N 24th St",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5d1e",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5c89",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8303,
+          30.5619
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1760568,
+        "SHELTER_ID": 367316,
+        "SHELTER_NAME": "Callahan Methodist Church",
+        "ADDRESS": "449648 US 301",
+        "CITY": "Callahan",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.8303,
+        30.5619,
+        -81.8303,
+        30.5619
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5c88",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760559,
+        "objectid": 1760569,
         "SHELTER_ID": 367324,
         "SHELTER_NAME": "Willie Keyes Community Recreation Center",
         "ADDRESS": "3131 Union St",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5d1d",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5c87",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760560,
+        "objectid": 1760570,
         "SHELTER_ID": 367325,
         "SHELTER_NAME": "The Well Hanger",
         "ADDRESS": "2456 84th St SW",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5d1c",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5c86",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760561,
+        "objectid": 1760571,
         "SHELTER_ID": 367317,
         "SHELTER_NAME": "Rite 2Life",
         "ADDRESS": "202 NE 2nd Street",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5d1b",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19bdfc88636_-5c85",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760562,
+        "objectid": 1760572,
         "SHELTER_ID": 367318,
         "SHELTER_NAME": "Bert Harris Agriculture Center",
         "ADDRESS": "4509 George Blvd",
@@ -445,7 +445,7 @@
   "totalFeatures": 10,
   "numberMatched": 10,
   "numberReturned": 10,
-  "timeStamp": "2026-01-21T09:14:20.618Z",
+  "timeStamp": "2026-01-21T09:44:31.767Z",
   "crs": {
     "type": "name",
     "properties": {
