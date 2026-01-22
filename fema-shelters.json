@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-7a46",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-79e2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760827,
+        "objectid": 1760835,
         "SHELTER_ID": 367315,
         "SHELTER_NAME": "McNair Elementary School",
         "ADDRESS": "4950 N 24th St",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-7a45",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.7241,
-          42.8117
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1760828,
-        "SHELTER_ID": 367325,
-        "SHELTER_NAME": "The Well Hanger",
-        "ADDRESS": "2456 84th St SW",
-        "CITY": "Byron Center",
-        "STATE": "MI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.7241,
-        42.8117,
-        -85.7241,
-        42.8117
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-7a44",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-79e1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760829,
+        "objectid": 1760836,
         "SHELTER_ID": 367316,
         "SHELTER_NAME": "Callahan Methodist Church",
         "ADDRESS": "449648 US 301",
@@ -135,7 +91,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-7a43",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-79e0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7241,
+          42.8117
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1760837,
+        "SHELTER_ID": 367325,
+        "SHELTER_NAME": "The Well Hanger",
+        "ADDRESS": "2456 84th St SW",
+        "CITY": "Byron Center",
+        "STATE": "MI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.7241,
+        42.8117,
+        -85.7241,
+        42.8117
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-79df",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760830,
+        "objectid": 1760838,
         "SHELTER_ID": 367324,
         "SHELTER_NAME": "Willie Keyes Community Recreation Center",
         "ADDRESS": "3131 Union St",
@@ -181,7 +181,7 @@
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-01-22T02:51:59.928Z",
+  "timeStamp": "2026-01-22T03:39:34.724Z",
   "crs": {
     "type": "name",
     "properties": {
