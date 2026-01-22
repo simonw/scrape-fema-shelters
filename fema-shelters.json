@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-14d1",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-14ab",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7241,
+          42.8117
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1760939,
+        "SHELTER_ID": 367325,
+        "SHELTER_NAME": "The Well Hanger",
+        "ADDRESS": "2456 84th St SW",
+        "CITY": "Byron Center",
+        "STATE": "MI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.7241,
+        42.8117,
+        -85.7241,
+        42.8117
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-14aa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760931,
+        "objectid": 1760940,
         "SHELTER_ID": 367315,
         "SHELTER_NAME": "McNair Elementary School",
         "ADDRESS": "4950 N 24th St",
@@ -47,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-14d0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.8303,
-          30.5619
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1760932,
-        "SHELTER_ID": 367316,
-        "SHELTER_NAME": "Callahan Methodist Church",
-        "ADDRESS": "449648 US 301",
-        "CITY": "Callahan",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.8303,
-        30.5619,
-        -81.8303,
-        30.5619
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-14cf",
+      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-14a9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1760933,
+        "objectid": 1760941,
         "SHELTER_ID": 367324,
         "SHELTER_NAME": "Willie Keyes Community Recreation Center",
         "ADDRESS": "3131 Union St",
@@ -132,56 +132,12 @@
         -122.2839,
         37.8236
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--343f27da_19be2ca7257_-14ce",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.7241,
-          42.8117
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1760934,
-        "SHELTER_ID": 367325,
-        "SHELTER_NAME": "The Well Hanger",
-        "ADDRESS": "2456 84th St SW",
-        "CITY": "Byron Center",
-        "STATE": "MI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.7241,
-        42.8117,
-        -85.7241,
-        42.8117
-      ]
     }
   ],
-  "totalFeatures": 4,
-  "numberMatched": 4,
-  "numberReturned": 4,
-  "timeStamp": "2026-01-22T11:38:58.060Z",
+  "totalFeatures": 3,
+  "numberMatched": 3,
+  "numberReturned": 3,
+  "timeStamp": "2026-01-22T12:17:06.736Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -190,8 +146,8 @@
   },
   "bbox": [
     -122.2839,
-    30.5619,
-    -81.8303,
+    37.8236,
+    -85.7241,
     43.1079
   ]
 }
