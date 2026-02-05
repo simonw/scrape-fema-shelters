@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bee",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.2832,
-          28.6101
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1860071,
-        "SHELTER_ID": 367794,
-        "SHELTER_NAME": "Goldenrod Recreation Center",
-        "ADDRESS": "4863 N Goldenrod Rd",
-        "CITY": "Winter Park",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.2832,
-        28.6101,
-        -81.2832,
-        28.6101
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bef",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.1163,
-          30.7255
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1860073,
-        "SHELTER_ID": 134632,
-        "SHELTER_NAME": "Defuniak Springs Community Center",
-        "ADDRESS": "361 N 10th St",
-        "CITY": "Defuniak Springs",
-        "STATE": "FL",
-        "ZIP": "32433",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1,
-        "POST_IMPACT_CAPACITY": 1,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": "5:00P",
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "NORTHWEST FLORIDA",
-        "ORG_ID": 121686,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 30.72546557,
-        "LONGITUDE": -86.11626911,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -86.1163,
-        30.7255,
-        -86.1163,
-        30.7255
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bf0",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e2f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860072,
+        "objectid": 1860242,
         "SHELTER_ID": 367731,
         "SHELTER_NAME": "Facts of Life Church",
         "ADDRESS": "508 N Lee Street",
@@ -135,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bf1",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1163,
+          30.7255
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1860243,
+        "SHELTER_ID": 134632,
+        "SHELTER_NAME": "Defuniak Springs Community Center",
+        "ADDRESS": "361 N 10th St",
+        "CITY": "Defuniak Springs",
+        "STATE": "FL",
+        "ZIP": "32433",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1,
+        "POST_IMPACT_CAPACITY": 1,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "NORTHWEST FLORIDA",
+        "ORG_ID": 121686,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 30.72546557,
+        "LONGITUDE": -86.11626911,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.1163,
+        30.7255,
+        -86.1163,
+        30.7255
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e31",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860074,
+        "objectid": 1860244,
         "SHELTER_ID": 367712,
         "SHELTER_NAME": "Crestview Area Shelter for the Homeless",
         "ADDRESS": "120 Duggan Avenue",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bf2",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e32",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860075,
+        "objectid": 1860245,
         "SHELTER_ID": 367765,
         "SHELTER_NAME": "Trinity Arcadia Methodist Church",
         "ADDRESS": "304 W Oak Street",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bf3",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e33",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860076,
+        "objectid": 1860246,
         "SHELTER_ID": 367714,
         "SHELTER_NAME": "Generations United Church",
         "ADDRESS": "108 Florida 85",
@@ -267,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bf4",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e34",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860077,
+        "objectid": 1860247,
         "SHELTER_ID": 367715,
         "SHELTER_NAME": "HOPE Community",
         "ADDRESS": "2729 West Pensacola Street",
@@ -311,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bf5",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e35",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860078,
+        "objectid": 1860248,
         "SHELTER_ID": 367788,
         "SHELTER_NAME": "First United Methodist Church - Titusville",
         "ADDRESS": "206 S Hopkins",
@@ -355,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bf6",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e36",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860079,
+        "objectid": 1860249,
         "SHELTER_ID": 367755,
         "SHELTER_NAME": "Brushy Church of Christ",
         "ADDRESS": "774 State Route 48",
@@ -399,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bf7",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e37",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860080,
+        "objectid": 1860250,
         "SHELTER_ID": 367774,
         "SHELTER_NAME": "Bertie County Senior Center",
         "ADDRESS": "103 W School Street",
@@ -443,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bf8",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e38",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860081,
+        "objectid": 1860251,
         "SHELTER_ID": 367775,
         "SHELTER_NAME": "Bolton Senior Center - Columbus",
         "ADDRESS": "15354 Sam Potts Hwy",
@@ -487,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bf9",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e39",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860082,
+        "objectid": 1860252,
         "SHELTER_ID": 367776,
         "SHELTER_NAME": "Lewiston-Woodville Educational Vitality Center",
         "ADDRESS": "121 Main St",
@@ -531,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bfa",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e3a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860083,
+        "objectid": 1860253,
         "SHELTER_ID": 367782,
         "SHELTER_NAME": "Hosanna Family Worship",
         "ADDRESS": "596 Hentz Rd",
@@ -575,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bfb",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e3b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860084,
+        "objectid": 1860254,
         "SHELTER_ID": 367784,
         "SHELTER_NAME": "Lydia Baptist Church",
         "ADDRESS": "491 NE 223rd Ave",
@@ -619,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bfc",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e3c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860085,
+        "objectid": 1860255,
         "SHELTER_ID": 367601,
         "SHELTER_NAME": "Shady Hills Mission Chapel",
         "ADDRESS": "15925 Greenglen Ln",
@@ -663,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bfd",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e3d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860086,
+        "objectid": 1860256,
         "SHELTER_ID": 367716,
         "SHELTER_NAME": "One Hopeful Place",
         "ADDRESS": "1564 North Beal Extension",
@@ -707,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bfe",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e3e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860087,
+        "objectid": 1860257,
         "SHELTER_ID": 367717,
         "SHELTER_NAME": "Parkview Baptist Church",
         "ADDRESS": "268 NW Lake Jeffrey Rd",
@@ -751,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6bff",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e3f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860088,
+        "objectid": 1860258,
         "SHELTER_ID": 367719,
         "SHELTER_NAME": "Suwannee County Jail",
         "ADDRESS": "200 Ohio Avenue",
@@ -795,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c00",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e40",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860089,
+        "objectid": 1860259,
         "SHELTER_ID": 367761,
         "SHELTER_NAME": "Columbus County Sheriff Satellite Office",
         "ADDRESS": "352 Delco School Rd",
@@ -839,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c01",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e41",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860090,
+        "objectid": 1860260,
         "SHELTER_ID": 367762,
         "SHELTER_NAME": "Fair Bluff Fire Department",
         "ADDRESS": "152 Main St",
@@ -883,7 +839,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c02",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e42",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860091,
+        "objectid": 1860261,
         "SHELTER_ID": 367773,
         "SHELTER_NAME": "FAM - First Assembly Mulberry Church",
         "ADDRESS": "1400 Canal Street",
@@ -927,7 +883,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c03",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e43",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -937,7 +893,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860092,
+        "objectid": 1860262,
         "SHELTER_ID": 364579,
         "SHELTER_NAME": "Yalobusha County Multipurpose Building",
         "ADDRESS": "18025 Hwy 7",
@@ -971,7 +927,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c04",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e44",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -981,7 +937,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860093,
+        "objectid": 1860263,
         "SHELTER_ID": 367781,
         "SHELTER_NAME": "Tabor City Courthouse",
         "ADDRESS": "110 W 4th St",
@@ -1015,7 +971,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c05",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e45",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1025,7 +981,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860094,
+        "objectid": 1860264,
         "SHELTER_ID": 367789,
         "SHELTER_NAME": "Oxford Activities Center",
         "ADDRESS": "400 Price Street",
@@ -1059,7 +1015,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c06",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e46",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1069,7 +1025,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860095,
+        "objectid": 1860265,
         "SHELTER_ID": 367718,
         "SHELTER_NAME": "Steinhatchee Community Center",
         "ADDRESS": "1013 Riverside Drive",
@@ -1103,7 +1059,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c07",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e47",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1113,7 +1069,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860096,
+        "objectid": 1860266,
         "SHELTER_ID": 367760,
         "SHELTER_NAME": "Cherry Grove Missionary Baptist",
         "ADDRESS": "409 Bitmore Rd",
@@ -1147,7 +1103,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c08",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e48",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1157,7 +1113,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860097,
+        "objectid": 1860267,
         "SHELTER_ID": 367771,
         "SHELTER_NAME": "Matthews Hope",
         "ADDRESS": "611 Business Park Blvd",
@@ -1191,7 +1147,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c09",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e49",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1201,7 +1157,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860098,
+        "objectid": 1860268,
         "SHELTER_ID": 367799,
         "SHELTER_NAME": "East Hickman Community Center",
         "ADDRESS": "5387 Hwy 100",
@@ -1235,7 +1191,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c0a",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e4a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1245,7 +1201,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860099,
+        "objectid": 1860269,
         "SHELTER_ID": 367800,
         "SHELTER_NAME": "Grace Community Church",
         "ADDRESS": "5711 Granny White",
@@ -1279,7 +1235,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c0b",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e4b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1289,7 +1245,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860100,
+        "objectid": 1860270,
         "SHELTER_ID": 365668,
         "SHELTER_NAME": "Hardee County Department of Health",
         "ADDRESS": "115 K D Revel Rd",
@@ -1323,7 +1279,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c0c",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e4c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1333,7 +1289,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860101,
+        "objectid": 1860271,
         "SHELTER_ID": 367415,
         "SHELTER_NAME": "Holly Springs Multi Purpose Community Center",
         "ADDRESS": "235 North Memphis St",
@@ -1367,7 +1323,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c0d",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e4d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1377,7 +1333,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860102,
+        "objectid": 1860272,
         "SHELTER_ID": 367447,
         "SHELTER_NAME": "Southeast Regional Community Center",
         "ADDRESS": "5260 Hickory Hollow Pkwy",
@@ -1411,7 +1367,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c0e",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e4e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1421,7 +1377,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860103,
+        "objectid": 1860273,
         "SHELTER_ID": 367497,
         "SHELTER_NAME": "Nashville Fairgrounds",
         "ADDRESS": "625 Smith Ave",
@@ -1455,7 +1411,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c0f",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e4f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2832,
+          28.6101
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1860241,
+        "SHELTER_ID": 367794,
+        "SHELTER_NAME": "Goldenrod Recreation Center",
+        "ADDRESS": "4863 N Goldenrod Rd",
+        "CITY": "Winter Park",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.2832,
+        28.6101,
+        -81.2832,
+        28.6101
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e50",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1465,7 +1465,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860104,
+        "objectid": 1860274,
         "SHELTER_ID": 340038,
         "SHELTER_NAME": "The Legends Community Center",
         "ADDRESS": "5130 Soutel Drive",
@@ -1499,7 +1499,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c10",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e51",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1509,7 +1509,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860105,
+        "objectid": 1860275,
         "SHELTER_ID": 367526,
         "SHELTER_NAME": "Brooksville Enrichment Center",
         "ADDRESS": "800 John Gary Grubbs Blvd",
@@ -1543,7 +1543,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c11",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e52",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1553,7 +1553,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860106,
+        "objectid": 1860276,
         "SHELTER_ID": 367531,
         "SHELTER_NAME": "Callahan Methodist Church",
         "ADDRESS": "449648 US 301",
@@ -1587,7 +1587,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c12",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e53",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1597,7 +1597,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860107,
+        "objectid": 1860277,
         "SHELTER_ID": 73415,
         "SHELTER_NAME": "Geneva Recreation Center",
         "ADDRESS": "411 N Iris St",
@@ -1631,7 +1631,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c13",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e54",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1641,7 +1641,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860108,
+        "objectid": 1860278,
         "SHELTER_ID": 367617,
         "SHELTER_NAME": "Hardin County High School",
         "ADDRESS": "1170 Pickwick St",
@@ -1675,7 +1675,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c14",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e55",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1685,7 +1685,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860109,
+        "objectid": 1860279,
         "SHELTER_ID": 367552,
         "SHELTER_NAME": "Decatur County Civic Center",
         "ADDRESS": "190 Civic Lane",
@@ -1719,7 +1719,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c15",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e56",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1729,7 +1729,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860110,
+        "objectid": 1860280,
         "SHELTER_ID": 367562,
         "SHELTER_NAME": "Forest Capital State Museum",
         "ADDRESS": "204 Forest Park Dr",
@@ -1763,7 +1763,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c16",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e57",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1773,7 +1773,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860111,
+        "objectid": 1860281,
         "SHELTER_ID": 367578,
         "SHELTER_NAME": "Link Centre",
         "ADDRESS": "1800 West Main Street",
@@ -1807,7 +1807,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c17",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e58",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1817,7 +1817,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860112,
+        "objectid": 1860282,
         "SHELTER_ID": 367588,
         "SHELTER_NAME": "Nature Coast Community Church",
         "ADDRESS": "5113 S Suncoast Blvd",
@@ -1851,7 +1851,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c18",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e59",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1861,7 +1861,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860113,
+        "objectid": 1860283,
         "SHELTER_ID": 367610,
         "SHELTER_NAME": "Grace United Methodist Church",
         "ADDRESS": "401 Grace St",
@@ -1895,7 +1895,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c19",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e5a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1905,7 +1905,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860114,
+        "objectid": 1860284,
         "SHELTER_ID": 367608,
         "SHELTER_NAME": "Yazoo City Warming Shelter",
         "ADDRESS": "347 N Mound St",
@@ -1939,7 +1939,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c1a",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e5b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1949,7 +1949,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860115,
+        "objectid": 1860285,
         "SHELTER_ID": 367620,
         "SHELTER_NAME": "LifePointe Ministries",
         "ADDRESS": "4220 South Hopkins Ave",
@@ -1983,7 +1983,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c1b",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e5c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1993,7 +1993,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860116,
+        "objectid": 1860286,
         "SHELTER_ID": 367621,
         "SHELTER_NAME": "Barnett Park Recreation Center",
         "ADDRESS": "4801 W Colonial Dr",
@@ -2027,7 +2027,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c1c",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e5d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2037,7 +2037,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860117,
+        "objectid": 1860287,
         "SHELTER_ID": 367606,
         "SHELTER_NAME": "A Place of Grace",
         "ADDRESS": "1624 Glover Drive",
@@ -2071,7 +2071,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c1d",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e5e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2081,7 +2081,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860118,
+        "objectid": 1860288,
         "SHELTER_ID": 367561,
         "SHELTER_NAME": "First Church of the Nazarene Zephyrhills",
         "ADDRESS": "6151 12th St",
@@ -2115,7 +2115,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c1e",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e5f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2125,7 +2125,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860119,
+        "objectid": 1860289,
         "SHELTER_ID": 363255,
         "SHELTER_NAME": "Humphreys County Multipurpose Building",
         "ADDRESS": "417 Silver City",
@@ -2159,7 +2159,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c1f",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e60",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2169,7 +2169,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860120,
+        "objectid": 1860290,
         "SHELTER_ID": 367581,
         "SHELTER_NAME": "Madison Community Center",
         "ADDRESS": "550 N Dupont Ave",
@@ -2203,7 +2203,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c20",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e61",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2213,7 +2213,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860121,
+        "objectid": 1860291,
         "SHELTER_ID": 367686,
         "SHELTER_NAME": "Tallahatchie County Safe Room",
         "ADDRESS": "185 South Market St",
@@ -2247,139 +2247,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c21",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.184,
-          34.8049
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1860122,
-        "SHELTER_ID": 367683,
-        "SHELTER_NAME": "JFM Community Center",
-        "ADDRESS": "707 Spring St",
-        "CITY": "Iuka",
-        "STATE": "MS",
-        "ZIP": "38852",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 50,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "3",
-        "ORG_ID": 119230,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.184,
-        34.8049,
-        -88.184,
-        34.8049
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c22",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.194,
-          34.8092
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1860123,
-        "SHELTER_ID": 367684,
-        "SHELTER_NAME": "Iuka Middle School (Activities Building)",
-        "ADDRESS": "507 W Quitman St",
-        "CITY": "Iuka",
-        "STATE": "MS",
-        "ZIP": "38852",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 60,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "3",
-        "ORG_ID": 119230,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.194,
-        34.8092,
-        -88.194,
-        34.8092
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c23",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.3576,
-          34.6424
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1860124,
-        "SHELTER_ID": 367685,
-        "SHELTER_NAME": "Tunica Shelter",
-        "ADDRESS": "1100 White Oak Rd",
-        "CITY": "Tunica",
-        "STATE": "MS",
-        "ZIP": "38676",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "3",
-        "ORG_ID": 119230,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.3576,
-        34.6424,
-        -90.3576,
-        34.6424
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c24",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e62",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2389,7 +2257,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860125,
+        "objectid": 1860292,
         "SHELTER_ID": 367682,
         "SHELTER_NAME": "Alcorn County Warming Shelter",
         "ADDRESS": "1624 Glover Drive",
@@ -2423,7 +2291,139 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c25",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.184,
+          34.8049
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1860293,
+        "SHELTER_ID": 367683,
+        "SHELTER_NAME": "JFM Community Center",
+        "ADDRESS": "707 Spring St",
+        "CITY": "Iuka",
+        "STATE": "MS",
+        "ZIP": "38852",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 50,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "3",
+        "ORG_ID": 119230,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.184,
+        34.8049,
+        -88.184,
+        34.8049
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.194,
+          34.8092
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1860294,
+        "SHELTER_ID": 367684,
+        "SHELTER_NAME": "Iuka Middle School (Activities Building)",
+        "ADDRESS": "507 W Quitman St",
+        "CITY": "Iuka",
+        "STATE": "MS",
+        "ZIP": "38852",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 60,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "3",
+        "ORG_ID": 119230,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.194,
+        34.8092,
+        -88.194,
+        34.8092
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e65",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3576,
+          34.6424
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1860295,
+        "SHELTER_ID": 367685,
+        "SHELTER_NAME": "Tunica Shelter",
+        "ADDRESS": "1100 White Oak Rd",
+        "CITY": "Tunica",
+        "STATE": "MS",
+        "ZIP": "38676",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "3",
+        "ORG_ID": 119230,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.3576,
+        34.6424,
+        -90.3576,
+        34.6424
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e66",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2433,7 +2433,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860126,
+        "objectid": 1860296,
         "SHELTER_ID": 299426,
         "SHELTER_NAME": "Selmer Civic Center",
         "ADDRESS": "230 N Fifth St",
@@ -2467,7 +2467,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c26",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e67",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2477,7 +2477,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860127,
+        "objectid": 1860297,
         "SHELTER_ID": 367660,
         "SHELTER_NAME": "The Civic",
         "ADDRESS": "803 North Main St",
@@ -2511,7 +2511,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c27",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e68",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2521,7 +2521,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860128,
+        "objectid": 1860298,
         "SHELTER_ID": 367659,
         "SHELTER_NAME": "LT Miller Community Center",
         "ADDRESS": "930 Lamar Ave",
@@ -2555,7 +2555,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c28",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e69",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2565,7 +2565,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860132,
+        "objectid": 1860302,
         "SHELTER_ID": 367663,
         "SHELTER_NAME": "Multi County Community Service Agency",
         "ADDRESS": "2902 St Paul Street",
@@ -2599,7 +2599,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c29",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e6a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2609,7 +2609,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860133,
+        "objectid": 1860303,
         "SHELTER_ID": 367626,
         "SHELTER_NAME": "Grenada City Auditorium",
         "ADDRESS": "17 N Main St",
@@ -2643,7 +2643,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c2a",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e6b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2653,7 +2653,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860134,
+        "objectid": 1860304,
         "SHELTER_ID": 367700,
         "SHELTER_NAME": "Quad Cities and Northwest Illinois Chapter",
         "ADDRESS": "1100 River Drive",
@@ -2687,7 +2687,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c2b",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e6c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2697,7 +2697,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860135,
+        "objectid": 1860305,
         "SHELTER_ID": 367668,
         "SHELTER_NAME": "Calvary United Methodist Church",
         "ADDRESS": "114 Francis St",
@@ -2731,7 +2731,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c2c",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e6d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2741,7 +2741,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860136,
+        "objectid": 1860306,
         "SHELTER_ID": 367673,
         "SHELTER_NAME": "The Dwelling Winston Salem",
         "ADDRESS": "502 N Broad St",
@@ -2775,7 +2775,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c2d",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e6e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2785,7 +2785,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860137,
+        "objectid": 1860307,
         "SHELTER_ID": 367628,
         "SHELTER_NAME": "Joe L Johnson Safe Room",
         "ADDRESS": "1060 Epps Ln",
@@ -2819,7 +2819,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c2e",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e6f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2829,7 +2829,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860138,
+        "objectid": 1860308,
         "SHELTER_ID": 367675,
         "SHELTER_NAME": "Grace United Methodist Church",
         "ADDRESS": "830 Church St",
@@ -2863,7 +2863,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c2f",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e70",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2873,7 +2873,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860139,
+        "objectid": 1860309,
         "SHELTER_ID": 367676,
         "SHELTER_NAME": "Middleton Community Center",
         "ADDRESS": "400 South Main St",
@@ -2907,7 +2907,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c30",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e71",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2917,7 +2917,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860140,
+        "objectid": 1860310,
         "SHELTER_ID": 367633,
         "SHELTER_NAME": "Pontotoc County Siolid Waste",
         "ADDRESS": "285 Hwy 15 S",
@@ -2951,7 +2951,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c31",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e72",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2961,7 +2961,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860141,
+        "objectid": 1860311,
         "SHELTER_ID": 367638,
         "SHELTER_NAME": "Jasper County Community Center",
         "ADDRESS": "124 Edmund King Dr",
@@ -2995,7 +2995,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c32",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e73",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3005,7 +3005,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860142,
+        "objectid": 1860312,
         "SHELTER_ID": 367652,
         "SHELTER_NAME": "Washington County Shelter",
         "ADDRESS": "502 N Broadway",
@@ -3039,7 +3039,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c33",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e74",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3049,7 +3049,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860143,
+        "objectid": 1860313,
         "SHELTER_ID": 367727,
         "SHELTER_NAME": "Bellevue Community Center",
         "ADDRESS": "7638 Highway 70 South",
@@ -3083,7 +3083,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c34",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e75",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3093,7 +3093,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860144,
+        "objectid": 1860314,
         "SHELTER_ID": 367653,
         "SHELTER_NAME": "Eupora Civic Center",
         "ADDRESS": "2135 West Roane St",
@@ -3127,139 +3127,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c35",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.2178,
-          36.3105
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1860129,
-        "SHELTER_ID": 367701,
-        "SHELTER_NAME": "Knobbs Creek Recreational Center",
-        "ADDRESS": "200 East Ward Street",
-        "CITY": "Elizabeth City",
-        "STATE": "NC",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -76.2178,
-        36.3105,
-        -76.2178,
-        36.3105
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c36",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.829,
-          32.9785
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1860130,
-        "SHELTER_ID": 367702,
-        "SHELTER_NAME": "30 Fields Circle",
-        "ADDRESS": "30 Fields Circle",
-        "CITY": "Anguilla",
-        "STATE": "MS",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.829,
-        32.9785,
-        -90.829,
-        32.9785
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c37",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.5694,
-          34.2034
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1860131,
-        "SHELTER_ID": 367708,
-        "SHELTER_NAME": "Clarksdale Civic Auditorium",
-        "ADDRESS": "506 E 2nd St",
-        "CITY": "Clarksdale",
-        "STATE": "MS",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.5694,
-        34.2034,
-        -90.5694,
-        34.2034
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c38",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e76",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3269,7 +3137,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860145,
+        "objectid": 1860315,
         "SHELTER_ID": 367654,
         "SHELTER_NAME": "Jackson County Fair Hall",
         "ADDRESS": "2902 Shortcut Rd",
@@ -3303,7 +3171,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c39",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e77",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3313,7 +3181,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860146,
+        "objectid": 1860316,
         "SHELTER_ID": 367650,
         "SHELTER_NAME": "Tilden Fire Department",
         "ADDRESS": "8111 Hwy 25 S",
@@ -3347,7 +3215,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c3a",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e78",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3357,7 +3225,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860147,
+        "objectid": 1860317,
         "SHELTER_ID": 367651,
         "SHELTER_NAME": "Union County Warming Shelter",
         "ADDRESS": "112 Fairground Rd",
@@ -3391,7 +3259,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c3b",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e79",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3401,7 +3269,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860148,
+        "objectid": 1860318,
         "SHELTER_ID": 367678,
         "SHELTER_NAME": "Leflore Civic Center",
         "ADDRESS": "200 MS-7",
@@ -3435,7 +3303,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c3c",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e7a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3445,7 +3313,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860149,
+        "objectid": 1860319,
         "SHELTER_ID": 367680,
         "SHELTER_NAME": "Carroll County Shelter",
         "ADDRESS": "104 Main St",
@@ -3479,7 +3347,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c3d",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e7b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3489,7 +3357,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860150,
+        "objectid": 1860320,
         "SHELTER_ID": 367681,
         "SHELTER_NAME": "Calhoun County Shelter",
         "ADDRESS": "201 Veterans Blvd",
@@ -3523,7 +3391,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c3e",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e7c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3533,7 +3401,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860152,
+        "objectid": 1860322,
         "SHELTER_ID": 367763,
         "SHELTER_NAME": "Town of Brunswick, Town Hall",
         "ADDRESS": "40 Poplar St",
@@ -3567,7 +3435,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c3f",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e7d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3577,7 +3445,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860153,
+        "objectid": 1860323,
         "SHELTER_ID": 367720,
         "SHELTER_NAME": "The Kearney Center",
         "ADDRESS": "2650 Municipal Way",
@@ -3611,7 +3479,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c40",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e7e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3621,7 +3489,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860154,
+        "objectid": 1860324,
         "SHELTER_ID": 346515,
         "SHELTER_NAME": "Ripley First Baptist Church-Family Life Center",
         "ADDRESS": "202 East Pine Street",
@@ -3655,7 +3523,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c41",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e7f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3665,7 +3533,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860155,
+        "objectid": 1860325,
         "SHELTER_ID": 367711,
         "SHELTER_NAME": "Capital City Youth Services",
         "ADDRESS": "2407 Roberts Avenue",
@@ -3699,7 +3567,139 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6c42",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e80",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2178,
+          36.3105
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1860299,
+        "SHELTER_ID": 367701,
+        "SHELTER_NAME": "Knobbs Creek Recreational Center",
+        "ADDRESS": "200 East Ward Street",
+        "CITY": "Elizabeth City",
+        "STATE": "NC",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -76.2178,
+        36.3105,
+        -76.2178,
+        36.3105
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e81",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.829,
+          32.9785
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1860300,
+        "SHELTER_ID": 367702,
+        "SHELTER_NAME": "30 Fields Circle",
+        "ADDRESS": "30 Fields Circle",
+        "CITY": "Anguilla",
+        "STATE": "MS",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.829,
+        32.9785,
+        -90.829,
+        32.9785
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e82",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5694,
+          34.2034
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1860301,
+        "SHELTER_ID": 367708,
+        "SHELTER_NAME": "Clarksdale Civic Auditorium",
+        "ADDRESS": "506 E 2nd St",
+        "CITY": "Clarksdale",
+        "STATE": "MS",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.5694,
+        34.2034,
+        -90.5694,
+        34.2034
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-4a7998a4_19c2a754a8c_6e83",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3709,7 +3709,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1860151,
+        "objectid": 1860321,
         "SHELTER_ID": 367751,
         "SHELTER_NAME": "Crossroads Arena",
         "ADDRESS": "2800 S Harper Rd",
@@ -3745,7 +3745,7 @@
   "totalFeatures": 85,
   "numberMatched": 85,
   "numberReturned": 85,
-  "timeStamp": "2026-02-05T08:20:15.667Z",
+  "timeStamp": "2026-02-05T08:48:57.520Z",
   "crs": {
     "type": "name",
     "properties": {
