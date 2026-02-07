@@ -3,1063 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c96",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b2f",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.8638,
-          27.2169
+          -86.1163,
+          30.7255
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1866498,
-        "SHELTER_ID": 367765,
-        "SHELTER_NAME": "Trinity Arcadia Methodist Church",
-        "ADDRESS": "304 W Oak Street",
-        "CITY": "Arcadia",
+        "objectid": 1866551,
+        "SHELTER_ID": 134632,
+        "SHELTER_NAME": "Defuniak Springs Community Center",
+        "ADDRESS": "361 N 10th St",
+        "CITY": "Defuniak Springs",
         "STATE": "FL",
-        "ZIP": "34266",
+        "ZIP": "32433",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
+        "EVACUATION_CAPACITY": 1,
+        "POST_IMPACT_CAPACITY": 1,
         "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "3",
-        "ORG_ID": 119230,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.8638,
-        27.2169,
-        -81.8638,
-        27.2169
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c95",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1115,
-          26.7
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866499,
-        "SHELTER_ID": 133823,
-        "SHELTER_NAME": "Salvation Army Center Of Hope",
-        "ADDRESS": "1577 N Military Trail",
-        "CITY": "West Palm Beach",
-        "STATE": "FL",
-        "ZIP": "33409",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 75,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "GREATER PALM BEACH",
-        "ORG_ID": 121443,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 26.70000136,
-        "LONGITUDE": -80.11145173,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -80.1115,
-        26.7,
-        -80.1115,
-        26.7
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c94",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.2441,
-          27.1931
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866500,
-        "SHELTER_ID": 367320,
-        "SHELTER_NAME": "Gertrude Weldin Daycare Ctr",
-        "ADDRESS": "601 SE Lake Street",
-        "CITY": "Stuart",
-        "STATE": "FL",
-        "ZIP": "34994",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -80.2441,
-        27.1931,
-        -80.2441,
-        27.1931
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c93",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.6787,
-          26.6888
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866501,
-        "SHELTER_ID": 367321,
-        "SHELTER_NAME": "Belle Glade Transitional Facility",
-        "ADDRESS": "341 NW 11th St",
-        "CITY": "Belle Glade",
-        "STATE": "FL",
-        "ZIP": "33430",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -80.6787,
-        26.6888,
-        -80.6787,
-        26.6888
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c92",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.4135,
-          27.5935
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866502,
-        "SHELTER_ID": 367322,
-        "SHELTER_NAME": "Salvation Army Site",
-        "ADDRESS": "2655 5th St SW",
-        "CITY": "Vero Beach",
-        "STATE": "FL",
-        "ZIP": "32962",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -80.4135,
-        27.5935,
-        -80.4135,
-        27.5935
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c91",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4939,
-          30.5249
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866503,
-        "SHELTER_ID": 367714,
-        "SHELTER_NAME": "Generations United Church",
-        "ADDRESS": "108 Florida 85",
-        "CITY": "Niceville",
-        "STATE": "FL",
-        "ZIP": "32578",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "3",
-        "ORG_ID": 119230,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -86.4939,
-        30.5249,
-        -86.4939,
-        30.5249
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c90",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.3332,
-          30.4409
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866504,
-        "SHELTER_ID": 367715,
-        "SHELTER_NAME": "HOPE Community",
-        "ADDRESS": "2729 West Pensacola Street",
-        "CITY": "Tallahassee",
-        "STATE": "FL",
-        "ZIP": "32304",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "3",
-        "ORG_ID": 119230,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.3332,
-        30.4409,
-        -84.3332,
-        30.4409
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c8f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.3547,
-          27.4534
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866505,
-        "SHELTER_ID": 367319,
-        "SHELTER_NAME": "Percy Peek Gym",
-        "ADDRESS": "2902 Ave D",
-        "CITY": "Ft Pierce",
-        "STATE": "FL",
-        "ZIP": "34947",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 30,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -80.3547,
-        27.4534,
-        -80.3547,
-        27.4534
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c8e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.9575,
-          41.1597
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866508,
-        "SHELTER_ID": 362488,
-        "SHELTER_NAME": "Calvary Christian Church",
-        "ADDRESS": "10100 Cedar Island Rd",
-        "CITY": "Bellevue",
-        "STATE": "NE",
-        "ZIP": "68123",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 700,
-        "POST_IMPACT_CAPACITY": 350,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 41.1597437,
-        "LONGITUDE": -95.9575488,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -95.9575,
-        41.1597,
-        -95.9575,
-        41.1597
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c8d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5264,
-          34.375
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866509,
-        "SHELTER_ID": 367789,
-        "SHELTER_NAME": "Oxford Activities Center",
-        "ADDRESS": "400 Price Street",
-        "CITY": "Oxford",
-        "STATE": "MS",
-        "ZIP": "38655",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 47,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -89.5264,
-        34.375,
-        -89.5264,
-        34.375
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c8c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1003,
-          26.6994
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866510,
-        "SHELTER_ID": 133580,
-        "SHELTER_NAME": "Westgate Community Center Building 1",
-        "ADDRESS": "3691 Oswego Ave",
-        "CITY": "West Palm Beach",
-        "STATE": "FL",
-        "ZIP": "33409",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 75,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "GREATER PALM BEACH",
-        "ORG_ID": 121443,
+        "ORG_NAME": "NORTHWEST FLORIDA",
+        "ORG_ID": 121686,
         "MATCH_TYPE": "A",
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "EMEREVAC",
         "ADA_COMPLIANT": " ",
         "PET_ACCOMMODATIONS_CODE": " ",
         "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 26.69937171,
-        "LONGITUDE": -80.10029936,
+        "LATITUDE": 30.72546557,
+        "LONGITUDE": -86.11626911,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -80.1003,
-        26.6994,
-        -80.1003,
-        26.6994
+        -86.1163,
+        30.7255,
+        -86.1163,
+        30.7255
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c8b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.8213,
-          27.5908
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866511,
-        "SHELTER_ID": 365668,
-        "SHELTER_NAME": "Hardee County Department of Health",
-        "ADDRESS": "115 K D Revel Rd",
-        "CITY": "Wauchula",
-        "STATE": "FL",
-        "ZIP": "33873",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 27.5907711,
-        "LONGITUDE": -81.82131436,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.8213,
-        27.5908,
-        -81.8213,
-        27.5908
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c8a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.8284,
-          27.2446
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866512,
-        "SHELTER_ID": 367317,
-        "SHELTER_NAME": "Rite 2Life",
-        "ADDRESS": "202 NE 2nd Street",
-        "CITY": "Okeechobee",
-        "STATE": "FL",
-        "ZIP": "34973",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -80.8284,
-        27.2446,
-        -80.8284,
-        27.2446
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c89",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.448,
-          34.7724
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866513,
-        "SHELTER_ID": 367415,
-        "SHELTER_NAME": "Holly Springs Multi Purpose Community Center",
-        "ADDRESS": "235 North Memphis St",
-        "CITY": "Holly Springs",
-        "STATE": "MS",
-        "ZIP": "38635",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -89.448,
-        34.7724,
-        -89.448,
-        34.7724
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c88",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.8303,
-          30.5619
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866514,
-        "SHELTER_ID": 367531,
-        "SHELTER_NAME": "Callahan Methodist Church",
-        "ADDRESS": "449648 US 301",
-        "CITY": "Callahan",
-        "STATE": "FL",
-        "ZIP": "32011",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.8303,
-        30.5619,
-        -81.8303,
-        30.5619
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c87",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.2462,
-          35.2109
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866515,
-        "SHELTER_ID": 367617,
-        "SHELTER_NAME": "Hardin County High School",
-        "ADDRESS": "1170 Pickwick St",
-        "CITY": "Savannah",
-        "STATE": "TN",
-        "ZIP": "38372",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 60,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.2462,
-        35.2109,
-        -88.2462,
-        35.2109
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c86",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.5633,
-          28.788
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866516,
-        "SHELTER_ID": 367588,
-        "SHELTER_NAME": "Nature Coast Community Church",
-        "ADDRESS": "5113 S Suncoast Blvd",
-        "CITY": "Homosassa",
-        "STATE": "FL",
-        "ZIP": "34446",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.5633,
-        28.788,
-        -82.5633,
-        28.788
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c85",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.7007,
-          36.2656
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866517,
-        "SHELTER_ID": 367581,
-        "SHELTER_NAME": "Madison Community Center",
-        "ADDRESS": "550 N Dupont Ave",
-        "CITY": "Madison",
-        "STATE": "TN",
-        "ZIP": "37115",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 80,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -86.7007,
-        36.2656,
-        -86.7007,
-        36.2656
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c84",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.5924,
-          35.1737
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866518,
-        "SHELTER_ID": 299426,
-        "SHELTER_NAME": "Selmer Civic Center",
-        "ADDRESS": "230 N Fifth St",
-        "CITY": "Selmer",
-        "STATE": "TN",
-        "ZIP": "38375",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 200,
-        "POST_IMPACT_CAPACITY": 100,
-        "TOTAL_POPULATION": 108,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "JACKSON AREA CHAPTER",
-        "ORG_ID": 121505,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 35.17365622,
-        "LONGITUDE": -88.59243541,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.5924,
-        35.1737,
-        -88.5924,
-        35.1737
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c83",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.5235,
-          41.5065
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866519,
-        "SHELTER_ID": 367700,
-        "SHELTER_NAME": "Quad Cities and Northwest Illinois Chapter",
-        "ADDRESS": "1100 River Drive",
-        "CITY": "Moline",
-        "STATE": "IL",
-        "ZIP": "61285",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.5235,
-        41.5065,
-        -90.5235,
-        41.5065
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c82",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.9513,
-          36.0814
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866520,
-        "SHELTER_ID": 367727,
-        "SHELTER_NAME": "Bellevue Community Center",
-        "ADDRESS": "7638 Highway 70 South",
-        "CITY": "Bellevue",
-        "STATE": "TN",
-        "ZIP": "37221",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "3",
-        "ORG_ID": 119230,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -86.9513,
-        36.0814,
-        -86.9513,
-        36.0814
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c81",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.3311,
-          30.4404
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866521,
-        "SHELTER_ID": 367720,
-        "SHELTER_NAME": "The Kearney Center",
-        "ADDRESS": "2650 Municipal Way",
-        "CITY": "Tallahassee",
-        "STATE": "FL",
-        "ZIP": "32304",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "3",
-        "ORG_ID": 119230,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.3311,
-        30.4404,
-        -84.3311,
-        30.4404
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c80",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.9483,
-          34.7332
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866522,
-        "SHELTER_ID": 346515,
-        "SHELTER_NAME": "Ripley First Baptist Church-Family Life Center",
-        "ADDRESS": "202 East Pine Street",
-        "CITY": "Ripley",
-        "STATE": "MS",
-        "ZIP": "38663",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 219,
-        "TOTAL_POPULATION": 11,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "NORTHEAST MISSISSIPPI",
-        "ORG_ID": 121672,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 34.73319,
-        "LONGITUDE": -88.9482562,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.9483,
-        34.7332,
-        -88.9483,
-        34.7332
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c7f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.3263,
-          30.4288
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1866523,
-        "SHELTER_ID": 367711,
-        "SHELTER_NAME": "Capital City Youth Services",
-        "ADDRESS": "2407 Roberts Avenue",
-        "CITY": "Tallahassee",
-        "STATE": "FL",
-        "ZIP": "32310",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "3",
-        "ORG_ID": 119230,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.3263,
-        30.4288,
-        -84.3263,
-        30.4288
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c7e",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b30",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1069,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1866506,
+        "objectid": 1866560,
         "SHELTER_ID": 367804,
         "SHELTER_NAME": "Golden Valley Lutheran Church",
         "ADDRESS": "5501 Glenwood Ave",
@@ -1103,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c7d",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b31",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1113,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1866507,
+        "objectid": 1866561,
         "SHELTER_ID": 367805,
         "SHELTER_NAME": "Onondaga Community College SRC Arena and Events Center",
         "ADDRESS": "129 Ransom Mackenzie Drive East",
@@ -1147,53 +135,1065 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_-3c7c",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b32",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.1163,
-          30.7255
+          -81.8638,
+          27.2169
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1866497,
-        "SHELTER_ID": 134632,
-        "SHELTER_NAME": "Defuniak Springs Community Center",
-        "ADDRESS": "361 N 10th St",
-        "CITY": "Defuniak Springs",
+        "objectid": 1866552,
+        "SHELTER_ID": 367765,
+        "SHELTER_NAME": "Trinity Arcadia Methodist Church",
+        "ADDRESS": "304 W Oak Street",
+        "CITY": "Arcadia",
         "STATE": "FL",
-        "ZIP": "32433",
+        "ZIP": "34266",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1,
-        "POST_IMPACT_CAPACITY": 1,
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
         "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": "5:00P",
+        "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "NORTHWEST FLORIDA",
-        "ORG_ID": 121686,
+        "ORG_NAME": "3",
+        "ORG_ID": 119230,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.8638,
+        27.2169,
+        -81.8638,
+        27.2169
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1115,
+          26.7
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866553,
+        "SHELTER_ID": 133823,
+        "SHELTER_NAME": "Salvation Army Center Of Hope",
+        "ADDRESS": "1577 N Military Trail",
+        "CITY": "West Palm Beach",
+        "STATE": "FL",
+        "ZIP": "33409",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 75,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "GREATER PALM BEACH",
+        "ORG_ID": 121443,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 26.70000136,
+        "LONGITUDE": -80.11145173,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.1115,
+        26.7,
+        -80.1115,
+        26.7
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2441,
+          27.1931
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866554,
+        "SHELTER_ID": 367320,
+        "SHELTER_NAME": "Gertrude Weldin Daycare Ctr",
+        "ADDRESS": "601 SE Lake Street",
+        "CITY": "Stuart",
+        "STATE": "FL",
+        "ZIP": "34994",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.2441,
+        27.1931,
+        -80.2441,
+        27.1931
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6787,
+          26.6888
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866555,
+        "SHELTER_ID": 367321,
+        "SHELTER_NAME": "Belle Glade Transitional Facility",
+        "ADDRESS": "341 NW 11th St",
+        "CITY": "Belle Glade",
+        "STATE": "FL",
+        "ZIP": "33430",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.6787,
+        26.6888,
+        -80.6787,
+        26.6888
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4135,
+          27.5935
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866556,
+        "SHELTER_ID": 367322,
+        "SHELTER_NAME": "Salvation Army Site",
+        "ADDRESS": "2655 5th St SW",
+        "CITY": "Vero Beach",
+        "STATE": "FL",
+        "ZIP": "32962",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.4135,
+        27.5935,
+        -80.4135,
+        27.5935
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4939,
+          30.5249
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866557,
+        "SHELTER_ID": 367714,
+        "SHELTER_NAME": "Generations United Church",
+        "ADDRESS": "108 Florida 85",
+        "CITY": "Niceville",
+        "STATE": "FL",
+        "ZIP": "32578",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "3",
+        "ORG_ID": 119230,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.4939,
+        30.5249,
+        -86.4939,
+        30.5249
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3332,
+          30.4409
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866558,
+        "SHELTER_ID": 367715,
+        "SHELTER_NAME": "HOPE Community",
+        "ADDRESS": "2729 West Pensacola Street",
+        "CITY": "Tallahassee",
+        "STATE": "FL",
+        "ZIP": "32304",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "3",
+        "ORG_ID": 119230,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.3332,
+        30.4409,
+        -84.3332,
+        30.4409
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3547,
+          27.4534
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866559,
+        "SHELTER_ID": 367319,
+        "SHELTER_NAME": "Percy Peek Gym",
+        "ADDRESS": "2902 Ave D",
+        "CITY": "Ft Pierce",
+        "STATE": "FL",
+        "ZIP": "34947",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 30,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.3547,
+        27.4534,
+        -80.3547,
+        27.4534
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b3a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9575,
+          41.1597
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866562,
+        "SHELTER_ID": 362488,
+        "SHELTER_NAME": "Calvary Christian Church",
+        "ADDRESS": "10100 Cedar Island Rd",
+        "CITY": "Bellevue",
+        "STATE": "NE",
+        "ZIP": "68123",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 700,
+        "POST_IMPACT_CAPACITY": 350,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 41.1597437,
+        "LONGITUDE": -95.9575488,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -95.9575,
+        41.1597,
+        -95.9575,
+        41.1597
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b3b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5264,
+          34.375
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866563,
+        "SHELTER_ID": 367789,
+        "SHELTER_NAME": "Oxford Activities Center",
+        "ADDRESS": "400 Price Street",
+        "CITY": "Oxford",
+        "STATE": "MS",
+        "ZIP": "38655",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 47,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.5264,
+        34.375,
+        -89.5264,
+        34.375
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b3c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1003,
+          26.6994
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866564,
+        "SHELTER_ID": 133580,
+        "SHELTER_NAME": "Westgate Community Center Building 1",
+        "ADDRESS": "3691 Oswego Ave",
+        "CITY": "West Palm Beach",
+        "STATE": "FL",
+        "ZIP": "33409",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 75,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "GREATER PALM BEACH",
+        "ORG_ID": 121443,
         "MATCH_TYPE": "A",
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "EMEREVAC",
         "ADA_COMPLIANT": " ",
         "PET_ACCOMMODATIONS_CODE": " ",
         "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 30.72546557,
-        "LONGITUDE": -86.11626911,
+        "LATITUDE": 26.69937171,
+        "LONGITUDE": -80.10029936,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -86.1163,
-        30.7255,
-        -86.1163,
-        30.7255
+        -80.1003,
+        26.6994,
+        -80.1003,
+        26.6994
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b3d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8213,
+          27.5908
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866565,
+        "SHELTER_ID": 365668,
+        "SHELTER_NAME": "Hardee County Department of Health",
+        "ADDRESS": "115 K D Revel Rd",
+        "CITY": "Wauchula",
+        "STATE": "FL",
+        "ZIP": "33873",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 27.5907711,
+        "LONGITUDE": -81.82131436,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.8213,
+        27.5908,
+        -81.8213,
+        27.5908
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b3e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8284,
+          27.2446
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866566,
+        "SHELTER_ID": 367317,
+        "SHELTER_NAME": "Rite 2Life",
+        "ADDRESS": "202 NE 2nd Street",
+        "CITY": "Okeechobee",
+        "STATE": "FL",
+        "ZIP": "34973",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.8284,
+        27.2446,
+        -80.8284,
+        27.2446
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b3f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.448,
+          34.7724
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866567,
+        "SHELTER_ID": 367415,
+        "SHELTER_NAME": "Holly Springs Multi Purpose Community Center",
+        "ADDRESS": "235 North Memphis St",
+        "CITY": "Holly Springs",
+        "STATE": "MS",
+        "ZIP": "38635",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.448,
+        34.7724,
+        -89.448,
+        34.7724
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8303,
+          30.5619
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866568,
+        "SHELTER_ID": 367531,
+        "SHELTER_NAME": "Callahan Methodist Church",
+        "ADDRESS": "449648 US 301",
+        "CITY": "Callahan",
+        "STATE": "FL",
+        "ZIP": "32011",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.8303,
+        30.5619,
+        -81.8303,
+        30.5619
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2462,
+          35.2109
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866569,
+        "SHELTER_ID": 367617,
+        "SHELTER_NAME": "Hardin County High School",
+        "ADDRESS": "1170 Pickwick St",
+        "CITY": "Savannah",
+        "STATE": "TN",
+        "ZIP": "38372",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 60,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.2462,
+        35.2109,
+        -88.2462,
+        35.2109
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5633,
+          28.788
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866570,
+        "SHELTER_ID": 367588,
+        "SHELTER_NAME": "Nature Coast Community Church",
+        "ADDRESS": "5113 S Suncoast Blvd",
+        "CITY": "Homosassa",
+        "STATE": "FL",
+        "ZIP": "34446",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.5633,
+        28.788,
+        -82.5633,
+        28.788
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7007,
+          36.2656
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866571,
+        "SHELTER_ID": 367581,
+        "SHELTER_NAME": "Madison Community Center",
+        "ADDRESS": "550 N Dupont Ave",
+        "CITY": "Madison",
+        "STATE": "TN",
+        "ZIP": "37115",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 80,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.7007,
+        36.2656,
+        -86.7007,
+        36.2656
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5924,
+          35.1737
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866572,
+        "SHELTER_ID": 299426,
+        "SHELTER_NAME": "Selmer Civic Center",
+        "ADDRESS": "230 N Fifth St",
+        "CITY": "Selmer",
+        "STATE": "TN",
+        "ZIP": "38375",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 200,
+        "POST_IMPACT_CAPACITY": 100,
+        "TOTAL_POPULATION": 108,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "JACKSON AREA CHAPTER",
+        "ORG_ID": 121505,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 35.17365622,
+        "LONGITUDE": -88.59243541,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.5924,
+        35.1737,
+        -88.5924,
+        35.1737
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5235,
+          41.5065
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866573,
+        "SHELTER_ID": 367700,
+        "SHELTER_NAME": "Quad Cities and Northwest Illinois Chapter",
+        "ADDRESS": "1100 River Drive",
+        "CITY": "Moline",
+        "STATE": "IL",
+        "ZIP": "61285",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.5235,
+        41.5065,
+        -90.5235,
+        41.5065
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9513,
+          36.0814
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866574,
+        "SHELTER_ID": 367727,
+        "SHELTER_NAME": "Bellevue Community Center",
+        "ADDRESS": "7638 Highway 70 South",
+        "CITY": "Bellevue",
+        "STATE": "TN",
+        "ZIP": "37221",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "3",
+        "ORG_ID": 119230,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.9513,
+        36.0814,
+        -86.9513,
+        36.0814
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3311,
+          30.4404
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866575,
+        "SHELTER_ID": 367720,
+        "SHELTER_NAME": "The Kearney Center",
+        "ADDRESS": "2650 Municipal Way",
+        "CITY": "Tallahassee",
+        "STATE": "FL",
+        "ZIP": "32304",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "3",
+        "ORG_ID": 119230,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.3311,
+        30.4404,
+        -84.3311,
+        30.4404
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9483,
+          34.7332
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866576,
+        "SHELTER_ID": 346515,
+        "SHELTER_NAME": "Ripley First Baptist Church-Family Life Center",
+        "ADDRESS": "202 East Pine Street",
+        "CITY": "Ripley",
+        "STATE": "MS",
+        "ZIP": "38663",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 219,
+        "TOTAL_POPULATION": 11,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "NORTHEAST MISSISSIPPI",
+        "ORG_ID": 121672,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 34.73319,
+        "LONGITUDE": -88.9482562,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.9483,
+        34.7332,
+        -88.9483,
+        34.7332
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3678eb23_1b49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3263,
+          30.4288
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1866577,
+        "SHELTER_ID": 367711,
+        "SHELTER_NAME": "Capital City Youth Services",
+        "ADDRESS": "2407 Roberts Avenue",
+        "CITY": "Tallahassee",
+        "STATE": "FL",
+        "ZIP": "32310",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "3",
+        "ORG_ID": 119230,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.3263,
+        30.4288,
+        -84.3263,
+        30.4288
       ]
     }
   ],
   "totalFeatures": 27,
   "numberMatched": 27,
   "numberReturned": 27,
-  "timeStamp": "2026-02-07T08:45:43.551Z",
+  "timeStamp": "2026-02-07T09:13:16.519Z",
   "crs": {
     "type": "name",
     "properties": {
