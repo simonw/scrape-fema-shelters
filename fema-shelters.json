@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_401f",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18e2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1163,
+          30.7255
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1868815,
+        "SHELTER_ID": 134632,
+        "SHELTER_NAME": "Defuniak Springs Community Center",
+        "ADDRESS": "361 N 10th St",
+        "CITY": "Defuniak Springs",
+        "STATE": "FL",
+        "ZIP": "32433",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1,
+        "POST_IMPACT_CAPACITY": 1,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "NORTHWEST FLORIDA",
+        "ORG_ID": 121686,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 30.72546557,
+        "LONGITUDE": -86.11626911,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.1163,
+        30.7255,
+        -86.1163,
+        30.7255
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18e1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868770,
+        "objectid": 1868816,
         "SHELTER_ID": 367765,
         "SHELTER_NAME": "Trinity Arcadia Methodist Church",
         "ADDRESS": "304 W Oak Street",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4020",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18e0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868771,
+        "objectid": 1868817,
         "SHELTER_ID": 133823,
         "SHELTER_NAME": "Salvation Army Center Of Hope",
         "ADDRESS": "1577 N Military Trail",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4021",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18df",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868772,
+        "objectid": 1868818,
         "SHELTER_ID": 367320,
         "SHELTER_NAME": "Gertrude Weldin Daycare Ctr",
         "ADDRESS": "601 SE Lake Street",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4022",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18de",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868773,
+        "objectid": 1868819,
         "SHELTER_ID": 367321,
         "SHELTER_NAME": "Belle Glade Transitional Facility",
         "ADDRESS": "341 NW 11th St",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4023",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18dd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868774,
+        "objectid": 1868820,
         "SHELTER_ID": 367322,
         "SHELTER_NAME": "Salvation Army Site",
         "ADDRESS": "2655 5th St SW",
@@ -223,51 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4024",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.3332,
-          30.4409
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1868775,
-        "SHELTER_ID": 367715,
-        "SHELTER_NAME": "HOPE Community",
-        "ADDRESS": "2729 West Pensacola Street",
-        "CITY": "Tallahassee",
-        "STATE": "FL",
-        "ZIP": "32304",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "3",
-        "ORG_ID": 119230,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.3332,
-        30.4409,
-        -84.3332,
-        30.4409
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4025",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18dc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868776,
+        "objectid": 1868821,
         "SHELTER_ID": 367714,
         "SHELTER_NAME": "Generations United Church",
         "ADDRESS": "108 Florida 85",
@@ -311,7 +311,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4026",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18db",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3332,
+          30.4409
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1868822,
+        "SHELTER_ID": 367715,
+        "SHELTER_NAME": "HOPE Community",
+        "ADDRESS": "2729 West Pensacola Street",
+        "CITY": "Tallahassee",
+        "STATE": "FL",
+        "ZIP": "32304",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "3",
+        "ORG_ID": 119230,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.3332,
+        30.4409,
+        -84.3332,
+        30.4409
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18da",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868777,
+        "objectid": 1868823,
         "SHELTER_ID": 367319,
         "SHELTER_NAME": "Percy Peek Gym",
         "ADDRESS": "2902 Ave D",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4027",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18d9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868780,
+        "objectid": 1868826,
         "SHELTER_ID": 367789,
         "SHELTER_NAME": "Oxford Activities Center",
         "ADDRESS": "400 Price Street",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4028",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18d8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868781,
+        "objectid": 1868827,
         "SHELTER_ID": 133580,
         "SHELTER_NAME": "Westgate Community Center Building 1",
         "ADDRESS": "3691 Oswego Ave",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4029",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18d7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868782,
+        "objectid": 1868828,
         "SHELTER_ID": 365668,
         "SHELTER_NAME": "Hardee County Department of Health",
         "ADDRESS": "115 K D Revel Rd",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_402a",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18d6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868783,
+        "objectid": 1868829,
         "SHELTER_ID": 367317,
         "SHELTER_NAME": "Rite 2Life",
         "ADDRESS": "202 NE 2nd Street",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_402b",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18d5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868784,
+        "objectid": 1868830,
         "SHELTER_ID": 367415,
         "SHELTER_NAME": "Holly Springs Multi Purpose Community Center",
         "ADDRESS": "235 North Memphis St",
@@ -575,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_402c",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18d4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868785,
+        "objectid": 1868831,
         "SHELTER_ID": 367531,
         "SHELTER_NAME": "Callahan Methodist Church",
         "ADDRESS": "449648 US 301",
@@ -619,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_402d",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18d3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868786,
+        "objectid": 1868832,
         "SHELTER_ID": 299426,
         "SHELTER_NAME": "Selmer Civic Center",
         "ADDRESS": "230 N Fifth St",
@@ -663,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_402e",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18d2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868787,
+        "objectid": 1868833,
         "SHELTER_ID": 367700,
         "SHELTER_NAME": "Quad Cities and Northwest Illinois Chapter",
         "ADDRESS": "1100 River Drive",
@@ -707,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_402f",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18d1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868788,
+        "objectid": 1868834,
         "SHELTER_ID": 367727,
         "SHELTER_NAME": "Bellevue Community Center",
         "ADDRESS": "7638 Highway 70 South",
@@ -751,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4030",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18d0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868789,
+        "objectid": 1868835,
         "SHELTER_ID": 367720,
         "SHELTER_NAME": "The Kearney Center",
         "ADDRESS": "2650 Municipal Way",
@@ -795,7 +839,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4031",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18cf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868790,
+        "objectid": 1868836,
         "SHELTER_ID": 346515,
         "SHELTER_NAME": "Ripley First Baptist Church-Family Life Center",
         "ADDRESS": "202 East Pine Street",
@@ -839,7 +883,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4032",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18ce",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +893,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868791,
+        "objectid": 1868837,
         "SHELTER_ID": 367711,
         "SHELTER_NAME": "Capital City Youth Services",
         "ADDRESS": "2407 Roberts Avenue",
@@ -883,7 +927,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4033",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18cd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +937,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868778,
+        "objectid": 1868824,
         "SHELTER_ID": 367806,
         "SHELTER_NAME": "Karen Preservati Center",
         "ADDRESS": "704 Maple St",
@@ -927,7 +971,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4034",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c3d5703cc_-18cc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -937,7 +981,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1868779,
+        "objectid": 1868825,
         "SHELTER_ID": 367807,
         "SHELTER_NAME": "NCS-LaQuinta Minnetonka",
         "ADDRESS": "10420 Wyzata Blvd",
@@ -968,56 +1012,12 @@
         -93.4111,
         44.9739
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c3ac3a350_4035",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.1163,
-          30.7255
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1868769,
-        "SHELTER_ID": 134632,
-        "SHELTER_NAME": "Defuniak Springs Community Center",
-        "ADDRESS": "361 N 10th St",
-        "CITY": "Defuniak Springs",
-        "STATE": "FL",
-        "ZIP": "32433",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1,
-        "POST_IMPACT_CAPACITY": 1,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": "5:00P",
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "NORTHWEST FLORIDA",
-        "ORG_ID": 121686,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 30.72546557,
-        "LONGITUDE": -86.11626911,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -86.1163,
-        30.7255,
-        -86.1163,
-        30.7255
-      ]
     }
   ],
   "totalFeatures": 23,
   "numberMatched": 23,
   "numberReturned": 23,
-  "timeStamp": "2026-02-08T16:45:46.165Z",
+  "timeStamp": "2026-02-08T17:11:04.699Z",
   "crs": {
     "type": "name",
     "properties": {
