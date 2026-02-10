@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c4880fd89_-6fc8",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5264,
-          34.375
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1871820,
-        "SHELTER_ID": 367789,
-        "SHELTER_NAME": "Oxford Activities Center",
-        "ADDRESS": "400 Price Street",
-        "CITY": "Oxford",
-        "STATE": "MS",
-        "ZIP": "38655",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 47,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -89.5264,
-        34.375,
-        -89.5264,
-        34.375
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c4880fd89_-6fc7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.5235,
-          41.5065
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1871821,
-        "SHELTER_ID": 367700,
-        "SHELTER_NAME": "Quad Cities and Northwest Illinois Chapter",
-        "ADDRESS": "1100 River Drive",
-        "CITY": "Moline",
-        "STATE": "IL",
-        "ZIP": "61285",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.5235,
-        41.5065,
-        -90.5235,
-        41.5065
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c4880fd89_-6fc6",
+      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c4880fd89_-6fa8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1871818,
+        "objectid": 1871826,
         "SHELTER_ID": 367807,
         "SHELTER_NAME": "NCS-LaQuinta Minnetonka",
         "ADDRESS": "10420 Wyzata Blvd",
@@ -135,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c4880fd89_-6fc5",
+      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c4880fd89_-6fa7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1871819,
+        "objectid": 1871827,
         "SHELTER_ID": 367809,
         "SHELTER_NAME": "Nature Coast Community Church",
         "ADDRESS": "5113 S Suncoast Blvd",
@@ -176,12 +88,100 @@
         -82.5633,
         28.788
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c4880fd89_-6fa6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5264,
+          34.375
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1871828,
+        "SHELTER_ID": 367789,
+        "SHELTER_NAME": "Oxford Activities Center",
+        "ADDRESS": "400 Price Street",
+        "CITY": "Oxford",
+        "STATE": "MS",
+        "ZIP": "38655",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 47,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.5264,
+        34.375,
+        -89.5264,
+        34.375
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--3c73be2f_19c4880fd89_-6fa5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5235,
+          41.5065
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1871829,
+        "SHELTER_ID": 367700,
+        "SHELTER_NAME": "Quad Cities and Northwest Illinois Chapter",
+        "ADDRESS": "1100 River Drive",
+        "CITY": "Moline",
+        "STATE": "IL",
+        "ZIP": "61285",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 5,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.5235,
+        41.5065,
+        -90.5235,
+        41.5065
+      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-02-10T17:51:49.580Z",
+  "timeStamp": "2026-02-10T18:31:08.766Z",
   "crs": {
     "type": "name",
     "properties": {
