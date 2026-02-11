@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c4b1286ff_-d0d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.4111,
-          44.9739
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1872042,
-        "SHELTER_ID": 367807,
-        "SHELTER_NAME": "NCS-LaQuinta Minnetonka",
-        "ADDRESS": "10420 Wyzata Blvd",
-        "CITY": "Hopkins",
-        "STATE": "MN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.4111,
-        44.9739,
-        -93.4111,
-        44.9739
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c4b1286ff_-d0c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.5633,
-          28.788
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1872043,
-        "SHELTER_ID": 367809,
-        "SHELTER_NAME": "Nature Coast Community Church",
-        "ADDRESS": "5113 S Suncoast Blvd",
-        "CITY": "Homosassa",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.5633,
-        28.788,
-        -82.5633,
-        28.788
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c4b1286ff_-d0b",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c4b1286ff_-cdd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1872044,
+        "objectid": 1872052,
         "SHELTER_ID": 367789,
         "SHELTER_NAME": "Oxford Activities Center",
         "ADDRESS": "400 Price Street",
@@ -135,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c4b1286ff_-d0a",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c4b1286ff_-cdc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1872045,
+        "objectid": 1872053,
         "SHELTER_ID": 367700,
         "SHELTER_NAME": "Quad Cities and Northwest Illinois Chapter",
         "ADDRESS": "1100 River Drive",
@@ -176,12 +88,100 @@
         -90.5235,
         41.5065
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c4b1286ff_-cdb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4111,
+          44.9739
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1872050,
+        "SHELTER_ID": 367807,
+        "SHELTER_NAME": "NCS-LaQuinta Minnetonka",
+        "ADDRESS": "10420 Wyzata Blvd",
+        "CITY": "Hopkins",
+        "STATE": "MN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.4111,
+        44.9739,
+        -93.4111,
+        44.9739
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--71ce7a1f_19c4b1286ff_-cda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6838,
+          20.905
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1872051,
+        "SHELTER_ID": 367810,
+        "SHELTER_NAME": "Lahaina Civic Center",
+        "ADDRESS": "1840 Honoapiilani Hwy",
+        "CITY": "Lahaina",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -156.6838,
+        20.905,
+        -156.6838,
+        20.905
+      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-02-11T12:50:35.035Z",
+  "timeStamp": "2026-02-11T13:36:55.025Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -189,9 +189,9 @@
     }
   },
   "bbox": [
-    -93.4111,
-    28.788,
-    -82.5633,
+    -156.6838,
+    20.905,
+    -89.5264,
     44.9739
   ]
 }
