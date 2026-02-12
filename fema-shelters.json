@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c4fdb21cb_2c89",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c4fdb21cb_2c99",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1872312,
+        "objectid": 1872320,
         "SHELTER_ID": 367789,
         "SHELTER_NAME": "Oxford Activities Center",
         "ADDRESS": "400 Price Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c4fdb21cb_2c8a",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c4fdb21cb_2c9a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1872313,
+        "objectid": 1872321,
         "SHELTER_ID": 367700,
         "SHELTER_NAME": "Quad Cities and Northwest Illinois Chapter",
         "ADDRESS": "1100 River Drive",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c4fdb21cb_2c8b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.4111,
-          44.9739
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1872310,
-        "SHELTER_ID": 367807,
-        "SHELTER_NAME": "NCS-LaQuinta Minnetonka",
-        "ADDRESS": "10420 Wyzata Blvd",
-        "CITY": "Hopkins",
-        "STATE": "MN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.4111,
-        44.9739,
-        -93.4111,
-        44.9739
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c4fdb21cb_2c8c",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c4fdb21cb_2c9b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1872311,
+        "objectid": 1872318,
         "SHELTER_ID": 367810,
         "SHELTER_NAME": "Lahaina Civic Center",
         "ADDRESS": "1840 Honoapiilani Hwy",
@@ -176,12 +132,56 @@
         -156.6838,
         20.905
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c4fdb21cb_2c9c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4111,
+          44.9739
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1872319,
+        "SHELTER_ID": 367807,
+        "SHELTER_NAME": "NCS-LaQuinta Minnetonka",
+        "ADDRESS": "10420 Wyzata Blvd",
+        "CITY": "Hopkins",
+        "STATE": "MN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.4111,
+        44.9739,
+        -93.4111,
+        44.9739
+      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-02-12T11:22:07.436Z",
+  "timeStamp": "2026-02-12T11:47:49.693Z",
   "crs": {
     "type": "name",
     "properties": {
