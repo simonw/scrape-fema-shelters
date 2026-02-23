@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_7028",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.4111,
-          44.9739
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1877119,
-        "SHELTER_ID": 367807,
-        "SHELTER_NAME": "NCS-LaQuinta Minnetonka",
-        "ADDRESS": "10420 Wyzata Blvd",
-        "CITY": "Hopkins",
-        "STATE": "MN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.4111,
-        44.9739,
-        -93.4111,
-        44.9739
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_7029",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.6612,
-          41.6603
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1877120,
-        "SHELTER_ID": 367815,
-        "SHELTER_NAME": "NCS-Kings Inn",
-        "ADDRESS": "12808 S Ashland",
-        "CITY": "Riverdale",
-        "STATE": "IL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.6612,
-        41.6603,
-        -87.6612,
-        41.6603
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_702a",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71c6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877121,
+        "objectid": 1877155,
         "SHELTER_ID": 367822,
         "SHELTER_NAME": "First Presbyterian Church of NSB",
         "ADDRESS": "509 Magnolia St",
@@ -135,22 +47,22 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_702b",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71c7",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.9215,
-          42.9507
+          -93.4111,
+          44.9739
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877122,
-        "SHELTER_ID": 367823,
-        "SHELTER_NAME": "Holler Park Community/Pavillion Building",
-        "ADDRESS": "5151 S 6th Street",
-        "CITY": "Milwaukee",
-        "STATE": "WI",
+        "objectid": 1877156,
+        "SHELTER_ID": 367807,
+        "SHELTER_NAME": "NCS-LaQuinta Minnetonka",
+        "ADDRESS": "10420 Wyzata Blvd",
+        "CITY": "Hopkins",
+        "STATE": "MN",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
@@ -171,29 +83,29 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -87.9215,
-        42.9507,
-        -87.9215,
-        42.9507
+        -93.4111,
+        44.9739,
+        -93.4111,
+        44.9739
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_702c",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71c8",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.6817,
-          41.8745
+          -87.6612,
+          41.6603
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877123,
-        "SHELTER_ID": 367834,
-        "SHELTER_NAME": "Rauner Center Training Room",
-        "ADDRESS": "2200 W Harrison St",
-        "CITY": "Chicago",
+        "objectid": 1877157,
+        "SHELTER_ID": 367815,
+        "SHELTER_NAME": "NCS-Kings Inn",
+        "ADDRESS": "12808 S Ashland",
+        "CITY": "Riverdale",
         "STATE": "IL",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
@@ -215,59 +127,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -87.6817,
-        41.8745,
-        -87.6817,
-        41.8745
+        -87.6612,
+        41.6603,
+        -87.6612,
+        41.6603
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_702d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.2403,
-          37.961
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1877124,
-        "SHELTER_ID": 367828,
-        "SHELTER_NAME": "Tuolumne Community Resilience Center",
-        "ADDRESS": "18241 Bay Ave",
-        "CITY": "Tuolumne",
-        "STATE": "CA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.2403,
-        37.961,
-        -120.2403,
-        37.961
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_702e",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71c9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877125,
+        "objectid": 1877158,
         "SHELTER_ID": 367829,
         "SHELTER_NAME": "Murphys Fire Training Center",
         "ADDRESS": "58 Jones Street",
@@ -311,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_702f",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71ca",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,9 +189,9 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877126,
-        "SHELTER_ID": 367835,
-        "SHELTER_NAME": "Rauner Center",
+        "objectid": 1877159,
+        "SHELTER_ID": 367834,
+        "SHELTER_NAME": "Rauner Center Training Room",
         "ADDRESS": "2200 W Harrison St",
         "CITY": "Chicago",
         "STATE": "IL",
@@ -355,22 +223,22 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_7030",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71cb",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.321,
-          41.6586
+          -87.9215,
+          42.9507
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877127,
-        "SHELTER_ID": 367836,
-        "SHELTER_NAME": "Barnstable Intermediate School",
-        "ADDRESS": "895 Falmouth Rd",
-        "CITY": "Hyannis",
-        "STATE": "MA",
+        "objectid": 1877160,
+        "SHELTER_ID": 367823,
+        "SHELTER_NAME": "Holler Park Community/Pavillion Building",
+        "ADDRESS": "5151 S 6th Street",
+        "CITY": "Milwaukee",
+        "STATE": "WI",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
@@ -391,29 +259,29 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -70.321,
-        41.6586,
-        -70.321,
-        41.6586
+        -87.9215,
+        42.9507,
+        -87.9215,
+        42.9507
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_7031",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71cc",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.8028,
-          38.3778
+          -120.2403,
+          37.961
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877128,
-        "SHELTER_ID": 367837,
-        "SHELTER_NAME": "Italian Benevolent Society",
-        "ADDRESS": "581 State Highway 49",
-        "CITY": "Sutter Creek",
+        "objectid": 1877161,
+        "SHELTER_ID": 367828,
+        "SHELTER_NAME": "Tuolumne Community Resilience Center",
+        "ADDRESS": "18241 Bay Ave",
+        "CITY": "Tuolumne",
         "STATE": "CA",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
@@ -435,15 +303,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -120.8028,
-        38.3778,
-        -120.8028,
-        38.3778
+        -120.2403,
+        37.961,
+        -120.2403,
+        37.961
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_7032",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71cd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877129,
+        "objectid": 1877162,
         "SHELTER_ID": 367838,
         "SHELTER_NAME": "Joseph H. Gaudet Middle School & Learning Academy",
         "ADDRESS": "1113 Aquidneck Avenue",
@@ -487,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_7033",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71ce",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877130,
+        "objectid": 1877163,
         "SHELTER_ID": 367839,
         "SHELTER_NAME": "Nature Coast Community Church",
         "ADDRESS": "5113 S Suncoast Blvd",
@@ -531,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_7034",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71cf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877131,
+        "objectid": 1877164,
         "SHELTER_ID": 367840,
         "SHELTER_NAME": "Nauset Regional High School",
         "ADDRESS": "100 Cable Rd",
@@ -575,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_7035",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71d0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877132,
+        "objectid": 1877165,
         "SHELTER_ID": 367841,
         "SHELTER_NAME": "Northampton Community College - Arthur L. Scott Spartan Center",
         "ADDRESS": "3835 Green Pond Road",
@@ -619,7 +487,139 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_7036",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71d1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6817,
+          41.8745
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1877166,
+        "SHELTER_ID": 367835,
+        "SHELTER_NAME": "Rauner Center",
+        "ADDRESS": "2200 W Harrison St",
+        "CITY": "Chicago",
+        "STATE": "IL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.6817,
+        41.8745,
+        -87.6817,
+        41.8745
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71d2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.321,
+          41.6586
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1877167,
+        "SHELTER_ID": 367836,
+        "SHELTER_NAME": "Barnstable Intermediate School",
+        "ADDRESS": "895 Falmouth Rd",
+        "CITY": "Hyannis",
+        "STATE": "MA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -70.321,
+        41.6586,
+        -70.321,
+        41.6586
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71d3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8028,
+          38.3778
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1877168,
+        "SHELTER_ID": 367837,
+        "SHELTER_NAME": "Italian Benevolent Society",
+        "ADDRESS": "581 State Highway 49",
+        "CITY": "Sutter Creek",
+        "STATE": "CA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.8028,
+        38.3778,
+        -120.8028,
+        38.3778
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71d4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877133,
+        "objectid": 1877169,
         "SHELTER_ID": 367842,
         "SHELTER_NAME": "Pawtucket - Joseph Jenks Middle School",
         "ADDRESS": "350 Division St",
@@ -663,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_7037",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71d5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877134,
+        "objectid": 1877170,
         "SHELTER_ID": 367843,
         "SHELTER_NAME": "Percy Peek Gym",
         "ADDRESS": "2902 Ave D",
@@ -707,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_7038",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71d6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877135,
+        "objectid": 1877171,
         "SHELTER_ID": 367844,
         "SHELTER_NAME": "Plymouth North High School",
         "ADDRESS": "41 Obery St",
@@ -751,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_7039",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_71d7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877136,
+        "objectid": 1877172,
         "SHELTER_ID": 367845,
         "SHELTER_NAME": "Salvation Army Site",
         "ADDRESS": "2655 5th St SW",
@@ -797,7 +797,7 @@
   "totalFeatures": 18,
   "numberMatched": 18,
   "numberReturned": 18,
-  "timeStamp": "2026-02-23T13:35:53.809Z",
+  "timeStamp": "2026-02-23T14:25:59.496Z",
   "crs": {
     "type": "name",
     "properties": {
