@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4779ae2c_19c8803251d_2fe0",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_1472",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4111,
+          44.9739
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1877012,
+        "SHELTER_ID": 367807,
+        "SHELTER_NAME": "NCS-LaQuinta Minnetonka",
+        "ADDRESS": "10420 Wyzata Blvd",
+        "CITY": "Hopkins",
+        "STATE": "MN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.4111,
+        44.9739,
+        -93.4111,
+        44.9739
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_1473",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1876991,
+        "objectid": 1877013,
         "SHELTER_ID": 367815,
         "SHELTER_NAME": "NCS-Kings Inn",
         "ADDRESS": "12808 S Ashland",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4779ae2c_19c8803251d_2fe1",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_1474",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1876992,
+        "objectid": 1877014,
         "SHELTER_ID": 367822,
         "SHELTER_NAME": "First Presbyterian Church of NSB",
         "ADDRESS": "509 Magnolia St",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4779ae2c_19c8803251d_2fe2",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_1475",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1876993,
+        "objectid": 1877015,
         "SHELTER_ID": 367823,
         "SHELTER_NAME": "Holler Park Community/Pavillion Building",
         "ADDRESS": "5151 S 6th Street",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4779ae2c_19c8803251d_2fe3",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_1476",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1876994,
+        "objectid": 1877016,
         "SHELTER_ID": 367828,
         "SHELTER_NAME": "Tuolumne Community Resilience Center",
         "ADDRESS": "18241 Bay Ave",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4779ae2c_19c8803251d_2fe4",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_1477",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1876995,
+        "objectid": 1877017,
         "SHELTER_ID": 367829,
         "SHELTER_NAME": "Murphys Fire Training Center",
         "ADDRESS": "58 Jones Street",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4779ae2c_19c8803251d_2fe5",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_1478",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1876996,
+        "objectid": 1877018,
         "SHELTER_ID": 367831,
         "SHELTER_NAME": "Paxinosa Elementary School",
         "ADDRESS": "1221 Northhampton St",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4779ae2c_19c8803251d_2fe6",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_1479",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1876997,
+        "objectid": 1877019,
         "SHELTER_ID": 367832,
         "SHELTER_NAME": "Swartz Creek Community Church",
         "ADDRESS": "7400 Miller Road",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4779ae2c_19c8803251d_2fe7",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_147a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1876998,
+        "objectid": 1877020,
         "SHELTER_ID": 367833,
         "SHELTER_NAME": "Amador Senior Center",
         "ADDRESS": "229 New York Ranch Rd",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4779ae2c_19c8803251d_2fe8",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_147b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1876999,
+        "objectid": 1877021,
         "SHELTER_ID": 367834,
         "SHELTER_NAME": "Rauner Center Training Room",
         "ADDRESS": "2200 W Harrison St",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4779ae2c_19c8803251d_2fe9",
+      "id": "FEMANSSOpenShelters.fid-493b8237_19c88debb23_147c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1877000,
+        "objectid": 1877022,
         "SHELTER_ID": 367835,
         "SHELTER_NAME": "Rauner Center",
         "ADDRESS": "2200 W Harrison St",
@@ -440,56 +484,12 @@
         -87.6817,
         41.8745
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--4779ae2c_19c8803251d_2fea",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.4111,
-          44.9739
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1876990,
-        "SHELTER_ID": 367807,
-        "SHELTER_NAME": "NCS-LaQuinta Minnetonka",
-        "ADDRESS": "10420 Wyzata Blvd",
-        "CITY": "Hopkins",
-        "STATE": "MN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.4111,
-        44.9739,
-        -93.4111,
-        44.9739
-      ]
     }
   ],
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2026-02-23T10:25:04.495Z",
+  "timeStamp": "2026-02-23T10:49:22.173Z",
   "crs": {
     "type": "name",
     "properties": {
