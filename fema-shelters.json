@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_3537",
+      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_3546",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1887472,
+        "objectid": 1887477,
         "SHELTER_ID": 367834,
         "SHELTER_NAME": "Rauner Center Training Room",
         "ADDRESS": "2200 W Harrison St",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_3538",
+      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_3547",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1887473,
+        "objectid": 1887478,
         "SHELTER_ID": 367841,
         "SHELTER_NAME": "Northampton Community College - Arthur L. Scott Spartan Center",
         "ADDRESS": "3835 Green Pond Road",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_3539",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.9521,
-          37.2877
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1887474,
-        "SHELTER_ID": 367861,
-        "SHELTER_NAME": "Campbell Community Center",
-        "ADDRESS": "1 West Campbell Ave",
-        "CITY": "Campbell",
-        "STATE": "CA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -121.9521,
-        37.2877,
-        -121.9521,
-        37.2877
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_353a",
+      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_3548",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1887475,
+        "objectid": 1887479,
         "SHELTER_ID": 367860,
         "SHELTER_NAME": "Bible Baptist Church",
         "ADDRESS": "805 W Casino Rd",
@@ -179,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_353b",
+      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_3549",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9521,
+          37.2877
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1887480,
+        "SHELTER_ID": 367861,
+        "SHELTER_NAME": "Campbell Community Center",
+        "ADDRESS": "1 West Campbell Ave",
+        "CITY": "Campbell",
+        "STATE": "CA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -121.9521,
+        37.2877,
+        -121.9521,
+        37.2877
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_354a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1887476,
+        "objectid": 1887481,
         "SHELTER_ID": 367869,
         "SHELTER_NAME": "St. Anthony Church",
         "ADDRESS": "1515 Midland Ave",
@@ -225,7 +225,7 @@
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-03-03T13:30:46.138Z",
+  "timeStamp": "2026-03-03T13:54:09.347Z",
   "crs": {
     "type": "name",
     "properties": {
