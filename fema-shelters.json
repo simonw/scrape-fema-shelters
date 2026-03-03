@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_-77b2",
+      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_-5086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6612,
+          41.6603
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1887386,
+        "SHELTER_ID": 367815,
+        "SHELTER_NAME": "NCS-Kings Inn",
+        "ADDRESS": "12808 S Ashland",
+        "CITY": "Riverdale",
+        "STATE": "IL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.6612,
+        41.6603,
+        -87.6612,
+        41.6603
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_-5085",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1887383,
+        "objectid": 1887387,
         "SHELTER_ID": 367834,
         "SHELTER_NAME": "Rauner Center Training Room",
         "ADDRESS": "2200 W Harrison St",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_-77b1",
+      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_-5084",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1887384,
+        "objectid": 1887388,
         "SHELTER_ID": 367841,
         "SHELTER_NAME": "Northampton Community College - Arthur L. Scott Spartan Center",
         "ADDRESS": "3835 Green Pond Road",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_-77b0",
+      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_-5083",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1887385,
+        "objectid": 1887389,
         "SHELTER_ID": 367859,
         "SHELTER_NAME": "Onondaga Community College SRC Arena And Events Center",
         "ADDRESS": "129 Ransom Mackenzie Drive East",
@@ -132,56 +176,12 @@
         -76.1951,
         43.0062
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb135de51_-77af",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.6612,
-          41.6603
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1887382,
-        "SHELTER_ID": 367815,
-        "SHELTER_NAME": "NCS-Kings Inn",
-        "ADDRESS": "12808 S Ashland",
-        "CITY": "Riverdale",
-        "STATE": "IL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.6612,
-        41.6603,
-        -87.6612,
-        41.6603
-      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-03-03T05:50:46.573Z",
+  "timeStamp": "2026-03-03T06:25:26.738Z",
   "crs": {
     "type": "name",
     "properties": {
