@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb81379cb_273",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8394,
-          40.9312
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1887836,
-        "SHELTER_ID": 367869,
-        "SHELTER_NAME": "St. Anthony Church",
-        "ADDRESS": "1515 Midland Ave",
-        "CITY": "Utica",
-        "STATE": "NY",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -73.8394,
-        40.9312,
-        -73.8394,
-        40.9312
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb81379cb_274",
+      "id": "FEMANSSOpenShelters.fid--25235b87_19cb8ef44e8_-4b8b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1887832,
+        "objectid": 1887837,
         "SHELTER_ID": 367834,
         "SHELTER_NAME": "Rauner Center Training Room",
         "ADDRESS": "2200 W Harrison St",
@@ -91,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb81379cb_275",
+      "id": "FEMANSSOpenShelters.fid--25235b87_19cb8ef44e8_-4b8a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1887833,
+        "objectid": 1887838,
         "SHELTER_ID": 367841,
         "SHELTER_NAME": "Northampton Community College - Arthur L. Scott Spartan Center",
         "ADDRESS": "3835 Green Pond Road",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb81379cb_276",
+      "id": "FEMANSSOpenShelters.fid--25235b87_19cb8ef44e8_-4b89",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1887834,
+        "objectid": 1887839,
         "SHELTER_ID": 367860,
         "SHELTER_NAME": "Bible Baptist Church",
         "ADDRESS": "805 W Casino Rd",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-3e59766d_19cb81379cb_277",
+      "id": "FEMANSSOpenShelters.fid--25235b87_19cb8ef44e8_-4b88",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1887835,
+        "objectid": 1887840,
         "SHELTER_ID": 367861,
         "SHELTER_NAME": "Campbell Community Center",
         "ADDRESS": "1 West Campbell Ave",
@@ -220,12 +176,56 @@
         -121.9521,
         37.2877
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--25235b87_19cb8ef44e8_-4b87",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8394,
+          40.9312
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1887841,
+        "SHELTER_ID": 367869,
+        "SHELTER_NAME": "St. Anthony Church",
+        "ADDRESS": "1515 Midland Ave",
+        "CITY": "Utica",
+        "STATE": "NY",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -73.8394,
+        40.9312,
+        -73.8394,
+        40.9312
+      ]
     }
   ],
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-03-04T13:29:56.156Z",
+  "timeStamp": "2026-03-04T13:52:48.028Z",
   "crs": {
     "type": "name",
     "properties": {
