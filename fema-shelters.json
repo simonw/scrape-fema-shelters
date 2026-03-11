@@ -3,139 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-698e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.425,
-          41.0348
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1890198,
-        "SHELTER_ID": 367882,
-        "SHELTER_NAME": "North Newton Jr/Sr High School",
-        "ADDRESS": "1641 W 250 N",
-        "CITY": "Morocco",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.425,
-        41.0348,
-        -87.425,
-        41.0348
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-698d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.1966,
-          40.795
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1890200,
-        "SHELTER_ID": 367870,
-        "SHELTER_NAME": "Schweitzer Hall Montclair College",
-        "ADDRESS": "467 Franklin Street",
-        "CITY": "Bloomfield",
-        "STATE": "NJ",
-        "ZIP": "07003",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 16,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -74.1966,
-        40.795,
-        -74.1966,
-        40.795
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-698c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.7967,
-          45.5078
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1890195,
-        "SHELTER_ID": 339649,
-        "SHELTER_NAME": "Cedar Hills Recreation Center",
-        "ADDRESS": "11640 SW Park Way",
-        "CITY": "Portland",
-        "STATE": "OR",
-        "ZIP": "97225",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 317,
-        "POST_IMPACT_CAPACITY": 158,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "OREGON TRAIL CHAPTER",
-        "ORG_ID": 121708,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 45.5078376,
-        "LONGITUDE": -122.79670088,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.7967,
-        45.5078,
-        -122.7967,
-        45.5078
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-698b",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-6900",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890199,
+        "objectid": 1890204,
         "SHELTER_ID": 367876,
         "SHELTER_NAME": "Christ United Methodist Church1",
         "ADDRESS": "400 West Berwick Street",
@@ -179,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-698a",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-68ff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7967,
+          45.5078
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890206,
+        "SHELTER_ID": 339649,
+        "SHELTER_NAME": "Cedar Hills Recreation Center",
+        "ADDRESS": "11640 SW Park Way",
+        "CITY": "Portland",
+        "STATE": "OR",
+        "ZIP": "97225",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 317,
+        "POST_IMPACT_CAPACITY": 158,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "OREGON TRAIL CHAPTER",
+        "ORG_ID": 121708,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 45.5078376,
+        "LONGITUDE": -122.79670088,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.7967,
+        45.5078,
+        -122.7967,
+        45.5078
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-68fe",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890194,
+        "objectid": 1890201,
         "SHELTER_ID": 367877,
         "SHELTER_NAME": "Christ United Methodist Church",
         "ADDRESS": "400 West Berwick Street",
@@ -223,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-6989",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-68fd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890196,
+        "objectid": 1890202,
         "SHELTER_ID": 367880,
         "SHELTER_NAME": "IPRA - Kankakee Community College",
         "ADDRESS": "100 College Drive",
@@ -267,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-6988",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-68fc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890197,
+        "objectid": 1890203,
         "SHELTER_ID": 367881,
         "SHELTER_NAME": "Kankakee Valley High School",
         "ADDRESS": "3923 W State Road 10",
@@ -308,12 +220,100 @@
         -87.1202,
         41.1857
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-68fb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.425,
+          41.0348
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890205,
+        "SHELTER_ID": 367882,
+        "SHELTER_NAME": "North Newton Jr/Sr High School",
+        "ADDRESS": "1641 W 250 N",
+        "CITY": "Morocco",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.425,
+        41.0348,
+        -87.425,
+        41.0348
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19cde7c9166_-68fa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1966,
+          40.795
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890207,
+        "SHELTER_ID": 367870,
+        "SHELTER_NAME": "Schweitzer Hall Montclair College",
+        "ADDRESS": "467 Franklin Street",
+        "CITY": "Bloomfield",
+        "STATE": "NJ",
+        "ZIP": "07003",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 16,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -74.1966,
+        40.795,
+        -74.1966,
+        40.795
+      ]
     }
   ],
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2026-03-11T21:14:25.366Z",
+  "timeStamp": "2026-03-11T21:44:56.539Z",
   "crs": {
     "type": "name",
     "properties": {
