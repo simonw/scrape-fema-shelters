@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19cd87a5801_1c3d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.1966,
-          40.795
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1889885,
-        "SHELTER_ID": 367870,
-        "SHELTER_NAME": "Schweitzer Hall Montclair College",
-        "ADDRESS": "467 Franklin Street",
-        "CITY": "Bloomfield",
-        "STATE": "NJ",
-        "ZIP": "07003",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 16,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -74.1966,
-        40.795,
-        -74.1966,
-        40.795
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19cd87a5801_1c3e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.2157,
-          40.6786
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1889883,
-        "SHELTER_ID": 367876,
-        "SHELTER_NAME": "Christ United Methodist Church",
-        "ADDRESS": "400 West Berwick Street",
-        "CITY": "Easton",
-        "STATE": "PA",
-        "ZIP": "18042",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -75.2157,
-        40.6786,
-        -75.2157,
-        40.6786
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19cd87a5801_1c3f",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19cd87a5801_1cc1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1889884,
+        "objectid": 1889899,
         "SHELTER_ID": 339649,
         "SHELTER_NAME": "Cedar Hills Recreation Center",
         "ADDRESS": "11640 SW Park Way",
@@ -135,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19cd87a5801_1c40",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19cd87a5801_1cc2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,51 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1889882,
+        "objectid": 1889900,
+        "SHELTER_ID": 367876,
+        "SHELTER_NAME": "Christ United Methodist Church",
+        "ADDRESS": "400 West Berwick Street",
+        "CITY": "Easton",
+        "STATE": "PA",
+        "ZIP": "18042",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.2157,
+        40.6786,
+        -75.2157,
+        40.6786
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19cd87a5801_1cc3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2157,
+          40.6786
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1889898,
         "SHELTER_ID": 367877,
         "SHELTER_NAME": "Christ United Methodist Church",
         "ADDRESS": "400 West Berwick Street",
@@ -176,12 +132,56 @@
         -75.2157,
         40.6786
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19cd87a5801_1cc4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1966,
+          40.795
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1889901,
+        "SHELTER_ID": 367870,
+        "SHELTER_NAME": "Schweitzer Hall Montclair College",
+        "ADDRESS": "467 Franklin Street",
+        "CITY": "Bloomfield",
+        "STATE": "NJ",
+        "ZIP": "07003",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 16,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -74.1966,
+        40.795,
+        -74.1966,
+        40.795
+      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-03-11T01:39:41.028Z",
+  "timeStamp": "2026-03-11T03:03:59.708Z",
   "crs": {
     "type": "name",
     "properties": {
