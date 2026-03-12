@@ -3,183 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-101e",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fd3",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.2157,
-          40.6786
+          -84.0141,
+          44.0338
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890519,
-        "SHELTER_ID": 367877,
-        "SHELTER_NAME": "Christ United Methodist Church",
-        "ADDRESS": "400 West Berwick Street",
-        "CITY": "Easton",
-        "STATE": "PA",
-        "ZIP": "0",
+        "objectid": 1890530,
+        "SHELTER_ID": 367883,
+        "SHELTER_NAME": "Deep River Township Hall",
+        "ADDRESS": "525 E State Road",
+        "CITY": "Sterling",
+        "STATE": "MI",
+        "ZIP": "48659",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
+        "TOTAL_POPULATION": 4,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
+        "ORG_NAME": "3",
+        "ORG_ID": 119230,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
         "LATITUDE": null,
         "LONGITUDE": null,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -75.2157,
-        40.6786,
-        -75.2157,
-        40.6786
+        -84.0141,
+        44.0338,
+        -84.0141,
+        44.0338
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-101d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.8502,
-          41.0986
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1890520,
-        "SHELTER_ID": 367880,
-        "SHELTER_NAME": "IPRA - Kankakee Community College",
-        "ADDRESS": "100 College Drive",
-        "CITY": "Kankakee",
-        "STATE": "IL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.8502,
-        41.0986,
-        -87.8502,
-        41.0986
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-101c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.1202,
-          41.1857
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1890521,
-        "SHELTER_ID": 367881,
-        "SHELTER_NAME": "Kankakee Valley High School",
-        "ADDRESS": "3923 W State Road 10",
-        "CITY": "Wheatfield",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.1202,
-        41.1857,
-        -87.1202,
-        41.1857
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-101b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.425,
-          41.0348
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1890522,
-        "SHELTER_ID": 367882,
-        "SHELTER_NAME": "North Newton Jr/Sr High School",
-        "ADDRESS": "1641 W 250 N",
-        "CITY": "Morocco",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.425,
-        41.0348,
-        -87.425,
-        41.0348
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-101a",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fd2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890518,
+        "objectid": 1890531,
         "SHELTER_ID": 339649,
         "SHELTER_NAME": "Cedar Hills Recreation Center",
         "ADDRESS": "11640 SW Park Way",
@@ -223,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-1019",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fd1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890523,
+        "objectid": 1890534,
         "SHELTER_ID": 367876,
         "SHELTER_NAME": "Christ United Methodist Church1",
         "ADDRESS": "400 West Berwick Street",
@@ -264,12 +132,188 @@
         -75.2157,
         40.6786
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fd0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2157,
+          40.6786
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890532,
+        "SHELTER_ID": 367877,
+        "SHELTER_NAME": "Christ United Methodist Church",
+        "ADDRESS": "400 West Berwick Street",
+        "CITY": "Easton",
+        "STATE": "PA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.2157,
+        40.6786,
+        -75.2157,
+        40.6786
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fcf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8502,
+          41.0986
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890533,
+        "SHELTER_ID": 367880,
+        "SHELTER_NAME": "IPRA - Kankakee Community College",
+        "ADDRESS": "100 College Drive",
+        "CITY": "Kankakee",
+        "STATE": "IL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.8502,
+        41.0986,
+        -87.8502,
+        41.0986
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fce",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1202,
+          41.1857
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890535,
+        "SHELTER_ID": 367881,
+        "SHELTER_NAME": "Kankakee Valley High School",
+        "ADDRESS": "3923 W State Road 10",
+        "CITY": "Wheatfield",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.1202,
+        41.1857,
+        -87.1202,
+        41.1857
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fcd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.425,
+          41.0348
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890536,
+        "SHELTER_ID": 367882,
+        "SHELTER_NAME": "North Newton Jr/Sr High School",
+        "ADDRESS": "1641 W 250 N",
+        "CITY": "Morocco",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.425,
+        41.0348,
+        -87.425,
+        41.0348
+      ]
     }
   ],
-  "totalFeatures": 6,
-  "numberMatched": 6,
-  "numberReturned": 6,
-  "timeStamp": "2026-03-12T12:49:46.535Z",
+  "totalFeatures": 7,
+  "numberMatched": 7,
+  "numberReturned": 7,
+  "timeStamp": "2026-03-12T13:33:11.619Z",
   "crs": {
     "type": "name",
     "properties": {
