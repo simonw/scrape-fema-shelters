@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_607a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.7967,
-          45.5078
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1890714,
-        "SHELTER_ID": 339649,
-        "SHELTER_NAME": "Cedar Hills Recreation Center",
-        "ADDRESS": "11640 SW Park Way",
-        "CITY": "Portland",
-        "STATE": "OR",
-        "ZIP": "97225",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 317,
-        "POST_IMPACT_CAPACITY": 158,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "OREGON TRAIL CHAPTER",
-        "ORG_ID": 121708,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 45.5078376,
-        "LONGITUDE": -122.79670088,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.7967,
-        45.5078,
-        -122.7967,
-        45.5078
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_607b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.0141,
-          44.0338
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1890719,
-        "SHELTER_ID": 367883,
-        "SHELTER_NAME": "Deep River Township Hall",
-        "ADDRESS": "525 E State Road",
-        "CITY": "Sterling",
-        "STATE": "MI",
-        "ZIP": "48659",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 4,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "3",
-        "ORG_ID": 119230,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.0141,
-        44.0338,
-        -84.0141,
-        44.0338
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_607c",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_60aa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890715,
+        "objectid": 1890721,
         "SHELTER_ID": 367877,
         "SHELTER_NAME": "Christ United Methodist Church",
         "ADDRESS": "400 West Berwick Street",
@@ -135,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_607d",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_60ab",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890716,
+        "objectid": 1890722,
         "SHELTER_ID": 367880,
         "SHELTER_NAME": "IPRA - Kankakee Community College",
         "ADDRESS": "100 College Drive",
@@ -179,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_607e",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_60ac",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890717,
+        "objectid": 1890723,
         "SHELTER_ID": 367881,
         "SHELTER_NAME": "Kankakee Valley High School",
         "ADDRESS": "3923 W State Road 10",
@@ -223,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_607f",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_60ad",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890718,
+        "objectid": 1890724,
         "SHELTER_ID": 367882,
         "SHELTER_NAME": "North Newton Jr/Sr High School",
         "ADDRESS": "1641 W 250 N",
@@ -264,12 +176,100 @@
         -87.425,
         41.0348
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_60ae",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7967,
+          45.5078
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890720,
+        "SHELTER_ID": 339649,
+        "SHELTER_NAME": "Cedar Hills Recreation Center",
+        "ADDRESS": "11640 SW Park Way",
+        "CITY": "Portland",
+        "STATE": "OR",
+        "ZIP": "97225",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 317,
+        "POST_IMPACT_CAPACITY": 158,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "OREGON TRAIL CHAPTER",
+        "ORG_ID": 121708,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 45.5078376,
+        "LONGITUDE": -122.79670088,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.7967,
+        45.5078,
+        -122.7967,
+        45.5078
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_60af",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0141,
+          44.0338
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890725,
+        "SHELTER_ID": 367883,
+        "SHELTER_NAME": "Deep River Township Hall",
+        "ADDRESS": "525 E State Road",
+        "CITY": "Sterling",
+        "STATE": "MI",
+        "ZIP": "48659",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 4,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "3",
+        "ORG_ID": 119230,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.0141,
+        44.0338,
+        -84.0141,
+        44.0338
+      ]
     }
   ],
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2026-03-12T23:11:37.105Z",
+  "timeStamp": "2026-03-12T23:41:53.773Z",
   "crs": {
     "type": "name",
     "properties": {
