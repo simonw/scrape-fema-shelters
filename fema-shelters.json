@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fd3",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-f7f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890530,
+        "objectid": 1890544,
         "SHELTER_ID": 367883,
         "SHELTER_NAME": "Deep River Township Hall",
         "ADDRESS": "525 E State Road",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fd2",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-f7e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890531,
+        "objectid": 1890547,
         "SHELTER_ID": 339649,
         "SHELTER_NAME": "Cedar Hills Recreation Center",
         "ADDRESS": "11640 SW Park Way",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fd1",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-f7d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890534,
+        "objectid": 1890548,
         "SHELTER_ID": 367876,
         "SHELTER_NAME": "Christ United Methodist Church1",
         "ADDRESS": "400 West Berwick Street",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fd0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.2157,
-          40.6786
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1890532,
-        "SHELTER_ID": 367877,
-        "SHELTER_NAME": "Christ United Methodist Church",
-        "ADDRESS": "400 West Berwick Street",
-        "CITY": "Easton",
-        "STATE": "PA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -75.2157,
-        40.6786,
-        -75.2157,
-        40.6786
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fcf",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-f7c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890533,
+        "objectid": 1890545,
         "SHELTER_ID": 367880,
         "SHELTER_NAME": "IPRA - Kankakee Community College",
         "ADDRESS": "100 College Drive",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fce",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-f7b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890535,
+        "objectid": 1890546,
         "SHELTER_ID": 367881,
         "SHELTER_NAME": "Kankakee Valley High School",
         "ADDRESS": "3923 W State Road 10",
@@ -267,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-fcd",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-f7a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890536,
+        "objectid": 1890549,
         "SHELTER_ID": 367882,
         "SHELTER_NAME": "North Newton Jr/Sr High School",
         "ADDRESS": "1641 W 250 N",
@@ -308,12 +264,56 @@
         -87.425,
         41.0348
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce10fb7fb_-f79",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2157,
+          40.6786
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890550,
+        "SHELTER_ID": 367877,
+        "SHELTER_NAME": "Christ United Methodist Church",
+        "ADDRESS": "400 West Berwick Street",
+        "CITY": "Easton",
+        "STATE": "PA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.2157,
+        40.6786,
+        -75.2157,
+        40.6786
+      ]
     }
   ],
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2026-03-12T13:33:11.619Z",
+  "timeStamp": "2026-03-12T14:24:34.045Z",
   "crs": {
     "type": "name",
     "properties": {
