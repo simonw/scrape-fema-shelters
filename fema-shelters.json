@@ -3,183 +3,95 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce711b594_-3d94",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e30",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.2157,
-          40.6786
+          -156.4467,
+          20.7443
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890961,
-        "SHELTER_ID": 367877,
-        "SHELTER_NAME": "Christ United Methodist Church",
-        "ADDRESS": "400 West Berwick Street",
-        "CITY": "Easton",
-        "STATE": "PA",
-        "ZIP": "0",
+        "objectid": 1890981,
+        "SHELTER_ID": 364706,
+        "SHELTER_NAME": "South Maui Community Park Gym",
+        "ADDRESS": "1501 Liloa Dr",
+        "CITY": "Kihei",
+        "STATE": "HI",
+        "ZIP": "96753",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
+        "EVACUATION_CAPACITY": 1592,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 5,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": null,
         "ORG_ID": null,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 20.7442832,
+        "LONGITUDE": -156.4467211,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -75.2157,
-        40.6786,
-        -75.2157,
-        40.6786
+        -156.4467,
+        20.7443,
+        -156.4467,
+        20.7443
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce711b594_-3d93",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e2f",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.8502,
-          41.0986
+          -156.6863,
+          20.9057
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890962,
-        "SHELTER_ID": 367880,
-        "SHELTER_NAME": "IPRA - Kankakee Community College",
-        "ADDRESS": "100 College Drive",
-        "CITY": "Kankakee",
-        "STATE": "IL",
-        "ZIP": "0",
+        "objectid": 1890982,
+        "SHELTER_ID": 138755,
+        "SHELTER_NAME": "Lahaina Civic Center",
+        "ADDRESS": "1840 Honoapiilani Hwy",
+        "CITY": "Lahaina",
+        "STATE": "HI",
+        "ZIP": "96761",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
+        "EVACUATION_CAPACITY": 32,
+        "POST_IMPACT_CAPACITY": 8,
+        "TOTAL_POPULATION": 0,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
+        "ORG_NAME": "HAWAII STATE CHAPTER",
+        "ORG_ID": 121469,
+        "MATCH_TYPE": "A",
         "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 20.90566041,
+        "LONGITUDE": -156.68632056,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -87.8502,
-        41.0986,
-        -87.8502,
-        41.0986
+        -156.6863,
+        20.9057,
+        -156.6863,
+        20.9057
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce711b594_-3d92",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.1202,
-          41.1857
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1890963,
-        "SHELTER_ID": 367881,
-        "SHELTER_NAME": "Kankakee Valley High School",
-        "ADDRESS": "3923 W State Road 10",
-        "CITY": "Wheatfield",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.1202,
-        41.1857,
-        -87.1202,
-        41.1857
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce711b594_-3d91",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.425,
-          41.0348
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1890964,
-        "SHELTER_ID": 367882,
-        "SHELTER_NAME": "North Newton Jr/Sr High School",
-        "ADDRESS": "1641 W 250 N",
-        "CITY": "Morocco",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.425,
-        41.0348,
-        -87.425,
-        41.0348
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce711b594_-3d90",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e2e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890960,
+        "objectid": 1890986,
         "SHELTER_ID": 339649,
         "SHELTER_NAME": "Cedar Hills Recreation Center",
         "ADDRESS": "11640 SW Park Way",
@@ -223,31 +135,427 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--5ec16d15_19ce711b594_-3d8f",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e2d",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.0141,
-          44.0338
+          -156.4712,
+          20.8751
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1890965,
-        "SHELTER_ID": 367883,
-        "SHELTER_NAME": "Deep River Township Hall",
-        "ADDRESS": "525 E State Road",
-        "CITY": "Sterling",
-        "STATE": "MI",
-        "ZIP": "48659",
+        "objectid": 1890987,
+        "SHELTER_ID": 138700,
+        "SHELTER_NAME": "Maui High School Gym",
+        "ADDRESS": "660 S. Lono Ave",
+        "CITY": "Kahului",
+        "STATE": "HI",
+        "ZIP": "96732",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 2684,
+        "POST_IMPACT_CAPACITY": 671,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HAWAII STATE CHAPTER",
+        "ORG_ID": 121469,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 20.87511943,
+        "LONGITUDE": -156.47117575,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -156.4712,
+        20.8751,
+        -156.4712,
+        20.8751
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e2c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.697,
+          39.7642
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890988,
+        "SHELTER_ID": 346801,
+        "SHELTER_NAME": "Hope Presbyterian Church",
+        "ADDRESS": "2211 Wabash",
+        "CITY": "Springfield",
+        "STATE": "IL",
+        "ZIP": "62704",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 250,
+        "TOTAL_POPULATION": 3,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ILLINOIS CAPITAL AREA CHAPTER",
+        "ORG_ID": 121495,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 39.764178,
+        "LONGITUDE": -89.6970473,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.697,
+        39.7642,
+        -89.697,
+        39.7642
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e2b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8082,
+          21.4107
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890989,
+        "SHELTER_ID": 138733,
+        "SHELTER_NAME": "Kaneohe District Park",
+        "ADDRESS": "45-660 Keaahala Rd",
+        "CITY": "Kaneohe",
+        "STATE": "HI",
+        "ZIP": "96744",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 200,
+        "POST_IMPACT_CAPACITY": 50,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HAWAII STATE CHAPTER",
+        "ORG_ID": 121469,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 21.41070168,
+        "LONGITUDE": -157.80819781,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -157.8082,
+        21.4107,
+        -157.8082,
+        21.4107
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e2a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1172,
+          21.5638
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890990,
+        "SHELTER_ID": 138802,
+        "SHELTER_NAME": "Waialua High and Intermediate",
+        "ADDRESS": "67-160 Farrington Hwy",
+        "CITY": "Waialua",
+        "STATE": "HI",
+        "ZIP": "96791",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1218,
+        "POST_IMPACT_CAPACITY": 304,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HAWAII STATE CHAPTER",
+        "ORG_ID": 121469,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 21.56383823,
+        "LONGITUDE": -158.11724083,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -158.1172,
+        21.5638,
+        -158.1172,
+        21.5638
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0807,
+          21.365
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890991,
+        "SHELTER_ID": 335545,
+        "SHELTER_NAME": "Asing Community Park",
+        "ADDRESS": "91-1450 Renton Rd",
+        "CITY": "Ewa Beach",
+        "STATE": "HI",
+        "ZIP": "96706",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 116,
+        "POST_IMPACT_CAPACITY": 58,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HAWAII STATE CHAPTER",
+        "ORG_ID": 121469,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 21.36503248,
+        "LONGITUDE": -158.0806721,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -158.0807,
+        21.365,
+        -158.0807,
+        21.365
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7821,
+          41.1221
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890992,
+        "SHELTER_ID": 222964,
+        "SHELTER_NAME": "Recreation Center",
+        "ADDRESS": "1300 McDonald Rd",
+        "CITY": "North Platte",
+        "STATE": "NE",
+        "ZIP": "69101",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Mid-Plains (NEBRASKA)",
+        "ORG_ID": 121610,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 41.12209587,
+        "LONGITUDE": -100.78210699,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -100.7821,
+        41.1221,
+        -100.7821,
+        41.1221
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9519,
+          21.6759
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890993,
+        "SHELTER_ID": 333353,
+        "SHELTER_NAME": "Kahuku Elementary",
+        "ADDRESS": "56-170 Pualalea St",
+        "CITY": "Kahuku",
+        "STATE": "HI",
+        "ZIP": "96731",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 250,
+        "POST_IMPACT_CAPACITY": 62,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HAWAII STATE CHAPTER",
+        "ORG_ID": 121469,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 21.67592074,
+        "LONGITUDE": -157.95189149,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -157.9519,
+        21.6759,
+        -157.9519,
+        21.6759
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1291,
+          21.389
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890994,
+        "SHELTER_ID": 333712,
+        "SHELTER_NAME": "Nanakuli High and Intermediate",
+        "ADDRESS": "89-890 Nanakuli Ave",
+        "CITY": "Waianae",
+        "STATE": "HI",
+        "ZIP": "96792",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 4663,
+        "POST_IMPACT_CAPACITY": 1165,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HAWAII STATE CHAPTER",
+        "ORG_ID": 121469,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 21.38901003,
+        "LONGITUDE": -158.1290939,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -158.1291,
+        21.389,
+        -158.1291,
+        21.389
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8105,
+          21.3135
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890995,
+        "SHELTER_ID": 335468,
+        "SHELTER_NAME": "Manoa Valley District Park",
+        "ADDRESS": "2721 Kaaipu Ave",
+        "CITY": "Honolulu",
+        "STATE": "HI",
+        "ZIP": "96822",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1445,
+        "POST_IMPACT_CAPACITY": 722,
+        "TOTAL_POPULATION": 3,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HAWAII STATE CHAPTER",
+        "ORG_ID": 121469,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 21.31348496,
+        "LONGITUDE": -157.81050008,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -157.8105,
+        21.3135,
+        -157.8105,
+        21.3135
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9413,
+          32.4565
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890996,
+        "SHELTER_ID": 367885,
+        "SHELTER_NAME": "Macon County Senior Center",
+        "ADDRESS": "111 West Main Street",
+        "CITY": "Marshallville",
+        "STATE": "GA",
+        "ZIP": "31057",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 4,
+        "TOTAL_POPULATION": 5,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "3",
-        "ORG_ID": 119230,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "GENPOPSHEL",
@@ -259,17 +567,193 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -84.0141,
-        44.0338,
-        -84.0141,
-        44.0338
+        -83.9413,
+        32.4565,
+        -83.9413,
+        32.4565
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6135,
+          43.755
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890997,
+        "SHELTER_ID": 367886,
+        "SHELTER_NAME": "Living Outreach Church",
+        "ADDRESS": "25189 US Highway 385",
+        "CITY": "Custer",
+        "STATE": "SD",
+        "ZIP": "57730",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 8,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -103.6135,
+        43.755,
+        -103.6135,
+        43.755
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2157,
+          40.6786
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890983,
+        "SHELTER_ID": 367877,
+        "SHELTER_NAME": "Christ United Methodist Church",
+        "ADDRESS": "400 West Berwick Street",
+        "CITY": "Easton",
+        "STATE": "PA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.2157,
+        40.6786,
+        -75.2157,
+        40.6786
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8502,
+          41.0986
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890984,
+        "SHELTER_ID": 367880,
+        "SHELTER_NAME": "IPRA - Kankakee Community College",
+        "ADDRESS": "100 College Drive",
+        "CITY": "Kankakee",
+        "STATE": "IL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.8502,
+        41.0986,
+        -87.8502,
+        41.0986
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-43d72b4e_19ce6361f71_-4e20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.425,
+          41.0348
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1890985,
+        "SHELTER_ID": 367882,
+        "SHELTER_NAME": "North Newton Jr/Sr High School",
+        "ADDRESS": "1641 W 250 N",
+        "CITY": "Morocco",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.425,
+        41.0348,
+        -87.425,
+        41.0348
       ]
     }
   ],
-  "totalFeatures": 6,
-  "numberMatched": 6,
-  "numberReturned": 6,
-  "timeStamp": "2026-03-13T12:49:54.133Z",
+  "totalFeatures": 17,
+  "numberMatched": 17,
+  "numberReturned": 17,
+  "timeStamp": "2026-03-13T13:31:50.852Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -277,8 +761,8 @@
     }
   },
   "bbox": [
-    -122.7967,
-    40.6786,
+    -158.1291,
+    20.7443,
     -75.2157,
     45.5078
   ]
