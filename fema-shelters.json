@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-106238d5_19cfff5d8dd_2b8c",
+      "id": "FEMANSSOpenShelters.fid--3dd7c3c1_19d01cd2b6a_-7fdc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4054,
+          42.2409
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1898026,
+        "SHELTER_ID": 367889,
+        "SHELTER_NAME": "St John United Church Of Christ",
+        "ADDRESS": "801 S Mechanic Street",
+        "CITY": "Jackson",
+        "STATE": "MI",
+        "ZIP": "49203",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.4054,
+        42.2409,
+        -84.4054,
+        42.2409
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--3dd7c3c1_19d01cd2b6a_-7fdb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898003,
+        "objectid": 1898015,
         "SHELTER_ID": 367877,
         "SHELTER_NAME": "Christ United Methodist Church",
         "ADDRESS": "400 West Berwick Street",
@@ -47,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-106238d5_19cfff5d8dd_2b8d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.8303,
-          30.5619
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1898004,
-        "SHELTER_ID": 367904,
-        "SHELTER_NAME": "Callahan Methodist Church",
-        "ADDRESS": "449648 US 30",
-        "CITY": "Callahan",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.8303,
-        30.5619,
-        -81.8303,
-        30.5619
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-106238d5_19cfff5d8dd_2b8e",
+      "id": "FEMANSSOpenShelters.fid--3dd7c3c1_19d01cd2b6a_-7fda",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898005,
+        "objectid": 1898016,
         "SHELTER_ID": 367902,
         "SHELTER_NAME": "Redeeming Life Ministries",
         "ADDRESS": "2400 Waldron Road",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-106238d5_19cfff5d8dd_2b8f",
+      "id": "FEMANSSOpenShelters.fid--3dd7c3c1_19d01cd2b6a_-7fd9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898006,
+        "objectid": 1898017,
         "SHELTER_ID": 367903,
         "SHELTER_NAME": "Sister Bay Liberty Grove Fire Department",
         "ADDRESS": "2258 Mill Rd",
@@ -179,21 +179,21 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-106238d5_19cfff5d8dd_2b90",
+      "id": "FEMANSSOpenShelters.fid--3dd7c3c1_19d01cd2b6a_-7fd8",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.4656,
-          27.9409
+          -81.8303,
+          30.5619
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898007,
-        "SHELTER_ID": 367910,
-        "SHELTER_NAME": "Hyde Park United Methodist Church",
-        "ADDRESS": "500 W Platt St",
-        "CITY": "Tampa",
+        "objectid": 1898018,
+        "SHELTER_ID": 367904,
+        "SHELTER_NAME": "Callahan Methodist Church",
+        "ADDRESS": "449648 US 30",
+        "CITY": "Callahan",
         "STATE": "FL",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
@@ -215,103 +215,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -82.4656,
-        27.9409,
-        -82.4656,
-        27.9409
+        -81.8303,
+        30.5619,
+        -81.8303,
+        30.5619
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-106238d5_19cfff5d8dd_2b91",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.2369,
-          27.9349
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1898008,
-        "SHELTER_ID": 367911,
-        "SHELTER_NAME": "Tampa Bay Mission of Hope",
-        "ADDRESS": "212 S St Cloud Ave",
-        "CITY": "Valrico",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.2369,
-        27.9349,
-        -82.2369,
-        27.9349
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-106238d5_19cfff5d8dd_2b92",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4589,
-          27.9527
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1898009,
-        "SHELTER_ID": 367912,
-        "SHELTER_NAME": "The Portico",
-        "ADDRESS": "1001 N Florida Avenue",
-        "CITY": "Tampa",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.4589,
-        27.9527,
-        -82.4589,
-        27.9527
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-106238d5_19cfff5d8dd_2b93",
+      "id": "FEMANSSOpenShelters.fid--3dd7c3c1_19d01cd2b6a_-7fd7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898010,
+        "objectid": 1898019,
         "SHELTER_ID": 367905,
         "SHELTER_NAME": "Nature Coast Community Church",
         "ADDRESS": "5113 S Suncoast Blvd",
@@ -355,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-106238d5_19cfff5d8dd_2b94",
+      "id": "FEMANSSOpenShelters.fid--3dd7c3c1_19d01cd2b6a_-7fd6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898011,
+        "objectid": 1898020,
         "SHELTER_ID": 367906,
         "SHELTER_NAME": "The Refuge",
         "ADDRESS": "1033 E 26th Street",
@@ -399,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-106238d5_19cfff5d8dd_2b95",
+      "id": "FEMANSSOpenShelters.fid--3dd7c3c1_19d01cd2b6a_-7fd5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898012,
+        "objectid": 1898021,
         "SHELTER_ID": 367908,
         "SHELTER_NAME": "Church of God of Prophecy Hyde Park",
         "ADDRESS": "107 S Oregon Ave",
@@ -443,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-106238d5_19cfff5d8dd_2b96",
+      "id": "FEMANSSOpenShelters.fid--3dd7c3c1_19d01cd2b6a_-7fd4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898013,
+        "objectid": 1898022,
         "SHELTER_ID": 367909,
         "SHELTER_NAME": "First Baptist Church",
         "ADDRESS": "701 Pine Street",
@@ -487,53 +399,141 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-106238d5_19cfff5d8dd_2b97",
+      "id": "FEMANSSOpenShelters.fid--3dd7c3c1_19d01cd2b6a_-7fd3",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.4054,
-          42.2409
+          -82.4656,
+          27.9409
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898014,
-        "SHELTER_ID": 367889,
-        "SHELTER_NAME": "St John United Church Of Christ",
-        "ADDRESS": "801 S Mechanic Street",
-        "CITY": "Jackson",
-        "STATE": "MI",
-        "ZIP": "49203",
+        "objectid": 1898023,
+        "SHELTER_ID": 367910,
+        "SHELTER_NAME": "Hyde Park United Methodist Church",
+        "ADDRESS": "500 W Platt St",
+        "CITY": "Tampa",
+        "STATE": "FL",
+        "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
+        "TOTAL_POPULATION": null,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
+        "ORG_NAME": null,
+        "ORG_ID": null,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
         "LATITUDE": null,
         "LONGITUDE": null,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -84.4054,
-        42.2409,
-        -84.4054,
-        42.2409
+        -82.4656,
+        27.9409,
+        -82.4656,
+        27.9409
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--3dd7c3c1_19d01cd2b6a_-7fd2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2369,
+          27.9349
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1898024,
+        "SHELTER_ID": 367911,
+        "SHELTER_NAME": "Tampa Bay Mission of Hope",
+        "ADDRESS": "212 S St Cloud Ave",
+        "CITY": "Valrico",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.2369,
+        27.9349,
+        -82.2369,
+        27.9349
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--3dd7c3c1_19d01cd2b6a_-7fd1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4589,
+          27.9527
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1898025,
+        "SHELTER_ID": 367912,
+        "SHELTER_NAME": "The Portico",
+        "ADDRESS": "1001 N Florida Avenue",
+        "CITY": "Tampa",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.4589,
+        27.9527,
+        -82.4589,
+        27.9527
       ]
     }
   ],
   "totalFeatures": 12,
   "numberMatched": 12,
   "numberReturned": 12,
-  "timeStamp": "2026-03-18T16:31:14.398Z",
+  "timeStamp": "2026-03-18T16:54:42.037Z",
   "crs": {
     "type": "name",
     "properties": {
