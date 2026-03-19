@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--22f2353e_19d051c2731_-2e86",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d04405ddb_-400a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898686,
+        "objectid": 1898698,
         "SHELTER_ID": 367889,
         "SHELTER_NAME": "St John United Church Of Christ",
         "ADDRESS": "801 S Mechanic Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--22f2353e_19d051c2731_-2e85",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d04405ddb_-4009",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898675,
+        "objectid": 1898687,
         "SHELTER_ID": 367877,
         "SHELTER_NAME": "Christ United Methodist Church",
         "ADDRESS": "400 West Berwick Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--22f2353e_19d051c2731_-2e84",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d04405ddb_-4008",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898676,
+        "objectid": 1898688,
         "SHELTER_ID": 367902,
         "SHELTER_NAME": "Redeeming Life Ministries",
         "ADDRESS": "2400 Waldron Road",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--22f2353e_19d051c2731_-2e83",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d04405ddb_-4007",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898677,
+        "objectid": 1898689,
         "SHELTER_ID": 367903,
         "SHELTER_NAME": "Sister Bay Liberty Grove Fire Department",
         "ADDRESS": "2258 Mill Rd",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--22f2353e_19d051c2731_-2e82",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d04405ddb_-4006",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898678,
+        "objectid": 1898690,
         "SHELTER_ID": 367904,
         "SHELTER_NAME": "Callahan Methodist Church",
         "ADDRESS": "449648 US 30",
@@ -223,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--22f2353e_19d051c2731_-2e81",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d04405ddb_-4005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5633,
+          28.788
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1898691,
+        "SHELTER_ID": 367905,
+        "SHELTER_NAME": "Nature Coast Community Church",
+        "ADDRESS": "5113 S Suncoast Blvd",
+        "CITY": "Homosassa",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.5633,
+        28.788,
+        -82.5633,
+        28.788
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d04405ddb_-4004",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898679,
+        "objectid": 1898692,
         "SHELTER_ID": 367906,
         "SHELTER_NAME": "The Refuge",
         "ADDRESS": "1033 E 26th Street",
@@ -267,139 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--22f2353e_19d051c2731_-2e80",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4749,
-          27.9441
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1898680,
-        "SHELTER_ID": 367908,
-        "SHELTER_NAME": "Church of God of Prophecy Hyde Park",
-        "ADDRESS": "107 S Oregon Ave",
-        "CITY": "Tampa",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.4749,
-        27.9441,
-        -82.4749,
-        27.9441
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--22f2353e_19d051c2731_-2e7f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.0551,
-          34.1222
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1898681,
-        "SHELTER_ID": 367909,
-        "SHELTER_NAME": "First Baptist Church",
-        "ADDRESS": "701 Pine Street",
-        "CITY": "Arkadelphia",
-        "STATE": "AR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.0551,
-        34.1222,
-        -93.0551,
-        34.1222
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--22f2353e_19d051c2731_-2e7e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4656,
-          27.9409
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1898682,
-        "SHELTER_ID": 367910,
-        "SHELTER_NAME": "Hyde Park United Methodist Church",
-        "ADDRESS": "500 W Platt St",
-        "CITY": "Tampa",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.4656,
-        27.9409,
-        -82.4656,
-        27.9409
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--22f2353e_19d051c2731_-2e7d",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d04405ddb_-4003",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898683,
+        "objectid": 1898693,
         "SHELTER_ID": 367911,
         "SHELTER_NAME": "Tampa Bay Mission of Hope",
         "ADDRESS": "212 S St Cloud Ave",
@@ -443,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--22f2353e_19d051c2731_-2e7c",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d04405ddb_-4002",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898684,
+        "objectid": 1898694,
         "SHELTER_ID": 367912,
         "SHELTER_NAME": "The Portico",
         "ADDRESS": "1001 N Florida Avenue",
@@ -487,21 +399,21 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--22f2353e_19d051c2731_-2e7b",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d04405ddb_-4001",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.5633,
-          28.788
+          -82.4749,
+          27.9441
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1898685,
-        "SHELTER_ID": 367905,
-        "SHELTER_NAME": "Nature Coast Community Church",
-        "ADDRESS": "5113 S Suncoast Blvd",
-        "CITY": "Homosassa",
+        "objectid": 1898695,
+        "SHELTER_ID": 367908,
+        "SHELTER_NAME": "Church of God of Prophecy Hyde Park",
+        "ADDRESS": "107 S Oregon Ave",
+        "CITY": "Tampa",
         "STATE": "FL",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
@@ -523,17 +435,105 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -82.5633,
-        28.788,
-        -82.5633,
-        28.788
+        -82.4749,
+        27.9441,
+        -82.4749,
+        27.9441
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d04405ddb_-4000",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0551,
+          34.1222
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1898696,
+        "SHELTER_ID": 367909,
+        "SHELTER_NAME": "First Baptist Church",
+        "ADDRESS": "701 Pine Street",
+        "CITY": "Arkadelphia",
+        "STATE": "AR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.0551,
+        34.1222,
+        -93.0551,
+        34.1222
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d04405ddb_-3fff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4656,
+          27.9409
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1898697,
+        "SHELTER_ID": 367910,
+        "SHELTER_NAME": "Hyde Park United Methodist Church",
+        "ADDRESS": "500 W Platt St",
+        "CITY": "Tampa",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.4656,
+        27.9409,
+        -82.4656,
+        27.9409
       ]
     }
   ],
   "totalFeatures": 12,
   "numberMatched": 12,
   "numberReturned": 12,
-  "timeStamp": "2026-03-19T11:18:55.303Z",
+  "timeStamp": "2026-03-19T11:46:17.037Z",
   "crs": {
     "type": "name",
     "properties": {
