@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5afc716f_19d07af617b_7904",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d07af617b_7922",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4054,
+          42.2409
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1899028,
+        "SHELTER_ID": 367889,
+        "SHELTER_NAME": "St John United Church Of Christ",
+        "ADDRESS": "801 S Mechanic Street",
+        "CITY": "Jackson",
+        "STATE": "MI",
+        "ZIP": "49203",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.4054,
+        42.2409,
+        -84.4054,
+        42.2409
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d07af617b_7923",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899014,
+        "objectid": 1899024,
         "SHELTER_ID": 367877,
         "SHELTER_NAME": "Christ United Methodist Church",
         "ADDRESS": "400 West Berwick Street",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5afc716f_19d07af617b_7905",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d07af617b_7924",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899015,
+        "objectid": 1899025,
         "SHELTER_ID": 367902,
         "SHELTER_NAME": "Redeeming Life Ministries",
         "ADDRESS": "2400 Waldron Road",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5afc716f_19d07af617b_7906",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d07af617b_7925",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899016,
+        "objectid": 1899026,
         "SHELTER_ID": 367913,
         "SHELTER_NAME": "Alpine Recreation Center New Gym",
         "ADDRESS": "817 Yale Street",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5afc716f_19d07af617b_7907",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d07af617b_7926",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899017,
+        "objectid": 1899027,
         "SHELTER_ID": 367914,
         "SHELTER_NAME": "Fairview Recreation Center",
         "ADDRESS": "1121 E 10th Ave",
@@ -176,56 +220,12 @@
         -149.8621,
         61.2129
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5afc716f_19d07af617b_7908",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.4054,
-          42.2409
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1899018,
-        "SHELTER_ID": 367889,
-        "SHELTER_NAME": "St John United Church Of Christ",
-        "ADDRESS": "801 S Mechanic Street",
-        "CITY": "Jackson",
-        "STATE": "MI",
-        "ZIP": "49203",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.4054,
-        42.2409,
-        -84.4054,
-        42.2409
-      ]
     }
   ],
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-03-20T07:25:26.096Z",
+  "timeStamp": "2026-03-20T07:48:07.248Z",
   "crs": {
     "type": "name",
     "properties": {
