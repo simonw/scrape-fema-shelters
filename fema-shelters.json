@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5afc716f_19d0a4270c9_-2d17",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d0a4270c9_-64",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899083,
+        "objectid": 1899099,
         "SHELTER_ID": 367889,
         "SHELTER_NAME": "St John United Church Of Christ",
         "ADDRESS": "801 S Mechanic Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5afc716f_19d0a4270c9_-2d16",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d0a4270c9_-63",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899079,
+        "objectid": 1899096,
         "SHELTER_ID": 367877,
         "SHELTER_NAME": "Christ United Methodist Church",
         "ADDRESS": "400 West Berwick Street",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5afc716f_19d0a4270c9_-2d15",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.241,
-          34.064
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1899080,
-        "SHELTER_ID": 367913,
-        "SHELTER_NAME": "Alpine Recreation Center New Gym",
-        "ADDRESS": "817 Yale Street",
-        "CITY": "Los Angeles",
-        "STATE": "CA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.241,
-        34.064,
-        -118.241,
-        34.064
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5afc716f_19d0a4270c9_-2d14",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d0a4270c9_-62",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899081,
+        "objectid": 1899097,
         "SHELTER_ID": 367902,
         "SHELTER_NAME": "Redeeming Life Ministries",
         "ADDRESS": "2400 Waldron Road",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5afc716f_19d0a4270c9_-2d13",
+      "id": "FEMANSSOpenShelters.fid-5afc716f_19d0a4270c9_-61",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899082,
+        "objectid": 1899098,
         "SHELTER_ID": 367914,
         "SHELTER_NAME": "Fairview Recreation Center",
         "ADDRESS": "1121 E 10th Ave",
@@ -222,10 +178,10 @@
       ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2026-03-20T11:43:44.182Z",
+  "totalFeatures": 4,
+  "numberMatched": 4,
+  "numberReturned": 4,
+  "timeStamp": "2026-03-20T12:49:47.656Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -234,7 +190,7 @@
   },
   "bbox": [
     -149.8621,
-    34.064,
+    40.6786,
     -75.2157,
     61.2129
   ]
