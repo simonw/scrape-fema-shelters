@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_884",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_950",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4054,
+          42.2409
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1899816,
+        "SHELTER_ID": 367889,
+        "SHELTER_NAME": "St John United Church Of Christ",
+        "ADDRESS": "801 S Mechanic Street",
+        "CITY": "Jackson",
+        "STATE": "MI",
+        "ZIP": "49203",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.4054,
+        42.2409,
+        -84.4054,
+        42.2409
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_951",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899783,
+        "objectid": 1899800,
         "SHELTER_ID": 367877,
         "SHELTER_NAME": "Christ United Methodist Church",
         "ADDRESS": "400 West Berwick Street",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_885",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_952",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899784,
+        "objectid": 1899801,
         "SHELTER_ID": 367902,
         "SHELTER_NAME": "Redeeming Life Ministries",
         "ADDRESS": "2400 Waldron Road",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_886",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_953",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899785,
+        "objectid": 1899802,
         "SHELTER_ID": 367915,
         "SHELTER_NAME": "Baldwin High School",
         "ADDRESS": "1650 Kaahumanu Ave",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_887",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_954",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899786,
+        "objectid": 1899803,
         "SHELTER_ID": 367917,
         "SHELTER_NAME": "Kihei Community Center",
         "ADDRESS": "303 E Lipoa St",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_888",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_955",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899787,
+        "objectid": 1899804,
         "SHELTER_ID": 367916,
         "SHELTER_NAME": "Hana High and Elementary School",
         "ADDRESS": "4111 Hana Hwy",
@@ -223,183 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_889",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.049,
-          21.3461
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1899788,
-        "SHELTER_ID": 367924,
-        "SHELTER_NAME": "The Salvation Army Kros Center Hawaii",
-        "ADDRESS": "91-3257 Kualakai Pkwy",
-        "CITY": "Ewa Beach",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -158.049,
-        21.3461,
-        -158.049,
-        21.3461
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_88a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.0217,
-          21.5006
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1899789,
-        "SHELTER_ID": 367925,
-        "SHELTER_NAME": "Wahiawa District Park Gym",
-        "ADDRESS": "1139 Kilani Ave",
-        "CITY": "Wahiawa",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -158.0217,
-        21.5006,
-        -158.0217,
-        21.5006
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_88b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.6838,
-          20.905
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1899790,
-        "SHELTER_ID": 367918,
-        "SHELTER_NAME": "Lahaina Civic Center",
-        "ADDRESS": "1840 Honoapiilani Hwy",
-        "CITY": "Lahaina",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -156.6838,
-        20.905,
-        -156.6838,
-        20.905
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_88c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.0108,
-          21.499
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1899791,
-        "SHELTER_ID": 367919,
-        "SHELTER_NAME": "Leilehua High School",
-        "ADDRESS": "1515 California Ave",
-        "CITY": "Wahiawa",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -158.0108,
-        21.499,
-        -158.0108,
-        21.499
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_88d",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_956",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899792,
+        "objectid": 1899805,
         "SHELTER_ID": 367926,
         "SHELTER_NAME": "Waialua High and Intermediate",
         "ADDRESS": "67-160 Farrington Hwy",
@@ -443,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_88e",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_957",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899793,
+        "objectid": 1899806,
         "SHELTER_ID": 367927,
         "SHELTER_NAME": "Pathfinder",
         "ADDRESS": "6655 CO 115",
@@ -487,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_88f",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_958",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899794,
+        "objectid": 1899807,
         "SHELTER_ID": 367928,
         "SHELTER_NAME": "Worthington Community Center",
         "ADDRESS": "345 E Wilson Bridge Rd",
@@ -531,7 +399,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_890",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_959",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6838,
+          20.905
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1899808,
+        "SHELTER_ID": 367918,
+        "SHELTER_NAME": "Lahaina Civic Center",
+        "ADDRESS": "1840 Honoapiilani Hwy",
+        "CITY": "Lahaina",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -156.6838,
+        20.905,
+        -156.6838,
+        20.905
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_95a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0108,
+          21.499
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1899809,
+        "SHELTER_ID": 367919,
+        "SHELTER_NAME": "Leilehua High School",
+        "ADDRESS": "1515 California Ave",
+        "CITY": "Wahiawa",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -158.0108,
+        21.499,
+        -158.0108,
+        21.499
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_95b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899795,
+        "objectid": 1899810,
         "SHELTER_ID": 367920,
         "SHELTER_NAME": "Mililani District Park",
         "ADDRESS": "94-1150 Lanikuhana Ave",
@@ -575,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_891",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_95c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899796,
+        "objectid": 1899811,
         "SHELTER_ID": 367921,
         "SHELTER_NAME": "Nanakuli High and Intermediate",
         "ADDRESS": "89-890 Nanakuli Ave",
@@ -619,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_892",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_95d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899797,
+        "objectid": 1899812,
         "SHELTER_ID": 367922,
         "SHELTER_NAME": "South Maui Community Park Gym",
         "ADDRESS": "1501 Liloa Dr",
@@ -663,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_893",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_95e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899798,
+        "objectid": 1899813,
         "SHELTER_ID": 367923,
         "SHELTER_NAME": "The Marmalade Sky",
         "ADDRESS": "337 N Washington St",
@@ -707,53 +663,97 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_894",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_95f",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.4054,
-          42.2409
+          -158.049,
+          21.3461
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899799,
-        "SHELTER_ID": 367889,
-        "SHELTER_NAME": "St John United Church Of Christ",
-        "ADDRESS": "801 S Mechanic Street",
-        "CITY": "Jackson",
-        "STATE": "MI",
-        "ZIP": "49203",
+        "objectid": 1899814,
+        "SHELTER_ID": 367924,
+        "SHELTER_NAME": "The Salvation Army Kros Center Hawaii",
+        "ADDRESS": "91-3257 Kualakai Pkwy",
+        "CITY": "Ewa Beach",
+        "STATE": "HI",
+        "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
+        "TOTAL_POPULATION": null,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
+        "ORG_NAME": null,
+        "ORG_ID": null,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
         "LATITUDE": null,
         "LONGITUDE": null,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -84.4054,
-        42.2409,
-        -84.4054,
-        42.2409
+        -158.049,
+        21.3461,
+        -158.049,
+        21.3461
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_960",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0217,
+          21.5006
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1899815,
+        "SHELTER_ID": 367925,
+        "SHELTER_NAME": "Wahiawa District Park Gym",
+        "ADDRESS": "1139 Kilani Ave",
+        "CITY": "Wahiawa",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -158.0217,
+        21.5006,
+        -158.0217,
+        21.5006
       ]
     }
   ],
   "totalFeatures": 17,
   "numberMatched": 17,
   "numberReturned": 17,
-  "timeStamp": "2026-03-21T21:10:34.408Z",
+  "timeStamp": "2026-03-21T21:40:18.411Z",
   "crs": {
     "type": "name",
     "properties": {
