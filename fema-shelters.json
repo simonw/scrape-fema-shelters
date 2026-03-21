@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_-57c1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.4054,
-          42.2409
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1899387,
-        "SHELTER_ID": 367889,
-        "SHELTER_NAME": "St John United Church Of Christ",
-        "ADDRESS": "801 S Mechanic Street",
-        "CITY": "Jackson",
-        "STATE": "MI",
-        "ZIP": "49203",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.4054,
-        42.2409,
-        -84.4054,
-        42.2409
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_-57c0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.2157,
-          40.6786
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1899384,
-        "SHELTER_ID": 367877,
-        "SHELTER_NAME": "Christ United Methodist Church",
-        "ADDRESS": "400 West Berwick Street",
-        "CITY": "Easton",
-        "STATE": "PA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -75.2157,
-        40.6786,
-        -75.2157,
-        40.6786
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_-57bf",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_-5795",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899385,
+        "objectid": 1899389,
         "SHELTER_ID": 367902,
         "SHELTER_NAME": "Redeeming Life Ministries",
         "ADDRESS": "2400 Waldron Road",
@@ -135,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_-57be",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_-5794",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1899386,
+        "objectid": 1899390,
         "SHELTER_ID": 367915,
         "SHELTER_NAME": "Baldwin High School",
         "ADDRESS": "1650 Kaahumanu Ave",
@@ -176,12 +88,100 @@
         -156.4914,
         20.8904
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_-5793",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4054,
+          42.2409
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1899391,
+        "SHELTER_ID": 367889,
+        "SHELTER_NAME": "St John United Church Of Christ",
+        "ADDRESS": "801 S Mechanic Street",
+        "CITY": "Jackson",
+        "STATE": "MI",
+        "ZIP": "49203",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.4054,
+        42.2409,
+        -84.4054,
+        42.2409
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-88a305b_19d1044a97e_-5792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2157,
+          40.6786
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1899388,
+        "SHELTER_ID": 367877,
+        "SHELTER_NAME": "Christ United Methodist Church",
+        "ADDRESS": "400 West Berwick Street",
+        "CITY": "Easton",
+        "STATE": "PA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.2157,
+        40.6786,
+        -75.2157,
+        40.6786
+      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-03-21T12:48:52.719Z",
+  "timeStamp": "2026-03-21T13:22:12.506Z",
   "crs": {
     "type": "name",
     "properties": {
