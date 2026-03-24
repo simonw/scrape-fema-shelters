@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d1fb7c7f7_-66e5",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d1edbee2d_-3289",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1902568,
+        "objectid": 1902573,
         "SHELTER_ID": 367877,
         "SHELTER_NAME": "Christ United Methodist Church",
         "ADDRESS": "400 West Berwick Street",
@@ -47,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d1fb7c7f7_-66e4",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d1edbee2d_-3288",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4054,
+          42.2409
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1902574,
+        "SHELTER_ID": 367937,
+        "SHELTER_NAME": "St John United Church Of Christ",
+        "ADDRESS": "801 S Mechanic Street",
+        "CITY": "Jackson",
+        "STATE": "MI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.4054,
+        42.2409,
+        -84.4054,
+        42.2409
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d1edbee2d_-3287",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1902569,
+        "objectid": 1902575,
         "SHELTER_ID": 367930,
         "SHELTER_NAME": "Vintage Housing",
         "ADDRESS": "1590 N National Ave",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d1fb7c7f7_-66e3",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d1edbee2d_-3286",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1902570,
+        "objectid": 1902576,
         "SHELTER_ID": 367933,
         "SHELTER_NAME": "Church of Saint Augustine",
         "ADDRESS": "442 2nd Street Southeast",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d1fb7c7f7_-66e2",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d1edbee2d_-3285",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1902571,
+        "objectid": 1902577,
         "SHELTER_ID": 367934,
         "SHELTER_NAME": "Dodge Park Rec Center",
         "ADDRESS": "667 Sullivant Ave",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d1fb7c7f7_-66e1",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d1edbee2d_-3284",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1902572,
+        "objectid": 1902578,
         "SHELTER_ID": 367935,
         "SHELTER_NAME": "Kaneohe District Park",
         "ADDRESS": "45-660 Keaahala Rd",
@@ -222,10 +266,10 @@
       ]
     }
   ],
-  "totalFeatures": 5,
-  "numberMatched": 5,
-  "numberReturned": 5,
-  "timeStamp": "2026-03-24T12:27:52.931Z",
+  "totalFeatures": 6,
+  "numberMatched": 6,
+  "numberReturned": 6,
+  "timeStamp": "2026-03-24T12:50:32.165Z",
   "crs": {
     "type": "name",
     "properties": {
