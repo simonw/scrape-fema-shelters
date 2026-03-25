@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d224ad81a_5b59",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d224ad81a_5b78",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1902957,
+        "objectid": 1902969,
         "SHELTER_ID": 367877,
         "SHELTER_NAME": "Christ United Methodist Church",
         "ADDRESS": "400 West Berwick Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d224ad81a_5b5a",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d224ad81a_5b79",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1902958,
+        "objectid": 1902970,
         "SHELTER_ID": 367930,
         "SHELTER_NAME": "Vintage Housing",
         "ADDRESS": "1590 N National Ave",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d224ad81a_5b5b",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d224ad81a_5b7a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1902959,
+        "objectid": 1902971,
         "SHELTER_ID": 367937,
         "SHELTER_NAME": "St John United Church Of Christ",
         "ADDRESS": "801 S Mechanic Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d224ad81a_5b5c",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d224ad81a_5b7b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1902960,
+        "objectid": 1902972,
         "SHELTER_ID": 367933,
         "SHELTER_NAME": "Church of Saint Augustine",
         "ADDRESS": "442 2nd Street Southeast",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d224ad81a_5b5d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.809,
-          21.4091
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1902961,
-        "SHELTER_ID": 367935,
-        "SHELTER_NAME": "Kaneohe District Park",
-        "ADDRESS": "45-660 Keaahala Rd",
-        "CITY": "Kaneohe",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -157.809,
-        21.4091,
-        -157.809,
-        21.4091
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d224ad81a_5b5e",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d224ad81a_5b7c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1902962,
+        "objectid": 1902973,
         "SHELTER_ID": 367934,
         "SHELTER_NAME": "Dodge Park Rec Center",
         "ADDRESS": "667 Sullivant Ave",
@@ -264,12 +220,56 @@
         -83.0149,
         39.9535
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d224ad81a_5b7d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.809,
+          21.4091
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1902974,
+        "SHELTER_ID": 367935,
+        "SHELTER_NAME": "Kaneohe District Park",
+        "ADDRESS": "45-660 Keaahala Rd",
+        "CITY": "Kaneohe",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -157.809,
+        21.4091,
+        -157.809,
+        21.4091
+      ]
     }
   ],
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2026-03-25T10:23:40.420Z",
+  "timeStamp": "2026-03-25T10:48:54.841Z",
   "crs": {
     "type": "name",
     "properties": {
