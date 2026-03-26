@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_-6140",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_-60fe",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1903407,
+        "objectid": 1903419,
         "SHELTER_ID": 367877,
         "SHELTER_NAME": "Christ United Methodist Church",
         "ADDRESS": "400 West Berwick Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_-613f",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_-60fd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1903408,
+        "objectid": 1903420,
         "SHELTER_ID": 367930,
         "SHELTER_NAME": "Vintage Housing",
         "ADDRESS": "1590 N National Ave",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_-613e",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_-60fc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1903409,
+        "objectid": 1903421,
         "SHELTER_ID": 367937,
         "SHELTER_NAME": "St John United Church Of Christ",
         "ADDRESS": "801 S Mechanic Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_-613d",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_-60fb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1903410,
+        "objectid": 1903422,
         "SHELTER_ID": 367933,
         "SHELTER_NAME": "Church of Saint Augustine",
         "ADDRESS": "442 2nd Street Southeast",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_-613c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.0149,
-          39.9535
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1903411,
-        "SHELTER_ID": 367934,
-        "SHELTER_NAME": "Dodge Park Rec Center",
-        "ADDRESS": "667 Sullivant Ave",
-        "CITY": "Columbus",
-        "STATE": "OH",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -83.0149,
-        39.9535,
-        -83.0149,
-        39.9535
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_-613b",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_-60fa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1903412,
+        "objectid": 1903423,
         "SHELTER_ID": 367935,
         "SHELTER_NAME": "Kaneohe District Park",
         "ADDRESS": "45-660 Keaahala Rd",
@@ -264,12 +220,56 @@
         -157.809,
         21.4091
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_-60f9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0149,
+          39.9535
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1903424,
+        "SHELTER_ID": 367934,
+        "SHELTER_NAME": "Dodge Park Rec Center",
+        "ADDRESS": "667 Sullivant Ave",
+        "CITY": "Columbus",
+        "STATE": "OH",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.0149,
+        39.9535,
+        -83.0149,
+        39.9535
+      ]
     }
   ],
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2026-03-26T11:24:34.003Z",
+  "timeStamp": "2026-03-26T11:48:59.125Z",
   "crs": {
     "type": "name",
     "properties": {
