@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d2a048119_-4040",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_25ee",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1903505,
+        "objectid": 1903513,
         "SHELTER_ID": 367877,
         "SHELTER_NAME": "Christ United Methodist Church",
         "ADDRESS": "400 West Berwick Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d2a048119_-403f",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_25ef",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1903506,
+        "objectid": 1903514,
         "SHELTER_ID": 367933,
         "SHELTER_NAME": "Church of Saint Augustine",
         "ADDRESS": "442 2nd Street Southeast",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d2a048119_-403e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.0149,
-          39.9535
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1903507,
-        "SHELTER_ID": 367934,
-        "SHELTER_NAME": "Dodge Park Rec Center",
-        "ADDRESS": "667 Sullivant Ave",
-        "CITY": "Columbus",
-        "STATE": "OH",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -83.0149,
-        39.9535,
-        -83.0149,
-        39.9535
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d2a048119_-403d",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_25f0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1903508,
+        "objectid": 1903515,
         "SHELTER_ID": 367935,
         "SHELTER_NAME": "Kaneohe District Park",
         "ADDRESS": "45-660 Keaahala Rd",
@@ -176,12 +132,56 @@
         -157.809,
         21.4091
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19d29289fd6_25f1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0149,
+          39.9535
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1903516,
+        "SHELTER_ID": 367934,
+        "SHELTER_NAME": "Dodge Park Rec Center",
+        "ADDRESS": "667 Sullivant Ave",
+        "CITY": "Columbus",
+        "STATE": "OH",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.0149,
+        39.9535,
+        -83.0149,
+        39.9535
+      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-03-26T18:53:51.882Z",
+  "timeStamp": "2026-03-26T19:29:58.638Z",
   "crs": {
     "type": "name",
     "properties": {
