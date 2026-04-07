@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d67d0b681_-192c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.1871,
-          44.4367
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1905506,
-        "SHELTER_ID": 367944,
-        "SHELTER_NAME": "City Light Church",
-        "ADDRESS": "2140 MN 3",
-        "CITY": "Northfield",
-        "STATE": "MN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.1871,
-        44.4367,
-        -93.1871,
-        44.4367
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d67d0b681_-192b",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d66f4ffdb_-3537",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1905504,
+        "objectid": 1905510,
         "SHELTER_ID": 367877,
         "SHELTER_NAME": "Christ United Methodist Church",
         "ADDRESS": "400 West Berwick Street",
@@ -91,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19d67d0b681_-192a",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d66f4ffdb_-3536",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1905505,
+        "objectid": 1905511,
         "SHELTER_ID": 367942,
         "SHELTER_NAME": "First Baptist Church of Salisbury Worship Center",
         "ADDRESS": "220 N Fulton",
@@ -132,12 +88,56 @@
         -80.4719,
         35.6717
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d66f4ffdb_-3535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1871,
+          44.4367
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1905512,
+        "SHELTER_ID": 367944,
+        "SHELTER_NAME": "City Light Church",
+        "ADDRESS": "2140 MN 3",
+        "CITY": "Northfield",
+        "STATE": "MN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.1871,
+        44.4367,
+        -93.1871,
+        44.4367
+      ]
     }
   ],
   "totalFeatures": 3,
   "numberMatched": 3,
   "numberReturned": 3,
-  "timeStamp": "2026-04-07T16:52:11.503Z",
+  "timeStamp": "2026-04-07T17:27:11.069Z",
   "crs": {
     "type": "name",
     "properties": {
