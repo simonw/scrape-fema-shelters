@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_2495",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24e4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1906671,
+        "objectid": 1906684,
         "SHELTER_ID": 367946,
         "SHELTER_NAME": "Kaneohe District Park",
         "ADDRESS": "45-660 Keaahala Rd",
@@ -47,95 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_2496",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.1926,
-          21.4498
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1906672,
-        "SHELTER_ID": 367949,
-        "SHELTER_NAME": "Waianae District Park",
-        "ADDRESS": "85-601 Farrington HWY",
-        "CITY": "Waianae",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -158.1926,
-        21.4498,
-        -158.1926,
-        21.4498
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_2497",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.1871,
-          44.4367
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1906673,
-        "SHELTER_ID": 367944,
-        "SHELTER_NAME": "City Light Church",
-        "ADDRESS": "2140 MN 3",
-        "CITY": "Northfield",
-        "STATE": "MN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.1871,
-        44.4367,
-        -93.1871,
-        44.4367
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_2498",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24e5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1906674,
+        "objectid": 1906685,
         "SHELTER_ID": 367948,
         "SHELTER_NAME": "Wahiawa District Park Gym",
         "ADDRESS": "1139 Kilani Ave",
@@ -179,7 +91,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_2499",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24e6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1871,
+          44.4367
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1906686,
+        "SHELTER_ID": 367944,
+        "SHELTER_NAME": "City Light Church",
+        "ADDRESS": "2140 MN 3",
+        "CITY": "Northfield",
+        "STATE": "MN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.1871,
+        44.4367,
+        -93.1871,
+        44.4367
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24e7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1926,
+          21.4498
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1906687,
+        "SHELTER_ID": 367949,
+        "SHELTER_NAME": "Waianae District Park",
+        "ADDRESS": "85-601 Farrington HWY",
+        "CITY": "Waianae",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -158.1926,
+        21.4498,
+        -158.1926,
+        21.4498
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24e8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1906675,
+        "objectid": 1906688,
         "SHELTER_ID": 367942,
         "SHELTER_NAME": "First Baptist Church of Salisbury Worship Center",
         "ADDRESS": "220 N Fulton",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_249a",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24e9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1906676,
+        "objectid": 1906689,
         "SHELTER_ID": 367950,
         "SHELTER_NAME": "Helene Hall",
         "ADDRESS": "174 Keawa Pl",
@@ -267,227 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_249b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.8102,
-          21.3134
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1906677,
-        "SHELTER_ID": 367947,
-        "SHELTER_NAME": "Manoa Valley District Park",
-        "ADDRESS": "2721 Kaaipu Ave",
-        "CITY": "Honolulu",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -157.8102,
-        21.3134,
-        -157.8102,
-        21.3134
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_249c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.2396,
-          37.4721
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1906678,
-        "SHELTER_ID": 367957,
-        "SHELTER_NAME": "Veterans Memorial Senior Center",
-        "ADDRESS": "1455 Madison Ave",
-        "CITY": "Redwood City",
-        "STATE": "CA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.2396,
-        37.4721,
-        -122.2396,
-        37.4721
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_249d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.9493,
-          21.6754
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1906679,
-        "SHELTER_ID": 367951,
-        "SHELTER_NAME": "Kahuku Elementary",
-        "ADDRESS": "56-170 Pualalea St",
-        "CITY": "Kahuku",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -157.9493,
-        21.6754,
-        -157.9493,
-        21.6754
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_249e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.6838,
-          20.905
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1906680,
-        "SHELTER_ID": 367952,
-        "SHELTER_NAME": "Lahaina Civic Center",
-        "ADDRESS": "1840 Honoapiilani Hwy",
-        "CITY": "Lahaina",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -156.6838,
-        20.905,
-        -156.6838,
-        20.905
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_249f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.1326,
-          21.3872
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1906681,
-        "SHELTER_ID": 367953,
-        "SHELTER_NAME": "Nanakuli High and Intermediate",
-        "ADDRESS": "89-890 Nanakuli Ave",
-        "CITY": "Waianae",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -158.1326,
-        21.3872,
-        -158.1326,
-        21.3872
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24a0",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24ea",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1906682,
+        "objectid": 1906690,
         "SHELTER_ID": 367954,
         "SHELTER_NAME": "South Maui Community Park Gym",
         "ADDRESS": "1501 Liloa Dr",
@@ -531,7 +311,183 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24a1",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24eb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8102,
+          21.3134
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1906691,
+        "SHELTER_ID": 367947,
+        "SHELTER_NAME": "Manoa Valley District Park",
+        "ADDRESS": "2721 Kaaipu Ave",
+        "CITY": "Honolulu",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -157.8102,
+        21.3134,
+        -157.8102,
+        21.3134
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24ec",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9493,
+          21.6754
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1906692,
+        "SHELTER_ID": 367951,
+        "SHELTER_NAME": "Kahuku Elementary",
+        "ADDRESS": "56-170 Pualalea St",
+        "CITY": "Kahuku",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -157.9493,
+        21.6754,
+        -157.9493,
+        21.6754
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24ed",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6838,
+          20.905
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1906693,
+        "SHELTER_ID": 367952,
+        "SHELTER_NAME": "Lahaina Civic Center",
+        "ADDRESS": "1840 Honoapiilani Hwy",
+        "CITY": "Lahaina",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -156.6838,
+        20.905,
+        -156.6838,
+        20.905
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24ee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1326,
+          21.3872
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1906694,
+        "SHELTER_ID": 367953,
+        "SHELTER_NAME": "Nanakuli High and Intermediate",
+        "ADDRESS": "89-890 Nanakuli Ave",
+        "CITY": "Waianae",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -158.1326,
+        21.3872,
+        -158.1326,
+        21.3872
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24ef",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1906683,
+        "objectid": 1906695,
         "SHELTER_ID": 367955,
         "SHELTER_NAME": "St Sebastian Catholic Church",
         "ADDRESS": "3126 95th St",
@@ -572,12 +528,56 @@
         -87.9016,
         42.696
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19d779eda37_24f0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2396,
+          37.4721
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1906696,
+        "SHELTER_ID": 367957,
+        "SHELTER_NAME": "Veterans Memorial Senior Center",
+        "ADDRESS": "1455 Madison Ave",
+        "CITY": "Redwood City",
+        "STATE": "CA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.2396,
+        37.4721,
+        -122.2396,
+        37.4721
+      ]
     }
   ],
   "totalFeatures": 13,
   "numberMatched": 13,
   "numberReturned": 13,
-  "timeStamp": "2026-04-10T22:47:26.401Z",
+  "timeStamp": "2026-04-10T23:17:22.495Z",
   "crs": {
     "type": "name",
     "properties": {
