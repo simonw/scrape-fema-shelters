@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_ce",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4489",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1924693,
+        "objectid": 1924772,
         "SHELTER_ID": 367975,
         "SHELTER_NAME": "Tinian Head Start/Tinian Elementary School",
         "ADDRESS": "San Jose",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_cf",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4488",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1924685,
+        "objectid": 1924765,
         "SHELTER_ID": 367966,
         "SHELTER_NAME": "Kagman Community Center",
         "ADDRESS": "5Q8H RCH",
@@ -91,95 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_d0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7847,
-          15.1668
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1924686,
-        "SHELTER_ID": 367967,
-        "SHELTER_NAME": "Kagman High School",
-        "ADDRESS": "Half Flower Street",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7847,
-        15.1668,
-        145.7847,
-        15.1668
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_d1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7027,
-          15.1206
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1924687,
-        "SHELTER_ID": 367968,
-        "SHELTER_NAME": "Koblerville Elementary School",
-        "ADDRESS": "As Gonno Road",
-        "CITY": "TINIAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7027,
-        15.1206,
-        145.7027,
-        15.1206
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_d2",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4487",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1924688,
+        "objectid": 1924766,
         "SHELTER_ID": 367970,
         "SHELTER_NAME": "Marianas High School",
         "ADDRESS": "Bwaay Lane",
@@ -223,7 +135,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_d3",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4486",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7847,
+          15.1668
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1924767,
+        "SHELTER_ID": 367967,
+        "SHELTER_NAME": "Kagman High School",
+        "ADDRESS": "Half Flower Street",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7847,
+        15.1668,
+        145.7847,
+        15.1668
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7027,
+          15.1206
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1924768,
+        "SHELTER_ID": 367968,
+        "SHELTER_NAME": "Koblerville Elementary School",
+        "ADDRESS": "As Gonno Road",
+        "CITY": "TINIAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7027,
+        15.1206,
+        145.7027,
+        15.1206
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4484",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1924689,
+        "objectid": 1924769,
         "SHELTER_ID": 368012,
         "SHELTER_NAME": "Marianas High School Unit 2",
         "ADDRESS": "Bwaay Lane",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_d4",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4483",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1924690,
+        "objectid": 1924770,
         "SHELTER_ID": 368014,
         "SHELTER_NAME": "Oleai Elementary School",
         "ADDRESS": "Rte 313",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_d5",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4482",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1924691,
+        "objectid": 1924771,
         "SHELTER_ID": 368016,
         "SHELTER_NAME": "Venture of Faith Camp",
         "ADDRESS": "1309 GA 135 South",
@@ -355,183 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_d6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.4188,
-          44.2556
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1924692,
-        "SHELTER_ID": 367992,
-        "SHELTER_NAME": "Cadillac Salvation Army",
-        "ADDRESS": "725 Wright St",
-        "CITY": "Cadillac",
-        "STATE": "MI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.4188,
-        44.2556,
-        -85.4188,
-        44.2556
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_d7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.2747,
-          43.5806
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1924694,
-        "SHELTER_ID": 367988,
-        "SHELTER_NAME": "Springhill Camps",
-        "ADDRESS": "7717 95th Ave",
-        "CITY": "Evart",
-        "STATE": "MI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.2747,
-        43.5806,
-        -85.2747,
-        43.5806
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_d8",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.3814,
-          38.2434
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1924695,
-        "SHELTER_ID": 368007,
-        "SHELTER_NAME": "LifePointe Church of Warsaw",
-        "ADDRESS": "305 Jefferson St",
-        "CITY": "Warsaw",
-        "STATE": "MO",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.3814,
-        38.2434,
-        -93.3814,
-        38.2434
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_d9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.4499,
-          45.1112
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1924696,
-        "SHELTER_ID": 367990,
-        "SHELTER_NAME": "Alpena Township Hall",
-        "ADDRESS": "4385 US 23 North",
-        "CITY": "Alpena",
-        "STATE": "MI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -83.4499,
-        45.1112,
-        -83.4499,
-        45.1112
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_da",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4481",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1924697,
+        "objectid": 1924773,
         "SHELTER_ID": 368015,
         "SHELTER_NAME": "First Baptist Church",
         "ADDRESS": "511 N Young Blvd",
@@ -575,21 +399,21 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_db",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4480",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.9361,
-          43.4584
+          -85.2747,
+          43.5806
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1924698,
-        "SHELTER_ID": 367998,
-        "SHELTER_NAME": "Inspire Church (Fremont Wesleyan Church)",
-        "ADDRESS": "918 Garden Avenue",
-        "CITY": "Fremont",
+        "objectid": 1924774,
+        "SHELTER_ID": 367988,
+        "SHELTER_NAME": "Springhill Camps",
+        "ADDRESS": "7717 95th Ave",
+        "CITY": "Evart",
         "STATE": "MI",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
@@ -611,29 +435,29 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -85.9361,
-        43.4584,
-        -85.9361,
-        43.4584
+        -85.2747,
+        43.5806,
+        -85.2747,
+        43.5806
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_dc",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-447f",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.6225,
-          45.2739
+          -83.4499,
+          45.1112
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1924699,
-        "SHELTER_ID": 368002,
-        "SHELTER_NAME": "Wolverine Senior Center",
-        "ADDRESS": "6554 Wolverine Rd",
-        "CITY": "Wolverine",
+        "objectid": 1924775,
+        "SHELTER_ID": 367990,
+        "SHELTER_NAME": "Alpena Township Hall",
+        "ADDRESS": "4385 US 23 North",
+        "CITY": "Alpena",
         "STATE": "MI",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
@@ -655,30 +479,30 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -84.6225,
-        45.2739,
-        -84.6225,
-        45.2739
+        -83.4499,
+        45.1112,
+        -83.4499,
+        45.1112
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_dd",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-447e",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.7535,
-          15.1888
+          -85.4188,
+          44.2556
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1924700,
-        "SHELTER_ID": 368009,
-        "SHELTER_NAME": "Dandan Head Start",
-        "ADDRESS": "4PQM 68M",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
+        "objectid": 1924776,
+        "SHELTER_ID": 367992,
+        "SHELTER_NAME": "Cadillac Salvation Army",
+        "ADDRESS": "725 Wright St",
+        "CITY": "Cadillac",
+        "STATE": "MI",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
@@ -699,30 +523,30 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        145.7535,
-        15.1888,
-        145.7535,
-        15.1888
+        -85.4188,
+        44.2556,
+        -85.4188,
+        44.2556
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_de",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-447d",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.7535,
-          15.1888
+          -93.3814,
+          38.2434
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1924701,
-        "SHELTER_ID": 368010,
-        "SHELTER_NAME": "Garapan Elementary School",
-        "ADDRESS": "6P6C G3V RTE 319",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
+        "objectid": 1924777,
+        "SHELTER_ID": 368007,
+        "SHELTER_NAME": "LifePointe Church of Warsaw",
+        "ADDRESS": "305 Jefferson St",
+        "CITY": "Warsaw",
+        "STATE": "MO",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
@@ -743,59 +567,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        145.7535,
-        15.1888,
-        145.7535,
-        15.1888
+        -93.3814,
+        38.2434,
+        -93.3814,
+        38.2434
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_df",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.4527,
-          44.4737
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1924702,
-        "SHELTER_ID": 367983,
-        "SHELTER_NAME": "United Church of Christ - Black Creek",
-        "ADDRESS": "101 S Clark St",
-        "CITY": "Black Creek",
-        "STATE": "WI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.4527,
-        44.4737,
-        -88.4527,
-        44.4737
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_e0",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-447c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1924703,
+        "objectid": 1924778,
         "SHELTER_ID": 367989,
         "SHELTER_NAME": "Yigo Gym",
         "ADDRESS": "Marine Corp Dr",
@@ -839,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19db6c7b8f4_e1",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-447b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1924704,
+        "objectid": 1924779,
         "SHELTER_ID": 367993,
         "SHELTER_NAME": "Cheboygan County Senior Center",
         "ADDRESS": "1531 Sand Road",
@@ -880,12 +660,232 @@
         -84.5201,
         45.5762
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-447a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9361,
+          43.4584
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1924780,
+        "SHELTER_ID": 367998,
+        "SHELTER_NAME": "Inspire Church (Fremont Wesleyan Church)",
+        "ADDRESS": "918 Garden Avenue",
+        "CITY": "Fremont",
+        "STATE": "MI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.9361,
+        43.4584,
+        -85.9361,
+        43.4584
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4479",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6225,
+          45.2739
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1924781,
+        "SHELTER_ID": 368002,
+        "SHELTER_NAME": "Wolverine Senior Center",
+        "ADDRESS": "6554 Wolverine Rd",
+        "CITY": "Wolverine",
+        "STATE": "MI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.6225,
+        45.2739,
+        -84.6225,
+        45.2739
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4478",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7535,
+          15.1888
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1924782,
+        "SHELTER_ID": 368009,
+        "SHELTER_NAME": "Dandan Head Start",
+        "ADDRESS": "4PQM 68M",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7535,
+        15.1888,
+        145.7535,
+        15.1888
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4477",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7535,
+          15.1888
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1924783,
+        "SHELTER_ID": 368010,
+        "SHELTER_NAME": "Garapan Elementary School",
+        "ADDRESS": "6P6C G3V RTE 319",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7535,
+        15.1888,
+        145.7535,
+        15.1888
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19db95ab2b5_-4476",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4527,
+          44.4737
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1924784,
+        "SHELTER_ID": 367983,
+        "SHELTER_NAME": "United Church of Christ - Black Creek",
+        "ADDRESS": "101 S Clark St",
+        "CITY": "Black Creek",
+        "STATE": "WI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.4527,
+        44.4737,
+        -88.4527,
+        44.4737
+      ]
     }
   ],
   "totalFeatures": 20,
   "numberMatched": 20,
   "numberReturned": 20,
-  "timeStamp": "2026-04-23T07:41:54.555Z",
+  "timeStamp": "2026-04-23T08:46:35.993Z",
   "crs": {
     "type": "name",
     "properties": {
