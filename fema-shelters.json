@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7f09",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-210b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0568,
+          30.6685
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1931301,
+        "SHELTER_ID": 368016,
+        "SHELTER_NAME": "Venture of Faith Camp",
+        "ADDRESS": "1309 GA 135 South",
+        "CITY": "Lake Park",
+        "STATE": "GA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.0568,
+        30.6685,
+        -83.0568,
+        30.6685
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-210a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1931255,
+        "objectid": 1931302,
         "SHELTER_ID": 368029,
         "SHELTER_NAME": "Seldon Park",
         "ADDRESS": "100 Genoa Martin Drive",
@@ -47,95 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7f08",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.9123,
-          31.5964
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1931256,
-        "SHELTER_ID": 368031,
-        "SHELTER_NAME": "Unity Church of God",
-        "ADDRESS": "1580 Sunset Blvd",
-        "CITY": "Jesup",
-        "STATE": "GA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -81.9123,
-        31.5964,
-        -81.9123,
-        31.5964
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7f07",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.6848,
-          32.9677
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1931257,
-        "SHELTER_ID": 368032,
-        "SHELTER_NAME": "First United Methodist Church - Springtown",
-        "ADDRESS": "109 W 3rd Street",
-        "CITY": "Springtown",
-        "STATE": "TX",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -97.6848,
-        32.9677,
-        -97.6848,
-        32.9677
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7f06",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-2109",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1931249,
+        "objectid": 1931293,
         "SHELTER_ID": 367975,
         "SHELTER_NAME": "Tinian Head Start/Tinian Elementary School",
         "ADDRESS": "San Jose",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7f05",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-2108",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1931244,
+        "objectid": 1931288,
         "SHELTER_ID": 367966,
         "SHELTER_NAME": "Kagman Community Center",
         "ADDRESS": "5Q8H RCH",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7f04",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-2107",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1931245,
+        "objectid": 1931289,
         "SHELTER_ID": 367967,
         "SHELTER_NAME": "Kagman High School",
         "ADDRESS": "Half Flower Street",
@@ -267,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7f03",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-2106",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1931246,
+        "objectid": 1931290,
         "SHELTER_ID": 367968,
         "SHELTER_NAME": "Koblerville Elementary School",
         "ADDRESS": "As Gonno Road",
@@ -311,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7f02",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-2105",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1931247,
+        "objectid": 1931291,
         "SHELTER_ID": 367970,
         "SHELTER_NAME": "Marianas High School",
         "ADDRESS": "Bwaay Lane",
@@ -355,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7f01",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-2104",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1931248,
+        "objectid": 1931292,
         "SHELTER_ID": 368014,
         "SHELTER_NAME": "Oleai Elementary School",
         "ADDRESS": "Rte 313",
@@ -399,22 +355,22 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7f00",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-2103",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.7535,
-          15.1888
+          -90.1311,
+          30.8478
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1931250,
-        "SHELTER_ID": 368010,
-        "SHELTER_NAME": "Garapan Elementary School",
-        "ADDRESS": "6P6C G3V RTE 319",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
+        "objectid": 1931294,
+        "SHELTER_ID": 368035,
+        "SHELTER_NAME": "Hillcrest Baptist Church",
+        "ADDRESS": "2201 Washington Street",
+        "CITY": "Franklinton",
+        "STATE": "LA",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
@@ -435,15 +391,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        145.7535,
-        15.1888,
-        145.7535,
-        15.1888
+        -90.1311,
+        30.8478,
+        -90.1311,
+        30.8478
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7eff",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-2102",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1931251,
+        "objectid": 1931295,
         "SHELTER_ID": 367989,
         "SHELTER_NAME": "Yigo Gym",
         "ADDRESS": "Marine Corp Dr",
@@ -487,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7efe",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-2101",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1931252,
+        "objectid": 1931296,
         "SHELTER_ID": 368009,
         "SHELTER_NAME": "Dandan Head Start",
         "ADDRESS": "4PQM 68M",
@@ -531,7 +487,139 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7efd",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-2100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7535,
+          15.1888
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1931297,
+        "SHELTER_ID": 368010,
+        "SHELTER_NAME": "Garapan Elementary School",
+        "ADDRESS": "6P6C G3V RTE 319",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7535,
+        15.1888,
+        145.7535,
+        15.1888
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-20ff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9123,
+          31.5964
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1931298,
+        "SHELTER_ID": 368031,
+        "SHELTER_NAME": "Unity Church of God",
+        "ADDRESS": "1580 Sunset Blvd",
+        "CITY": "Jesup",
+        "STATE": "GA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -81.9123,
+        31.5964,
+        -81.9123,
+        31.5964
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-20fe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6848,
+          32.9677
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1931299,
+        "SHELTER_ID": 368032,
+        "SHELTER_NAME": "First United Methodist Church - Springtown",
+        "ADDRESS": "109 W 3rd Street",
+        "CITY": "Springtown",
+        "STATE": "TX",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -97.6848,
+        32.9677,
+        -97.6848,
+        32.9677
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-20fd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1931253,
+        "objectid": 1931300,
         "SHELTER_ID": 368012,
         "SHELTER_NAME": "Marianas High School Unit 2",
         "ADDRESS": "Bwaay Lane",
@@ -572,56 +660,12 @@
         145.7075,
         15.1602
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19dd3bc836f_-7efc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.0568,
-          30.6685
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1931254,
-        "SHELTER_ID": 368016,
-        "SHELTER_NAME": "Venture of Faith Camp",
-        "ADDRESS": "1309 GA 135 South",
-        "CITY": "Lake Park",
-        "STATE": "GA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -83.0568,
-        30.6685,
-        -83.0568,
-        30.6685
-      ]
     }
   ],
-  "totalFeatures": 14,
-  "numberMatched": 14,
-  "numberReturned": 14,
-  "timeStamp": "2026-04-28T11:14:14.928Z",
+  "totalFeatures": 15,
+  "numberMatched": 15,
+  "numberReturned": 15,
+  "timeStamp": "2026-04-28T12:07:08.435Z",
   "crs": {
     "type": "name",
     "properties": {
