@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3c1",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_1f5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1933582,
+        "objectid": 1933642,
         "SHELTER_ID": 367975,
         "SHELTER_NAME": "Tinian Head Start/Tinian Elementary School",
         "ADDRESS": "San Jose",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3c0",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_1f6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1933577,
+        "objectid": 1933637,
         "SHELTER_ID": 367966,
         "SHELTER_NAME": "Kagman Community Center",
         "ADDRESS": "5Q8H RCH",
@@ -91,95 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3bf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7847,
-          15.1668
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1933578,
-        "SHELTER_ID": 367967,
-        "SHELTER_NAME": "Kagman High School",
-        "ADDRESS": "Half Flower Street",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7847,
-        15.1668,
-        145.7847,
-        15.1668
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3be",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7027,
-          15.1206
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1933579,
-        "SHELTER_ID": 367968,
-        "SHELTER_NAME": "Koblerville Elementary School",
-        "ADDRESS": "As Gonno Road",
-        "CITY": "TINIAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7027,
-        15.1206,
-        145.7027,
-        15.1206
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3bd",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_1f7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1933580,
+        "objectid": 1933638,
         "SHELTER_ID": 367970,
         "SHELTER_NAME": "Marianas High School",
         "ADDRESS": "Bwaay Lane",
@@ -223,7 +135,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3bc",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_1f8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7847,
+          15.1668
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1933639,
+        "SHELTER_ID": 367967,
+        "SHELTER_NAME": "Kagman High School",
+        "ADDRESS": "Half Flower Street",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7847,
+        15.1668,
+        145.7847,
+        15.1668
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_1f9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7027,
+          15.1206
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1933640,
+        "SHELTER_ID": 367968,
+        "SHELTER_NAME": "Koblerville Elementary School",
+        "ADDRESS": "As Gonno Road",
+        "CITY": "TINIAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7027,
+        15.1206,
+        145.7027,
+        15.1206
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_1fa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1933581,
+        "objectid": 1933641,
         "SHELTER_ID": 368014,
         "SHELTER_NAME": "Oleai Elementary School",
         "ADDRESS": "Rte 313",
@@ -267,51 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3bb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.1169,
-          32.8087
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1933583,
-        "SHELTER_ID": 368039,
-        "SHELTER_NAME": "First Baptist Church - Mineral Wells",
-        "ADDRESS": "100 SW 4th Avenue",
-        "CITY": "Mineral Wells",
-        "STATE": "TX",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -98.1169,
-        32.8087,
-        -98.1169,
-        32.8087
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3ba",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_1fb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1933584,
+        "objectid": 1933643,
         "SHELTER_ID": 367989,
         "SHELTER_NAME": "Yigo Gym",
         "ADDRESS": "Marine Corp Dr",
@@ -355,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3b9",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_1fc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1933585,
+        "objectid": 1933644,
         "SHELTER_ID": 368009,
         "SHELTER_NAME": "Dandan Head Start",
         "ADDRESS": "4PQM 68M",
@@ -399,7 +355,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3b8",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_1fd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1169,
+          32.8087
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1933645,
+        "SHELTER_ID": 368039,
+        "SHELTER_NAME": "First Baptist Church - Mineral Wells",
+        "ADDRESS": "100 SW 4th Avenue",
+        "CITY": "Mineral Wells",
+        "STATE": "TX",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -98.1169,
+        32.8087,
+        -98.1169,
+        32.8087
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_1fe",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1933586,
+        "objectid": 1933646,
         "SHELTER_ID": 368010,
         "SHELTER_NAME": "Garapan Elementary School",
         "ADDRESS": "6P6C G3V RTE 319",
@@ -443,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3b7",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_1ff",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1933587,
+        "objectid": 1933647,
         "SHELTER_ID": 368012,
         "SHELTER_NAME": "Marianas High School Unit 2",
         "ADDRESS": "Bwaay Lane",
@@ -487,95 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3b6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.6848,
-          32.9677
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1933588,
-        "SHELTER_ID": 368032,
-        "SHELTER_NAME": "First United Methodist Church - Springtown",
-        "ADDRESS": "109 W 3rd Street",
-        "CITY": "Springtown",
-        "STATE": "TX",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -97.6848,
-        32.9677,
-        -97.6848,
-        32.9677
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3b5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.1394,
-          34.3755
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1933589,
-        "SHELTER_ID": 368036,
-        "SHELTER_NAME": "Atoka Shelter",
-        "ADDRESS": "1220 S McNally Dr",
-        "CITY": "Atoka",
-        "STATE": "OK",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -96.1394,
-        34.3755,
-        -96.1394,
-        34.3755
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3b4",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_200",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1933590,
+        "objectid": 1933648,
         "SHELTER_ID": 368016,
         "SHELTER_NAME": "Venture of Faith Camp",
         "ADDRESS": "1309 GA 135 South",
@@ -619,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_-3b3",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_201",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1933591,
+        "objectid": 1933649,
         "SHELTER_ID": 368029,
         "SHELTER_NAME": "Seldon Park",
         "ADDRESS": "100 Genoa Martin Drive",
@@ -660,12 +572,100 @@
         -81.5077,
         31.1725
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_202",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6848,
+          32.9677
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1933650,
+        "SHELTER_ID": 368032,
+        "SHELTER_NAME": "First United Methodist Church - Springtown",
+        "ADDRESS": "109 W 3rd Street",
+        "CITY": "Springtown",
+        "STATE": "TX",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -97.6848,
+        32.9677,
+        -97.6848,
+        32.9677
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ddcf55648_203",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1394,
+          34.3755
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1933651,
+        "SHELTER_ID": 368036,
+        "SHELTER_NAME": "Atoka Shelter",
+        "ADDRESS": "1220 S McNally Dr",
+        "CITY": "Atoka",
+        "STATE": "OK",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -96.1394,
+        34.3755,
+        -96.1394,
+        34.3755
+      ]
     }
   ],
   "totalFeatures": 15,
   "numberMatched": 15,
   "numberReturned": 15,
-  "timeStamp": "2026-04-30T13:41:03.015Z",
+  "timeStamp": "2026-04-30T14:49:37.225Z",
   "crs": {
     "type": "name",
     "properties": {
