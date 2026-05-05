@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-789e",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-46f4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1937799,
+        "objectid": 1937826,
         "SHELTER_ID": 367966,
         "SHELTER_NAME": "Kagman Community Center",
         "ADDRESS": "5Q8H RCH",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-789d",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-46f3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1937800,
+        "objectid": 1937827,
         "SHELTER_ID": 367968,
         "SHELTER_NAME": "Koblerville Elementary School",
         "ADDRESS": "As Gonno Road",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-789c",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-46f2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1937801,
+        "objectid": 1937828,
         "SHELTER_ID": 367970,
         "SHELTER_NAME": "Marianas High School",
         "ADDRESS": "Bwaay Lane",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-789b",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-46f1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1937802,
+        "objectid": 1937829,
         "SHELTER_ID": 368014,
         "SHELTER_NAME": "Oleai Elementary School",
         "ADDRESS": "Rte 313",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-789a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7535,
-          15.1888
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1937803,
-        "SHELTER_ID": 368009,
-        "SHELTER_NAME": "Dandan Head Start",
-        "ADDRESS": "4PQM 68M",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7535,
-        15.1888,
-        145.7535,
-        15.1888
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-7899",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-46f0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1937804,
+        "objectid": 1937830,
         "SHELTER_ID": 368039,
         "SHELTER_NAME": "First Baptist Church - Mineral Wells",
         "ADDRESS": "100 SW 4th Avenue",
@@ -267,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-7898",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-46ef",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,95 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1937805,
+        "objectid": 1937831,
+        "SHELTER_ID": 368009,
+        "SHELTER_NAME": "Dandan Head Start",
+        "ADDRESS": "4PQM 68M",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7535,
+        15.1888,
+        145.7535,
+        15.1888
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-46ee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7952,
+          46.8501
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1937832,
+        "SHELTER_ID": 368045,
+        "SHELTER_NAME": "Century Baptist Church",
+        "ADDRESS": "205 Colt Ave",
+        "CITY": "Bismarck",
+        "STATE": "ND",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -100.7952,
+        46.8501,
+        -100.7952,
+        46.8501
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-46ed",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7535,
+          15.1888
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1937833,
         "SHELTER_ID": 368010,
         "SHELTER_NAME": "Garapan Elementary School",
         "ADDRESS": "6P6C G3V RTE 319",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-7897",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-46ec",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1937806,
+        "objectid": 1937834,
         "SHELTER_ID": 368012,
         "SHELTER_NAME": "Marianas High School Unit 2",
         "ADDRESS": "Bwaay Lane",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-7896",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19df79ea7c3_-46eb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1937807,
+        "objectid": 1937835,
         "SHELTER_ID": 368042,
         "SHELTER_NAME": "65th Street School",
         "ADDRESS": "6600 W Melvina St",
@@ -398,10 +442,10 @@
       ]
     }
   ],
-  "totalFeatures": 9,
-  "numberMatched": 9,
-  "numberReturned": 9,
-  "timeStamp": "2026-05-05T11:34:06.313Z",
+  "totalFeatures": 10,
+  "numberMatched": 10,
+  "numberReturned": 10,
+  "timeStamp": "2026-05-05T12:38:07.109Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -409,9 +453,9 @@
     }
   },
   "bbox": [
-    -98.1169,
+    -100.7952,
     15.1206,
     145.7754,
-    43.0883
+    46.8501
   ]
 }
