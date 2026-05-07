@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_66ae",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_6d42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5409,
+          36.539
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1939192,
+        "SHELTER_ID": 368053,
+        "SHELTER_NAME": "Higher Grounds Baptist Church",
+        "ADDRESS": "1625 Lynn Garden Dr",
+        "CITY": "Kingsport",
+        "STATE": "TN",
+        "ZIP": "37665",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.5409,
+        36.539,
+        -82.5409,
+        36.539
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_6d43",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1939162,
+        "objectid": 1939198,
         "SHELTER_ID": 368049,
         "SHELTER_NAME": "New Hope Christian Center",
         "ADDRESS": "900 S Wayne St",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_66af",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_6d44",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1939154,
+        "objectid": 1939188,
         "SHELTER_ID": 367966,
         "SHELTER_NAME": "Kagman Community Center",
         "ADDRESS": "5Q8H RCH",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_66b0",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_6d45",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1939155,
+        "objectid": 1939189,
         "SHELTER_ID": 367968,
         "SHELTER_NAME": "Koblerville Elementary School",
         "ADDRESS": "As Gonno Road",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_66b1",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_6d46",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1939156,
+        "objectid": 1939190,
         "SHELTER_ID": 367970,
         "SHELTER_NAME": "Marianas High School",
         "ADDRESS": "Bwaay Lane",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_66b2",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_6d47",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1939157,
+        "objectid": 1939191,
         "SHELTER_ID": 368014,
         "SHELTER_NAME": "Oleai Elementary School",
         "ADDRESS": "Rte 313",
@@ -223,22 +267,22 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_66b3",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_6d48",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.7952,
-          46.8501
+          -108.416,
+          42.9844
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1939158,
-        "SHELTER_ID": 368050,
-        "SHELTER_NAME": "Century Baptist Church",
-        "ADDRESS": "205 Colt Ave",
-        "CITY": "Bismarck",
-        "STATE": "ND",
+        "objectid": 1939193,
+        "SHELTER_ID": 368058,
+        "SHELTER_NAME": "Saint Stephens Indian Mission",
+        "ADDRESS": "33 St Stephens Road",
+        "CITY": "Saint Stephens",
+        "STATE": "WY",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
@@ -259,59 +303,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -100.7952,
-        46.8501,
-        -100.7952,
-        46.8501
+        -108.416,
+        42.9844,
+        -108.416,
+        42.9844
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_66b4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7535,
-          15.1888
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1939159,
-        "SHELTER_ID": 368010,
-        "SHELTER_NAME": "Garapan Elementary School",
-        "ADDRESS": "6P6C G3V RTE 319",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7535,
-        15.1888,
-        145.7535,
-        15.1888
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_66b5",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_6d49",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1939160,
+        "objectid": 1939194,
         "SHELTER_ID": 368012,
         "SHELTER_NAME": "Marianas High School Unit 2",
         "ADDRESS": "Bwaay Lane",
@@ -355,7 +355,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_66b6",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_6d4a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7535,
+          15.1888
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1939195,
+        "SHELTER_ID": 368010,
+        "SHELTER_NAME": "Garapan Elementary School",
+        "ADDRESS": "6P6C G3V RTE 319",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7535,
+        15.1888,
+        145.7535,
+        15.1888
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_6d4b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1939161,
+        "objectid": 1939196,
         "SHELTER_ID": 368047,
         "SHELTER_NAME": "Friendly Belleville House",
         "ADDRESS": "23 Fredrick Street",
@@ -396,12 +440,56 @@
         -74.1812,
         40.7826
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e00318519_6d4c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7952,
+          46.8501
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1939197,
+        "SHELTER_ID": 368050,
+        "SHELTER_NAME": "Century Baptist Church",
+        "ADDRESS": "205 Colt Ave",
+        "CITY": "Bismarck",
+        "STATE": "ND",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -100.7952,
+        46.8501,
+        -100.7952,
+        46.8501
+      ]
     }
   ],
-  "totalFeatures": 9,
-  "numberMatched": 9,
-  "numberReturned": 9,
-  "timeStamp": "2026-05-07T12:11:12.326Z",
+  "totalFeatures": 11,
+  "numberMatched": 11,
+  "numberReturned": 11,
+  "timeStamp": "2026-05-07T13:08:38.330Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -409,7 +497,7 @@
     }
   },
   "bbox": [
-    -100.7952,
+    -108.416,
     15.1206,
     145.7754,
     46.8501
