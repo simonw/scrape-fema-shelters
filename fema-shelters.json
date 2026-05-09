@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-743f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.4135,
-          31.6
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1940940,
-        "SHELTER_ID": 368059,
-        "SHELTER_NAME": "Brookhaven FEMA Building Saferoom P361",
-        "ADDRESS": "1154 Belt Line Drive NE",
-        "CITY": "Brookhaven",
-        "STATE": "MS",
-        "ZIP": "39601",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.4135,
-        31.6,
-        -90.4135,
-        31.6
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-743e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.416,
-          42.9844
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1940942,
-        "SHELTER_ID": 368058,
-        "SHELTER_NAME": "Saint Stephens Indian Mission",
-        "ADDRESS": "33 St Stephens Road",
-        "CITY": "Saint Stephens",
-        "STATE": "WY",
-        "ZIP": "82524",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -108.416,
-        42.9844,
-        -108.416,
-        42.9844
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-743d",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-7204",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1940938,
+        "objectid": 1940958,
         "SHELTER_ID": 368012,
         "SHELTER_NAME": "Marianas High School Unit 2",
         "ADDRESS": "Bwaay Lane",
@@ -135,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-743c",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-7203",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1940939,
+        "objectid": 1940959,
         "SHELTER_ID": 368050,
         "SHELTER_NAME": "Century Baptist Church",
         "ADDRESS": "205 Colt Ave",
@@ -179,7 +91,139 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-743b",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-7202",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3913,
+          37.0512
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1940961,
+        "SHELTER_ID": 368060,
+        "SHELTER_NAME": "Ivy Memorial Baptist Church",
+        "ADDRESS": "2200 Coliseum Dr",
+        "CITY": "Hampton",
+        "STATE": "VA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -76.3913,
+        37.0512,
+        -76.3913,
+        37.0512
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-7201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4135,
+          31.6
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1940960,
+        "SHELTER_ID": 368059,
+        "SHELTER_NAME": "Brookhaven FEMA Building Saferoom P361",
+        "ADDRESS": "1154 Belt Line Drive NE",
+        "CITY": "Brookhaven",
+        "STATE": "MS",
+        "ZIP": "39601",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.4135,
+        31.6,
+        -90.4135,
+        31.6
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-7200",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.416,
+          42.9844
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1940962,
+        "SHELTER_ID": 368058,
+        "SHELTER_NAME": "Saint Stephens Indian Mission",
+        "ADDRESS": "33 St Stephens Road",
+        "CITY": "Saint Stephens",
+        "STATE": "WY",
+        "ZIP": "82524",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -108.416,
+        42.9844,
+        -108.416,
+        42.9844
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-71ff",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1940933,
+        "objectid": 1940953,
         "SHELTER_ID": 367966,
         "SHELTER_NAME": "Kagman Community Center",
         "ADDRESS": "5Q8H RCH",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-743a",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-71fe",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1940934,
+        "objectid": 1940954,
         "SHELTER_ID": 367968,
         "SHELTER_NAME": "Koblerville Elementary School",
         "ADDRESS": "As Gonno Road",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-7439",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-71fd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1940935,
+        "objectid": 1940955,
         "SHELTER_ID": 367970,
         "SHELTER_NAME": "Marianas High School",
         "ADDRESS": "Bwaay Lane",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-7438",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-71fc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1940936,
+        "objectid": 1940956,
         "SHELTER_ID": 368014,
         "SHELTER_NAME": "Oleai Elementary School",
         "ADDRESS": "Rte 313",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-7437",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-71fb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1940937,
+        "objectid": 1940957,
         "SHELTER_ID": 368010,
         "SHELTER_NAME": "Garapan Elementary School",
         "ADDRESS": "6P6C G3V RTE 319",
@@ -396,56 +440,12 @@
         145.7535,
         15.1888
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e0ec38725_-7436",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.3913,
-          37.0512
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1940941,
-        "SHELTER_ID": 368060,
-        "SHELTER_NAME": "Ivy Memorial Baptist Church",
-        "ADDRESS": "2200 Coliseum Dr",
-        "CITY": "Hampton",
-        "STATE": "VA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -76.3913,
-        37.0512,
-        -76.3913,
-        37.0512
-      ]
     }
   ],
   "totalFeatures": 10,
   "numberMatched": 10,
   "numberReturned": 10,
-  "timeStamp": "2026-05-09T23:23:03.996Z",
+  "timeStamp": "2026-05-09T23:49:01.397Z",
   "crs": {
     "type": "name",
     "properties": {
