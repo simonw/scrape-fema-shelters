@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-2d7f",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-25f3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1942625,
+        "objectid": 1942655,
         "SHELTER_ID": 368010,
         "SHELTER_NAME": "Garapan Elementary School",
         "ADDRESS": "6P6C G3V RTE 319",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-2d7e",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-25f2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1942627,
+        "objectid": 1942657,
         "SHELTER_ID": 368059,
         "SHELTER_NAME": "Brookhaven FEMA Building Saferoom P361",
         "ADDRESS": "1154 Belt Line Drive NE",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-2d7d",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-25f1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1942628,
+        "objectid": 1942658,
         "SHELTER_ID": 368061,
         "SHELTER_NAME": "Grace Place",
         "ADDRESS": "375 Meadowlark Dr",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-2d7c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.7898,
-          33.925
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1942629,
-        "SHELTER_ID": 78419,
-        "SHELTER_NAME": "Wickenburg High School",
-        "ADDRESS": "1090 SOUTH VULTURE MINE ROAD",
-        "CITY": "WICKENBURG",
-        "STATE": "AZ",
-        "ZIP": "85390",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1325,
-        "POST_IMPACT_CAPACITY": 662,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "GRAND CANYON",
-        "ORG_ID": 121419,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 33.92502852,
-        "LONGITUDE": -112.7897558,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -112.7898,
-        33.925,
-        -112.7898,
-        33.925
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-2d7b",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-25f0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1942630,
+        "objectid": 1942659,
         "SHELTER_ID": 119426,
         "SHELTER_NAME": "North Attleboro Middle School",
         "ADDRESS": "564 Landry Ave",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-2d7a",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-25ef",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7898,
+          33.925
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1942660,
+        "SHELTER_ID": 78419,
+        "SHELTER_NAME": "Wickenburg High School",
+        "ADDRESS": "1090 SOUTH VULTURE MINE ROAD",
+        "CITY": "WICKENBURG",
+        "STATE": "AZ",
+        "ZIP": "85390",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1325,
+        "POST_IMPACT_CAPACITY": 662,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "GRAND CANYON",
+        "ORG_ID": 121419,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 33.92502852,
+        "LONGITUDE": -112.7897558,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -112.7898,
+        33.925,
+        -112.7898,
+        33.925
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-25ee",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1942621,
+        "objectid": 1942651,
         "SHELTER_ID": 367966,
         "SHELTER_NAME": "Kagman Community Center",
         "ADDRESS": "5Q8H RCH",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-2d79",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-25ed",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1942622,
+        "objectid": 1942652,
         "SHELTER_ID": 367968,
         "SHELTER_NAME": "Koblerville Elementary School",
         "ADDRESS": "As Gonno Road",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-2d78",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-25ec",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1942623,
+        "objectid": 1942653,
         "SHELTER_ID": 367970,
         "SHELTER_NAME": "Marianas High School",
         "ADDRESS": "Bwaay Lane",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-2d77",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-25eb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1942624,
+        "objectid": 1942654,
         "SHELTER_ID": 368014,
         "SHELTER_NAME": "Oleai Elementary School",
         "ADDRESS": "Rte 313",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-2d76",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e1c4c34a0_-25ea",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1942626,
+        "objectid": 1942656,
         "SHELTER_ID": 368012,
         "SHELTER_NAME": "Marianas High School Unit 2",
         "ADDRESS": "Bwaay Lane",
@@ -445,7 +445,7 @@
   "totalFeatures": 10,
   "numberMatched": 10,
   "numberReturned": 10,
-  "timeStamp": "2026-05-12T18:14:25.634Z",
+  "timeStamp": "2026-05-12T19:11:28.409Z",
   "crs": {
     "type": "name",
     "properties": {
