@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e31848953_-464b",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e328ebe8f_-7ba0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7535,
+          15.1888
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1945328,
+        "SHELTER_ID": 368010,
+        "SHELTER_NAME": "Garapan Elementary School",
+        "ADDRESS": "6P6C G3V RTE 319",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "96950",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7535,
+        15.1888,
+        145.7535,
+        15.1888
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e328ebe8f_-7b9f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1945312,
+        "objectid": 1945324,
         "SHELTER_ID": 367966,
         "SHELTER_NAME": "Kagman Community Center",
         "ADDRESS": "5Q8H RCH",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e31848953_-464a",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e328ebe8f_-7b9e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1945313,
+        "objectid": 1945325,
         "SHELTER_ID": 367968,
         "SHELTER_NAME": "Koblerville Elementary School",
         "ADDRESS": "As Gonno Road",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e31848953_-4649",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e328ebe8f_-7b9d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1945314,
+        "objectid": 1945326,
         "SHELTER_ID": 367970,
         "SHELTER_NAME": "Marianas High School",
         "ADDRESS": "Bwaay Lane",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e31848953_-4648",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e328ebe8f_-7b9c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1945315,
+        "objectid": 1945327,
         "SHELTER_ID": 368014,
         "SHELTER_NAME": "Oleai Elementary School",
         "ADDRESS": "Rte 313",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e31848953_-4647",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e328ebe8f_-7b9b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1945317,
+        "objectid": 1945329,
         "SHELTER_ID": 368066,
         "SHELTER_NAME": "Christ Episcopal Church",
         "ADDRESS": "970 State St",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e31848953_-4646",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e328ebe8f_-7b9a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1945318,
+        "objectid": 1945330,
         "SHELTER_ID": 368067,
         "SHELTER_NAME": "Hughes Tribal Hall",
         "ADDRESS": "204 Blues Ave",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e31848953_-4645",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e328ebe8f_-7b99",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1945319,
+        "objectid": 1945331,
         "SHELTER_ID": 368070,
         "SHELTER_NAME": "Senior Adult Activities Center of Montgomery County",
         "ADDRESS": "503 Chain St",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e31848953_-4644",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e328ebe8f_-7b98",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1945320,
+        "objectid": 1945332,
         "SHELTER_ID": 368073,
         "SHELTER_NAME": "Bridge Christian Church",
         "ADDRESS": "735 Crane Street",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e31848953_-4643",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e328ebe8f_-7b97",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1945321,
+        "objectid": 1945333,
         "SHELTER_ID": 368075,
         "SHELTER_NAME": "Lions Recreation Center",
         "ADDRESS": "225 A St",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e31848953_-4642",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e328ebe8f_-7b96",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1945322,
+        "objectid": 1945334,
         "SHELTER_ID": 368076,
         "SHELTER_NAME": "Sonju Arena",
         "ADDRESS": "301 8th Avenue",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e31848953_-4641",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e328ebe8f_-7b95",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1945323,
+        "objectid": 1945335,
         "SHELTER_ID": 368074,
         "SHELTER_NAME": "Ice Rink Shelter",
         "ADDRESS": "9320 S Kenton Avenue",
@@ -484,56 +528,12 @@
         -87.737,
         41.7228
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e31848953_-4640",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7535,
-          15.1888
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1945316,
-        "SHELTER_ID": 368010,
-        "SHELTER_NAME": "Garapan Elementary School",
-        "ADDRESS": "6P6C G3V RTE 319",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "96950",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7535,
-        15.1888,
-        145.7535,
-        15.1888
-      ]
     }
   ],
   "totalFeatures": 12,
   "numberMatched": 12,
   "numberReturned": 12,
-  "timeStamp": "2026-05-16T20:48:47.828Z",
+  "timeStamp": "2026-05-16T21:22:16.117Z",
   "crs": {
     "type": "name",
     "properties": {
