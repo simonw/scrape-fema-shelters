@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e52018453_6619",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e53d94fee_68de",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1950641,
+        "objectid": 1950671,
         "SHELTER_ID": 368098,
         "SHELTER_NAME": "Cross Roads Church",
         "ADDRESS": "8102 Midcrown Dr",
@@ -47,95 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e52018453_661a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.0393,
-          33.843
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1950642,
-        "SHELTER_ID": 368100,
-        "SHELTER_NAME": "John F. Kennedy High School",
-        "ADDRESS": "8281 Walker St",
-        "CITY": "La Palma",
-        "STATE": "CA",
-        "ZIP": "90623",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.0393,
-        33.843,
-        -118.0393,
-        33.843
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e52018453_661b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7535,
-          15.1888
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1950643,
-        "SHELTER_ID": 368101,
-        "SHELTER_NAME": "Office of Aging",
-        "ADDRESS": "Kopa Di Oru St",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "96950",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7535,
-        15.1888,
-        145.7535,
-        15.1888
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e52018453_661c",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e53d94fee_68df",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1950647,
+        "objectid": 1950673,
         "SHELTER_ID": 368099,
         "SHELTER_NAME": "Freedom Hall",
         "ADDRESS": "16801 Euclid St",
@@ -179,7 +91,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e52018453_661d",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e53d94fee_68e0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0393,
+          33.843
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1950674,
+        "SHELTER_ID": 368100,
+        "SHELTER_NAME": "John F. Kennedy High School",
+        "ADDRESS": "8281 Walker St",
+        "CITY": "La Palma",
+        "STATE": "CA",
+        "ZIP": "90623",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.0393,
+        33.843,
+        -118.0393,
+        33.843
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e53d94fee_68e1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7535,
+          15.1888
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1950675,
+        "SHELTER_ID": 368101,
+        "SHELTER_NAME": "Office of Aging",
+        "ADDRESS": "Kopa Di Oru St",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "96950",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7535,
+        15.1888,
+        145.7535,
+        15.1888
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e53d94fee_68e2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1950638,
+        "objectid": 1950668,
         "SHELTER_ID": 367966,
         "SHELTER_NAME": "Kagman Community Center",
         "ADDRESS": "5Q8H RCH",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e52018453_661e",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e53d94fee_68e3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1950639,
+        "objectid": 1950669,
         "SHELTER_ID": 368077,
         "SHELTER_NAME": "Ada Gym",
         "ADDRESS": "5P759HV Beach Road",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e52018453_661f",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e53d94fee_68e4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1950640,
+        "objectid": 1950670,
         "SHELTER_ID": 368081,
         "SHELTER_NAME": "Tanapag Youth Center",
         "ADDRESS": "6QR49RV",
@@ -311,7 +311,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e52018453_6620",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e53d94fee_68e5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0009,
+          33.7324
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1950672,
+        "SHELTER_ID": 368097,
+        "SHELTER_NAME": "The Well",
+        "ADDRESS": "2700 Johnston Ave",
+        "CITY": "Hemet",
+        "STATE": "CA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.0009,
+        33.7324,
+        -117.0009,
+        33.7324
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e53d94fee_68e6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1950644,
+        "objectid": 1950676,
         "SHELTER_ID": 368102,
         "SHELTER_NAME": "Ware Town Hall",
         "ADDRESS": "126 Main St",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e52018453_6621",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e53d94fee_68e7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1950645,
+        "objectid": 1950677,
         "SHELTER_ID": 368103,
         "SHELTER_NAME": "Savanna High School",
         "ADDRESS": "301 N Gilbert St",
@@ -396,56 +440,12 @@
         -117.9687,
         33.835
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e52018453_6622",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.0009,
-          33.7324
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1950646,
-        "SHELTER_ID": 368097,
-        "SHELTER_NAME": "The Well",
-        "ADDRESS": "2700 Johnston Ave",
-        "CITY": "Hemet",
-        "STATE": "CA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.0009,
-        33.7324,
-        -117.0009,
-        33.7324
-      ]
     }
   ],
   "totalFeatures": 10,
   "numberMatched": 10,
   "numberReturned": 10,
-  "timeStamp": "2026-05-23T13:36:48.459Z",
+  "timeStamp": "2026-05-23T14:37:55.864Z",
   "crs": {
     "type": "name",
     "properties": {
