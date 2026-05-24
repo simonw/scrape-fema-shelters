@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2c7d",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2ea5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1951634,
+        "objectid": 1951645,
         "SHELTER_ID": 368098,
         "SHELTER_NAME": "Cross Roads Church",
         "ADDRESS": "8102 Midcrown Dr",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2c7e",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2ea6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1951635,
+        "objectid": 1951646,
         "SHELTER_ID": 368104,
         "SHELTER_NAME": "First Presbyterian Church",
         "ADDRESS": "1 Elm St",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2c7f",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2ea7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1951636,
+        "objectid": 1951647,
         "SHELTER_ID": 368105,
         "SHELTER_NAME": "Goldenwest College",
         "ADDRESS": "15744 Goldenwest St",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2c80",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7535,
-          15.1888
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1951637,
-        "SHELTER_ID": 368101,
-        "SHELTER_NAME": "Office of Aging",
-        "ADDRESS": "Kopa Di Oru St",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "96950",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7535,
-        15.1888,
-        145.7535,
-        15.1888
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2c81",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2ea8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1951639,
+        "objectid": 1951648,
         "SHELTER_ID": 368099,
         "SHELTER_NAME": "Freedom Hall",
         "ADDRESS": "16801 Euclid St",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2c82",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2ea9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1951640,
+        "objectid": 1951649,
         "SHELTER_ID": 368100,
         "SHELTER_NAME": "John F. Kennedy High School",
         "ADDRESS": "8281 Walker St",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2c83",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2eaa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7535,
+          15.1888
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1951650,
+        "SHELTER_ID": 368101,
+        "SHELTER_NAME": "Office of Aging",
+        "ADDRESS": "Kopa Di Oru St",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "96950",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7535,
+        15.1888,
+        145.7535,
+        15.1888
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2eab",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1951642,
+        "objectid": 1951653,
         "SHELTER_ID": 368106,
         "SHELTER_NAME": "Los Amigos High School",
         "ADDRESS": "16566 Newhope St",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2c84",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2eac",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1951643,
+        "objectid": 1951654,
         "SHELTER_ID": 368107,
         "SHELTER_NAME": "Oceanview High School",
         "ADDRESS": "17071 Gothard St",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2c85",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2ead",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1951633,
+        "objectid": 1951644,
         "SHELTER_ID": 368077,
         "SHELTER_NAME": "Ada Gym",
         "ADDRESS": "5P759HV Beach Road",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2c86",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2eae",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1951638,
+        "objectid": 1951651,
         "SHELTER_ID": 368102,
         "SHELTER_NAME": "Ware Town Hall",
         "ADDRESS": "126 Main St",
@@ -443,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2c87",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e5824799d_2eaf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1951641,
+        "objectid": 1951652,
         "SHELTER_ID": 368103,
         "SHELTER_NAME": "Savanna High School",
         "ADDRESS": "301 N Gilbert St",
@@ -489,7 +489,7 @@
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2026-05-24T20:27:18.814Z",
+  "timeStamp": "2026-05-24T20:49:37.281Z",
   "crs": {
     "type": "name",
     "properties": {
