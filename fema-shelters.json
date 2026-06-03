@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19e8ba3a9a9_3e32",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e8c7f5ea5_450d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0007,
+          32.7265
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1955835,
+        "SHELTER_ID": 368118,
+        "SHELTER_NAME": "Spring Valley Community Center",
+        "ADDRESS": "4PX9+5XJ Chalan Tun Antonio Apa",
+        "CITY": "Spring Valley",
+        "STATE": "CA",
+        "ZIP": "91977",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.0007,
+        32.7265,
+        -117.0007,
+        32.7265
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19e8c7f5ea5_450e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1955825,
+        "objectid": 1955836,
         "SHELTER_ID": 368117,
         "SHELTER_NAME": "Santa Teresa De Avila Episcopal",
         "ADDRESS": "6201 S St Louis Ave",
@@ -46,10 +90,10 @@
       ]
     }
   ],
-  "totalFeatures": 1,
-  "numberMatched": 1,
-  "numberReturned": 1,
-  "timeStamp": "2026-06-03T11:45:49.857Z",
+  "totalFeatures": 2,
+  "numberMatched": 2,
+  "numberReturned": 2,
+  "timeStamp": "2026-06-03T13:55:48.199Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -57,8 +101,8 @@
     }
   },
   "bbox": [
-    -87.7102,
-    41.7805,
+    -117.0007,
+    32.7265,
     -87.7102,
     41.7805
   ]
