@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e9d07aae0_-542d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.7102,
-          41.7805
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1956288,
-        "SHELTER_ID": 368117,
-        "SHELTER_NAME": "Santa Teresa De Avila Episcopal",
-        "ADDRESS": "6201 S St Louis Ave",
-        "CITY": "Chicago",
-        "STATE": "IL",
-        "ZIP": "60629",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "American Red Cross of Chicago and Northern Illinois Region",
-        "ORG_ID": 126129,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.7102,
-        41.7805,
-        -87.7102,
-        41.7805
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19e9d07aae0_-542c",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e9bf289e4_77c1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1956289,
+        "objectid": 1956290,
         "SHELTER_ID": 368119,
         "SHELTER_NAME": "The Armory",
         "ADDRESS": "4 Academy St",
@@ -88,12 +44,56 @@
         -75.0652,
         42.451
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19e9bf289e4_77c2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7102,
+          41.7805
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1956291,
+        "SHELTER_ID": 368117,
+        "SHELTER_NAME": "Santa Teresa De Avila Episcopal",
+        "ADDRESS": "6201 S St Louis Ave",
+        "CITY": "Chicago",
+        "STATE": "IL",
+        "ZIP": "60629",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "American Red Cross of Chicago and Northern Illinois Region",
+        "ORG_ID": 126129,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.7102,
+        41.7805,
+        -87.7102,
+        41.7805
+      ]
     }
   ],
   "totalFeatures": 2,
   "numberMatched": 2,
   "numberReturned": 2,
-  "timeStamp": "2026-06-06T17:31:50.419Z",
+  "timeStamp": "2026-06-06T17:56:47.566Z",
   "crs": {
     "type": "name",
     "properties": {
