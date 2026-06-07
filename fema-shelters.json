@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19ea1f46ead_-f5a",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ea1f48989_2569",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1956424,
+        "objectid": 1956432,
         "SHELTER_ID": 368119,
         "SHELTER_NAME": "The Armory",
         "ADDRESS": "4 Academy St",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19ea1f46ead_-f59",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.1288,
-          36.1395
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1956423,
-        "SHELTER_ID": 368122,
-        "SHELTER_NAME": "Case Community Center",
-        "ADDRESS": "1050 W Wekiwa Rd",
-        "CITY": "Sand Springs",
-        "STATE": "OK",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -96.1288,
-        36.1395,
-        -96.1288,
-        36.1395
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--532efc5d_19ea1f46ead_-f58",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ea1f48989_256a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1956425,
+        "objectid": 1956433,
         "SHELTER_ID": 368121,
         "SHELTER_NAME": "Yonkers Police Athletic League",
         "ADDRESS": "127 N Broadway",
@@ -132,12 +88,56 @@
         -73.8967,
         40.9389
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-11dda128_19ea1f48989_256b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1288,
+          36.1395
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1956434,
+        "SHELTER_ID": 368122,
+        "SHELTER_NAME": "Case Community Center",
+        "ADDRESS": "1050 W Wekiwa Rd",
+        "CITY": "Sand Springs",
+        "STATE": "OK",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -96.1288,
+        36.1395,
+        -96.1288,
+        36.1395
+      ]
     }
   ],
   "totalFeatures": 3,
   "numberMatched": 3,
   "numberReturned": 3,
-  "timeStamp": "2026-06-07T16:37:10.188Z",
+  "timeStamp": "2026-06-07T17:35:25.736Z",
   "crs": {
     "type": "name",
     "properties": {
