@@ -3,23 +3,23 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19eafb023da_74f6",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19eb0ec256b_-b86",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.1379,
-          42.3095
+          -97.609,
+          38.8147
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1956945,
-        "SHELTER_ID": 368124,
-        "SHELTER_NAME": "Patton Community Center",
-        "ADDRESS": "2301 Woodmere Street",
-        "CITY": "Detroit",
-        "STATE": "MI",
-        "ZIP": "48209",
+        "objectid": 1956966,
+        "SHELTER_ID": 368127,
+        "SHELTER_NAME": "University United Methodist",
+        "ADDRESS": "1509 S Santa Fe Ave",
+        "CITY": "Salina",
+        "STATE": "KS",
+        "ZIP": "67401",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
@@ -39,15 +39,59 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -83.1379,
-        42.3095,
-        -83.1379,
-        42.3095
+        -97.609,
+        38.8147,
+        -97.609,
+        38.8147
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19eafb023da_74f7",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19eb0ec256b_-b85",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1215,
+          38.1985
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1956967,
+        "SHELTER_ID": 368128,
+        "SHELTER_NAME": "First Capital Christian Church",
+        "ADDRESS": "305 Oliver Street",
+        "CITY": "Corydon",
+        "STATE": "IN",
+        "ZIP": "47112",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.1215,
+        38.1985,
+        -86.1215,
+        38.1985
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19eb0ec256b_-b84",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1956946,
+        "objectid": 1956968,
         "SHELTER_ID": 368123,
         "SHELTER_NAME": "St Philips Lutheran Church",
         "ADDRESS": "6180 Highway 65 NE",
@@ -91,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-11dda128_19eafb023da_74f8",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19eb0ec256b_-b83",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1379,
+          42.3095
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1956969,
+        "SHELTER_ID": 368124,
+        "SHELTER_NAME": "Patton Community Center",
+        "ADDRESS": "2301 Woodmere Street",
+        "CITY": "Detroit",
+        "STATE": "MI",
+        "ZIP": "48209",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.1379,
+        42.3095,
+        -83.1379,
+        42.3095
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19eb0ec256b_-b82",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1956947,
+        "objectid": 1956970,
         "SHELTER_ID": 368125,
         "SHELTER_NAME": "Carl Gipson Center",
         "ADDRESS": "3025 Lombard Ave",
@@ -132,12 +220,56 @@
         -122.2026,
         47.977
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--532efc5d_19eb0ec256b_-b81",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6094,
+          38.8135
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1956971,
+        "SHELTER_ID": 368126,
+        "SHELTER_NAME": "Kansas Wesleyan University",
+        "ADDRESS": "100 E Claflin Ave",
+        "CITY": "Salina",
+        "STATE": "KS",
+        "ZIP": "67401",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -97.6094,
+        38.8135,
+        -97.6094,
+        38.8135
+      ]
     }
   ],
-  "totalFeatures": 3,
-  "numberMatched": 3,
-  "numberReturned": 3,
-  "timeStamp": "2026-06-10T12:08:30.942Z",
+  "totalFeatures": 6,
+  "numberMatched": 6,
+  "numberReturned": 6,
+  "timeStamp": "2026-06-10T13:45:01.225Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -146,7 +278,7 @@
   },
   "bbox": [
     -122.2026,
-    42.3095,
+    38.1985,
     -83.1379,
     47.977
   ]
