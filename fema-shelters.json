@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ebc46c798_-109e",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ebbb48333_-28a0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1957730,
+        "objectid": 1957750,
         "SHELTER_ID": 368127,
         "SHELTER_NAME": "University United Methodist",
         "ADDRESS": "1509 S Santa Fe Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ebc46c798_-109d",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ebbb48333_-289f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1957731,
+        "objectid": 1957752,
         "SHELTER_ID": 368124,
         "SHELTER_NAME": "Patton Community Center",
         "ADDRESS": "2301 Woodmere Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ebc46c798_-109c",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ebbb48333_-289e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1957732,
+        "objectid": 1957753,
         "SHELTER_ID": 368129,
         "SHELTER_NAME": "Horicon City Hall",
         "ADDRESS": "404 E Lake Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ebc46c798_-109b",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ebbb48333_-289d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1957733,
+        "objectid": 1957754,
         "SHELTER_ID": 368130,
         "SHELTER_NAME": "Minneapolis High School",
         "ADDRESS": "602 Woodland Ave",
@@ -179,139 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ebc46c798_-109a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.3238,
-          40.6139
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1957734,
-        "SHELTER_ID": 368131,
-        "SHELTER_NAME": "BENTON COUNTY ANNEX",
-        "ADDRESS": "410 S ADEWAY",
-        "CITY": "Fowler",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.3238,
-        40.6139,
-        -87.3238,
-        40.6139
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ebc46c798_-1099",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.0021,
-          42.8189
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1957735,
-        "SHELTER_ID": 368132,
-        "SHELTER_NAME": "CHADRON STATE COLLEGE",
-        "ADDRESS": "101-171 E 12TH ST",
-        "CITY": "Chadron",
-        "STATE": "NE",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -103.0021,
-        42.8189,
-        -103.0021,
-        42.8189
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ebc46c798_-1098",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.4695,
-          41.5506
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1957736,
-        "SHELTER_ID": 368133,
-        "SHELTER_NAME": "LINCOLN COMMUNITY CENTER",
-        "ADDRESS": "2450 Lincoln Street",
-        "CITY": "Highland",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.4695,
-        41.5506,
-        -87.4695,
-        41.5506
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ebc46c798_-1097",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ebbb48333_-289c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1957737,
+        "objectid": 1957751,
         "SHELTER_ID": 368134,
         "SHELTER_NAME": "RAUNER CENTER-TRAINING ROOM",
         "ADDRESS": "2200 W. HARRISON ST",
@@ -355,7 +223,139 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ebc46c798_-1096",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ebbb48333_-289b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3238,
+          40.6139
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1957755,
+        "SHELTER_ID": 368131,
+        "SHELTER_NAME": "BENTON COUNTY ANNEX",
+        "ADDRESS": "410 S ADEWAY",
+        "CITY": "Fowler",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.3238,
+        40.6139,
+        -87.3238,
+        40.6139
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ebbb48333_-289a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0021,
+          42.8189
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1957756,
+        "SHELTER_ID": 368132,
+        "SHELTER_NAME": "CHADRON STATE COLLEGE",
+        "ADDRESS": "101-171 E 12TH ST",
+        "CITY": "Chadron",
+        "STATE": "NE",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -103.0021,
+        42.8189,
+        -103.0021,
+        42.8189
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ebbb48333_-2899",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4695,
+          41.5506
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1957757,
+        "SHELTER_ID": 368133,
+        "SHELTER_NAME": "LINCOLN COMMUNITY CENTER",
+        "ADDRESS": "2450 Lincoln Street",
+        "CITY": "Highland",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.4695,
+        41.5506,
+        -87.4695,
+        41.5506
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ebbb48333_-2898",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1957738,
+        "objectid": 1957758,
         "SHELTER_ID": 368135,
         "SHELTER_NAME": "ST PAULS EVANGELICAL LUTHERAN CHURCH",
         "ADDRESS": "509 E Broadway St",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ebc46c798_-1095",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ebbb48333_-2897",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1957739,
+        "objectid": 1957759,
         "SHELTER_ID": 368136,
         "SHELTER_NAME": "Wabash County YMCA",
         "ADDRESS": "500 S. Cass Street",
@@ -445,7 +445,7 @@
   "totalFeatures": 10,
   "numberMatched": 10,
   "numberReturned": 10,
-  "timeStamp": "2026-06-12T17:27:54.329Z",
+  "timeStamp": "2026-06-12T18:16:06.913Z",
   "crs": {
     "type": "name",
     "properties": {
