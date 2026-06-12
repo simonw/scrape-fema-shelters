@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-41df89f_19eb8cfacfe_-1e9e",
+      "id": "FEMANSSOpenShelters.fid-41df89f_19eb8cfacfe_1b10",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1957438,
+        "objectid": 1957462,
         "SHELTER_ID": 368127,
         "SHELTER_NAME": "University United Methodist",
         "ADDRESS": "1509 S Santa Fe Ave",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-41df89f_19eb8cfacfe_-1e9d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.1379,
-          42.3095
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1957439,
-        "SHELTER_ID": 368124,
-        "SHELTER_NAME": "Patton Community Center",
-        "ADDRESS": "2301 Woodmere Street",
-        "CITY": "Detroit",
-        "STATE": "MI",
-        "ZIP": "48209",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -83.1379,
-        42.3095,
-        -83.1379,
-        42.3095
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-41df89f_19eb8cfacfe_-1e9c",
+      "id": "FEMANSSOpenShelters.fid-41df89f_19eb8cfacfe_1b11",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1957440,
+        "objectid": 1957463,
         "SHELTER_ID": 368129,
         "SHELTER_NAME": "Horicon City Hall",
         "ADDRESS": "404 E Lake Street",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-41df89f_19eb8cfacfe_-1e9b",
+      "id": "FEMANSSOpenShelters.fid-41df89f_19eb8cfacfe_1b12",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1957441,
+        "objectid": 1957464,
         "SHELTER_ID": 368130,
         "SHELTER_NAME": "Minneapolis High School",
         "ADDRESS": "602 Woodland Ave",
@@ -176,12 +132,56 @@
         -97.6993,
         39.1265
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-41df89f_19eb8cfacfe_1b13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1379,
+          42.3095
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1957465,
+        "SHELTER_ID": 368124,
+        "SHELTER_NAME": "Patton Community Center",
+        "ADDRESS": "2301 Woodmere Street",
+        "CITY": "Detroit",
+        "STATE": "MI",
+        "ZIP": "48209",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -83.1379,
+        42.3095,
+        -83.1379,
+        42.3095
+      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-06-12T03:20:58.811Z",
+  "timeStamp": "2026-06-12T05:08:38.327Z",
   "crs": {
     "type": "name",
     "properties": {
