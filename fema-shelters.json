@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-77a36033_19ecb277e65_745",
+      "id": "FEMANSSOpenShelters.fid--91b05e0_19eccded18d_5fdc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1959613,
+        "objectid": 1959629,
         "SHELTER_ID": 368133,
         "SHELTER_NAME": "LINCOLN COMMUNITY CENTER",
         "ADDRESS": "2450 Lincoln Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-77a36033_19ecb277e65_746",
+      "id": "FEMANSSOpenShelters.fid--91b05e0_19eccded18d_5fdd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1959614,
+        "objectid": 1959630,
         "SHELTER_ID": 368134,
         "SHELTER_NAME": "RAUNER CENTER-TRAINING ROOM",
         "ADDRESS": "2200 W. HARRISON ST",
@@ -91,95 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-77a36033_19ecb277e65_747",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.1379,
-          42.3095
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1959615,
-        "SHELTER_ID": 368124,
-        "SHELTER_NAME": "Patton Community Center",
-        "ADDRESS": "2301 Woodmere Street",
-        "CITY": "Detroit",
-        "STATE": "MI",
-        "ZIP": "48209",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -83.1379,
-        42.3095,
-        -83.1379,
-        42.3095
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-77a36033_19ecb277e65_748",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.0021,
-          42.8189
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1959616,
-        "SHELTER_ID": 368132,
-        "SHELTER_NAME": "CHADRON STATE COLLEGE",
-        "ADDRESS": "101-171 E 12TH ST",
-        "CITY": "Chadron",
-        "STATE": "NE",
-        "ZIP": "69337",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -103.0021,
-        42.8189,
-        -103.0021,
-        42.8189
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-77a36033_19ecb277e65_749",
+      "id": "FEMANSSOpenShelters.fid--91b05e0_19eccded18d_5fde",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1959617,
+        "objectid": 1959631,
         "SHELTER_ID": 368135,
         "SHELTER_NAME": "ST PAULS EVANGELICAL LUTHERAN CHURCH",
         "ADDRESS": "509 E Broadway St",
@@ -223,23 +135,23 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-77a36033_19ecb277e65_74a",
+      "id": "FEMANSSOpenShelters.fid--91b05e0_19eccded18d_5fdf",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.1489,
-          34.6644
+          -83.1379,
+          42.3095
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1959618,
-        "SHELTER_ID": 368139,
-        "SHELTER_NAME": "Antelope Valley Family YMCA",
-        "ADDRESS": "43001 10th ST W",
-        "CITY": "Lancaster",
-        "STATE": "CA",
-        "ZIP": "93534",
+        "objectid": 1959632,
+        "SHELTER_ID": 368124,
+        "SHELTER_NAME": "Patton Community Center",
+        "ADDRESS": "2301 Woodmere Street",
+        "CITY": "Detroit",
+        "STATE": "MI",
+        "ZIP": "48209",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
@@ -259,15 +171,59 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -118.1489,
-        34.6644,
-        -118.1489,
-        34.6644
+        -83.1379,
+        42.3095,
+        -83.1379,
+        42.3095
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-77a36033_19ecb277e65_74b",
+      "id": "FEMANSSOpenShelters.fid--91b05e0_19eccded18d_5fe0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0021,
+          42.8189
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1959633,
+        "SHELTER_ID": 368132,
+        "SHELTER_NAME": "CHADRON STATE COLLEGE",
+        "ADDRESS": "101-171 E 12TH ST",
+        "CITY": "Chadron",
+        "STATE": "NE",
+        "ZIP": "69337",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -103.0021,
+        42.8189,
+        -103.0021,
+        42.8189
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--91b05e0_19eccded18d_5fe1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1959619,
+        "objectid": 1959634,
         "SHELTER_ID": 368140,
         "SHELTER_NAME": "New Morning Star Missionary Baptist Church",
         "ADDRESS": "406 W John H Gwynn Jr Ave",
@@ -311,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-77a36033_19ecb277e65_74c",
+      "id": "FEMANSSOpenShelters.fid--91b05e0_19eccded18d_5fe2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1959620,
+        "objectid": 1959635,
         "SHELTER_ID": 368141,
         "SHELTER_NAME": "Parkland College",
         "ADDRESS": "2400 W Bradley Ave",
@@ -352,12 +308,56 @@
         -88.29,
         40.1319
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--91b05e0_19eccded18d_5fe3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1489,
+          34.6644
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1959636,
+        "SHELTER_ID": 368139,
+        "SHELTER_NAME": "Antelope Valley Family YMCA",
+        "ADDRESS": "43001 10th ST W",
+        "CITY": "Lancaster",
+        "STATE": "CA",
+        "ZIP": "93534",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.1489,
+        34.6644,
+        -118.1489,
+        34.6644
+      ]
     }
   ],
   "totalFeatures": 8,
   "numberMatched": 8,
   "numberReturned": 8,
-  "timeStamp": "2026-06-15T22:47:20.557Z",
+  "timeStamp": "2026-06-15T23:40:23.849Z",
   "crs": {
     "type": "name",
     "properties": {
