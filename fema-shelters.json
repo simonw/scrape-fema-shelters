@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ed574613a_409a",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ed79a6ae0_-6a3b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1960573,
+        "objectid": 1960591,
         "SHELTER_ID": 368133,
         "SHELTER_NAME": "LINCOLN COMMUNITY CENTER",
         "ADDRESS": "2450 Lincoln Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ed574613a_409b",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ed79a6ae0_-6a3a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1960574,
+        "objectid": 1960592,
         "SHELTER_ID": 368134,
         "SHELTER_NAME": "RAUNER CENTER-TRAINING ROOM",
         "ADDRESS": "2200 W. HARRISON ST",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ed574613a_409c",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ed79a6ae0_-6a39",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1960575,
+        "objectid": 1960593,
         "SHELTER_ID": 368135,
         "SHELTER_NAME": "ST PAULS EVANGELICAL LUTHERAN CHURCH",
         "ADDRESS": "509 E Broadway St",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ed574613a_409d",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ed79a6ae0_-6a38",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1960576,
+        "objectid": 1960594,
         "SHELTER_ID": 368142,
         "SHELTER_NAME": "Los Fresnos CISD United Safe Room",
         "ADDRESS": "33790 Fm 803",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ed574613a_409e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.29,
-          40.1319
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1960577,
-        "SHELTER_ID": 368141,
-        "SHELTER_NAME": "Parkland College",
-        "ADDRESS": "2400 W Bradley Ave",
-        "CITY": "Champaign",
-        "STATE": "IL",
-        "ZIP": "61821",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.29,
-        40.1319,
-        -88.29,
-        40.1319
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--91b05e0_19ed574613a_409f",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ed79a6ae0_-6a37",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1960578,
+        "objectid": 1960595,
         "SHELTER_ID": 368140,
         "SHELTER_NAME": "New Morning Star Missionary Baptist Church",
         "ADDRESS": "406 W John H Gwynn Jr Ave",
@@ -264,12 +220,56 @@
         -89.5993,
         40.6908
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-77a36033_19ed79a6ae0_-6a36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.29,
+          40.1319
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1960596,
+        "SHELTER_ID": 368141,
+        "SHELTER_NAME": "Parkland College",
+        "ADDRESS": "2400 W Bradley Ave",
+        "CITY": "Champaign",
+        "STATE": "IL",
+        "ZIP": "61821",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.29,
+        40.1319,
+        -88.29,
+        40.1319
+      ]
     }
   ],
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2026-06-17T22:39:37.818Z",
+  "timeStamp": "2026-06-17T23:39:25.517Z",
   "crs": {
     "type": "name",
     "properties": {
