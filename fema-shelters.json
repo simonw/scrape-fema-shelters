@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-7850",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75e5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963679,
+        "objectid": 1963724,
         "SHELTER_ID": 368133,
         "SHELTER_NAME": "LINCOLN COMMUNITY CENTER",
         "ADDRESS": "2450 Lincoln Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-784f",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75e4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963680,
+        "objectid": 1963725,
         "SHELTER_ID": 368134,
         "SHELTER_NAME": "RAUNER CENTER-TRAINING ROOM",
         "ADDRESS": "2200 W. HARRISON ST",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-784e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.2948,
-          47.3118
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1963681,
-        "SHELTER_ID": 368145,
-        "SHELTER_NAME": "Family Life Community Church",
-        "ADDRESS": "32275 32nd Avenue South",
-        "CITY": "Federal Way",
-        "STATE": "WA",
-        "ZIP": "98001",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.2948,
-        47.3118,
-        -122.2948,
-        47.3118
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-784d",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75e3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963682,
+        "objectid": 1963726,
         "SHELTER_ID": 368149,
         "SHELTER_NAME": "Cochon De Lait Pavilion",
         "ADDRESS": "1822 LEglise St",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-784c",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75e2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963683,
+        "objectid": 1963727,
         "SHELTER_ID": 368151,
         "SHELTER_NAME": "Saucier Lizana 361",
         "ADDRESS": "23715 Saucier Lizana Road",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-784b",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75e1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2948,
+          47.3118
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1963729,
+        "SHELTER_ID": 368145,
+        "SHELTER_NAME": "Family Life Community Church",
+        "ADDRESS": "32275 32nd Avenue South",
+        "CITY": "Federal Way",
+        "STATE": "WA",
+        "ZIP": "98001",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.2948,
+        47.3118,
+        -122.2948,
+        47.3118
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75e0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963685,
+        "objectid": 1963730,
         "SHELTER_ID": 368155,
         "SHELTER_NAME": "Pecan Recreation Center",
         "ADDRESS": "145 South Pecan Street",
@@ -267,51 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-784a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.1319,
-          30.8506
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1963686,
-        "SHELTER_ID": 368161,
-        "SHELTER_NAME": "Stone Middle School Saferoom P361",
-        "ADDRESS": "532 A. East Central Ave",
-        "CITY": "Wiggins",
-        "STATE": "MS",
-        "ZIP": "39577",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -89.1319,
-        30.8506,
-        -89.1319,
-        30.8506
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-7849",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75df",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963687,
+        "objectid": 1963731,
         "SHELTER_ID": 368152,
         "SHELTER_NAME": "Sherman Elementary School",
         "ADDRESS": "3987 Dixie Hwy",
@@ -355,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-7848",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75de",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963688,
+        "objectid": 1963732,
         "SHELTER_ID": 368153,
         "SHELTER_NAME": "City Terrace Park",
         "ADDRESS": "1126 North Hazard Ave",
@@ -399,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-7847",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75dd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963689,
+        "objectid": 1963733,
         "SHELTER_ID": 368154,
         "SHELTER_NAME": "Kiln Community Saferoom P361",
         "ADDRESS": "18320 Hwy 43",
@@ -443,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-7846",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75dc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963691,
+        "objectid": 1963735,
         "SHELTER_ID": 368160,
         "SHELTER_NAME": "Necaise Shelter P361",
         "ADDRESS": "30360 Highway 603",
@@ -487,7 +443,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-7845",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75db",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1319,
+          30.8506
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1963736,
+        "SHELTER_ID": 368161,
+        "SHELTER_NAME": "Stone Middle School Saferoom P361",
+        "ADDRESS": "532 A. East Central Ave",
+        "CITY": "Wiggins",
+        "STATE": "MS",
+        "ZIP": "39577",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.1319,
+        30.8506,
+        -89.1319,
+        30.8506
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75da",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963692,
+        "objectid": 1963737,
         "SHELTER_ID": 368156,
         "SHELTER_NAME": "Red Rock Junior Senior High School",
         "ADDRESS": "995 Upper Red Rock Loop Rd",
@@ -531,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-7844",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75d9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963693,
+        "objectid": 1963738,
         "SHELTER_ID": 368157,
         "SHELTER_NAME": "Yambilee Center",
         "ADDRESS": "1939 West Landry Highway",
@@ -575,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-7843",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75d8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963684,
+        "objectid": 1963728,
         "SHELTER_ID": 368144,
         "SHELTER_NAME": "American Red Cross",
         "ADDRESS": "2674 N. Main St",
@@ -619,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-7842",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19eebc54874_-75d7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963690,
+        "objectid": 1963734,
         "SHELTER_ID": 368158,
         "SHELTER_NAME": "Crestview Recreation Center",
         "ADDRESS": "1105 Pearl Street S",
@@ -665,7 +665,7 @@
   "totalFeatures": 15,
   "numberMatched": 15,
   "numberReturned": 15,
-  "timeStamp": "2026-06-21T20:40:00.161Z",
+  "timeStamp": "2026-06-21T21:35:49.443Z",
   "crs": {
     "type": "name",
     "properties": {
