@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1de2",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f00",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963454,
+        "objectid": 1963499,
         "SHELTER_ID": 368133,
         "SHELTER_NAME": "LINCOLN COMMUNITY CENTER",
         "ADDRESS": "2450 Lincoln Street",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1de3",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f01",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963455,
+        "objectid": 1963500,
         "SHELTER_ID": 368134,
         "SHELTER_NAME": "RAUNER CENTER-TRAINING ROOM",
         "ADDRESS": "2200 W. HARRISON ST",
@@ -91,95 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1de4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.2948,
-          47.3118
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1963457,
-        "SHELTER_ID": 368145,
-        "SHELTER_NAME": "Family Life Community Church",
-        "ADDRESS": "32275 32nd Avenue South",
-        "CITY": "Federal Way",
-        "STATE": "WA",
-        "ZIP": "98001",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.2948,
-        47.3118,
-        -122.2948,
-        47.3118
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1de5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.0508,
-          31.062
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1963458,
-        "SHELTER_ID": 368149,
-        "SHELTER_NAME": "Cochon De Lait Pavilion",
-        "ADDRESS": "1822 LEglise St",
-        "CITY": "Mansura",
-        "STATE": "LA",
-        "ZIP": "71350",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -92.0508,
-        31.062,
-        -92.0508,
-        31.062
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1de6",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f02",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963459,
+        "objectid": 1963501,
         "SHELTER_ID": 368151,
         "SHELTER_NAME": "Saucier Lizana 361",
         "ADDRESS": "23715 Saucier Lizana Road",
@@ -223,7 +135,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1de7",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f03",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2948,
+          47.3118
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1963503,
+        "SHELTER_ID": 368145,
+        "SHELTER_NAME": "Family Life Community Church",
+        "ADDRESS": "32275 32nd Avenue South",
+        "CITY": "Federal Way",
+        "STATE": "WA",
+        "ZIP": "98001",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.2948,
+        47.3118,
+        -122.2948,
+        47.3118
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f04",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0508,
+          31.062
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1963504,
+        "SHELTER_ID": 368149,
+        "SHELTER_NAME": "Cochon De Lait Pavilion",
+        "ADDRESS": "1822 LEglise St",
+        "CITY": "Mansura",
+        "STATE": "LA",
+        "ZIP": "71350",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -92.0508,
+        31.062,
+        -92.0508,
+        31.062
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f05",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963460,
+        "objectid": 1963505,
         "SHELTER_ID": 368155,
         "SHELTER_NAME": "Pecan Recreation Center",
         "ADDRESS": "145 South Pecan Street",
@@ -267,51 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1de8",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.6005,
-          38.7257
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1963461,
-        "SHELTER_ID": 368152,
-        "SHELTER_NAME": "Sherman Elementary School",
-        "ADDRESS": "3987 Dixie Hwy",
-        "CITY": "Dry Ridge",
-        "STATE": "KY",
-        "ZIP": "41035",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.6005,
-        38.7257,
-        -84.6005,
-        38.7257
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1de9",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f06",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963462,
+        "objectid": 1963506,
         "SHELTER_ID": 368153,
         "SHELTER_NAME": "City Terrace Park",
         "ADDRESS": "1126 North Hazard Ave",
@@ -355,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1dea",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f07",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963463,
+        "objectid": 1963507,
         "SHELTER_ID": 368154,
         "SHELTER_NAME": "Kiln Community Saferoom P361",
         "ADDRESS": "18320 Hwy 43",
@@ -399,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1deb",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f08",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963465,
+        "objectid": 1963509,
         "SHELTER_ID": 368160,
         "SHELTER_NAME": "Necaise Shelter P361",
         "ADDRESS": "30360 Highway 603",
@@ -443,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1dec",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f09",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963466,
+        "objectid": 1963510,
         "SHELTER_ID": 368161,
         "SHELTER_NAME": "Stone Middle School Saferoom P361",
         "ADDRESS": "532 A. East Central Ave",
@@ -487,7 +443,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1ded",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f0a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6005,
+          38.7257
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1963511,
+        "SHELTER_ID": 368152,
+        "SHELTER_NAME": "Sherman Elementary School",
+        "ADDRESS": "3987 Dixie Hwy",
+        "CITY": "Dry Ridge",
+        "STATE": "KY",
+        "ZIP": "41035",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.6005,
+        38.7257,
+        -84.6005,
+        38.7257
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f0b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963467,
+        "objectid": 1963512,
         "SHELTER_ID": 368156,
         "SHELTER_NAME": "Red Rock Junior Senior High School",
         "ADDRESS": "995 Upper Red Rock Loop Rd",
@@ -531,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1dee",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f0c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963468,
+        "objectid": 1963513,
         "SHELTER_ID": 368157,
         "SHELTER_NAME": "Yambilee Center",
         "ADDRESS": "1939 West Landry Highway",
@@ -575,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1def",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f0d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963456,
+        "objectid": 1963502,
         "SHELTER_ID": 368144,
         "SHELTER_NAME": "American Red Cross",
         "ADDRESS": "2674 N. Main St",
@@ -619,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_1df0",
+      "id": "FEMANSSOpenShelters.fid-2b8728a0_19ee8e87be2_4f0e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1963464,
+        "objectid": 1963508,
         "SHELTER_ID": 368158,
         "SHELTER_NAME": "Crestview Recreation Center",
         "ADDRESS": "1105 Pearl Street S",
@@ -665,7 +665,7 @@
   "totalFeatures": 15,
   "numberMatched": 15,
   "numberReturned": 15,
-  "timeStamp": "2026-06-21T15:40:50.208Z",
+  "timeStamp": "2026-06-21T16:41:09.621Z",
   "crs": {
     "type": "name",
     "properties": {
