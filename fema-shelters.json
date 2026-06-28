@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2b14028d_19f0b87befc_-ab2",
+      "id": "FEMANSSOpenShelters.fid--5c9f4be2_19f09d129d2_51",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1969759,
+        "objectid": 1969819,
         "SHELTER_ID": 368151,
         "SHELTER_NAME": "Saucier Lizana 361",
         "ADDRESS": "23715 Saucier Lizana Road",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2b14028d_19f0b87befc_-ab1",
+      "id": "FEMANSSOpenShelters.fid--5c9f4be2_19f09d129d2_52",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1969760,
+        "objectid": 1969820,
         "SHELTER_ID": 368155,
         "SHELTER_NAME": "Pecan Recreation Center",
         "ADDRESS": "145 South Pecan Street",
@@ -91,183 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2b14028d_19f0b87befc_-ab0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.1789,
-          34.0492
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1969762,
-        "SHELTER_ID": 368153,
-        "SHELTER_NAME": "City Terrace Park",
-        "ADDRESS": "1126 North Hazard Ave",
-        "CITY": "Los Angeles",
-        "STATE": "CA",
-        "ZIP": "90063",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.1789,
-        34.0492,
-        -118.1789,
-        34.0492
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2b14028d_19f0b87befc_-aaf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.4062,
-          30.613
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1969763,
-        "SHELTER_ID": 368160,
-        "SHELTER_NAME": "Necaise Shelter P361",
-        "ADDRESS": "30360 Highway 603",
-        "CITY": "Perkinston",
-        "STATE": "MS",
-        "ZIP": "39573",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -89.4062,
-        30.613,
-        -89.4062,
-        30.613
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2b14028d_19f0b87befc_-aae",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.1319,
-          30.8506
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1969764,
-        "SHELTER_ID": 368161,
-        "SHELTER_NAME": "Stone Middle School Saferoom P361",
-        "ADDRESS": "532 A. East Central Ave",
-        "CITY": "Wiggins",
-        "STATE": "MS",
-        "ZIP": "39577",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -89.1319,
-        30.8506,
-        -89.1319,
-        30.8506
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2b14028d_19f0b87befc_-aad",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.1781,
-          39.4812
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1969765,
-        "SHELTER_ID": 368165,
-        "SHELTER_NAME": "Eastern Illinois University - Stevenson Hall",
-        "ADDRESS": "320 Grant Ave",
-        "CITY": "Charleston",
-        "STATE": "IL",
-        "ZIP": "61920",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.1781,
-        39.4812,
-        -88.1781,
-        39.4812
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2b14028d_19f0b87befc_-aac",
+      "id": "FEMANSSOpenShelters.fid--5c9f4be2_19f09d129d2_53",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1969766,
+        "objectid": 1969821,
         "SHELTER_ID": 368170,
         "SHELTER_NAME": "Clifford Pierce Middle School",
         "ADDRESS": "199 70th St",
@@ -311,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2b14028d_19f0b87befc_-aab",
+      "id": "FEMANSSOpenShelters.fid--5c9f4be2_19f09d129d2_54",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1969767,
+        "objectid": 1969822,
         "SHELTER_ID": 368171,
         "SHELTER_NAME": "Jemez Springs Senior Center",
         "ADDRESS": "8154 NM-4",
@@ -355,7 +179,183 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2b14028d_19f0b87befc_-aaa",
+      "id": "FEMANSSOpenShelters.fid--5c9f4be2_19f09d129d2_55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1789,
+          34.0492
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1969823,
+        "SHELTER_ID": 368153,
+        "SHELTER_NAME": "City Terrace Park",
+        "ADDRESS": "1126 North Hazard Ave",
+        "CITY": "Los Angeles",
+        "STATE": "CA",
+        "ZIP": "90063",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.1789,
+        34.0492,
+        -118.1789,
+        34.0492
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5c9f4be2_19f09d129d2_56",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4062,
+          30.613
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1969824,
+        "SHELTER_ID": 368160,
+        "SHELTER_NAME": "Necaise Shelter P361",
+        "ADDRESS": "30360 Highway 603",
+        "CITY": "Perkinston",
+        "STATE": "MS",
+        "ZIP": "39573",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.4062,
+        30.613,
+        -89.4062,
+        30.613
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5c9f4be2_19f09d129d2_57",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1319,
+          30.8506
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1969825,
+        "SHELTER_ID": 368161,
+        "SHELTER_NAME": "Stone Middle School Saferoom P361",
+        "ADDRESS": "532 A. East Central Ave",
+        "CITY": "Wiggins",
+        "STATE": "MS",
+        "ZIP": "39577",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -89.1319,
+        30.8506,
+        -89.1319,
+        30.8506
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5c9f4be2_19f09d129d2_58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1781,
+          39.4812
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1969826,
+        "SHELTER_ID": 368165,
+        "SHELTER_NAME": "Eastern Illinois University - Stevenson Hall",
+        "ADDRESS": "320 Grant Ave",
+        "CITY": "Charleston",
+        "STATE": "IL",
+        "ZIP": "61920",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.1781,
+        39.4812,
+        -88.1781,
+        39.4812
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5c9f4be2_19f09d129d2_59",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1969770,
+        "objectid": 1969830,
         "SHELTER_ID": 368176,
         "SHELTER_NAME": "Castleview Church",
         "ADDRESS": "8601 Hague Rd",
@@ -399,51 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2b14028d_19f0b87befc_-aa9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.9555,
-          39.9496
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1969761,
-        "SHELTER_ID": 368175,
-        "SHELTER_NAME": "Elberta UT LDS Ward Building",
-        "ADDRESS": "15456 S 12800 W St",
-        "CITY": "Elberta",
-        "STATE": "UT",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -111.9555,
-        39.9496,
-        -111.9555,
-        39.9496
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2b14028d_19f0b87befc_-aa8",
+      "id": "FEMANSSOpenShelters.fid--5c9f4be2_19f09d129d2_5a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1969768,
+        "objectid": 1969827,
         "SHELTER_ID": 368174,
         "SHELTER_NAME": "Utah National Guard Armory-Beaver",
         "ADDRESS": "120 S Main St",
@@ -487,7 +443,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2b14028d_19f0b87befc_-aa7",
+      "id": "FEMANSSOpenShelters.fid--5c9f4be2_19f09d129d2_5b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9555,
+          39.9496
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1969828,
+        "SHELTER_ID": 368175,
+        "SHELTER_NAME": "Elberta UT LDS Ward Building",
+        "ADDRESS": "15456 S 12800 W St",
+        "CITY": "Elberta",
+        "STATE": "UT",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -111.9555,
+        39.9496,
+        -111.9555,
+        39.9496
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--5c9f4be2_19f09d129d2_5c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1969769,
+        "objectid": 1969829,
         "SHELTER_ID": 368177,
         "SHELTER_NAME": "Vernon LDS Chapel",
         "ADDRESS": "280 Main St",
@@ -533,7 +533,7 @@
   "totalFeatures": 12,
   "numberMatched": 12,
   "numberReturned": 12,
-  "timeStamp": "2026-06-28T03:48:55.571Z",
+  "timeStamp": "2026-06-28T05:39:13.225Z",
   "crs": {
     "type": "name",
     "properties": {
