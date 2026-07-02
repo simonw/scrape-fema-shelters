@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_22c6",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_2472",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1974001,
+        "objectid": 1974009,
         "SHELTER_ID": 368170,
         "SHELTER_NAME": "Clifford Pierce Middle School",
         "ADDRESS": "199 70th St",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_22c7",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_2473",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1974002,
+        "objectid": 1974010,
         "SHELTER_ID": 368194,
         "SHELTER_NAME": "Touchet School District",
         "ADDRESS": "90 Champion St",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_22c8",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.0321,
-          39.9132
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1974003,
-        "SHELTER_ID": 368176,
-        "SHELTER_NAME": "Castleview Church",
-        "ADDRESS": "8601 Hague Rd",
-        "CITY": "Indianapolis",
-        "STATE": "IN",
-        "ZIP": "46256",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -86.0321,
-        39.9132,
-        -86.0321,
-        39.9132
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_22c9",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_2474",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1974004,
+        "objectid": 1974011,
         "SHELTER_ID": 368184,
         "SHELTER_NAME": "Colorado Mountain College",
         "ADDRESS": "901 Hwy 24",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_22ca",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_2475",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1974005,
+        "objectid": 1974012,
         "SHELTER_ID": 368191,
         "SHELTER_NAME": "Hyde County Memorial Auditorium",
         "ADDRESS": "125 2nd Street",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_22cb",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_2476",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0321,
+          39.9132
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1974013,
+        "SHELTER_ID": 368176,
+        "SHELTER_NAME": "Castleview Church",
+        "ADDRESS": "8601 Hague Rd",
+        "CITY": "Indianapolis",
+        "STATE": "IN",
+        "ZIP": "46256",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.0321,
+        39.9132,
+        -86.0321,
+        39.9132
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_2477",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1974006,
+        "objectid": 1974014,
         "SHELTER_ID": 368196,
         "SHELTER_NAME": "First Missionary Baptist Church",
         "ADDRESS": "542 Briscoe Street",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_22cc",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_2478",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1974007,
+        "objectid": 1974015,
         "SHELTER_ID": 368197,
         "SHELTER_NAME": "Pathfinder Park Event Center",
         "ADDRESS": "6655 Hwy 115",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_22cd",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_2479",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1974008,
+        "objectid": 1974016,
         "SHELTER_ID": 368198,
         "SHELTER_NAME": "Pueblo County Recreation Center",
         "ADDRESS": "1650 Cooper Place",
@@ -357,7 +357,7 @@
   "totalFeatures": 8,
   "numberMatched": 8,
   "numberReturned": 8,
-  "timeStamp": "2026-07-02T21:30:11.487Z",
+  "timeStamp": "2026-07-02T21:54:25.332Z",
   "crs": {
     "type": "name",
     "properties": {
