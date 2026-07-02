@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--f112da3_19f209d55af_203f",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f208da9cc_443d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1973649,
+        "objectid": 1973695,
         "SHELTER_ID": 368182,
         "SHELTER_NAME": "Ridgway Secondary School",
         "ADDRESS": "1200 Green Street",
@@ -47,95 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--f112da3_19f209d55af_2040",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.5817,
-          38.2382
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1973646,
-        "SHELTER_ID": 368192,
-        "SHELTER_NAME": "St. Charles Mesa Recreation",
-        "ADDRESS": "1650 Cooper Place",
-        "CITY": "Pueblo",
-        "STATE": "CO",
-        "ZIP": "81006",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -104.5817,
-        38.2382,
-        -104.5817,
-        38.2382
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--f112da3_19f209d55af_2041",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.1781,
-          39.4812
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1973647,
-        "SHELTER_ID": 368165,
-        "SHELTER_NAME": "Eastern Illinois University - Stevenson Hall",
-        "ADDRESS": "320 Grant Ave",
-        "CITY": "Charleston",
-        "STATE": "IL",
-        "ZIP": "61920",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.1781,
-        39.4812,
-        -88.1781,
-        39.4812
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--f112da3_19f209d55af_2042",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f208da9cc_443e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1973648,
+        "objectid": 1973690,
         "SHELTER_ID": 368170,
         "SHELTER_NAME": "Clifford Pierce Middle School",
         "ADDRESS": "199 70th St",
@@ -179,7 +91,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--f112da3_19f209d55af_2043",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f208da9cc_443f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5817,
+          38.2382
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1973691,
+        "SHELTER_ID": 368192,
+        "SHELTER_NAME": "St. Charles Mesa Recreation",
+        "ADDRESS": "1650 Cooper Place",
+        "CITY": "Pueblo",
+        "STATE": "CO",
+        "ZIP": "81006",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -104.5817,
+        38.2382,
+        -104.5817,
+        38.2382
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f208da9cc_4440",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1781,
+          39.4812
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1973692,
+        "SHELTER_ID": 368165,
+        "SHELTER_NAME": "Eastern Illinois University - Stevenson Hall",
+        "ADDRESS": "320 Grant Ave",
+        "CITY": "Charleston",
+        "STATE": "IL",
+        "ZIP": "61920",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.1781,
+        39.4812,
+        -88.1781,
+        39.4812
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f208da9cc_4441",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1973650,
+        "objectid": 1973693,
         "SHELTER_ID": 368193,
         "SHELTER_NAME": "Teachers Cottage",
         "ADDRESS": "202 W 1st St B",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--f112da3_19f209d55af_2044",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f208da9cc_4442",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1973651,
+        "objectid": 1973694,
         "SHELTER_ID": 368194,
         "SHELTER_NAME": "Touchet School District",
         "ADDRESS": "90 Champion St",
@@ -267,51 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--f112da3_19f209d55af_2045",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.442,
-          44.5194
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1973652,
-        "SHELTER_ID": 368191,
-        "SHELTER_NAME": "Hyde County Memorial Auditorium",
-        "ADDRESS": "125 2nd Street",
-        "CITY": "Highmore",
-        "STATE": "SD",
-        "ZIP": "57345",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -99.442,
-        44.5194,
-        -99.442,
-        44.5194
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--f112da3_19f209d55af_2046",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f208da9cc_4443",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1973653,
+        "objectid": 1973696,
         "SHELTER_ID": 368176,
         "SHELTER_NAME": "Castleview Church",
         "ADDRESS": "8601 Hague Rd",
@@ -355,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--f112da3_19f209d55af_2047",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f208da9cc_4444",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1973654,
+        "objectid": 1973697,
         "SHELTER_ID": 368184,
         "SHELTER_NAME": "Colorado Mountain College",
         "ADDRESS": "901 Hwy 24",
@@ -399,7 +355,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--f112da3_19f209d55af_2048",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f208da9cc_4445",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.442,
+          44.5194
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1973698,
+        "SHELTER_ID": 368191,
+        "SHELTER_NAME": "Hyde County Memorial Auditorium",
+        "ADDRESS": "125 2nd Street",
+        "CITY": "Highmore",
+        "STATE": "SD",
+        "ZIP": "57345",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -99.442,
+        44.5194,
+        -99.442,
+        44.5194
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f208da9cc_4446",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1973655,
+        "objectid": 1973699,
         "SHELTER_ID": 368195,
         "SHELTER_NAME": "Wetmore Community Building",
         "ADDRESS": "95 County Road 393",
@@ -443,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--f112da3_19f209d55af_2049",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f208da9cc_4447",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1973656,
+        "objectid": 1973700,
         "SHELTER_ID": 368196,
         "SHELTER_NAME": "First Missionary Baptist Church",
         "ADDRESS": "542 Briscoe Street",
@@ -489,7 +489,7 @@
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2026-07-02T08:07:04.077Z",
+  "timeStamp": "2026-07-02T09:37:50.879Z",
   "crs": {
     "type": "name",
     "properties": {
