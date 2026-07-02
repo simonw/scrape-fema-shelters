@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3b58",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3d02",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1974033,
+        "objectid": 1974049,
         "SHELTER_ID": 368170,
         "SHELTER_NAME": "Clifford Pierce Middle School",
         "ADDRESS": "199 70th St",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3b59",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3d03",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1974034,
+        "objectid": 1974050,
         "SHELTER_ID": 368194,
         "SHELTER_NAME": "Touchet School District",
         "ADDRESS": "90 Champion St",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3b5a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.442,
-          44.5194
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1974035,
-        "SHELTER_ID": 368191,
-        "SHELTER_NAME": "Hyde County Memorial Auditorium",
-        "ADDRESS": "125 2nd Street",
-        "CITY": "Highmore",
-        "STATE": "SD",
-        "ZIP": "57345",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -99.442,
-        44.5194,
-        -99.442,
-        44.5194
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3b5b",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3d04",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1974036,
+        "objectid": 1974051,
         "SHELTER_ID": 368176,
         "SHELTER_NAME": "Castleview Church",
         "ADDRESS": "8601 Hague Rd",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3b5c",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3d05",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1974037,
+        "objectid": 1974052,
         "SHELTER_ID": 368184,
         "SHELTER_NAME": "Colorado Mountain College",
         "ADDRESS": "901 Hwy 24",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3b5d",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3d06",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.442,
+          44.5194
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1974053,
+        "SHELTER_ID": 368191,
+        "SHELTER_NAME": "Hyde County Memorial Auditorium",
+        "ADDRESS": "125 2nd Street",
+        "CITY": "Highmore",
+        "STATE": "SD",
+        "ZIP": "57345",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -99.442,
+        44.5194,
+        -99.442,
+        44.5194
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3d07",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1974038,
+        "objectid": 1974054,
         "SHELTER_ID": 368196,
         "SHELTER_NAME": "First Missionary Baptist Church",
         "ADDRESS": "542 Briscoe Street",
@@ -267,51 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3b5e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.5817,
-          38.2382
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1974039,
-        "SHELTER_ID": 368198,
-        "SHELTER_NAME": "Pueblo County Recreation Center",
-        "ADDRESS": "1650 Cooper Place",
-        "CITY": "Pueblo",
-        "STATE": "CO",
-        "ZIP": "81006",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -104.5817,
-        38.2382,
-        -104.5817,
-        38.2382
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3b5f",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3d08",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1974040,
+        "objectid": 1974055,
         "SHELTER_ID": 368197,
         "SHELTER_NAME": "Pathfinder Park Event Center",
         "ADDRESS": "6655 Hwy 115",
@@ -352,12 +308,56 @@
         -105.1412,
         38.4057
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f23d1a9df_3d09",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5817,
+          38.2382
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1974056,
+        "SHELTER_ID": 368198,
+        "SHELTER_NAME": "Pueblo County Recreation Center",
+        "ADDRESS": "1650 Cooper Place",
+        "CITY": "Pueblo",
+        "STATE": "CO",
+        "ZIP": "81006",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -104.5817,
+        38.2382,
+        -104.5817,
+        38.2382
+      ]
     }
   ],
   "totalFeatures": 8,
   "numberMatched": 8,
   "numberReturned": 8,
-  "timeStamp": "2026-07-02T22:51:35.352Z",
+  "timeStamp": "2026-07-02T23:28:52.158Z",
   "crs": {
     "type": "name",
     "properties": {
