@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60eb",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fd9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976931,
+        "objectid": 1977097,
         "SHELTER_ID": 368170,
         "SHELTER_NAME": "Clifford Pierce Middle School",
         "ADDRESS": "199 70th St",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60ea",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fd8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976932,
+        "objectid": 1977098,
         "SHELTER_ID": 368176,
         "SHELTER_NAME": "Castleview Church",
         "ADDRESS": "8601 Hague Rd",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60e9",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fd7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976933,
+        "objectid": 1977099,
         "SHELTER_ID": 368184,
         "SHELTER_NAME": "Colorado Mountain College",
         "ADDRESS": "901 Hwy 24",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60e8",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fd6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976939,
+        "objectid": 1977102,
         "SHELTER_ID": 368228,
         "SHELTER_NAME": "Rota Aging Center",
         "ADDRESS": "Sinapola 1",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60e7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.5817,
-          38.2382
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1976940,
-        "SHELTER_ID": 368198,
-        "SHELTER_NAME": "Pueblo County Recreation Center",
-        "ADDRESS": "1650 Cooper Place",
-        "CITY": "Pueblo",
-        "STATE": "CO",
-        "ZIP": "81006",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -104.5817,
-        38.2382,
-        -104.5817,
-        38.2382
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60e6",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fd5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976942,
+        "objectid": 1977107,
         "SHELTER_ID": 368197,
         "SHELTER_NAME": "Pathfinder Park Event Center",
         "ADDRESS": "6655 Hwy 115",
@@ -267,23 +223,23 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60e5",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fd4",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.7673,
-          15.1727
+          -104.5817,
+          38.2382
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976934,
-        "SHELTER_ID": 368204,
-        "SHELTER_NAME": "Kagman High School",
-        "ADDRESS": "Kagman Road",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "0",
+        "objectid": 1977108,
+        "SHELTER_ID": 368198,
+        "SHELTER_NAME": "Pueblo County Recreation Center",
+        "ADDRESS": "1650 Cooper Place",
+        "CITY": "Pueblo",
+        "STATE": "CO",
+        "ZIP": "81006",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
@@ -303,103 +259,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        145.7673,
-        15.1727,
-        145.7673,
-        15.1727
+        -104.5817,
+        38.2382,
+        -104.5817,
+        38.2382
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60e4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7015,
-          15.1237
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1976935,
-        "SHELTER_ID": 368205,
-        "SHELTER_NAME": "Koblerville Elementary School",
-        "ADDRESS": "As Gonno Road - Route 33",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7015,
-        15.1237,
-        145.7015,
-        15.1237
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60e3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7173,
-          15.202
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1976936,
-        "SHELTER_ID": 368206,
-        "SHELTER_NAME": "Marianas High School",
-        "ADDRESS": "Beach Road",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7173,
-        15.202,
-        145.7173,
-        15.202
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60e2",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fd3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976937,
+        "objectid": 1977100,
         "SHELTER_ID": 368207,
         "SHELTER_NAME": "MS 266",
         "ADDRESS": "121-10 Rockaway Boulevard",
@@ -443,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60e1",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fd2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976938,
+        "objectid": 1977101,
         "SHELTER_ID": 368209,
         "SHELTER_NAME": "Rauner Center - Training Room",
         "ADDRESS": "2200 W Harrison St",
@@ -487,22 +355,22 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60e0",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fd1",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.4675,
-          38.133
+          145.7673,
+          15.1727
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976941,
-        "SHELTER_ID": 368202,
-        "SHELTER_NAME": "Hope Lutheran Church",
-        "ADDRESS": "310 South 3rd Street",
-        "CITY": "Westcliffe",
-        "STATE": "CO",
+        "objectid": 1977103,
+        "SHELTER_ID": 368204,
+        "SHELTER_NAME": "Kagman High School",
+        "ADDRESS": "Kagman Road",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
@@ -523,15 +391,103 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -105.4675,
-        38.133,
-        -105.4675,
-        38.133
+        145.7673,
+        15.1727,
+        145.7673,
+        15.1727
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60df",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fd0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7015,
+          15.1237
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977104,
+        "SHELTER_ID": 368205,
+        "SHELTER_NAME": "Koblerville Elementary School",
+        "ADDRESS": "As Gonno Road - Route 33",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7015,
+        15.1237,
+        145.7015,
+        15.1237
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fcf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7173,
+          15.202
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977105,
+        "SHELTER_ID": 368206,
+        "SHELTER_NAME": "Marianas High School",
+        "ADDRESS": "Beach Road",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7173,
+        15.202,
+        145.7173,
+        15.202
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fce",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976943,
+        "objectid": 1977106,
         "SHELTER_ID": 368203,
         "SHELTER_NAME": "Hoyt Middle School",
         "ADDRESS": "2700 E 42nd Street",
@@ -575,7 +531,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60de",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fcd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4675,
+          38.133
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977109,
+        "SHELTER_ID": 368202,
+        "SHELTER_NAME": "Hope Lutheran Church",
+        "ADDRESS": "310 South 3rd Street",
+        "CITY": "Westcliffe",
+        "STATE": "CO",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -105.4675,
+        38.133,
+        -105.4675,
+        38.133
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fcc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976944,
+        "objectid": 1977110,
         "SHELTER_ID": 368211,
         "SHELTER_NAME": "Tinian Elementary School",
         "ADDRESS": "8th Avenue",
@@ -619,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60dd",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fcb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976945,
+        "objectid": 1977111,
         "SHELTER_ID": 368215,
         "SHELTER_NAME": "Memorial Lutheran School",
         "ADDRESS": "2070 E Sherwood Rd",
@@ -663,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60dc",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fca",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976946,
+        "objectid": 1977112,
         "SHELTER_ID": 368226,
         "SHELTER_NAME": "Marianas High School Unit 2",
         "ADDRESS": "Bwaay Lane",
@@ -707,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60db",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fc9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976947,
+        "objectid": 1977113,
         "SHELTER_ID": 368227,
         "SHELTER_NAME": "Ordot Chalan Pago Elementary School",
         "ADDRESS": "294 Judge Sablan St",
@@ -751,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60da",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fc8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976948,
+        "objectid": 1977114,
         "SHELTER_ID": 368210,
         "SHELTER_NAME": "Ridgway Secondary School",
         "ADDRESS": "1200 Green Street",
@@ -795,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60d9",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fc7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976949,
+        "objectid": 1977115,
         "SHELTER_ID": 368212,
         "SHELTER_NAME": "Tinian Head Start",
         "ADDRESS": "San Jose",
@@ -839,7 +839,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60d8",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fc6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976950,
+        "objectid": 1977116,
         "SHELTER_ID": 368213,
         "SHELTER_NAME": "Walworth County Health and Human Services",
         "ADDRESS": "1910 County Rd NN",
@@ -883,359 +883,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60d7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.6344,
-          39.2919
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1976951,
-        "SHELTER_ID": 368219,
-        "SHELTER_NAME": "Clayton Fire Company",
-        "ADDRESS": "300 East St",
-        "CITY": "Clayton",
-        "STATE": "DE",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -75.6344,
-        39.2919,
-        -75.6344,
-        39.2919
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60d6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.9881,
-          34.2033
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1976952,
-        "SHELTER_ID": 368220,
-        "SHELTER_NAME": "Dr Rita Hocog Inos Jr Sr High School",
-        "ADDRESS": "44RW 733",
-        "CITY": "ROTA MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.9881,
-        34.2033,
-        -118.9881,
-        34.2033
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60d5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7535,
-          15.1888
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1976953,
-        "SHELTER_ID": 368221,
-        "SHELTER_NAME": "Garapan Elementary School",
-        "ADDRESS": "6P6C G3V Rte 319",
-        "CITY": "SAIPAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7535,
-        15.1888,
-        145.7535,
-        15.1888
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60d4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2065,
-          44.2685
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1976954,
-        "SHELTER_ID": 368222,
-        "SHELTER_NAME": "Highland Baptist Church",
-        "ADDRESS": "3100 SW Highland Ave",
-        "CITY": "Redmond",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -121.2065,
-        44.2685,
-        -121.2065,
-        44.2685
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60d3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.1779,
-          41.0044
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1976955,
-        "SHELTER_ID": 368223,
-        "SHELTER_NAME": "JM Hill Elementary School",
-        "ADDRESS": "151 East Broad Street",
-        "CITY": "East Stroudsburg",
-        "STATE": "PA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -75.1779,
-        41.0044,
-        -75.1779,
-        41.0044
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60d2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.7868,
-          24.404
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1976956,
-        "SHELTER_ID": 368224,
-        "SHELTER_NAME": "Machananao Elementary School",
-        "ADDRESS": "Route 9",
-        "CITY": "YIGO",
-        "STATE": "GU",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        121.7868,
-        24.404,
-        121.7868,
-        24.404
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60d1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.0616,
-          22.4806
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1976957,
-        "SHELTER_ID": 368225,
-        "SHELTER_NAME": "Maria A. Ulloa Elementary",
-        "ADDRESS": "110 Catalina Lane",
-        "CITY": "YIGO",
-        "STATE": "GU",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        114.0616,
-        22.4806,
-        114.0616,
-        22.4806
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60d0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.956,
-          39.8716
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1976958,
-        "SHELTER_ID": 368216,
-        "SHELTER_NAME": "American Red Cross",
-        "ADDRESS": "2674 N Main St",
-        "CITY": "Decatur",
-        "STATE": "IL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.956,
-        39.8716,
-        -88.956,
-        39.8716
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60cf",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fc5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1245,7 +893,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976959,
+        "objectid": 1977117,
         "SHELTER_ID": 368217,
         "SHELTER_NAME": "Astumbo Middle School",
         "ADDRESS": "255 Chalan St",
@@ -1279,7 +927,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-60ce",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fc4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1289,7 +937,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1976960,
+        "objectid": 1977118,
         "SHELTER_ID": 368218,
         "SHELTER_NAME": "Chelan School of Innovation",
         "ADDRESS": "324 E Johnson Ave",
@@ -1320,12 +968,540 @@
         -120.0135,
         47.8404
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fc3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6344,
+          39.2919
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977119,
+        "SHELTER_ID": 368219,
+        "SHELTER_NAME": "Clayton Fire Company",
+        "ADDRESS": "300 East St",
+        "CITY": "Clayton",
+        "STATE": "DE",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.6344,
+        39.2919,
+        -75.6344,
+        39.2919
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fc2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9881,
+          34.2033
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977120,
+        "SHELTER_ID": 368220,
+        "SHELTER_NAME": "Dr Rita Hocog Inos Jr Sr High School",
+        "ADDRESS": "44RW 733",
+        "CITY": "ROTA MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.9881,
+        34.2033,
+        -118.9881,
+        34.2033
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fc1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7535,
+          15.1888
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977121,
+        "SHELTER_ID": 368221,
+        "SHELTER_NAME": "Garapan Elementary School",
+        "ADDRESS": "6P6C G3V Rte 319",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7535,
+        15.1888,
+        145.7535,
+        15.1888
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fc0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2065,
+          44.2685
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977122,
+        "SHELTER_ID": 368222,
+        "SHELTER_NAME": "Highland Baptist Church",
+        "ADDRESS": "3100 SW Highland Ave",
+        "CITY": "Redmond",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -121.2065,
+        44.2685,
+        -121.2065,
+        44.2685
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fbf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1779,
+          41.0044
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977123,
+        "SHELTER_ID": 368223,
+        "SHELTER_NAME": "JM Hill Elementary School",
+        "ADDRESS": "151 East Broad Street",
+        "CITY": "East Stroudsburg",
+        "STATE": "PA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.1779,
+        41.0044,
+        -75.1779,
+        41.0044
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fbe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7868,
+          24.404
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977124,
+        "SHELTER_ID": 368224,
+        "SHELTER_NAME": "Machananao Elementary School",
+        "ADDRESS": "Route 9",
+        "CITY": "YIGO",
+        "STATE": "GU",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        121.7868,
+        24.404,
+        121.7868,
+        24.404
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fbd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0616,
+          22.4806
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977125,
+        "SHELTER_ID": 368225,
+        "SHELTER_NAME": "Maria A. Ulloa Elementary",
+        "ADDRESS": "110 Catalina Lane",
+        "CITY": "YIGO",
+        "STATE": "GU",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        114.0616,
+        22.4806,
+        114.0616,
+        22.4806
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fbc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.956,
+          39.8716
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977126,
+        "SHELTER_ID": 368216,
+        "SHELTER_NAME": "American Red Cross",
+        "ADDRESS": "2674 N Main St",
+        "CITY": "Decatur",
+        "STATE": "IL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.956,
+        39.8716,
+        -88.956,
+        39.8716
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fbb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5839,
+          39.6454
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977127,
+        "SHELTER_ID": 368230,
+        "SHELTER_NAME": "Battle Mountain High School",
+        "ADDRESS": "151 Miller Ranch Rd",
+        "CITY": "Edwards",
+        "STATE": "CO",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -106.5839,
+        39.6454,
+        -106.5839,
+        39.6454
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fba",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1303,
+          38.8261
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977128,
+        "SHELTER_ID": 368231,
+        "SHELTER_NAME": "Chaffee County Public Safety Complex",
+        "ADDRESS": "200 Steele Drive",
+        "CITY": "Buena Vista",
+        "STATE": "CO",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -106.1303,
+        38.8261,
+        -106.1303,
+        38.8261
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fb9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0142,
+          47.8408
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977129,
+        "SHELTER_ID": 368232,
+        "SHELTER_NAME": "Outside-Chelan Community Gym",
+        "ADDRESS": "307 E Johnson",
+        "CITY": "Chelan",
+        "STATE": "WA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.0142,
+        47.8408,
+        -120.0142,
+        47.8408
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f34153a23_-4fb8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7587,
+          13.3542
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1977130,
+        "SHELTER_ID": 368233,
+        "SHELTER_NAME": "Talofofo Elementary School",
+        "ADDRESS": "209 Jose P Cruz St",
+        "CITY": "YONA",
+        "STATE": "GU",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        144.7587,
+        13.3542,
+        144.7587,
+        13.3542
+      ]
     }
   ],
-  "totalFeatures": 30,
-  "numberMatched": 30,
-  "numberReturned": 30,
-  "timeStamp": "2026-07-05T22:25:04.862Z",
+  "totalFeatures": 34,
+  "numberMatched": 34,
+  "numberReturned": 34,
+  "timeStamp": "2026-07-05T23:51:11.643Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -1334,8 +1510,8 @@
   },
   "bbox": [
     -121.2065,
-    13.4409,
+    13.3542,
     145.7673,
-    47.8404
+    47.8408
   ]
 }
