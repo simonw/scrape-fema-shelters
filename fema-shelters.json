@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4ba9",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55d2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1988187,
+        "objectid": 1988336,
         "SHELTER_ID": 368228,
         "SHELTER_NAME": "Rota Aging Center",
         "ADDRESS": "Sinapola 1",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4baa",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55d3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1988189,
+        "objectid": 1988337,
         "SHELTER_ID": 368198,
         "SHELTER_NAME": "Pueblo County Recreation Center",
         "ADDRESS": "1650 Cooper Place",
@@ -91,7 +91,139 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4bab",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55d4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.733,
+          36.1872
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1988349,
+        "SHELTER_ID": 368255,
+        "SHELTER_NAME": "Chuckey Doak Middle School",
+        "ADDRESS": "120 Chuckey Doak Rd",
+        "CITY": "Afton",
+        "STATE": "TN",
+        "ZIP": "37616",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.733,
+        36.1872,
+        -82.733,
+        36.1872
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55d5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9444,
+          43.0398
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1988350,
+        "SHELTER_ID": 368257,
+        "SHELTER_NAME": "Milwaukee Academy of Chinese Language",
+        "ADDRESS": "2430 W Wisconsin Ave",
+        "CITY": "Milwaukee",
+        "STATE": "WI",
+        "ZIP": "53233",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.9444,
+        43.0398,
+        -87.9444,
+        43.0398
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55d6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2034,
+          44.1017
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1988351,
+        "SHELTER_ID": 368256,
+        "SHELTER_NAME": "Lewiston Memorial Armory",
+        "ADDRESS": "65 Central Ave",
+        "CITY": "Lewiston",
+        "STATE": "ME",
+        "ZIP": "04240",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -70.2034,
+        44.1017,
+        -70.2034,
+        44.1017
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55d7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1988186,
+        "objectid": 1988335,
         "SHELTER_ID": 368204,
         "SHELTER_NAME": "Kagman High School",
         "ADDRESS": "Kagman Road",
@@ -135,447 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4bac",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.5326,
-          41.6196
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1988188,
-        "SHELTER_ID": 368203,
-        "SHELTER_NAME": "Hoyt Middle School",
-        "ADDRESS": "2700 E 42nd Street",
-        "CITY": "Des Moines",
-        "STATE": "IA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.5326,
-        41.6196,
-        -93.5326,
-        41.6196
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4bad",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.6089,
-          15.0029
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1988190,
-        "SHELTER_ID": 368211,
-        "SHELTER_NAME": "Tinian Elementary School",
-        "ADDRESS": "8th Avenue",
-        "CITY": "TINIAN MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.6089,
-        15.0029,
-        145.6089,
-        15.0029
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4bae",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.1453,
-          14.1408
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1988191,
-        "SHELTER_ID": 368220,
-        "SHELTER_NAME": "Dr Rita Hocog Inos Jr Sr High School",
-        "ADDRESS": "44RW 733",
-        "CITY": "ROTA MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.1453,
-        14.1408,
-        145.1453,
-        14.1408
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4baf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.7495,
-          32.9041
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1988192,
-        "SHELTER_ID": 368248,
-        "SHELTER_NAME": "Lake Highlands Family YMCA",
-        "ADDRESS": "8920 Stults Road",
-        "CITY": "Dallas",
-        "STATE": "TX",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -96.7495,
-        32.9041,
-        -96.7495,
-        32.9041
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4bb0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.1489,
-          34.6644
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1988193,
-        "SHELTER_ID": 368244,
-        "SHELTER_NAME": "Antelope Valley Family YMCA",
-        "ADDRESS": "43001 10th St W",
-        "CITY": "Lancaster",
-        "STATE": "CA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.1489,
-        34.6644,
-        -118.1489,
-        34.6644
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4bb1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.6323,
-          37.5936
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1988194,
-        "SHELTER_ID": 368245,
-        "SHELTER_NAME": "Arcadia Valley Middle School",
-        "ADDRESS": "550 W Park Drive",
-        "CITY": "Ironton",
-        "STATE": "MO",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.6323,
-        37.5936,
-        -90.6323,
-        37.5936
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4bb2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.9122,
-          37.7726
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1988195,
-        "SHELTER_ID": 368252,
-        "SHELTER_NAME": "Dolores County Senior Services",
-        "ADDRESS": "8540 County Road 7.2",
-        "CITY": "Dove Creek",
-        "STATE": "CO",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -108.9122,
-        37.7726,
-        -108.9122,
-        37.7726
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4bb3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.7868,
-          24.404
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1988196,
-        "SHELTER_ID": 368250,
-        "SHELTER_NAME": "Machananao Elementary School",
-        "ADDRESS": "Route 9",
-        "CITY": "YIGO",
-        "STATE": "GU",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        121.7868,
-        24.404,
-        121.7868,
-        24.404
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4bb4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.0616,
-          22.4806
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1988197,
-        "SHELTER_ID": 368251,
-        "SHELTER_NAME": "Maria A. Ulloa Elementary",
-        "ADDRESS": "110 Catalina Lane",
-        "CITY": "YIGO",
-        "STATE": "GU",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        114.0616,
-        22.4806,
-        114.0616,
-        22.4806
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4bb5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.0552,
-          42.4346
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1988198,
-        "SHELTER_ID": 368247,
-        "SHELTER_NAME": "Hanby Middle School",
-        "ADDRESS": "806 6th Ave",
-        "CITY": "Gold Hill",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -123.0552,
-        42.4346,
-        -123.0552,
-        42.4346
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4bb6",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55d8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1988199,
+        "objectid": 1988348,
         "SHELTER_ID": 368253,
         "SHELTER_NAME": "Sumpter Community Center",
         "ADDRESS": "475 Mill Street",
@@ -619,22 +311,22 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_4bb7",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55d9",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.733,
-          36.1872
+          -93.5326,
+          41.6196
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1988200,
-        "SHELTER_ID": 368255,
-        "SHELTER_NAME": "Chuckey Doak Middle School",
-        "ADDRESS": "120 Chuckey Doak Rd",
-        "CITY": "Afton",
-        "STATE": "TN",
+        "objectid": 1988338,
+        "SHELTER_ID": 368203,
+        "SHELTER_NAME": "Hoyt Middle School",
+        "ADDRESS": "2700 E 42nd Street",
+        "CITY": "Des Moines",
+        "STATE": "IA",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
@@ -655,17 +347,413 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -82.733,
-        36.1872,
-        -82.733,
-        36.1872
+        -93.5326,
+        41.6196,
+        -93.5326,
+        41.6196
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55da",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6089,
+          15.0029
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1988339,
+        "SHELTER_ID": 368211,
+        "SHELTER_NAME": "Tinian Elementary School",
+        "ADDRESS": "8th Avenue",
+        "CITY": "TINIAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.6089,
+        15.0029,
+        145.6089,
+        15.0029
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55db",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1453,
+          14.1408
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1988340,
+        "SHELTER_ID": 368220,
+        "SHELTER_NAME": "Dr Rita Hocog Inos Jr Sr High School",
+        "ADDRESS": "44RW 733",
+        "CITY": "ROTA MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.1453,
+        14.1408,
+        145.1453,
+        14.1408
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55dc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7495,
+          32.9041
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1988341,
+        "SHELTER_ID": 368248,
+        "SHELTER_NAME": "Lake Highlands Family YMCA",
+        "ADDRESS": "8920 Stults Road",
+        "CITY": "Dallas",
+        "STATE": "TX",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -96.7495,
+        32.9041,
+        -96.7495,
+        32.9041
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55dd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1489,
+          34.6644
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1988342,
+        "SHELTER_ID": 368244,
+        "SHELTER_NAME": "Antelope Valley Family YMCA",
+        "ADDRESS": "43001 10th St W",
+        "CITY": "Lancaster",
+        "STATE": "CA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.1489,
+        34.6644,
+        -118.1489,
+        34.6644
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55de",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6323,
+          37.5936
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1988343,
+        "SHELTER_ID": 368245,
+        "SHELTER_NAME": "Arcadia Valley Middle School",
+        "ADDRESS": "550 W Park Drive",
+        "CITY": "Ironton",
+        "STATE": "MO",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.6323,
+        37.5936,
+        -90.6323,
+        37.5936
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55df",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9122,
+          37.7726
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1988344,
+        "SHELTER_ID": 368252,
+        "SHELTER_NAME": "Dolores County Senior Services",
+        "ADDRESS": "8540 County Road 7.2",
+        "CITY": "Dove Creek",
+        "STATE": "CO",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -108.9122,
+        37.7726,
+        -108.9122,
+        37.7726
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55e0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8824,
+          13.5836
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1988345,
+        "SHELTER_ID": 368250,
+        "SHELTER_NAME": "Machananao Elementary School",
+        "ADDRESS": "Route 9",
+        "CITY": "YIGO",
+        "STATE": "GU",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        144.8824,
+        13.5836,
+        144.8824,
+        13.5836
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55e1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8438,
+          13.52
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1988346,
+        "SHELTER_ID": 368251,
+        "SHELTER_NAME": "Maria A. Ulloa Elementary",
+        "ADDRESS": "110 Catalina Lane",
+        "CITY": "YIGO",
+        "STATE": "GU",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        144.8438,
+        13.52,
+        144.8438,
+        13.52
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f5a7e2c58_55e2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0552,
+          42.4346
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1988347,
+        "SHELTER_ID": 368247,
+        "SHELTER_NAME": "Hanby Middle School",
+        "ADDRESS": "806 6th Ave",
+        "CITY": "Gold Hill",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -123.0552,
+        42.4346,
+        -123.0552,
+        42.4346
       ]
     }
   ],
-  "totalFeatures": 15,
-  "numberMatched": 15,
-  "numberReturned": 15,
-  "timeStamp": "2026-07-13T12:04:05.677Z",
+  "totalFeatures": 17,
+  "numberMatched": 17,
+  "numberReturned": 17,
+  "timeStamp": "2026-07-13T14:20:07.764Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -674,7 +762,7 @@
   },
   "bbox": [
     -123.0552,
-    14.136,
+    13.52,
     145.7673,
     44.742
   ]
