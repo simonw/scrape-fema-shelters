@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_401c",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45b0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1993394,
+        "objectid": 1993413,
         "SHELTER_ID": 368263,
         "SHELTER_NAME": "Uvalde County Fairplex",
         "ADDRESS": "215 Veterans Ln",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_401d",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45b1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1993395,
+        "objectid": 1993414,
         "SHELTER_ID": 368198,
         "SHELTER_NAME": "Pueblo County Recreation Center",
         "ADDRESS": "1650 Cooper Place",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_401e",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45b2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1993397,
+        "objectid": 1993416,
         "SHELTER_ID": 368257,
         "SHELTER_NAME": "Milwaukee Academy of Chinese Language",
         "ADDRESS": "2430 W Wisconsin Ave",
@@ -135,271 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_401f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.3163,
-          48.6913
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1993407,
-        "SHELTER_ID": 357549,
-        "SHELTER_NAME": "Boundary County Fairground",
-        "ADDRESS": "6567 Recreation Park Rd",
-        "CITY": "BONNERS FERRY",
-        "STATE": "ID",
-        "ZIP": "83805",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 490,
-        "POST_IMPACT_CAPACITY": 245,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 48.6913257,
-        "LONGITUDE": -116.3163092,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -116.3163,
-        48.6913,
-        -116.3163,
-        48.6913
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_4020",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.1369,
-          14.136
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1993411,
-        "SHELTER_ID": 368228,
-        "SHELTER_NAME": "Rota Aging Center",
-        "ADDRESS": "Sinapola 1",
-        "CITY": "ROTA MARIANA ISLANDS",
-        "STATE": "MP",
-        "ZIP": "96951",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": 14.1359829,
-        "LONGITUDE": 145.1368864,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.1369,
-        14.136,
-        145.1369,
-        14.136
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_4021",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.5326,
-          41.6196
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1993396,
-        "SHELTER_ID": 368203,
-        "SHELTER_NAME": "Hoyt Middle School",
-        "ADDRESS": "2700 E 42nd Street",
-        "CITY": "Des Moines",
-        "STATE": "IA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": 41.619605,
-        "LONGITUDE": -93.532607,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.5326,
-        41.6196,
-        -93.5326,
-        41.6196
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_4022",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.7934,
-          42.484
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1993398,
-        "SHELTER_ID": 368271,
-        "SHELTER_NAME": "Eagle Point Middle School",
-        "ADDRESS": "477 Reese Creek Rd",
-        "CITY": "Eagle Point",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.7934,
-        42.484,
-        -122.7934,
-        42.484
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_4023",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8077,
-          44.3029
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1993399,
-        "SHELTER_ID": 368272,
-        "SHELTER_NAME": "Eastside Church",
-        "ADDRESS": "3174 NE 3rd St",
-        "CITY": "Prineville",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.8077,
-        44.3029,
-        -120.8077,
-        44.3029
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_4024",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.7934,
-          42.484
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 1993400,
-        "SHELTER_ID": 368276,
-        "SHELTER_NAME": "Outside-Eagle Point Middle School",
-        "ADDRESS": "477 Reese Creek Rd",
-        "CITY": "Eagle Point",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.7934,
-        42.484,
-        -122.7934,
-        42.484
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_4025",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45b3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1993401,
+        "objectid": 1993420,
         "SHELTER_ID": 368277,
         "SHELTER_NAME": "Spring Branch Middle School",
         "ADDRESS": "21053 TX-46",
@@ -443,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_4026",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45b4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1993402,
+        "objectid": 1993421,
         "SHELTER_ID": 368265,
         "SHELTER_NAME": "Sunridge Middle School",
         "ADDRESS": "700 SW Runnion Ave",
@@ -487,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_4027",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45b5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1993403,
+        "objectid": 1993422,
         "SHELTER_ID": 368266,
         "SHELTER_NAME": "Astumbo Gym",
         "ADDRESS": "294 Chalan Hachon St",
@@ -531,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_4028",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45b6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1993404,
+        "objectid": 1993423,
         "SHELTER_ID": 368273,
         "SHELTER_NAME": "Fredericksburg First United Methodist Church",
         "ADDRESS": "1800 N Llano St",
@@ -575,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_4029",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45b7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1993405,
+        "objectid": 1993424,
         "SHELTER_ID": 368274,
         "SHELTER_NAME": "Jefferson County Middle School",
         "ADDRESS": "1180 SE Kemper Way",
@@ -619,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_402a",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45b8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1993406,
+        "objectid": 1993425,
         "SHELTER_ID": 368275,
         "SHELTER_NAME": "Lake Roosevelt Schools",
         "ADDRESS": "505 Crest Dr",
@@ -663,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_402b",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45b9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1993408,
+        "objectid": 1993427,
         "SHELTER_ID": 368204,
         "SHELTER_NAME": "Kagman High School",
         "ADDRESS": "Kagman Road",
@@ -707,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_402c",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45ba",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1993409,
+        "objectid": 1993428,
         "SHELTER_ID": 368211,
         "SHELTER_NAME": "Tinian Elementary School",
         "ADDRESS": "8th Avenue",
@@ -751,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_402d",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45bb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1993410,
+        "objectid": 1993429,
         "SHELTER_ID": 368220,
         "SHELTER_NAME": "Dr Rita Hocog Inos Jr Sr High School",
         "ADDRESS": "44RW 733",
@@ -795,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_402e",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45bc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 1993412,
+        "objectid": 1993431,
         "SHELTER_ID": 368259,
         "SHELTER_NAME": "Chalan Pago-Ordot Multipurpose Emergency Shelter",
         "ADDRESS": "160 Chalan Huego",
@@ -836,12 +572,276 @@
         144.7577,
         13.4586
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45bd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3163,
+          48.6913
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1993426,
+        "SHELTER_ID": 357549,
+        "SHELTER_NAME": "Boundary County Fairground",
+        "ADDRESS": "6567 Recreation Park Rd",
+        "CITY": "BONNERS FERRY",
+        "STATE": "ID",
+        "ZIP": "83805",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 490,
+        "POST_IMPACT_CAPACITY": 245,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 48.6913257,
+        "LONGITUDE": -116.3163092,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -116.3163,
+        48.6913,
+        -116.3163,
+        48.6913
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45be",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1369,
+          14.136
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1993430,
+        "SHELTER_ID": 368228,
+        "SHELTER_NAME": "Rota Aging Center",
+        "ADDRESS": "Sinapola 1",
+        "CITY": "ROTA MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "96951",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": 14.1359829,
+        "LONGITUDE": 145.1368864,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.1369,
+        14.136,
+        145.1369,
+        14.136
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45bf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5326,
+          41.6196
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1993415,
+        "SHELTER_ID": 368203,
+        "SHELTER_NAME": "Hoyt Middle School",
+        "ADDRESS": "2700 E 42nd Street",
+        "CITY": "Des Moines",
+        "STATE": "IA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": 41.619605,
+        "LONGITUDE": -93.532607,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.5326,
+        41.6196,
+        -93.5326,
+        41.6196
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45c0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7934,
+          42.484
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1993417,
+        "SHELTER_ID": 368271,
+        "SHELTER_NAME": "Eagle Point Middle School",
+        "ADDRESS": "477 Reese Creek Rd",
+        "CITY": "Eagle Point",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.7934,
+        42.484,
+        -122.7934,
+        42.484
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45c1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8077,
+          44.3029
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1993418,
+        "SHELTER_ID": 368272,
+        "SHELTER_NAME": "Eastside Church",
+        "ADDRESS": "3174 NE 3rd St",
+        "CITY": "Prineville",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.8077,
+        44.3029,
+        -120.8077,
+        44.3029
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f70d029c2_45c2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7934,
+          42.484
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 1993419,
+        "SHELTER_ID": 368276,
+        "SHELTER_NAME": "Outside-Eagle Point Middle School",
+        "ADDRESS": "477 Reese Creek Rd",
+        "CITY": "Eagle Point",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.7934,
+        42.484,
+        -122.7934,
+        42.484
+      ]
     }
   ],
   "totalFeatures": 19,
   "numberMatched": 19,
   "numberReturned": 19,
-  "timeStamp": "2026-07-17T19:29:07.663Z",
+  "timeStamp": "2026-07-17T19:53:10.052Z",
   "crs": {
     "type": "name",
     "properties": {
