@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7fee",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a50",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2000084,
+        "objectid": 2000110,
         "SHELTER_ID": 368301,
         "SHELTER_NAME": "Blue Mountain Community College",
         "ADDRESS": "2411 NW Carden Ave",
@@ -47,7 +47,227 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7fed",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a4f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2447,
+          28.4462
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2000111,
+        "SHELTER_ID": 368302,
+        "SHELTER_NAME": "Alexander Convention Center",
+        "ADDRESS": "320 N Interstate 35",
+        "CITY": "Cotulla",
+        "STATE": "TX",
+        "ZIP": "78014",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -99.2447,
+        28.4462,
+        -99.2447,
+        28.4462
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a4e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1973,
+          38.9948
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2000112,
+        "SHELTER_ID": 368303,
+        "SHELTER_NAME": "Buckhannon Church of the Nazarene",
+        "ADDRESS": "192 Zicks Rd",
+        "CITY": "Buckhannon",
+        "STATE": "WV",
+        "ZIP": "26201",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.1973,
+        38.9948,
+        -80.1973,
+        38.9948
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a4d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6239,
+          14.9694
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2000113,
+        "SHELTER_ID": 368304,
+        "SHELTER_NAME": "Kagman Community Center",
+        "ADDRESS": "5Q8H RCH",
+        "CITY": "SAIPAN MARIANA ISLANDS",
+        "STATE": "MP",
+        "ZIP": "96950",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.6239,
+        14.9694,
+        145.6239,
+        14.9694
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a4c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9709,
+          47.9718
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2000114,
+        "SHELTER_ID": 368305,
+        "SHELTER_NAME": "Lake Roosevelt Schools",
+        "ADDRESS": "505 Crest Dr",
+        "CITY": "Coulee Dam",
+        "STATE": "WA",
+        "ZIP": "26452",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.9709,
+        47.9718,
+        -118.9709,
+        47.9718
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a4b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4785,
+          39.0198
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2000115,
+        "SHELTER_ID": 368306,
+        "SHELTER_NAME": "Lewis County High School",
+        "ADDRESS": "205 Minuteman Dr",
+        "CITY": "Weston",
+        "STATE": "WV",
+        "ZIP": "26452",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.4785,
+        39.0198,
+        -80.4785,
+        39.0198
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a4a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2000085,
+        "objectid": 2000116,
         "SHELTER_ID": 368263,
         "SHELTER_NAME": "Uvalde County Fairplex",
         "ADDRESS": "215 Veterans Ln",
@@ -91,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7fec",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a49",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2000086,
+        "objectid": 2000117,
         "SHELTER_ID": 368198,
         "SHELTER_NAME": "Pueblo County Recreation Center",
         "ADDRESS": "1650 Cooper Place",
@@ -135,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7feb",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a48",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2000094,
+        "objectid": 2000125,
         "SHELTER_ID": 368228,
         "SHELTER_NAME": "Rota Aging Center",
         "ADDRESS": "Sinapola 1",
@@ -179,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7fea",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a47",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2000087,
+        "objectid": 2000118,
         "SHELTER_ID": 368271,
         "SHELTER_NAME": "Eagle Point Middle School",
         "ADDRESS": "477 Reese Creek Rd",
@@ -223,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7fe9",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a46",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2000088,
+        "objectid": 2000119,
         "SHELTER_ID": 368276,
         "SHELTER_NAME": "Outside-Eagle Point Middle School",
         "ADDRESS": "477 Reese Creek Rd",
@@ -267,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7fe8",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a45",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2000089,
+        "objectid": 2000120,
         "SHELTER_ID": 368266,
         "SHELTER_NAME": "Astumbo Gym",
         "ADDRESS": "294 Chalan Hachon St",
@@ -311,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7fe7",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a44",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2000090,
+        "objectid": 2000121,
         "SHELTER_ID": 368297,
         "SHELTER_NAME": "St. Louis Park Middle School",
         "ADDRESS": "2025 Texas Ave S",
@@ -355,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7fe6",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a43",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2000091,
+        "objectid": 2000122,
         "SHELTER_ID": 368298,
         "SHELTER_NAME": "Beaver High School",
         "ADDRESS": "195 E Center St",
@@ -399,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7fe5",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a42",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2000092,
+        "objectid": 2000123,
         "SHELTER_ID": 368300,
         "SHELTER_NAME": "Sisters High School",
         "ADDRESS": "1700 W Mckinney Butte Rd",
@@ -443,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7fe4",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a41",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2000093,
+        "objectid": 2000124,
         "SHELTER_ID": 368220,
         "SHELTER_NAME": "Dr Rita Hocog Inos Jr Sr High School",
         "ADDRESS": "44RW 733",
@@ -487,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7fe3",
+      "id": "FEMANSSOpenShelters.fid-5e3a79db_19f89eb47d4_-7a40",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2000095,
+        "objectid": 2000126,
         "SHELTER_ID": 368259,
         "SHELTER_NAME": "Chalan Pago-Ordot Multipurpose Emergency Shelter",
         "ADDRESS": "160 Chalan Huego",
@@ -530,10 +750,10 @@
       ]
     }
   ],
-  "totalFeatures": 12,
-  "numberMatched": 12,
-  "numberReturned": 12,
-  "timeStamp": "2026-07-22T13:02:35.691Z",
+  "totalFeatures": 17,
+  "numberMatched": 17,
+  "numberReturned": 17,
+  "timeStamp": "2026-07-22T13:41:14.380Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -543,7 +763,7 @@
   "bbox": [
     -122.7934,
     13.4586,
-    145.1453,
-    45.6766
+    145.6239,
+    47.9718
   ]
 }
