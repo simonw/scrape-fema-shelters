@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bcf",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_33f7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005488,
+        "objectid": 2005506,
         "SHELTER_ID": 368303,
         "SHELTER_NAME": "Buckhannon Church of the Nazarene",
         "ADDRESS": "192 Zicks Rd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bce",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_33f8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005489,
+        "objectid": 2005507,
         "SHELTER_ID": 368305,
         "SHELTER_NAME": "Lake Roosevelt Schools",
         "ADDRESS": "505 Crest Dr",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bcd",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_33f9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005490,
+        "objectid": 2005508,
         "SHELTER_ID": 368307,
         "SHELTER_NAME": "Milwaukee Academy of Chinese Language",
         "ADDRESS": "2430 W Wisconsin Ave",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bcc",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_33fa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005491,
+        "objectid": 2005509,
         "SHELTER_ID": 368308,
         "SHELTER_NAME": "Omak Community Center",
         "ADDRESS": "601 Benton St S",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bcb",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_33fb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005493,
+        "objectid": 2005511,
         "SHELTER_ID": 368323,
         "SHELTER_NAME": "Elderly Nutrition Center",
         "ADDRESS": "1210 N 7th Avenue",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bca",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_33fc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005494,
+        "objectid": 2005512,
         "SHELTER_ID": 368318,
         "SHELTER_NAME": "Wahluke School District",
         "ADDRESS": "500 N Boundary Ave",
@@ -267,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bc9",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_33fd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7577,
+          13.4586
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2005523,
+        "SHELTER_ID": 368259,
+        "SHELTER_NAME": "Chalan Pago-Ordot Multipurpose Emergency Shelter",
+        "ADDRESS": "160 Chalan Huego",
+        "CITY": "SINAJANA",
+        "STATE": "GU",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        144.7577,
+        13.4586,
+        144.7577,
+        13.4586
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_33fe",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005498,
+        "objectid": 2005516,
         "SHELTER_ID": 368324,
         "SHELTER_NAME": "Harrah Elementary MtAdamsSD",
         "ADDRESS": "7640 Branch Rd",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bc8",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_33ff",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005499,
+        "objectid": 2005517,
         "SHELTER_ID": 368326,
         "SHELTER_NAME": "St Patrick Catholic Church",
         "ADDRESS": "341 SW J St",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bc7",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_3400",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005500,
+        "objectid": 2005518,
         "SHELTER_ID": 368325,
         "SHELTER_NAME": "Snelling Merced Falls Elementary School",
         "ADDRESS": "16099 N Hwy 59",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bc6",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_3401",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005504,
+        "objectid": 2005522,
         "SHELTER_ID": 368228,
         "SHELTER_NAME": "Rota Aging Center",
         "ADDRESS": "Sinapola 1",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bc5",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_3402",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005492,
+        "objectid": 2005510,
         "SHELTER_ID": 368317,
         "SHELTER_NAME": "Outside-Sisters High School",
         "ADDRESS": "1700 W McKinney Butte Rd",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bc4",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_3403",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005495,
+        "objectid": 2005513,
         "SHELTER_ID": 368320,
         "SHELTER_NAME": "Outside-Sunridge Middle School",
         "ADDRESS": "700 SW Runnion Ave",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bc3",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_3404",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005496,
+        "objectid": 2005514,
         "SHELTER_ID": 368322,
         "SHELTER_NAME": "Sunridge Middle School",
         "ADDRESS": "700 SW Runnion Ave",
@@ -575,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bc2",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_3405",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005497,
+        "objectid": 2005515,
         "SHELTER_ID": 368319,
         "SHELTER_NAME": "Beautiful Savior Lutheran Church",
         "ADDRESS": "13145 Black Bob Road",
@@ -619,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bc1",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_3406",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005501,
+        "objectid": 2005519,
         "SHELTER_ID": 368266,
         "SHELTER_NAME": "Astumbo Gym",
         "ADDRESS": "294 Chalan Hachon St",
@@ -663,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bc0",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_3407",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005502,
+        "objectid": 2005520,
         "SHELTER_ID": 368300,
         "SHELTER_NAME": "Sisters High School",
         "ADDRESS": "1700 W Mckinney Butte Rd",
@@ -707,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bbf",
+      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_3408",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2005503,
+        "objectid": 2005521,
         "SHELTER_ID": 368220,
         "SHELTER_NAME": "Dr Rita Hocog Inos Jr Sr High School",
         "ADDRESS": "44RW 733",
@@ -748,56 +792,12 @@
         145.1453,
         14.1408
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--425d184a_19f9a0d7b54_-2bbe",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.7577,
-          13.4586
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2005505,
-        "SHELTER_ID": 368259,
-        "SHELTER_NAME": "Chalan Pago-Ordot Multipurpose Emergency Shelter",
-        "ADDRESS": "160 Chalan Huego",
-        "CITY": "SINAJANA",
-        "STATE": "GU",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        144.7577,
-        13.4586,
-        144.7577,
-        13.4586
-      ]
     }
   ],
   "totalFeatures": 18,
   "numberMatched": 18,
   "numberReturned": 18,
-  "timeStamp": "2026-07-25T19:57:53.545Z",
+  "timeStamp": "2026-07-25T20:23:04.904Z",
   "crs": {
     "type": "name",
     "properties": {
