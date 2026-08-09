@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61c2",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64f2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2029145,
+        "objectid": 2029181,
         "SHELTER_ID": 368305,
         "SHELTER_NAME": "Lake Roosevelt Schools",
         "ADDRESS": "505 Crest Dr",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61c3",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64f3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2029146,
+        "objectid": 2029182,
         "SHELTER_ID": 368308,
         "SHELTER_NAME": "Omak Community Center",
         "ADDRESS": "601 Benton St S",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61c4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7081,
-          48.2801
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2029148,
-        "SHELTER_ID": 368330,
-        "SHELTER_NAME": "Jenkins Jr/Sr High ChewelahSD",
-        "ADDRESS": "702 E Lincoln Ave",
-        "CITY": "Chewelah",
-        "STATE": "WA",
-        "ZIP": "99109",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.7081,
-        48.2801,
-        -117.7081,
-        48.2801
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61c5",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64f4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2029149,
+        "objectid": 2029184,
         "SHELTER_ID": 368337,
         "SHELTER_NAME": "Louis Sherman Community Center",
         "ADDRESS": "3501 Hopkins St",
@@ -179,67 +135,23 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61c6",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64f5",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.0856,
-          39.7148
+          -117.7081,
+          48.2801
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2029153,
-        "SHELTER_ID": 368364,
-        "SHELTER_NAME": "Southwood Baptist Church of Beech Grove",
-        "ADDRESS": "501 S 4th Ave",
-        "CITY": "Beech Grove",
-        "STATE": "IN",
-        "ZIP": "46107",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -86.0856,
-        39.7148,
-        -86.0856,
-        39.7148
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61c7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.3427,
-          47.6624
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2029154,
-        "SHELTER_ID": 368362,
-        "SHELTER_NAME": "Outside-Spokane Fair & Expo",
-        "ADDRESS": "404 N Havana Street",
-        "CITY": "Spokane",
+        "objectid": 2029185,
+        "SHELTER_ID": 368330,
+        "SHELTER_NAME": "Jenkins Jr/Sr High ChewelahSD",
+        "ADDRESS": "702 E Lincoln Ave",
+        "CITY": "Chewelah",
         "STATE": "WA",
-        "ZIP": "99202",
+        "ZIP": "99109",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
@@ -259,455 +171,15 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -117.3427,
-        47.6624,
-        -117.3427,
-        47.6624
+        -117.7081,
+        48.2801,
+        -117.7081,
+        48.2801
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61c8",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.3733,
-          44.3137
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2029155,
-        "SHELTER_ID": 368366,
-        "SHELTER_NAME": "Appleton North High School",
-        "ADDRESS": "5000 N Ballard Rd",
-        "CITY": "Appleton",
-        "STATE": "WI",
-        "ZIP": "54913",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.3733,
-        44.3137,
-        -88.3733,
-        44.3137
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61c9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8317,
-          38.1903
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2029156,
-        "SHELTER_ID": 368369,
-        "SHELTER_NAME": "Jenny Lind Veterans Memorial District",
-        "ADDRESS": "189 Pine Street",
-        "CITY": "Valley Springs",
-        "STATE": "CA",
-        "ZIP": "95252",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.8317,
-        38.1903,
-        -120.8317,
-        38.1903
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61ca",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.2932,
-          47.1186
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2029157,
-        "SHELTER_ID": 368367,
-        "SHELTER_NAME": "Community Cultural Center",
-        "ADDRESS": "411 South Western Ave",
-        "CITY": "Lilliwaup",
-        "STATE": "WA",
-        "ZIP": "98555",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -119.2932,
-        47.1186,
-        -119.2932,
-        47.1186
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61cb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.3939,
-          47.7569
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2029158,
-        "SHELTER_ID": 368371,
-        "SHELTER_NAME": "North Spokane RV Campground",
-        "ADDRESS": "10904 N Newport Hwy",
-        "CITY": "Spokane",
-        "STATE": "WA",
-        "ZIP": "99218",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.3939,
-        47.7569,
-        -117.3939,
-        47.7569
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61cc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.7879,
-          45.6515
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2029147,
-        "SHELTER_ID": 368322,
-        "SHELTER_NAME": "Sunridge Middle School",
-        "ADDRESS": "700 SW Runnion Ave",
-        "CITY": "Pendleton",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.7879,
-        45.6515,
-        -118.7879,
-        45.6515
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61cd",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.0561,
-          48.6025
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2029150,
-        "SHELTER_ID": 368351,
-        "SHELTER_NAME": "Kettle Falls Middle KettleFallsSD",
-        "ADDRESS": "105 W 11th Ave",
-        "CITY": "Kettle Falls",
-        "STATE": "WA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.0561,
-        48.6025,
-        -118.0561,
-        48.6025
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61ce",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8077,
-          44.3029
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2029151,
-        "SHELTER_ID": 368350,
-        "SHELTER_NAME": "Eastside Church",
-        "ADDRESS": "3174 NE 3rd St",
-        "CITY": "Prineville",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.8077,
-        44.3029,
-        -120.8077,
-        44.3029
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61cf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4125,
-          47.6608
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2029152,
-        "SHELTER_ID": 368358,
-        "SHELTER_NAME": "Spokane Convention Center",
-        "ADDRESS": "334 W Spokane Falls Blvd",
-        "CITY": "Spokane",
-        "STATE": "WA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.4125,
-        47.6608,
-        -117.4125,
-        47.6608
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61d0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8077,
-          44.3029
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2029159,
-        "SHELTER_ID": 368373,
-        "SHELTER_NAME": "Outside-Eastside Church",
-        "ADDRESS": "3174 NE 3rd St",
-        "CITY": "Prineville",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.8077,
-        44.3029,
-        -120.8077,
-        44.3029
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61d1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.3651,
-          38.2041
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2029160,
-        "SHELTER_ID": 368375,
-        "SHELTER_NAME": "Avery Middle School",
-        "ADDRESS": "4545 Moran Road",
-        "CITY": "Avery",
-        "STATE": "CA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.3651,
-        38.2041,
-        -120.3651,
-        38.2041
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61d2",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64f6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2029161,
+        "objectid": 2029198,
         "SHELTER_ID": 368376,
         "SHELTER_NAME": "Castaic Sports Complex Gymnasium",
         "ADDRESS": "31230 N Castaic Road",
@@ -751,7 +223,535 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_61d3",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64f7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0856,
+          39.7148
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2029189,
+        "SHELTER_ID": 368364,
+        "SHELTER_NAME": "Southwood Baptist Church of Beech Grove",
+        "ADDRESS": "501 S 4th Ave",
+        "CITY": "Beech Grove",
+        "STATE": "IN",
+        "ZIP": "46107",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.0856,
+        39.7148,
+        -86.0856,
+        39.7148
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64f8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3427,
+          47.6624
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2029190,
+        "SHELTER_ID": 368362,
+        "SHELTER_NAME": "Outside-Spokane Fair & Expo",
+        "ADDRESS": "404 N Havana Street",
+        "CITY": "Spokane",
+        "STATE": "WA",
+        "ZIP": "99202",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.3427,
+        47.6624,
+        -117.3427,
+        47.6624
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64f9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3733,
+          44.3137
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2029191,
+        "SHELTER_ID": 368366,
+        "SHELTER_NAME": "Appleton North High School",
+        "ADDRESS": "5000 N Ballard Rd",
+        "CITY": "Appleton",
+        "STATE": "WI",
+        "ZIP": "54913",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.3733,
+        44.3137,
+        -88.3733,
+        44.3137
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64fa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8317,
+          38.1903
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2029192,
+        "SHELTER_ID": 368369,
+        "SHELTER_NAME": "Jenny Lind Veterans Memorial District",
+        "ADDRESS": "189 Pine Street",
+        "CITY": "Valley Springs",
+        "STATE": "CA",
+        "ZIP": "95252",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.8317,
+        38.1903,
+        -120.8317,
+        38.1903
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64fb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2932,
+          47.1186
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2029193,
+        "SHELTER_ID": 368367,
+        "SHELTER_NAME": "Community Cultural Center",
+        "ADDRESS": "411 South Western Ave",
+        "CITY": "Lilliwaup",
+        "STATE": "WA",
+        "ZIP": "98555",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -119.2932,
+        47.1186,
+        -119.2932,
+        47.1186
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64fc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3939,
+          47.7569
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2029194,
+        "SHELTER_ID": 368371,
+        "SHELTER_NAME": "North Spokane RV Campground",
+        "ADDRESS": "10904 N Newport Hwy",
+        "CITY": "Spokane",
+        "STATE": "WA",
+        "ZIP": "99218",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.3939,
+        47.7569,
+        -117.3939,
+        47.7569
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64fd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7879,
+          45.6515
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2029183,
+        "SHELTER_ID": 368322,
+        "SHELTER_NAME": "Sunridge Middle School",
+        "ADDRESS": "700 SW Runnion Ave",
+        "CITY": "Pendleton",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.7879,
+        45.6515,
+        -118.7879,
+        45.6515
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64fe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0561,
+          48.6025
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2029186,
+        "SHELTER_ID": 368351,
+        "SHELTER_NAME": "Kettle Falls Middle KettleFallsSD",
+        "ADDRESS": "105 W 11th Ave",
+        "CITY": "Kettle Falls",
+        "STATE": "WA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.0561,
+        48.6025,
+        -118.0561,
+        48.6025
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_64ff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8077,
+          44.3029
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2029187,
+        "SHELTER_ID": 368350,
+        "SHELTER_NAME": "Eastside Church",
+        "ADDRESS": "3174 NE 3rd St",
+        "CITY": "Prineville",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.8077,
+        44.3029,
+        -120.8077,
+        44.3029
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_6500",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4125,
+          47.6608
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2029188,
+        "SHELTER_ID": 368358,
+        "SHELTER_NAME": "Spokane Convention Center",
+        "ADDRESS": "334 W Spokane Falls Blvd",
+        "CITY": "Spokane",
+        "STATE": "WA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.4125,
+        47.6608,
+        -117.4125,
+        47.6608
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_6501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8077,
+          44.3029
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2029195,
+        "SHELTER_ID": 368373,
+        "SHELTER_NAME": "Outside-Eastside Church",
+        "ADDRESS": "3174 NE 3rd St",
+        "CITY": "Prineville",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.8077,
+        44.3029,
+        -120.8077,
+        44.3029
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_6502",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3651,
+          38.2041
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2029196,
+        "SHELTER_ID": 368375,
+        "SHELTER_NAME": "Avery Middle School",
+        "ADDRESS": "4545 Moran Road",
+        "CITY": "Avery",
+        "STATE": "CA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.3651,
+        38.2041,
+        -120.3651,
+        38.2041
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--6ee352f_19fe49970de_6503",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2029162,
+        "objectid": 2029197,
         "SHELTER_ID": 368377,
         "SHELTER_NAME": "Chiloquin Elementary School",
         "ADDRESS": "548 S 2nd Avenue",
@@ -797,7 +797,7 @@
   "totalFeatures": 18,
   "numberMatched": 18,
   "numberReturned": 18,
-  "timeStamp": "2026-08-09T10:45:53.952Z",
+  "timeStamp": "2026-08-09T11:11:07.216Z",
   "crs": {
     "type": "name",
     "properties": {
