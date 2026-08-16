@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d7a",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-1a7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043668,
+        "objectid": 2043774,
         "SHELTER_ID": 368330,
         "SHELTER_NAME": "Jenkins Jr/Sr High ChewelahSD",
         "ADDRESS": "702 E Lincoln Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d7b",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-1a6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043674,
+        "objectid": 2043780,
         "SHELTER_ID": 368387,
         "SHELTER_NAME": "Outside-Living Spring Fellowship",
         "ADDRESS": "31897 Mission St",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d7c",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-1a5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043682,
+        "objectid": 2043788,
         "SHELTER_ID": 368407,
         "SHELTER_NAME": "Pyramid Lake Tribe Wadsworth Community Building",
         "ADDRESS": "320 Pyramid St",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d7d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.0769,
-          41.5327
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043683,
-        "SHELTER_ID": 368405,
-        "SHELTER_NAME": "Our Lady of Mount Carmel Catholic Church",
-        "ADDRESS": "205 E Jackson St",
-        "CITY": "Joliet",
-        "STATE": "IL",
-        "ZIP": "60432",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.0769,
-        41.5327,
-        -88.0769,
-        41.5327
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d7e",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-1a4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043684,
+        "objectid": 2043789,
         "SHELTER_ID": 368406,
         "SHELTER_NAME": "Pyramid Lake Tribe Food Distribution Center",
         "ADDRESS": "11 Brady Street",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d7f",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-1a3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0769,
+          41.5327
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043790,
+        "SHELTER_ID": 368405,
+        "SHELTER_NAME": "Our Lady of Mount Carmel Catholic Church",
+        "ADDRESS": "205 E Jackson St",
+        "CITY": "Joliet",
+        "STATE": "IL",
+        "ZIP": "60432",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.0769,
+        41.5327,
+        -88.0769,
+        41.5327
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-1a2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043685,
+        "objectid": 2043791,
         "SHELTER_ID": 368411,
         "SHELTER_NAME": "Scioto Southland Community Center",
         "ADDRESS": "3901 Parsons Ave",
@@ -267,843 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d80",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.2614,
-          41.5699
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043692,
-        "SHELTER_ID": 368423,
-        "SHELTER_NAME": "Lake Station Fire Department Station 1",
-        "ADDRESS": "1876 Fairview Ave",
-        "CITY": "Lake Station",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.2614,
-        41.5699,
-        -87.2614,
-        41.5699
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d81",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.1882,
-          39.5032
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043693,
-        "SHELTER_ID": 368432,
-        "SHELTER_NAME": "Laurel Community Center",
-        "ADDRESS": "218 N Clay St",
-        "CITY": "Laurel",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.1882,
-        39.5032,
-        -85.1882,
-        39.5032
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d82",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.1616,
-          39.6365
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043694,
-        "SHELTER_ID": 368431,
-        "SHELTER_NAME": "Connersville High School",
-        "ADDRESS": "1100 Spartan Dr",
-        "CITY": "Connersville",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.1616,
-        39.6365,
-        -85.1616,
-        39.6365
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d83",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.3309,
-          42.4579
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043695,
-        "SHELTER_ID": 368433,
-        "SHELTER_NAME": "North Middle School",
-        "ADDRESS": "1725 NW Highland Ave",
-        "CITY": "Grants Pass",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -123.3309,
-        42.4579,
-        -123.3309,
-        42.4579
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d84",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.8867,
-          39.1234
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043696,
-        "SHELTER_ID": 368441,
-        "SHELTER_NAME": "Community Fellowship Church",
-        "ADDRESS": "505 Bielby Road",
-        "CITY": "Lawrenceburg",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.8867,
-        39.1234,
-        -84.8867,
-        39.1234
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d85",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.7283,
-          41.4838
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043697,
-        "SHELTER_ID": 368435,
-        "SHELTER_NAME": "Southland College Prep Charter High School",
-        "ADDRESS": "4601 Sauk Trail",
-        "CITY": "Richton Park",
-        "STATE": "IL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.7283,
-        41.4838,
-        -87.7283,
-        41.4838
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d86",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.7994,
-          20.2348
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043698,
-        "SHELTER_ID": 368445,
-        "SHELTER_NAME": "Ikuo Hisaoka Gym",
-        "ADDRESS": "54-382 Kamehameha Park Rd",
-        "CITY": "Kapaau",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -155.7994,
-        20.2348,
-        -155.7994,
-        20.2348
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d87",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.6669,
-          20.0186
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043699,
-        "SHELTER_ID": 368446,
-        "SHELTER_NAME": "Kahilu Town Hall",
-        "ADDRESS": "67-1182 Lindsey Road",
-        "CITY": "Kamuela",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -155.6669,
-        20.0186,
-        -155.6669,
-        20.0186
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d88",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.6838,
-          20.905
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043700,
-        "SHELTER_ID": 368449,
-        "SHELTER_NAME": "Lahaina Civic Center",
-        "ADDRESS": "1840 Honoapiilani Hwy",
-        "CITY": "Lahaina",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -156.6838,
-        20.905,
-        -156.6838,
-        20.905
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d89",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.5794,
-          19.0611
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043701,
-        "SHELTER_ID": 368451,
-        "SHELTER_NAME": "Naalehu Elementary School",
-        "ADDRESS": "95-5545 Mamalahoa Hwy",
-        "CITY": "Naalehu",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -155.5794,
-        19.0611,
-        -155.5794,
-        19.0611
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d8a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.9984,
-          19.6697
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043702,
-        "SHELTER_ID": 368448,
-        "SHELTER_NAME": "Kealakehe High School",
-        "ADDRESS": "74-5000 Puohulihuli St",
-        "CITY": "Kailua Kona",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -155.9984,
-        19.6697,
-        -155.9984,
-        19.6697
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d8b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.6838,
-          20.905
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043703,
-        "SHELTER_ID": 368459,
-        "SHELTER_NAME": "Yano Memorial Hall",
-        "ADDRESS": "1840 Honoapiilani Hwy",
-        "CITY": "Lahaina",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -156.6838,
-        20.905,
-        -156.6838,
-        20.905
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d8c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.1323,
-          39.9088
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043704,
-        "SHELTER_ID": 368458,
-        "SHELTER_NAME": "WT Services Center",
-        "ADDRESS": "8401 Westfield Blvd",
-        "CITY": "Indianapolis",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -86.1323,
-        39.9088,
-        -86.1323,
-        39.9088
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d8d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.6795,
-          40.0999
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043705,
-        "SHELTER_ID": 368439,
-        "SHELTER_NAME": "Salvation Army",
-        "ADDRESS": "1615 Meridian St",
-        "CITY": "Anderson",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.6795,
-        40.0999,
-        -85.6795,
-        40.0999
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d8e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.6352,
-          40.129
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043706,
-        "SHELTER_ID": 368454,
-        "SHELTER_NAME": "Rangeline Community Center",
-        "ADDRESS": "N Rangeline Rd #1405",
-        "CITY": "Anderson",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.6352,
-        40.129,
-        -85.6352,
-        40.129
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d8f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.077,
-          19.6983
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043707,
-        "SHELTER_ID": 368456,
-        "SHELTER_NAME": "Waiakea High School",
-        "ADDRESS": "155 W Kawili St",
-        "CITY": "Hilo",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -155.077,
-        19.6983,
-        -155.077,
-        19.6983
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d90",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.7906,
-          19.9459
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043708,
-        "SHELTER_ID": 368457,
-        "SHELTER_NAME": "Waikoloa Elementary and Middle School",
-        "ADDRESS": "68-1730 Hooko St",
-        "CITY": "Waikoloa",
-        "STATE": "HI",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -155.7906,
-        19.9459,
-        -155.7906,
-        19.9459
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d91",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.6676,
-          40.1113
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043709,
-        "SHELTER_ID": 368453,
-        "SHELTER_NAME": "Park Place Church of God",
-        "ADDRESS": "501 College Dr",
-        "CITY": "Anderson",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.6676,
-        40.1113,
-        -85.6676,
-        40.1113
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d92",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.997,
-          40.4807
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043710,
-        "SHELTER_ID": 368438,
-        "SHELTER_NAME": "First Christian Church",
-        "ADDRESS": "401 W Jefferson St",
-        "CITY": "Bloomington",
-        "STATE": "IL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -88.997,
-        40.4807,
-        -88.997,
-        40.4807
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d93",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-1a1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1113,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043711,
+        "objectid": 2043817,
         "SHELTER_ID": 368444,
         "SHELTER_NAME": "Honokaa Gymnasium",
         "ADDRESS": "45-541 Lehua St",
@@ -1147,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d94",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-1a0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1157,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043712,
+        "objectid": 2043818,
         "SHELTER_ID": 368452,
         "SHELTER_NAME": "Pahoa Neighborhood Facility",
         "ADDRESS": "15-3022 Kauhale St",
@@ -1191,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d95",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-19f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1201,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043713,
+        "objectid": 2043819,
         "SHELTER_ID": 368455,
         "SHELTER_NAME": "Robert Herkes Gym",
         "ADDRESS": "96-1219 Kamani Street",
@@ -1235,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d96",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-19e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1245,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043714,
+        "objectid": 2043820,
         "SHELTER_ID": 368442,
         "SHELTER_NAME": "Des Moines University Wellness Center",
         "ADDRESS": "3300 Grand Ave",
@@ -1279,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d97",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-19d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1289,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043715,
+        "objectid": 2043821,
         "SHELTER_ID": 368443,
         "SHELTER_NAME": "Hana High and Elementary School",
         "ADDRESS": "4111 Hana Hwy",
@@ -1323,799 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d98",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8077,
-          44.3029
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043669,
-        "SHELTER_ID": 368350,
-        "SHELTER_NAME": "Eastside Church",
-        "ADDRESS": "3174 NE 3rd St",
-        "CITY": "Prineville",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.8077,
-        44.3029,
-        -120.8077,
-        44.3029
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d99",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8077,
-          44.3029
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043670,
-        "SHELTER_ID": 368373,
-        "SHELTER_NAME": "Outside-Eastside Church",
-        "ADDRESS": "3174 NE 3rd St",
-        "CITY": "Prineville",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.8077,
-        44.3029,
-        -120.8077,
-        44.3029
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d9a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.8647,
-          42.5705
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043671,
-        "SHELTER_ID": 368377,
-        "SHELTER_NAME": "Chiloquin Elementary School",
-        "ADDRESS": "548 S 2nd Avenue",
-        "CITY": "Chiloquin",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -121.8647,
-        42.5705,
-        -121.8647,
-        42.5705
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d9b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.4028,
-          42.1995
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043672,
-        "SHELTER_ID": 368384,
-        "SHELTER_NAME": "Living Springs Fellowship",
-        "ADDRESS": "31897 Mission St",
-        "CITY": "Bonanza",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -121.4028,
-        42.1995,
-        -121.4028,
-        42.1995
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d9c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.2078,
-          47.6909
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043673,
-        "SHELTER_ID": 368378,
-        "SHELTER_NAME": "Entiat Warehouse Community Church",
-        "ADDRESS": "14916 Hwy 97A",
-        "CITY": "Entiat",
-        "STATE": "WA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -120.2078,
-        47.6909,
-        -120.2078,
-        47.6909
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d9d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.8647,
-          42.5705
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043675,
-        "SHELTER_ID": 368380,
-        "SHELTER_NAME": "Outside-Chiloquin Elementary School",
-        "ADDRESS": "548 S 2nd Avenue",
-        "CITY": "Chiloquin",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -121.8647,
-        42.5705,
-        -121.8647,
-        42.5705
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d9e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.8085,
-          39.5413
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043676,
-        "SHELTER_ID": 368383,
-        "SHELTER_NAME": "Evelyn Mount Northeast Community Center",
-        "ADDRESS": "1301 Valley Road",
-        "CITY": "Reno",
-        "STATE": "NV",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -119.8085,
-        39.5413,
-        -119.8085,
-        39.5413
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7d9f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.2277,
-          39.7218
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043677,
-        "SHELTER_ID": 368392,
-        "SHELTER_NAME": "Perry County Fairgrounds",
-        "ADDRESS": "5445 OH 37",
-        "CITY": "New Lexington",
-        "STATE": "OH",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.2277,
-        39.7218,
-        -82.2277,
-        39.7218
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7da0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.7799,
-          45.6743
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043678,
-        "SHELTER_ID": 368386,
-        "SHELTER_NAME": "Neighbor 2 Neighbor",
-        "ADDRESS": "715 SE Court Avenue",
-        "CITY": "Pendleton",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.7799,
-        45.6743,
-        -118.7799,
-        45.6743
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7da1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.8968,
-          36.5419
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043679,
-        "SHELTER_ID": 368389,
-        "SHELTER_NAME": "Carmel Middle School",
-        "ADDRESS": "4380 Carmel Valley Rd",
-        "CITY": "Carmel",
-        "STATE": "CA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -121.8968,
-        36.5419,
-        -121.8968,
-        36.5419
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7da2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.1756,
-          45.5923
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043680,
-        "SHELTER_ID": 368401,
-        "SHELTER_NAME": "The Dalles Middle School",
-        "ADDRESS": "1100 E 12th Street",
-        "CITY": "The Dalles",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -121.1756,
-        45.5923,
-        -121.1756,
-        45.5923
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7da3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.7865,
-          39.5243
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043681,
-        "SHELTER_ID": 368402,
-        "SHELTER_NAME": "Reno-Sparks Indian Colony - Reno Gymnasium",
-        "ADDRESS": "34 Reservation Rd",
-        "CITY": "Reno",
-        "STATE": "NV",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -119.7865,
-        39.5243,
-        -119.7865,
-        39.5243
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7da4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.1902,
-          41.573
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043686,
-        "SHELTER_ID": 368413,
-        "SHELTER_NAME": "Bonner Senior Center",
-        "ADDRESS": "5800 Lexington Ave",
-        "CITY": "Portage",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.1902,
-        41.573,
-        -87.1902,
-        41.573
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7da5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.3389,
-          41.5884
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043687,
-        "SHELTER_ID": 368412,
-        "SHELTER_NAME": "YMCA - Gary",
-        "ADDRESS": "150W 15th Ave",
-        "CITY": "Gary",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.3389,
-        41.5884,
-        -87.3389,
-        41.5884
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7da6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.9368,
-          39.84
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043688,
-        "SHELTER_ID": 368415,
-        "SHELTER_NAME": "Wayne County Fairgrounds",
-        "ADDRESS": "861 N Salisbury Rd N",
-        "CITY": "Richmond",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.9368,
-        39.84,
-        -84.9368,
-        39.84
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7da7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.4576,
-          40.1866
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043689,
-        "SHELTER_ID": 368417,
-        "SHELTER_NAME": "Grace Baptist Church",
-        "ADDRESS": "6401 W River Rd",
-        "CITY": "Muncie",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.4576,
-        40.1866,
-        -85.4576,
-        40.1866
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7da8",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4206,
-          47.7674
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043690,
-        "SHELTER_ID": 368430,
-        "SHELTER_NAME": "Calvary Spokane Church",
-        "ADDRESS": "511 W Hastings Rd",
-        "CITY": "Spokane",
-        "STATE": "WA",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -117.4206,
-        47.7674,
-        -117.4206,
-        47.7674
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7da9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.3619,
-          39.9289
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2043691,
-        "SHELTER_ID": 368421,
-        "SHELTER_NAME": "Henry Township Trustee and Community Center",
-        "ADDRESS": "201 S 21st St",
-        "CITY": "New Castle",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.3619,
-        39.9289,
-        -85.3619,
-        39.9289
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7daa",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-19c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2125,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043716,
+        "objectid": 2043822,
         "SHELTER_ID": 368447,
         "SHELTER_NAME": "Keaau Armory",
         "ADDRESS": "16-512 Volcano Rd",
@@ -2159,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7dab",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-19b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2169,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043717,
+        "objectid": 2043823,
         "SHELTER_ID": 368450,
         "SHELTER_NAME": "Laupahoehoe Charter School",
         "ADDRESS": "35-2065 Old Mamalahoa Hwy",
@@ -2203,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7dac",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-19a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2213,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043718,
+        "objectid": 2043824,
         "SHELTER_ID": 368461,
         "SHELTER_NAME": "Rock Prairie Baptist Church",
         "ADDRESS": "421 Ash St",
@@ -2247,7 +619,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7dad",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-199",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0433,
+          40.2833
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043825,
+        "SHELTER_ID": 368463,
+        "SHELTER_NAME": "West Street Christian Church",
+        "ADDRESS": "132 North West Street",
+        "CITY": "Tipton",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.0433,
+        40.2833,
+        -86.0433,
+        40.2833
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-198",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2257,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043719,
+        "objectid": 2043826,
         "SHELTER_ID": 368462,
         "SHELTER_NAME": "Tipton County Fairgrounds",
         "ADDRESS": "1200 S Main St",
@@ -2291,21 +707,549 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-78d24627_1a007e00233_7dae",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-197",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.0433,
-          40.2833
+          -120.8077,
+          44.3029
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2043720,
-        "SHELTER_ID": 368463,
-        "SHELTER_NAME": "West Street Christian Church",
-        "ADDRESS": "132 North West Street",
-        "CITY": "Tipton",
+        "objectid": 2043775,
+        "SHELTER_ID": 368350,
+        "SHELTER_NAME": "Eastside Church",
+        "ADDRESS": "3174 NE 3rd St",
+        "CITY": "Prineville",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.8077,
+        44.3029,
+        -120.8077,
+        44.3029
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8077,
+          44.3029
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043776,
+        "SHELTER_ID": 368373,
+        "SHELTER_NAME": "Outside-Eastside Church",
+        "ADDRESS": "3174 NE 3rd St",
+        "CITY": "Prineville",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.8077,
+        44.3029,
+        -120.8077,
+        44.3029
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-195",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8647,
+          42.5705
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043777,
+        "SHELTER_ID": 368377,
+        "SHELTER_NAME": "Chiloquin Elementary School",
+        "ADDRESS": "548 S 2nd Avenue",
+        "CITY": "Chiloquin",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -121.8647,
+        42.5705,
+        -121.8647,
+        42.5705
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-194",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4028,
+          42.1995
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043778,
+        "SHELTER_ID": 368384,
+        "SHELTER_NAME": "Living Springs Fellowship",
+        "ADDRESS": "31897 Mission St",
+        "CITY": "Bonanza",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -121.4028,
+        42.1995,
+        -121.4028,
+        42.1995
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2078,
+          47.6909
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043779,
+        "SHELTER_ID": 368378,
+        "SHELTER_NAME": "Entiat Warehouse Community Church",
+        "ADDRESS": "14916 Hwy 97A",
+        "CITY": "Entiat",
+        "STATE": "WA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -120.2078,
+        47.6909,
+        -120.2078,
+        47.6909
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8647,
+          42.5705
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043781,
+        "SHELTER_ID": 368380,
+        "SHELTER_NAME": "Outside-Chiloquin Elementary School",
+        "ADDRESS": "548 S 2nd Avenue",
+        "CITY": "Chiloquin",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -121.8647,
+        42.5705,
+        -121.8647,
+        42.5705
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-191",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8085,
+          39.5413
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043782,
+        "SHELTER_ID": 368383,
+        "SHELTER_NAME": "Evelyn Mount Northeast Community Center",
+        "ADDRESS": "1301 Valley Road",
+        "CITY": "Reno",
+        "STATE": "NV",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -119.8085,
+        39.5413,
+        -119.8085,
+        39.5413
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-190",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2277,
+          39.7218
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043783,
+        "SHELTER_ID": 368392,
+        "SHELTER_NAME": "Perry County Fairgrounds",
+        "ADDRESS": "5445 OH 37",
+        "CITY": "New Lexington",
+        "STATE": "OH",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.2277,
+        39.7218,
+        -82.2277,
+        39.7218
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-18f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7799,
+          45.6743
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043784,
+        "SHELTER_ID": 368386,
+        "SHELTER_NAME": "Neighbor 2 Neighbor",
+        "ADDRESS": "715 SE Court Avenue",
+        "CITY": "Pendleton",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.7799,
+        45.6743,
+        -118.7799,
+        45.6743
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-18e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8968,
+          36.5419
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043785,
+        "SHELTER_ID": 368389,
+        "SHELTER_NAME": "Carmel Middle School",
+        "ADDRESS": "4380 Carmel Valley Rd",
+        "CITY": "Carmel",
+        "STATE": "CA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -121.8968,
+        36.5419,
+        -121.8968,
+        36.5419
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-18d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7865,
+          39.5243
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043786,
+        "SHELTER_ID": 368402,
+        "SHELTER_NAME": "Reno-Sparks Indian Colony - Reno Gymnasium",
+        "ADDRESS": "34 Reservation Rd",
+        "CITY": "Reno",
+        "STATE": "NV",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -119.7865,
+        39.5243,
+        -119.7865,
+        39.5243
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-18c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1756,
+          45.5923
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043787,
+        "SHELTER_ID": 368401,
+        "SHELTER_NAME": "The Dalles Middle School",
+        "ADDRESS": "1100 E 12th Street",
+        "CITY": "The Dalles",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -121.1756,
+        45.5923,
+        -121.1756,
+        45.5923
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-18b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9368,
+          39.84
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043792,
+        "SHELTER_ID": 368415,
+        "SHELTER_NAME": "Wayne County Fairgrounds",
+        "ADDRESS": "861 N Salisbury Rd N",
+        "CITY": "Richmond",
         "STATE": "IN",
         "ZIP": "0",
         "SHELTER_STATUS": "OPEN",
@@ -2327,17 +1271,1073 @@
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -86.0433,
-        40.2833,
-        -86.0433,
-        40.2833
+        -84.9368,
+        39.84,
+        -84.9368,
+        39.84
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-18a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3389,
+          41.5884
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043793,
+        "SHELTER_ID": 368412,
+        "SHELTER_NAME": "YMCA - Gary",
+        "ADDRESS": "150W 15th Ave",
+        "CITY": "Gary",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.3389,
+        41.5884,
+        -87.3389,
+        41.5884
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1902,
+          41.573
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043794,
+        "SHELTER_ID": 368413,
+        "SHELTER_NAME": "Bonner Senior Center",
+        "ADDRESS": "5800 Lexington Ave",
+        "CITY": "Portage",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.1902,
+        41.573,
+        -87.1902,
+        41.573
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4576,
+          40.1866
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043795,
+        "SHELTER_ID": 368417,
+        "SHELTER_NAME": "Grace Baptist Church",
+        "ADDRESS": "6401 W River Rd",
+        "CITY": "Muncie",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.4576,
+        40.1866,
+        -85.4576,
+        40.1866
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-187",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4206,
+          47.7674
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043796,
+        "SHELTER_ID": 368430,
+        "SHELTER_NAME": "Calvary Spokane Church",
+        "ADDRESS": "511 W Hastings Rd",
+        "CITY": "Spokane",
+        "STATE": "WA",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.4206,
+        47.7674,
+        -117.4206,
+        47.7674
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-186",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3619,
+          39.9289
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043797,
+        "SHELTER_ID": 368421,
+        "SHELTER_NAME": "Henry Township Trustee and Community Center",
+        "ADDRESS": "201 S 21st St",
+        "CITY": "New Castle",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.3619,
+        39.9289,
+        -85.3619,
+        39.9289
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2614,
+          41.5699
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043798,
+        "SHELTER_ID": 368423,
+        "SHELTER_NAME": "Lake Station Fire Department Station 1",
+        "ADDRESS": "1876 Fairview Ave",
+        "CITY": "Lake Station",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.2614,
+        41.5699,
+        -87.2614,
+        41.5699
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-184",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3309,
+          42.4579
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043799,
+        "SHELTER_ID": 368433,
+        "SHELTER_NAME": "North Middle School",
+        "ADDRESS": "1725 NW Highland Ave",
+        "CITY": "Grants Pass",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -123.3309,
+        42.4579,
+        -123.3309,
+        42.4579
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-183",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8867,
+          39.1234
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043800,
+        "SHELTER_ID": 368441,
+        "SHELTER_NAME": "Community Fellowship Church",
+        "ADDRESS": "505 Bielby Road",
+        "CITY": "Lawrenceburg",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.8867,
+        39.1234,
+        -84.8867,
+        39.1234
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-182",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1616,
+          39.6365
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043801,
+        "SHELTER_ID": 368431,
+        "SHELTER_NAME": "Connersville High School",
+        "ADDRESS": "1100 Spartan Dr",
+        "CITY": "Connersville",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.1616,
+        39.6365,
+        -85.1616,
+        39.6365
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1882,
+          39.5032
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043802,
+        "SHELTER_ID": 368432,
+        "SHELTER_NAME": "Laurel Community Center",
+        "ADDRESS": "218 N Clay St",
+        "CITY": "Laurel",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.1882,
+        39.5032,
+        -85.1882,
+        39.5032
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-180",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7283,
+          41.4838
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043803,
+        "SHELTER_ID": 368435,
+        "SHELTER_NAME": "Southland College Prep Charter High School",
+        "ADDRESS": "4601 Sauk Trail",
+        "CITY": "Richton Park",
+        "STATE": "IL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.7283,
+        41.4838,
+        -87.7283,
+        41.4838
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-17f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.6669,
+          20.0186
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043804,
+        "SHELTER_ID": 368446,
+        "SHELTER_NAME": "Kahilu Town Hall",
+        "ADDRESS": "67-1182 Lindsey Road",
+        "CITY": "Kamuela",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -155.6669,
+        20.0186,
+        -155.6669,
+        20.0186
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-17e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.7994,
+          20.2348
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043805,
+        "SHELTER_ID": 368445,
+        "SHELTER_NAME": "Ikuo Hisaoka Gym",
+        "ADDRESS": "54-382 Kamehameha Park Rd",
+        "CITY": "Kapaau",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -155.7994,
+        20.2348,
+        -155.7994,
+        20.2348
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-17d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6838,
+          20.905
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043806,
+        "SHELTER_ID": 368449,
+        "SHELTER_NAME": "Lahaina Civic Center",
+        "ADDRESS": "1840 Honoapiilani Hwy",
+        "CITY": "Lahaina",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -156.6838,
+        20.905,
+        -156.6838,
+        20.905
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-17c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.5794,
+          19.0611
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043807,
+        "SHELTER_ID": 368451,
+        "SHELTER_NAME": "Naalehu Elementary School",
+        "ADDRESS": "95-5545 Mamalahoa Hwy",
+        "CITY": "Naalehu",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -155.5794,
+        19.0611,
+        -155.5794,
+        19.0611
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-17b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9984,
+          19.6697
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043808,
+        "SHELTER_ID": 368448,
+        "SHELTER_NAME": "Kealakehe High School",
+        "ADDRESS": "74-5000 Puohulihuli St",
+        "CITY": "Kailua Kona",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -155.9984,
+        19.6697,
+        -155.9984,
+        19.6697
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-17a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6838,
+          20.905
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043809,
+        "SHELTER_ID": 368459,
+        "SHELTER_NAME": "Yano Memorial Hall",
+        "ADDRESS": "1840 Honoapiilani Hwy",
+        "CITY": "Lahaina",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -156.6838,
+        20.905,
+        -156.6838,
+        20.905
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-179",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1323,
+          39.9088
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043810,
+        "SHELTER_ID": 368458,
+        "SHELTER_NAME": "WT Services Center",
+        "ADDRESS": "8401 Westfield Blvd",
+        "CITY": "Indianapolis",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.1323,
+        39.9088,
+        -86.1323,
+        39.9088
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-178",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6795,
+          40.0999
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043811,
+        "SHELTER_ID": 368439,
+        "SHELTER_NAME": "Salvation Army",
+        "ADDRESS": "1615 Meridian St",
+        "CITY": "Anderson",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.6795,
+        40.0999,
+        -85.6795,
+        40.0999
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6352,
+          40.129
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043812,
+        "SHELTER_ID": 368454,
+        "SHELTER_NAME": "Rangeline Community Center",
+        "ADDRESS": "N Rangeline Rd #1405",
+        "CITY": "Anderson",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.6352,
+        40.129,
+        -85.6352,
+        40.129
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.077,
+          19.6983
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043813,
+        "SHELTER_ID": 368456,
+        "SHELTER_NAME": "Waiakea High School",
+        "ADDRESS": "155 W Kawili St",
+        "CITY": "Hilo",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -155.077,
+        19.6983,
+        -155.077,
+        19.6983
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.7906,
+          19.9459
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043814,
+        "SHELTER_ID": 368457,
+        "SHELTER_NAME": "Waikoloa Elementary and Middle School",
+        "ADDRESS": "68-1730 Hooko St",
+        "CITY": "Waikoloa",
+        "STATE": "HI",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -155.7906,
+        19.9459,
+        -155.7906,
+        19.9459
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-174",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.997,
+          40.4807
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043815,
+        "SHELTER_ID": 368438,
+        "SHELTER_NAME": "First Christian Church",
+        "ADDRESS": "401 W Jefferson St",
+        "CITY": "Bloomington",
+        "STATE": "IL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -88.997,
+        40.4807,
+        -88.997,
+        40.4807
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-3bdb2137_1a0088425dd_-173",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6676,
+          40.1113
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2043816,
+        "SHELTER_ID": 368453,
+        "SHELTER_NAME": "Park Place Church of God",
+        "ADDRESS": "501 College Dr",
+        "CITY": "Anderson",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.6676,
+        40.1113,
+        -85.6676,
+        40.1113
       ]
     }
   ],
   "totalFeatures": 53,
   "numberMatched": 53,
   "numberReturned": 53,
-  "timeStamp": "2026-08-16T05:41:46.726Z",
+  "timeStamp": "2026-08-16T06:12:28.072Z",
   "crs": {
     "type": "name",
     "properties": {
