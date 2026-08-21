@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fde",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1dfb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057335,
+        "objectid": 2057361,
         "SHELTER_ID": 368377,
         "SHELTER_NAME": "Chiloquin Elementary School",
         "ADDRESS": "548 S 2nd Avenue",
@@ -47,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fdd",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1dfa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1756,
+          45.5923
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2057363,
+        "SHELTER_ID": 368401,
+        "SHELTER_NAME": "The Dalles Middle School",
+        "ADDRESS": "1100 E 12th Street",
+        "CITY": "The Dalles",
+        "STATE": "OR",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -121.1756,
+        45.5923,
+        -121.1756,
+        45.5923
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1df9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057336,
+        "objectid": 2057362,
         "SHELTER_ID": 368392,
         "SHELTER_NAME": "Perry County Fairgrounds",
         "ADDRESS": "5445 OH 37",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fdc",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1df8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057338,
+        "objectid": 2057364,
         "SHELTER_ID": 368405,
         "SHELTER_NAME": "Our Lady of Mount Carmel Catholic Church",
         "ADDRESS": "205 E Jackson St",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fdb",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1df7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057339,
+        "objectid": 2057365,
         "SHELTER_ID": 368411,
         "SHELTER_NAME": "Scioto Southland Community Center",
         "ADDRESS": "3901 Parsons Ave",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fda",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1df6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057340,
+        "objectid": 2057366,
         "SHELTER_ID": 368412,
         "SHELTER_NAME": "YWCA - Gary",
         "ADDRESS": "150 W 15th Ave",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fd9",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1df5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057341,
+        "objectid": 2057367,
         "SHELTER_ID": 368430,
         "SHELTER_NAME": "Calvary Spokane Church",
         "ADDRESS": "511 W Hastings Rd",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fd8",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1df4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057342,
+        "objectid": 2057368,
         "SHELTER_ID": 368451,
         "SHELTER_NAME": "Naalehu Elementary School",
         "ADDRESS": "95-5545 Mamalahoa Hwy",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fd7",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1df3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057343,
+        "objectid": 2057369,
         "SHELTER_ID": 368478,
         "SHELTER_NAME": "Noble of Indiana",
         "ADDRESS": "2406 N Tibbs Ave",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fd6",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1df2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057344,
+        "objectid": 2057370,
         "SHELTER_ID": 368385,
         "SHELTER_NAME": "Neighbor 2 Neighbor",
         "ADDRESS": "715 SE Court Avenue",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fd5",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1df1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057345,
+        "objectid": 2057371,
         "SHELTER_ID": 368502,
         "SHELTER_NAME": "Outside-Chiloquin Elementary School",
         "ADDRESS": "548 S 2nd Avenue",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fd4",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1df0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057346,
+        "objectid": 2057372,
         "SHELTER_ID": 368458,
         "SHELTER_NAME": "WT Services Center",
         "ADDRESS": "8401 Westfield Blvd",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fd3",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1def",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057347,
+        "objectid": 2057373,
         "SHELTER_ID": 368499,
         "SHELTER_NAME": "Bethel Community Resource Center",
         "ADDRESS": "646 Chicago Road",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fd2",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1dee",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057348,
+        "objectid": 2057374,
         "SHELTER_ID": 368501,
         "SHELTER_NAME": "Wayne County Fairgrounds",
         "ADDRESS": "861 N Salisbury Rd N",
@@ -575,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fd1",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1ded",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057349,
+        "objectid": 2057375,
         "SHELTER_ID": 368465,
         "SHELTER_NAME": "Community of Hope Church",
         "ADDRESS": "1968 W Main St",
@@ -619,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fd0",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1dec",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057350,
+        "objectid": 2057376,
         "SHELTER_ID": 368467,
         "SHELTER_NAME": "Hamilton County Community Center",
         "ADDRESS": "0 Hiawatha Drive",
@@ -663,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fcf",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1deb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057351,
+        "objectid": 2057377,
         "SHELTER_ID": 368432,
         "SHELTER_NAME": "Laurel Community Center",
         "ADDRESS": "218 N Clay St",
@@ -707,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fce",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1dea",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057352,
+        "objectid": 2057378,
         "SHELTER_ID": 368500,
         "SHELTER_NAME": "Salvation Army",
         "ADDRESS": "1615 Meridian St",
@@ -751,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fcd",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1de9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057353,
+        "objectid": 2057379,
         "SHELTER_ID": 368441,
         "SHELTER_NAME": "Community Fellowship Church",
         "ADDRESS": "505 Bielby Road",
@@ -795,7 +839,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fcc",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1de8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057354,
+        "objectid": 2057380,
         "SHELTER_ID": 368454,
         "SHELTER_NAME": "Rangeline Community Center",
         "ADDRESS": "N Rangeline Rd #1405",
@@ -839,7 +883,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fcb",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1de7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +893,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057355,
+        "objectid": 2057381,
         "SHELTER_ID": 368490,
         "SHELTER_NAME": "Tok School",
         "ADDRESS": "1 Jon Summer Dr",
@@ -883,7 +927,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fca",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1de6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +937,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057356,
+        "objectid": 2057382,
         "SHELTER_ID": 368505,
         "SHELTER_NAME": "Coburn United Methodist Church",
         "ADDRESS": "3618 Maple Ave",
@@ -927,7 +971,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fc9",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1de5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -937,7 +981,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057357,
+        "objectid": 2057383,
         "SHELTER_ID": 368506,
         "SHELTER_NAME": "Southgate Church of Christ",
         "ADDRESS": "1075 S 30th St",
@@ -971,7 +1015,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fc8",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1de4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -981,7 +1025,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057358,
+        "objectid": 2057384,
         "SHELTER_ID": 368423,
         "SHELTER_NAME": "Lake Station Fire Department Station 1",
         "ADDRESS": "1876 Fairview Ave",
@@ -1015,7 +1059,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fc7",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1de3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1025,7 +1069,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057359,
+        "objectid": 2057385,
         "SHELTER_ID": 368504,
         "SHELTER_NAME": "Old Station 401",
         "ADDRESS": "428 Jefferson St",
@@ -1059,7 +1103,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fc6",
+      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-1de2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1069,7 +1113,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2057360,
+        "objectid": 2057386,
         "SHELTER_ID": 137687,
         "SHELTER_NAME": "Earl Watson Community Center",
         "ADDRESS": "1120 Central Av",
@@ -1100,56 +1144,12 @@
         -94.6389,
         39.1021
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2e2b6a9b_1a0227c286f_-5fc5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.1756,
-          45.5923
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2057337,
-        "SHELTER_ID": 368401,
-        "SHELTER_NAME": "The Dalles Middle School",
-        "ADDRESS": "1100 E 12th Street",
-        "CITY": "The Dalles",
-        "STATE": "OR",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -121.1756,
-        45.5923,
-        -121.1756,
-        45.5923
-      ]
     }
   ],
   "totalFeatures": 26,
   "numberMatched": 26,
   "numberReturned": 26,
-  "timeStamp": "2026-08-21T04:47:14.374Z",
+  "timeStamp": "2026-08-21T05:13:49.058Z",
   "crs": {
     "type": "name",
     "properties": {
