@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d7a",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fea",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1578,
+          39.7868
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2075852,
+        "SHELTER_ID": 368531,
+        "SHELTER_NAME": "DPS-IHCDA",
+        "ADDRESS": "1510 N Meridian St",
+        "CITY": "Indianapolis",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -86.1578,
+        39.7868,
+        -86.1578,
+        39.7868
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fe9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2075817,
+        "objectid": 2075845,
         "SHELTER_ID": 368458,
         "SHELTER_NAME": "WT Services Center",
         "ADDRESS": "8401 Westfield Blvd",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d79",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fe8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2075818,
+        "objectid": 2075846,
         "SHELTER_ID": 368465,
         "SHELTER_NAME": "Community of Hope Church",
         "ADDRESS": "1968 W Main St",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d78",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fe7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2075819,
+        "objectid": 2075847,
         "SHELTER_ID": 368432,
         "SHELTER_NAME": "Laurel Community Center",
         "ADDRESS": "218 N Clay St",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d77",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fe6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2075820,
+        "objectid": 2075848,
         "SHELTER_ID": 368454,
         "SHELTER_NAME": "Rangeline Community Center",
         "ADDRESS": "N Rangeline Rd #1405",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d76",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fe5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2075821,
+        "objectid": 2075849,
         "SHELTER_ID": 368505,
         "SHELTER_NAME": "Coburn United Methodist Church",
         "ADDRESS": "3618 Maple Ave",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d75",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fe4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2075822,
+        "objectid": 2075850,
         "SHELTER_ID": 368237,
         "SHELTER_NAME": "242 Community Church",
         "ADDRESS": "2600 Bennett Rd",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d74",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fe3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2075823,
+        "objectid": 2075851,
         "SHELTER_ID": 138736,
         "SHELTER_NAME": "Kapaa Middle School",
         "ADDRESS": "4867 Olohena Rd",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d73",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fe2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2075825,
+        "objectid": 2075853,
         "SHELTER_ID": 368530,
         "SHELTER_NAME": "Kauai High School",
         "ADDRESS": "3577 Lala Rd",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d72",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fe1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2075826,
+        "objectid": 2075854,
         "SHELTER_ID": 368529,
         "SHELTER_NAME": "Dublin Gospel Mission Chuch",
         "ADDRESS": "148 Dublin Street",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d71",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fe0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2075827,
+        "objectid": 2075855,
         "SHELTER_ID": 138748,
         "SHELTER_NAME": "Kilauea Neighborhood Center",
         "ADDRESS": "4260 Keneke St",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d70",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fdf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2075828,
+        "objectid": 2075856,
         "SHELTER_ID": 138820,
         "SHELTER_NAME": "Waimea Canyon Elementary And Middle",
         "ADDRESS": "9555 Huakai Road",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d6f",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fde",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2075829,
+        "objectid": 2075857,
         "SHELTER_ID": 357083,
         "SHELTER_NAME": "Hudson Campbell Center",
         "ADDRESS": "455 Massachusetts St",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d6e",
+      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-2fdd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2075830,
+        "objectid": 2075858,
         "SHELTER_ID": 367198,
         "SHELTER_NAME": "Scott T. Johnson Recreation Center",
         "ADDRESS": "15 Vanderbilt Ave",
@@ -572,56 +616,12 @@
         -73.7825,
         43.0722
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--6dcac9af_1a07caf16dc_-5d6d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.1578,
-          39.7868
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2075824,
-        "SHELTER_ID": 368531,
-        "SHELTER_NAME": "DPS-IHCDA",
-        "ADDRESS": "1510 N Meridian St",
-        "CITY": "Indianapolis",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -86.1578,
-        39.7868,
-        -86.1578,
-        39.7868
-      ]
     }
   ],
   "totalFeatures": 14,
   "numberMatched": 14,
   "numberReturned": 14,
-  "timeStamp": "2026-09-07T21:37:22.305Z",
+  "timeStamp": "2026-09-07T22:16:13.987Z",
   "crs": {
     "type": "name",
     "properties": {
