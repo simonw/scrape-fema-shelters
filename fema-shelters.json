@@ -3,359 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_-542e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.6352,
-          40.129
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2081190,
-        "SHELTER_ID": 368454,
-        "SHELTER_NAME": "Rangeline Community Center",
-        "ADDRESS": "N Rangeline Rd #1405",
-        "CITY": "Anderson",
-        "STATE": "IN",
-        "ZIP": "46012",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 10,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.6352,
-        40.129,
-        -85.6352,
-        40.129
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_-542d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.0229,
-          39.9905
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2081191,
-        "SHELTER_ID": 368505,
-        "SHELTER_NAME": "Coburn United Methodist Church",
-        "ADDRESS": "3618 Maple Ave",
-        "CITY": "Zanesville",
-        "STATE": "OH",
-        "ZIP": "43701",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 15,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.0229,
-        39.9905,
-        -82.0229,
-        39.9905
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_-542c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.4441,
-          42.6986
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2081192,
-        "SHELTER_ID": 368237,
-        "SHELTER_NAME": "242 Community Church",
-        "ADDRESS": "2600 Bennett Rd",
-        "CITY": "Okemos",
-        "STATE": "MI",
-        "ZIP": "48864",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 14,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": 42.698551,
-        "LONGITUDE": -84.444123,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.4441,
-        42.6986,
-        -84.4441,
-        42.6986
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_-542b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -159.4067,
-          22.2118
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2081193,
-        "SHELTER_ID": 138748,
-        "SHELTER_NAME": "Kilauea Neighborhood Center",
-        "ADDRESS": "4260 Keneke St",
-        "CITY": "Kilauea",
-        "STATE": "HI",
-        "ZIP": "96754",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 776,
-        "POST_IMPACT_CAPACITY": 194,
-        "TOTAL_POPULATION": 16,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "HAWAII STATE CHAPTER",
-        "ORG_ID": 121469,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 22.21180875,
-        "LONGITUDE": -159.40674272,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -159.4067,
-        22.2118,
-        -159.4067,
-        22.2118
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_-542a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -159.5268,
-          21.925
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2081194,
-        "SHELTER_ID": 368470,
-        "SHELTER_NAME": "Kalaheo Neighborhood Center",
-        "ADDRESS": "4480 Papalina Rd, Kalaheo, HI 96741",
-        "CITY": "Kalaheo",
-        "STATE": "HI",
-        "ZIP": "4480 ",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 10,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -159.5268,
-        21.925,
-        -159.5268,
-        21.925
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_-5429",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.3324,
-          41.5811
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2081195,
-        "SHELTER_ID": 368537,
-        "SHELTER_NAME": "Faith Community Center East",
-        "ADDRESS": "2052 Delaware Street",
-        "CITY": "Gary",
-        "STATE": "IN",
-        "ZIP": "46407",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 30,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -87.3324,
-        41.5811,
-        -87.3324,
-        41.5811
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_-5428",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.9208,
-          39.0394
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2081196,
-        "SHELTER_ID": 341375,
-        "SHELTER_NAME": "Lake County Fairgrounds",
-        "ADDRESS": "401 Martin St",
-        "CITY": "Lakeport",
-        "STATE": "CA",
-        "ZIP": "95453",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 99999,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 39.039356,
-        "LONGITUDE": -122.9208,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.9208,
-        39.0394,
-        -122.9208,
-        39.0394
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_-5427",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.0902,
-          44.9513
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2081197,
-        "SHELTER_ID": 356231,
-        "SHELTER_NAME": "Central Presbyterian Church",
-        "ADDRESS": "500 Cedar Street",
-        "CITY": "Saint Paul",
-        "STATE": "MN",
-        "ZIP": "55101",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 22,
-        "TOTAL_POPULATION": 12,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Minnesota Region",
-        "ORG_ID": 126130,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 44.9513188,
-        "LONGITUDE": -93.0901841,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.0902,
-        44.9513,
-        -93.0902,
-        44.9513
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_-5426",
+      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_3d98",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2081198,
+        "objectid": 2081220,
         "SHELTER_ID": 368536,
         "SHELTER_NAME": "Barry County Commission On Aging",
         "ADDRESS": "320 W Woodlawn Ave",
@@ -399,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_-5425",
+      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_3d99",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2081199,
+        "objectid": 2081221,
         "SHELTER_ID": 340586,
         "SHELTER_NAME": "Lihue Neighborhood Center",
         "ADDRESS": "3353 Eono St",
@@ -443,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_-5424",
+      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_3d9a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2081200,
+        "objectid": 2081222,
         "SHELTER_ID": 193543,
         "SHELTER_NAME": "Union-Scioto Schools",
         "ADDRESS": "1565 Egypt Pike",
@@ -484,12 +132,364 @@
         -83.0182,
         39.3672
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_3d9b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6352,
+          40.129
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2081212,
+        "SHELTER_ID": 368454,
+        "SHELTER_NAME": "Rangeline Community Center",
+        "ADDRESS": "N Rangeline Rd #1405",
+        "CITY": "Anderson",
+        "STATE": "IN",
+        "ZIP": "46012",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 10,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.6352,
+        40.129,
+        -85.6352,
+        40.129
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_3d9c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0229,
+          39.9905
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2081213,
+        "SHELTER_ID": 368505,
+        "SHELTER_NAME": "Coburn United Methodist Church",
+        "ADDRESS": "3618 Maple Ave",
+        "CITY": "Zanesville",
+        "STATE": "OH",
+        "ZIP": "43701",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 15,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.0229,
+        39.9905,
+        -82.0229,
+        39.9905
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_3d9d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4441,
+          42.6986
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2081214,
+        "SHELTER_ID": 368237,
+        "SHELTER_NAME": "242 Community Church",
+        "ADDRESS": "2600 Bennett Rd",
+        "CITY": "Okemos",
+        "STATE": "MI",
+        "ZIP": "48864",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 14,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": 42.698551,
+        "LONGITUDE": -84.444123,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.4441,
+        42.6986,
+        -84.4441,
+        42.6986
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_3d9e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4067,
+          22.2118
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2081215,
+        "SHELTER_ID": 138748,
+        "SHELTER_NAME": "Kilauea Neighborhood Center",
+        "ADDRESS": "4260 Keneke St",
+        "CITY": "Kilauea",
+        "STATE": "HI",
+        "ZIP": "96754",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 776,
+        "POST_IMPACT_CAPACITY": 194,
+        "TOTAL_POPULATION": 16,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HAWAII STATE CHAPTER",
+        "ORG_ID": 121469,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 22.21180875,
+        "LONGITUDE": -159.40674272,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -159.4067,
+        22.2118,
+        -159.4067,
+        22.2118
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_3d9f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.5268,
+          21.925
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2081216,
+        "SHELTER_ID": 368470,
+        "SHELTER_NAME": "Kalaheo Neighborhood Center",
+        "ADDRESS": "4480 Papalina Rd, Kalaheo, HI 96741",
+        "CITY": "Kalaheo",
+        "STATE": "HI",
+        "ZIP": "4480 ",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 10,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -159.5268,
+        21.925,
+        -159.5268,
+        21.925
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_3da0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3324,
+          41.5811
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2081217,
+        "SHELTER_ID": 368537,
+        "SHELTER_NAME": "Faith Community Center East",
+        "ADDRESS": "2052 Delaware Street",
+        "CITY": "Gary",
+        "STATE": "IN",
+        "ZIP": "46407",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 30,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.3324,
+        41.5811,
+        -87.3324,
+        41.5811
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_3da1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9208,
+          39.0394
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2081218,
+        "SHELTER_ID": 341375,
+        "SHELTER_NAME": "Lake County Fairgrounds",
+        "ADDRESS": "401 Martin St",
+        "CITY": "Lakeport",
+        "STATE": "CA",
+        "ZIP": "95453",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 99999,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 39.039356,
+        "LONGITUDE": -122.9208,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.9208,
+        39.0394,
+        -122.9208,
+        39.0394
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--2fd6db34_1a09b816291_3da2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0902,
+          44.9513
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2081219,
+        "SHELTER_ID": 356231,
+        "SHELTER_NAME": "Central Presbyterian Church",
+        "ADDRESS": "500 Cedar Street",
+        "CITY": "Saint Paul",
+        "STATE": "MN",
+        "ZIP": "55101",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 22,
+        "TOTAL_POPULATION": 12,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Minnesota Region",
+        "ORG_ID": 126130,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 44.9513188,
+        "LONGITUDE": -93.0901841,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.0902,
+        44.9513,
+        -93.0902,
+        44.9513
+      ]
     }
   ],
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2026-09-13T19:37:18.287Z",
+  "timeStamp": "2026-09-13T20:16:48.444Z",
   "crs": {
     "type": "name",
     "properties": {
