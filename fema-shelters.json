@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_64e8",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_6839",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2083798,
+        "objectid": 2083806,
         "SHELTER_ID": 368505,
         "SHELTER_NAME": "Coburn United Methodist Church",
         "ADDRESS": "3618 Maple Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_64e9",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_683a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2083799,
+        "objectid": 2083807,
         "SHELTER_ID": 368237,
         "SHELTER_NAME": "242 Community Church",
         "ADDRESS": "2600 Bennett Rd",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_64ea",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_683b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2083800,
+        "objectid": 2083808,
         "SHELTER_ID": 138748,
         "SHELTER_NAME": "Kilauea Neighborhood Center",
         "ADDRESS": "4260 Keneke St",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_64eb",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_683c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2083801,
+        "objectid": 2083809,
         "SHELTER_ID": 368537,
         "SHELTER_NAME": "Faith Community Center East",
         "ADDRESS": "2052 Delaware Street",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_64ec",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_683d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2083802,
+        "objectid": 2083810,
         "SHELTER_ID": 356231,
         "SHELTER_NAME": "Central Presbyterian Church",
         "ADDRESS": "500 Cedar Street",
@@ -223,95 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_64ed",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.5761,
-          31.7843
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2083803,
-        "SHELTER_ID": 368538,
-        "SHELTER_NAME": "Clifton Civic Center",
-        "ADDRESS": "403 W 3rd St",
-        "CITY": "Clifton",
-        "STATE": "TX",
-        "ZIP": "76634",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 3,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -97.5761,
-        31.7843,
-        -97.5761,
-        31.7843
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_64ee",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.965,
-          34.485
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2083804,
-        "SHELTER_ID": 225022,
-        "SHELTER_NAME": "Stephens County Fair Grounds",
-        "ADDRESS": "2002 S 13th St",
-        "CITY": "Duncan",
-        "STATE": "OK",
-        "ZIP": "73533",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "GREAT PLAINS",
-        "ORG_ID": 121424,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 34.48498239,
-        "LONGITUDE": -97.96498074,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -97.965,
-        34.485,
-        -97.965,
-        34.485
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_64ef",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b01b091d_683e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2083805,
+        "objectid": 2083811,
         "SHELTER_ID": 336444,
         "SHELTER_NAME": "Trinity Evangelical Lutheran Church",
         "ADDRESS": "1000 W Main Street",
@@ -354,10 +266,10 @@
       ]
     }
   ],
-  "totalFeatures": 8,
-  "numberMatched": 8,
-  "numberReturned": 8,
-  "timeStamp": "2026-09-17T21:16:46.408Z",
+  "totalFeatures": 6,
+  "numberMatched": 6,
+  "numberReturned": 6,
+  "timeStamp": "2026-09-17T21:36:43.284Z",
   "crs": {
     "type": "name",
     "properties": {
