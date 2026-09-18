@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_4e80",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_515a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2083920,
+        "objectid": 2083928,
         "SHELTER_ID": 368505,
         "SHELTER_NAME": "Coburn United Methodist Church",
         "ADDRESS": "3618 Maple Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_4e81",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_515b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2083921,
+        "objectid": 2083929,
         "SHELTER_ID": 368237,
         "SHELTER_NAME": "242 Community Church",
         "ADDRESS": "2600 Bennett Rd",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_4e82",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_515c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2083922,
+        "objectid": 2083930,
         "SHELTER_ID": 138748,
         "SHELTER_NAME": "Kilauea Neighborhood Center",
         "ADDRESS": "4260 Keneke St",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_4e83",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_515d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2083923,
+        "objectid": 2083931,
         "SHELTER_ID": 368537,
         "SHELTER_NAME": "Faith Community Center East",
         "ADDRESS": "2052 Delaware Street",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_4e84",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_515e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2083924,
+        "objectid": 2083932,
         "SHELTER_ID": 356231,
         "SHELTER_NAME": "Central Presbyterian Church",
         "ADDRESS": "500 Cedar Street",
@@ -223,51 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_4e85",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.2982,
-          40.2501
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2083925,
-        "SHELTER_ID": 336444,
-        "SHELTER_NAME": "Trinity Evangelical Lutheran Church",
-        "ADDRESS": "1000 W Main Street",
-        "CITY": "Lansdale",
-        "STATE": "PA",
-        "ZIP": "19446",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 350,
-        "POST_IMPACT_CAPACITY": 0,
-        "TOTAL_POPULATION": 4,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "SOUTHEASTERN PENNSYLVANIA SEPA",
-        "ORG_ID": 121824,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 40.25014921,
-        "LONGITUDE": -75.29818952,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -75.2982,
-        40.2501,
-        -75.2982,
-        40.2501
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_4e86",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_515f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2083926,
+        "objectid": 2083933,
         "SHELTER_ID": 368539,
         "SHELTER_NAME": "Ivanhoe Community Church",
         "ADDRESS": "21078 IL 176",
@@ -311,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_4e87",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_5160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2982,
+          40.2501
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2083934,
+        "SHELTER_ID": 336444,
+        "SHELTER_NAME": "Trinity Evangelical Lutheran Church",
+        "ADDRESS": "1000 W Main Street",
+        "CITY": "Lansdale",
+        "STATE": "PA",
+        "ZIP": "19446",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 350,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 4,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "SOUTHEASTERN PENNSYLVANIA SEPA",
+        "ORG_ID": 121824,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 40.25014921,
+        "LONGITUDE": -75.29818952,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -75.2982,
+        40.2501,
+        -75.2982,
+        40.2501
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b1637575_5161",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2083927,
+        "objectid": 2083935,
         "SHELTER_ID": 368540,
         "SHELTER_NAME": "Ruidoso Downs Senior Center",
         "ADDRESS": "393 US 70 E",
@@ -357,7 +357,7 @@
   "totalFeatures": 8,
   "numberMatched": 8,
   "numberReturned": 8,
-  "timeStamp": "2026-09-18T03:21:43.587Z",
+  "timeStamp": "2026-09-18T03:43:20.949Z",
   "crs": {
     "type": "name",
     "properties": {
