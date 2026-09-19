@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b7d43ff6_-294",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b7d43ff6_3bf8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2084399,
+        "objectid": 2084409,
         "SHELTER_ID": 368505,
         "SHELTER_NAME": "Coburn United Methodist Church",
         "ADDRESS": "3618 Maple Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b7d43ff6_-293",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b7d43ff6_3bf9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2084400,
+        "objectid": 2084410,
         "SHELTER_ID": 138748,
         "SHELTER_NAME": "Kilauea Neighborhood Center",
         "ADDRESS": "4260 Keneke St",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b7d43ff6_-292",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b7d43ff6_3bfa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2084401,
+        "objectid": 2084411,
         "SHELTER_ID": 356231,
         "SHELTER_NAME": "Central Presbyterian Church",
         "ADDRESS": "500 Cedar Street",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b7d43ff6_-291",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.4235,
-          35.2856
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2084402,
-        "SHELTER_ID": 368541,
-        "SHELTER_NAME": "New Blaine Fire Department",
-        "ADDRESS": "321 Rainwater Loop",
-        "CITY": "New Blaine",
-        "STATE": "AR",
-        "ZIP": "72851",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -93.4235,
-        35.2856,
-        -93.4235,
-        35.2856
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b7d43ff6_-290",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b7d43ff6_3bfb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2084403,
+        "objectid": 2084412,
         "SHELTER_ID": 368539,
         "SHELTER_NAME": "Ivanhoe Community Church",
         "ADDRESS": "21078 IL 176",
@@ -220,12 +176,56 @@
         -88.0447,
         42.2774
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0b7d43ff6_3bfc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4235,
+          35.2856
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2084413,
+        "SHELTER_ID": 368541,
+        "SHELTER_NAME": "New Blaine Fire Department",
+        "ADDRESS": "321 Rainwater Loop",
+        "CITY": "New Blaine",
+        "STATE": "AR",
+        "ZIP": "72851",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.4235,
+        35.2856,
+        -93.4235,
+        35.2856
+      ]
     }
   ],
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-09-19T04:41:13.231Z",
+  "timeStamp": "2026-09-19T05:16:59.164Z",
   "crs": {
     "type": "name",
     "properties": {
