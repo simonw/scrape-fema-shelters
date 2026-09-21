@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c4b6f89b_-448f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.1127,
-          41.0515
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2085254,
-        "SHELTER_ID": 368543,
-        "SHELTER_NAME": "Bethlehem Lutheran Church",
-        "ADDRESS": "3705 South Anthony Blvd",
-        "CITY": "Fort Wayne",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.1127,
-        41.0515,
-        -85.1127,
-        41.0515
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c4b6f89b_-448e",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c4b6f89b_-3e18",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085250,
+        "objectid": 2085255,
         "SHELTER_ID": 368505,
         "SHELTER_NAME": "Coburn United Methodist Church",
         "ADDRESS": "3618 Maple Ave",
@@ -91,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c4b6f89b_-448d",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c4b6f89b_-3e17",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085251,
+        "objectid": 2085256,
         "SHELTER_ID": 138748,
         "SHELTER_NAME": "Kilauea Neighborhood Center",
         "ADDRESS": "4260 Keneke St",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c4b6f89b_-448c",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c4b6f89b_-3e16",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085252,
+        "objectid": 2085257,
         "SHELTER_ID": 356231,
         "SHELTER_NAME": "Central Presbyterian Church",
         "ADDRESS": "500 Cedar Street",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c4b6f89b_-448b",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c4b6f89b_-3e15",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085253,
+        "objectid": 2085258,
         "SHELTER_ID": 368542,
         "SHELTER_NAME": "Our Lady of Perpetual Help",
         "ADDRESS": "235 North Front Street",
@@ -220,12 +176,56 @@
         -70.9257,
         41.6567
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c4b6f89b_-3e14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1127,
+          41.0515
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2085259,
+        "SHELTER_ID": 368543,
+        "SHELTER_NAME": "Bethlehem Lutheran Church",
+        "ADDRESS": "3705 South Anthony Blvd",
+        "CITY": "Fort Wayne",
+        "STATE": "IN",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.1127,
+        41.0515,
+        -85.1127,
+        41.0515
+      ]
     }
   ],
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-09-21T18:44:39.463Z",
+  "timeStamp": "2026-09-21T19:15:17.551Z",
   "crs": {
     "type": "name",
     "properties": {
