@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_4f27",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_5490",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085798,
+        "objectid": 2085814,
         "SHELTER_ID": 368505,
         "SHELTER_NAME": "Coburn United Methodist Church",
         "ADDRESS": "3618 Maple Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_4f28",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_5491",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085799,
+        "objectid": 2085815,
         "SHELTER_ID": 138748,
         "SHELTER_NAME": "Kilauea Neighborhood Center",
         "ADDRESS": "4260 Keneke St",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_4f29",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_5492",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085800,
+        "objectid": 2085816,
         "SHELTER_ID": 356231,
         "SHELTER_NAME": "Central Presbyterian Church",
         "ADDRESS": "500 Cedar Street",
@@ -135,51 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_4f2a",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_5493",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.4145,
-          40.0093
+          -85.1127,
+          41.0515
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085801,
-        "SHELTER_ID": 368544,
-        "SHELTER_NAME": "Schewe Community Center",
-        "ADDRESS": "6 Armory Lane",
-        "CITY": "Beardstown",
-        "STATE": "IL",
-        "ZIP": "62618",
+        "objectid": 2085817,
+        "SHELTER_ID": 368543,
+        "SHELTER_NAME": "Bethlehem Lutheran Church",
+        "ADDRESS": "3705 South Anthony Blvd",
+        "CITY": "Fort Wayne",
+        "STATE": "IN",
+        "ZIP": "46806",
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 16,
+        "TOTAL_POPULATION": null,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
+        "ORG_NAME": null,
+        "ORG_ID": null,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
         "LATITUDE": null,
         "LONGITUDE": null,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -90.4145,
-        40.0093,
-        -90.4145,
-        40.0093
+        -85.1127,
+        41.0515,
+        -85.1127,
+        41.0515
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_4f2b",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_5494",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085803,
+        "objectid": 2085818,
         "SHELTER_ID": 368542,
         "SHELTER_NAME": "Our Lady of Perpetual Help",
         "ADDRESS": "235 North Front Street",
@@ -223,51 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_4f2c",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_5495",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.932,
-          39.7039
+          -90.4145,
+          40.0093
         ]
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085804,
-        "SHELTER_ID": 343253,
-        "SHELTER_NAME": "Faith Community United Methodist Church",
-        "ADDRESS": "100 Country Club Dr",
-        "CITY": "Xenia",
-        "STATE": "OH",
-        "ZIP": "45385",
+        "objectid": 2085819,
+        "SHELTER_ID": 368544,
+        "SHELTER_NAME": "Schewe Community Center",
+        "ADDRESS": "6 Armory Lane",
+        "CITY": "Beardstown",
+        "STATE": "IL",
+        "ZIP": "62618",
         "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 500,
-        "POST_IMPACT_CAPACITY": 250,
-        "TOTAL_POPULATION": 0,
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 16,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
         "MATCH_TYPE": null,
         "SE_ANNO_CAD_DATA": null,
         "SUBFACILITY_CODE": "GENPOPSHEL",
         "ADA_COMPLIANT": null,
         "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 39.703885,
-        "LONGITUDE": -83.931952,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
         "GDB_GEOMATTR_DATA": null
       },
       "bbox": [
-        -83.932,
-        39.7039,
-        -83.932,
-        39.7039
+        -90.4145,
+        40.0093,
+        -90.4145,
+        40.0093
       ]
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_4f2d",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_5496",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085805,
+        "objectid": 2085820,
         "SHELTER_ID": 368545,
         "SHELTER_NAME": "Mulberry Community Center",
         "ADDRESS": "260 Mulberry Ave",
@@ -308,56 +308,12 @@
         -82.0395,
         39.0354
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0c9e44a3b_4f2e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.1127,
-          41.0515
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2085802,
-        "SHELTER_ID": 368543,
-        "SHELTER_NAME": "Bethlehem Lutheran Church",
-        "ADDRESS": "3705 South Anthony Blvd",
-        "CITY": "Fort Wayne",
-        "STATE": "IN",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.1127,
-        41.0515,
-        -85.1127,
-        41.0515
-      ]
     }
   ],
-  "totalFeatures": 8,
-  "numberMatched": 8,
-  "numberReturned": 8,
-  "timeStamp": "2026-09-22T20:38:48.185Z",
+  "totalFeatures": 7,
+  "numberMatched": 7,
+  "numberReturned": 7,
+  "timeStamp": "2026-09-22T21:15:30.194Z",
   "crs": {
     "type": "name",
     "properties": {
