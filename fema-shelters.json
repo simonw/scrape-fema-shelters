@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2e8c",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2a0b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085923,
+        "objectid": 2085933,
         "SHELTER_ID": 368505,
         "SHELTER_NAME": "Coburn United Methodist Church",
         "ADDRESS": "3618 Maple Ave",
@@ -23,7 +23,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 4,
+        "TOTAL_POPULATION": 1,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2e8b",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2a0a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085924,
+        "objectid": 2085934,
         "SHELTER_ID": 356231,
         "SHELTER_NAME": "Central Presbyterian Church",
         "ADDRESS": "500 Cedar Street",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2e8a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.1127,
-          41.0515
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2085925,
-        "SHELTER_ID": 368543,
-        "SHELTER_NAME": "Bethlehem Lutheran Church",
-        "ADDRESS": "3705 South Anthony Blvd",
-        "CITY": "Fort Wayne",
-        "STATE": "IN",
-        "ZIP": "46806",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -85.1127,
-        41.0515,
-        -85.1127,
-        41.0515
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2e89",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2a09",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085926,
+        "objectid": 2085935,
         "SHELTER_ID": 368542,
         "SHELTER_NAME": "Our Lady of Perpetual Help",
         "ADDRESS": "235 North Front Street",
@@ -179,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2e88",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2a08",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1127,
+          41.0515
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2085936,
+        "SHELTER_ID": 368543,
+        "SHELTER_NAME": "Bethlehem Lutheran Church",
+        "ADDRESS": "3705 South Anthony Blvd",
+        "CITY": "Fort Wayne",
+        "STATE": "IN",
+        "ZIP": "46806",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -85.1127,
+        41.0515,
+        -85.1127,
+        41.0515
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2a07",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085927,
+        "objectid": 2085937,
         "SHELTER_ID": 368544,
         "SHELTER_NAME": "Schewe Community Center",
         "ADDRESS": "6 Armory Lane",
@@ -225,7 +225,7 @@
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-09-23T02:44:53.944Z",
+  "timeStamp": "2026-09-23T03:23:25.910Z",
   "crs": {
     "type": "name",
     "properties": {
