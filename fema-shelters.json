@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2a0b",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-27b8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085933,
+        "objectid": 2085938,
         "SHELTER_ID": 368505,
         "SHELTER_NAME": "Coburn United Methodist Church",
         "ADDRESS": "3618 Maple Ave",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2a0a",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-27b7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085934,
+        "objectid": 2085939,
         "SHELTER_ID": 356231,
         "SHELTER_NAME": "Central Presbyterian Church",
         "ADDRESS": "500 Cedar Street",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2a09",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.9257,
-          41.6567
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2085935,
-        "SHELTER_ID": 368542,
-        "SHELTER_NAME": "Our Lady of Perpetual Help",
-        "ADDRESS": "235 North Front Street",
-        "CITY": "New Bedford",
-        "STATE": "MA",
-        "ZIP": "02746",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 16,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -70.9257,
-        41.6567,
-        -70.9257,
-        41.6567
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2a08",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-27b6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085936,
+        "objectid": 2085940,
         "SHELTER_ID": 368543,
         "SHELTER_NAME": "Bethlehem Lutheran Church",
         "ADDRESS": "3705 South Anthony Blvd",
@@ -179,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-2a07",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-27b5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9257,
+          41.6567
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2085941,
+        "SHELTER_ID": 368542,
+        "SHELTER_NAME": "Our Lady of Perpetual Help",
+        "ADDRESS": "235 North Front Street",
+        "CITY": "New Bedford",
+        "STATE": "MA",
+        "ZIP": "02746",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 16,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -70.9257,
+        41.6567,
+        -70.9257,
+        41.6567
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0cb95b748_-27b4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2085937,
+        "objectid": 2085942,
         "SHELTER_ID": 368544,
         "SHELTER_NAME": "Schewe Community Center",
         "ADDRESS": "6 Armory Lane",
@@ -225,7 +225,7 @@
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-09-23T03:23:25.910Z",
+  "timeStamp": "2026-09-23T03:44:15.761Z",
   "crs": {
     "type": "name",
     "properties": {
