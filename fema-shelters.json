@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_4c44",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_526b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2087242,
+        "objectid": 2087254,
         "SHELTER_ID": 368447,
         "SHELTER_NAME": "Keaau Armory",
         "ADDRESS": "16-512 Volcano Rd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_4c45",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_526c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2087243,
+        "objectid": 2087255,
         "SHELTER_ID": 356231,
         "SHELTER_NAME": "Central Presbyterian Church",
         "ADDRESS": "500 Cedar Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_4c46",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_526d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2087244,
+        "objectid": 2087256,
         "SHELTER_ID": 334647,
         "SHELTER_NAME": "Yano Memorial Hall",
         "ADDRESS": "82-6145 Mamalahoa Hwy",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_4c47",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.1621,
-          40.7506
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2087245,
-        "SHELTER_ID": 368546,
-        "SHELTER_NAME": "East Newark Recreation Center",
-        "ADDRESS": "44 Central Avenue",
-        "CITY": "Harrison",
-        "STATE": "NJ",
-        "ZIP": "07029",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -74.1621,
-        40.7506,
-        -74.1621,
-        40.7506
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_4c48",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_526e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2087246,
+        "objectid": 2087257,
         "SHELTER_ID": 368544,
         "SHELTER_NAME": "Schewe Community Center",
         "ADDRESS": "6 Armory Lane",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_4c49",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_526f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1621,
+          40.7506
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2087258,
+        "SHELTER_ID": 368546,
+        "SHELTER_NAME": "East Newark Recreation Center",
+        "ADDRESS": "44 Central Avenue",
+        "CITY": "Harrison",
+        "STATE": "NJ",
+        "ZIP": "07029",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -74.1621,
+        40.7506,
+        -74.1621,
+        40.7506
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_5270",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2087247,
+        "objectid": 2087259,
         "SHELTER_ID": 368547,
         "SHELTER_NAME": "Hondo High School",
         "ADDRESS": "111 Don Pablo Ln",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_4c4a",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_5271",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2087248,
+        "objectid": 2087260,
         "SHELTER_ID": 334597,
         "SHELTER_NAME": "Honokaa Gymnasium",
         "ADDRESS": "45-541 Lehua St",
@@ -311,7 +311,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_4c4b",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_5272",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.7869,
+          19.096
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2087261,
+        "SHELTER_ID": 138712,
+        "SHELTER_NAME": "Ocean View Community Center",
+        "ADDRESS": "92-8924 Leilani Circle",
+        "CITY": "OCEAN VIEW",
+        "STATE": "HI",
+        "ZIP": "96737",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 100,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HAWAII STATE CHAPTER",
+        "ORG_ID": 121469,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 19.09596396,
+        "LONGITUDE": -155.78693743,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -155.7869,
+        19.096,
+        -155.7869,
+        19.096
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_5273",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2087249,
+        "objectid": 2087262,
         "SHELTER_ID": 368548,
         "SHELTER_NAME": "Federal Way Community Center",
         "ADDRESS": "876 S 333rd St",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_4c4c",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_5274",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2087250,
+        "objectid": 2087263,
         "SHELTER_ID": 368549,
         "SHELTER_NAME": "Pomona Fairplex",
         "ADDRESS": "1101 West McKinley Avenue",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_4c4d",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_5275",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2087251,
+        "objectid": 2087264,
         "SHELTER_ID": 368451,
         "SHELTER_NAME": "Naalehu Elementary School",
         "ADDRESS": "95-5545 Mamalahoa Hwy, Naalehu, HI 96772",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_4c4e",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_5276",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2087252,
+        "objectid": 2087265,
         "SHELTER_ID": 193410,
         "SHELTER_NAME": "Robert Herkes Gym",
         "ADDRESS": "96-1219 Kamani Street",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_4c4f",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d94ebf86_5277",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2087253,
+        "objectid": 2087266,
         "SHELTER_ID": 366028,
         "SHELTER_NAME": "First Church of Lombard UCC",
         "ADDRESS": "220 S Main St",
@@ -530,10 +574,10 @@
       ]
     }
   ],
-  "totalFeatures": 12,
-  "numberMatched": 12,
-  "numberReturned": 12,
-  "timeStamp": "2026-09-25T18:43:02.086Z",
+  "totalFeatures": 13,
+  "numberMatched": 13,
+  "numberReturned": 13,
+  "timeStamp": "2026-09-25T19:14:34.525Z",
   "crs": {
     "type": "name",
     "properties": {
