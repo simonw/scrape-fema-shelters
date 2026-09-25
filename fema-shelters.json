@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-138c",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-1102",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2086854,
+        "objectid": 2086865,
         "SHELTER_ID": 368447,
         "SHELTER_NAME": "Keaau Armory",
         "ADDRESS": "16-512 Volcano Rd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-138b",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-1101",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2086855,
+        "objectid": 2086866,
         "SHELTER_ID": 356231,
         "SHELTER_NAME": "Central Presbyterian Church",
         "ADDRESS": "500 Cedar Street",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-138a",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-1100",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2086856,
+        "objectid": 2086867,
         "SHELTER_ID": 368543,
         "SHELTER_NAME": "Bethlehem Lutheran Church",
         "ADDRESS": "3705 South Anthony Blvd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-1389",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-10ff",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2086857,
+        "objectid": 2086868,
         "SHELTER_ID": 334647,
         "SHELTER_NAME": "Yano Memorial Hall",
         "ADDRESS": "82-6145 Mamalahoa Hwy",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-1388",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.4145,
-          40.0093
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2086858,
-        "SHELTER_ID": 368544,
-        "SHELTER_NAME": "Schewe Community Center",
-        "ADDRESS": "6 Armory Lane",
-        "CITY": "Beardstown",
-        "STATE": "IL",
-        "ZIP": "62618",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 7,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -90.4145,
-        40.0093,
-        -90.4145,
-        40.0093
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-1387",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-10fe",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2086859,
+        "objectid": 2086869,
         "SHELTER_ID": 368546,
         "SHELTER_NAME": "East Newark Recreation Center",
         "ADDRESS": "44 Central Avenue",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-1386",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-10fd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4145,
+          40.0093
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2086870,
+        "SHELTER_ID": 368544,
+        "SHELTER_NAME": "Schewe Community Center",
+        "ADDRESS": "6 Armory Lane",
+        "CITY": "Beardstown",
+        "STATE": "IL",
+        "ZIP": "62618",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 7,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -90.4145,
+        40.0093,
+        -90.4145,
+        40.0093
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-10fc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2086860,
+        "objectid": 2086871,
         "SHELTER_ID": 368547,
         "SHELTER_NAME": "Hondo High School",
         "ADDRESS": "111 Don Pablo Ln",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-1385",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-10fb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2086861,
+        "objectid": 2086872,
         "SHELTER_ID": 368548,
         "SHELTER_NAME": "Federal Way Community Center",
         "ADDRESS": "876 S 333rd St",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-1384",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-10fa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2086862,
+        "objectid": 2086873,
         "SHELTER_ID": 368451,
         "SHELTER_NAME": "Naalehu Elementary School",
         "ADDRESS": "95-5545 Mamalahoa Hwy, Naalehu, HI 96772",
@@ -399,7 +399,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-1383",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-10f9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.768,
+          34.0858
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2086874,
+        "SHELTER_ID": 368549,
+        "SHELTER_NAME": "Pomona Fairplex",
+        "ADDRESS": "1101 West McKinley Avenue",
+        "CITY": "Pomona",
+        "STATE": "CA",
+        "ZIP": "91768",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -117.768,
+        34.0858,
+        -117.768,
+        34.0858
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-10f8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2086863,
+        "objectid": 2086875,
         "SHELTER_ID": 193410,
         "SHELTER_NAME": "Robert Herkes Gym",
         "ADDRESS": "96-1219 Kamani Street",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-1382",
+      "id": "FEMANSSOpenShelters.fid--7ceaf69d_1a0d6bcc7a7_-10f7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2086864,
+        "objectid": 2086876,
         "SHELTER_ID": 366028,
         "SHELTER_NAME": "First Church of Lombard UCC",
         "ADDRESS": "220 S Main St",
@@ -486,10 +530,10 @@
       ]
     }
   ],
-  "totalFeatures": 11,
-  "numberMatched": 11,
-  "numberReturned": 11,
-  "timeStamp": "2026-09-25T07:23:08.745Z",
+  "totalFeatures": 12,
+  "numberMatched": 12,
+  "numberReturned": 12,
+  "timeStamp": "2026-09-25T07:43:06.307Z",
   "crs": {
     "type": "name",
     "properties": {
