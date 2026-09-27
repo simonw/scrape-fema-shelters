@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5775",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5a55",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088805,
+        "objectid": 2088816,
         "SHELTER_ID": 368546,
         "SHELTER_NAME": "East Newark Recreation Center",
         "ADDRESS": "44 Central Avenue",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5776",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5a56",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088806,
+        "objectid": 2088817,
         "SHELTER_ID": 368544,
         "SHELTER_NAME": "Schewe Community Center",
         "ADDRESS": "6 Armory Lane",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5777",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5a57",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088807,
+        "objectid": 2088818,
         "SHELTER_ID": 354185,
         "SHELTER_NAME": "Ira Jinkins Recreation Center",
         "ADDRESS": "9175 Edes Ave",
@@ -135,51 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5778",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.7869,
-          19.096
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2088808,
-        "SHELTER_ID": 138712,
-        "SHELTER_NAME": "Ocean View Community Center",
-        "ADDRESS": "92-8924 Leilani Circle",
-        "CITY": "Ocean View",
-        "STATE": "HI",
-        "ZIP": "96737",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 0,
-        "POST_IMPACT_CAPACITY": 100,
-        "TOTAL_POPULATION": 1,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "HAWAII STATE CHAPTER",
-        "ORG_ID": 121469,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 19.09596396,
-        "LONGITUDE": -155.78693743,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -155.7869,
-        19.096,
-        -155.7869,
-        19.096
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5779",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5a58",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088809,
+        "objectid": 2088819,
         "SHELTER_ID": 138755,
         "SHELTER_NAME": "Lahaina Civic Center",
         "ADDRESS": "1840 Honoapiilani Hwy",
@@ -223,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_577a",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5a59",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.7869,
+          19.096
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2088820,
+        "SHELTER_ID": 138712,
+        "SHELTER_NAME": "Ocean View Community Center",
+        "ADDRESS": "92-8924 Leilani Circle",
+        "CITY": "Ocean View",
+        "STATE": "HI",
+        "ZIP": "96737",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 100,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "HAWAII STATE CHAPTER",
+        "ORG_ID": 121469,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 19.09596396,
+        "LONGITUDE": -155.78693743,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -155.7869,
+        19.096,
+        -155.7869,
+        19.096
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5a5a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088810,
+        "objectid": 2088821,
         "SHELTER_ID": 368451,
         "SHELTER_NAME": "Naalehu Elementary School",
         "ADDRESS": "95-5545 Mamalahoa Hwy",
@@ -267,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_577b",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5a5b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088811,
+        "objectid": 2088822,
         "SHELTER_ID": 367214,
         "SHELTER_NAME": "Central Church",
         "ADDRESS": "1124 Stevens Dr",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_577c",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5a5c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088812,
+        "objectid": 2088823,
         "SHELTER_ID": 368550,
         "SHELTER_NAME": "Kiona Benton High School",
         "ADDRESS": "1205 Horne Dr",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_577d",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5a5d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088813,
+        "objectid": 2088824,
         "SHELTER_ID": 193410,
         "SHELTER_NAME": "Robert Herkes Gym",
         "ADDRESS": "96-1219 Kamani Street",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_577e",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5a5e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088814,
+        "objectid": 2088825,
         "SHELTER_ID": 364706,
         "SHELTER_NAME": "South Maui Community Park Gym",
         "ADDRESS": "1501 Liloa Dr",
@@ -443,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_577f",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_5a5f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088815,
+        "objectid": 2088826,
         "SHELTER_ID": 366028,
         "SHELTER_NAME": "First Church of Lombard UCC",
         "ADDRESS": "220 S Main St",
@@ -489,7 +489,7 @@
   "totalFeatures": 11,
   "numberMatched": 11,
   "numberReturned": 11,
-  "timeStamp": "2026-09-27T10:17:19.318Z",
+  "timeStamp": "2026-09-27T10:38:58.851Z",
   "crs": {
     "type": "name",
     "properties": {
