@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e030a8a5_6ce9",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_-5542",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088640,
+        "objectid": 2088650,
         "SHELTER_ID": 368447,
         "SHELTER_NAME": "Keaau Armory",
         "ADDRESS": "16-512 Volcano Rd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e030a8a5_6cea",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_-5541",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088641,
+        "objectid": 2088651,
         "SHELTER_ID": 334191,
         "SHELTER_NAME": "Puueo Community Center",
         "ADDRESS": "145 Wainaku St",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e030a8a5_6ceb",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_-5540",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088642,
+        "objectid": 2088652,
         "SHELTER_ID": 356231,
         "SHELTER_NAME": "Central Presbyterian Church",
         "ADDRESS": "500 Cedar Street",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e030a8a5_6cec",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_-553f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088643,
+        "objectid": 2088653,
         "SHELTER_ID": 368546,
         "SHELTER_NAME": "East Newark Recreation Center",
         "ADDRESS": "44 Central Avenue",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e030a8a5_6ced",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_-553e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088644,
+        "objectid": 2088654,
         "SHELTER_ID": 368544,
         "SHELTER_NAME": "Schewe Community Center",
         "ADDRESS": "6 Armory Lane",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e030a8a5_6cee",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_-553d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088645,
+        "objectid": 2088655,
         "SHELTER_ID": 354185,
         "SHELTER_NAME": "Ira Jinkins Recreation Center",
         "ADDRESS": "9175 Edes Ave",
@@ -243,7 +243,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": 175,
         "POST_IMPACT_CAPACITY": 87,
-        "TOTAL_POPULATION": 0,
+        "TOTAL_POPULATION": 17,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": null,
@@ -267,51 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e030a8a5_6cef",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.4943,
-          46.2776
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2088646,
-        "SHELTER_ID": 368550,
-        "SHELTER_NAME": "Kiona Benton High School",
-        "ADDRESS": "1205 Horne Dr",
-        "CITY": "Benton City",
-        "STATE": "WA",
-        "ZIP": "99320",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -119.4943,
-        46.2776,
-        -119.4943,
-        46.2776
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e030a8a5_6cf0",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_-553c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088647,
+        "objectid": 2088656,
         "SHELTER_ID": 367214,
         "SHELTER_NAME": "Central Church",
         "ADDRESS": "1124 Stevens Dr",
@@ -355,7 +311,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e030a8a5_6cf1",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_-553b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4943,
+          46.2776
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2088657,
+        "SHELTER_ID": 368550,
+        "SHELTER_NAME": "Kiona Benton High School",
+        "ADDRESS": "1205 Horne Dr",
+        "CITY": "Benton City",
+        "STATE": "WA",
+        "ZIP": "99320",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -119.4943,
+        46.2776,
+        -119.4943,
+        46.2776
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_-553a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088648,
+        "objectid": 2088658,
         "SHELTER_ID": 193410,
         "SHELTER_NAME": "Robert Herkes Gym",
         "ADDRESS": "96-1219 Kamani Street",
@@ -399,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e030a8a5_6cf2",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e13d5db9_-5539",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2088649,
+        "objectid": 2088659,
         "SHELTER_ID": 366028,
         "SHELTER_NAME": "First Church of Lombard UCC",
         "ADDRESS": "220 S Main St",
@@ -445,7 +445,7 @@
   "totalFeatures": 10,
   "numberMatched": 10,
   "numberReturned": 10,
-  "timeStamp": "2026-09-27T04:44:02.559Z",
+  "timeStamp": "2026-09-27T05:18:14.768Z",
   "crs": {
     "type": "name",
     "properties": {
