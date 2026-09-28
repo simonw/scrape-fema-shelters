@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-558c",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-18c2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2089394,
+        "objectid": 2089410,
         "SHELTER_ID": 368546,
         "SHELTER_NAME": "East Newark Recreation Center",
         "ADDRESS": "44 Central Avenue",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-558b",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-18c1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2089395,
+        "objectid": 2089411,
         "SHELTER_ID": 368544,
         "SHELTER_NAME": "Schewe Community Center",
         "ADDRESS": "6 Armory Lane",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-558a",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-18c0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2089396,
+        "objectid": 2089412,
         "SHELTER_ID": 354185,
         "SHELTER_NAME": "Ira Jinkins Recreation Center",
         "ADDRESS": "9175 Edes Ave",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-5589",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-18bf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2089397,
+        "objectid": 2089413,
         "SHELTER_ID": 138755,
         "SHELTER_NAME": "Lahaina Civic Center",
         "ADDRESS": "1840 Honoapiilani Hwy",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-5588",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.4943,
-          46.2776
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2089398,
-        "SHELTER_ID": 368550,
-        "SHELTER_NAME": "Kiona Benton High School",
-        "ADDRESS": "1205 Horne Dr",
-        "CITY": "Benton City",
-        "STATE": "WA",
-        "ZIP": "99320",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -119.4943,
-        46.2776,
-        -119.4943,
-        46.2776
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-5587",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-18be",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2089399,
+        "objectid": 2089414,
         "SHELTER_ID": 367214,
         "SHELTER_NAME": "Central Church",
         "ADDRESS": "1124 Stevens Dr",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-5586",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-18bd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4943,
+          46.2776
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2089415,
+        "SHELTER_ID": 368550,
+        "SHELTER_NAME": "Kiona Benton High School",
+        "ADDRESS": "1205 Horne Dr",
+        "CITY": "Benton City",
+        "STATE": "WA",
+        "ZIP": "99320",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -119.4943,
+        46.2776,
+        -119.4943,
+        46.2776
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-18bc",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2089400,
+        "objectid": 2089416,
         "SHELTER_ID": 364706,
         "SHELTER_NAME": "South Maui Community Park Gym",
         "ADDRESS": "1501 Liloa Dr",
@@ -311,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-5585",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e62dafcf_-18bb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2089401,
+        "objectid": 2089417,
         "SHELTER_ID": 366028,
         "SHELTER_NAME": "First Church of Lombard UCC",
         "ADDRESS": "220 S Main St",
@@ -357,7 +357,7 @@
   "totalFeatures": 8,
   "numberMatched": 8,
   "numberReturned": 8,
-  "timeStamp": "2026-09-28T04:50:51.619Z",
+  "timeStamp": "2026-09-28T05:21:53.542Z",
   "crs": {
     "type": "name",
     "properties": {
