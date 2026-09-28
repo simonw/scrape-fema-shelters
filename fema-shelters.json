@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e8c0aee1_f00",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e9a6854a_-7663",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2089724,
+        "objectid": 2089738,
         "SHELTER_ID": 368544,
         "SHELTER_NAME": "Schewe Community Center",
         "ADDRESS": "6 Armory Lane",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e8c0aee1_f01",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e9a6854a_-7662",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2089725,
+        "objectid": 2089739,
         "SHELTER_ID": 354185,
         "SHELTER_NAME": "Ira Jinkins Recreation Center",
         "ADDRESS": "9175 Edes Ave",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e8c0aee1_f02",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e9a6854a_-7661",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2089726,
+        "objectid": 2089740,
         "SHELTER_ID": 138755,
         "SHELTER_NAME": "Lahaina Civic Center",
         "ADDRESS": "1840 Honoapiilani Hwy",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e8c0aee1_f03",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e9a6854a_-7660",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2089727,
+        "objectid": 2089741,
         "SHELTER_ID": 138803,
         "SHELTER_NAME": "Waianae District Park",
         "ADDRESS": "85-601 Farrington Hwy",
@@ -179,51 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e8c0aee1_f04",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.4943,
-          46.2776
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2089728,
-        "SHELTER_ID": 368550,
-        "SHELTER_NAME": "Kiona Benton High School",
-        "ADDRESS": "1205 Horne Dr",
-        "CITY": "Benton City",
-        "STATE": "WA",
-        "ZIP": "99320",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -119.4943,
-        46.2776,
-        -119.4943,
-        46.2776
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e8c0aee1_f05",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e9a6854a_-765f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2089729,
+        "objectid": 2089742,
         "SHELTER_ID": 367214,
         "SHELTER_NAME": "Central Church",
         "ADDRESS": "1124 Stevens Dr",
@@ -267,7 +223,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e8c0aee1_f06",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e9a6854a_-765e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4943,
+          46.2776
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2089743,
+        "SHELTER_ID": 368550,
+        "SHELTER_NAME": "Kiona Benton High School",
+        "ADDRESS": "1205 Horne Dr",
+        "CITY": "Benton City",
+        "STATE": "WA",
+        "ZIP": "99320",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -119.4943,
+        46.2776,
+        -119.4943,
+        46.2776
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-d7515c5_1a0e9a6854a_-765d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2089730,
+        "objectid": 2089744,
         "SHELTER_ID": 366028,
         "SHELTER_NAME": "First Church of Lombard UCC",
         "ADDRESS": "220 S Main St",
@@ -313,7 +313,7 @@
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2026-09-28T19:39:16.468Z",
+  "timeStamp": "2026-09-28T20:18:43.722Z",
   "crs": {
     "type": "name",
     "properties": {
