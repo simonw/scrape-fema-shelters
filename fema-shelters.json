@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1111798ee_-4a1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.0735,
-          41.2098
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2091648,
-        "SHELTER_ID": 360589,
-        "SHELTER_NAME": "Mockingbird Hills Community Center",
-        "ADDRESS": "10242 Mockingbird Drive",
-        "CITY": "Omaha",
-        "STATE": "NE",
-        "ZIP": "68127",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 360,
-        "POST_IMPACT_CAPACITY": 180,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 41.2097951,
-        "LONGITUDE": -96.0735248,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -96.0735,
-        41.2098,
-        -96.0735,
-        41.2098
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1111798ee_-4a0",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1111798ee_-28c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2091649,
+        "objectid": 2091650,
         "SHELTER_ID": 367818,
         "SHELTER_NAME": "Castaic Sports Complex Gymnasium",
         "ADDRESS": "31230 N Castaic Road",
@@ -90,10 +46,10 @@
       ]
     }
   ],
-  "totalFeatures": 2,
-  "numberMatched": 2,
-  "numberReturned": 2,
-  "timeStamp": "2026-10-06T12:29:51.444Z",
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2026-10-06T12:51:08.147Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -103,7 +59,7 @@
   "bbox": [
     -118.6147,
     34.486,
-    -96.0735,
-    41.2098
+    -118.6147,
+    34.486
   ]
 }
