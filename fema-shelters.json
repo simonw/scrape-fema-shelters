@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_105",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_78f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2092310,
+        "objectid": 2092320,
         "SHELTER_ID": 362770,
         "SHELTER_NAME": "Wakulla County One Stop Community Center",
         "ADDRESS": "318 Shadeville Rd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_106",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_790",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2092311,
+        "objectid": 2092321,
         "SHELTER_ID": 134395,
         "SHELTER_NAME": "Freeport High School",
         "ADDRESS": "12615 Hwy 331 Business",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_107",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_791",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2092312,
+        "objectid": 2092322,
         "SHELTER_ID": 346575,
         "SHELTER_NAME": "NW Florida State College Raider Arena",
         "ADDRESS": "100 E. College Blvd",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_108",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_792",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2092313,
+        "objectid": 2092323,
         "SHELTER_ID": 70917,
         "SHELTER_NAME": "Davidson Middle School",
         "ADDRESS": "6261 Old Bethel Road",
@@ -179,7 +179,95 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_109",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_793",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0619,
+          31.1261
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2092324,
+        "SHELTER_ID": 368558,
+        "SHELTER_NAME": "John L Fisher Center",
+        "ADDRESS": "301 Liles Blvd",
+        "CITY": "Brewton",
+        "STATE": "AL",
+        "ZIP": "36426",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -87.0619,
+        31.1261,
+        -87.0619,
+        31.1261
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_794",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4902,
+          30.5541
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2092325,
+        "SHELTER_ID": 368557,
+        "SHELTER_NAME": "Gadsden County High School",
+        "ADDRESS": "27001 Blue Star Hwy",
+        "CITY": "Havana",
+        "STATE": "FL",
+        "ZIP": "32333",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.4902,
+        30.5541,
+        -84.4902,
+        30.5541
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_795",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2092314,
+        "objectid": 2092326,
         "SHELTER_ID": 133872,
         "SHELTER_NAME": "Roulhac Middle School",
         "ADDRESS": "1535 Brickyard Rd",
@@ -223,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_10a",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_796",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2092315,
+        "objectid": 2092327,
         "SHELTER_ID": 134793,
         "SHELTER_NAME": "Deane Bozeman School",
         "ADDRESS": "13410 FL 77",
@@ -267,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_10b",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_797",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2092316,
+        "objectid": 2092328,
         "SHELTER_ID": 70846,
         "SHELTER_NAME": "Bonifay K8",
         "ADDRESS": "140 Blue Devil Drive",
@@ -311,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_10c",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_798",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2092317,
+        "objectid": 2092329,
         "SHELTER_ID": 368554,
         "SHELTER_NAME": "McArthur Freewill Baptist Church",
         "ADDRESS": "408 W Main St",
@@ -355,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_10d",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_799",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2092318,
+        "objectid": 2092330,
         "SHELTER_ID": 73094,
         "SHELTER_NAME": "Baldwin County Coliseum",
         "ADDRESS": "19477 Fairground Road",
@@ -399,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_10e",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a121702d89_79a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2092319,
+        "objectid": 2092331,
         "SHELTER_ID": 360606,
         "SHELTER_NAME": "Pensacola Bay Center",
         "ADDRESS": "210 East Gregory Street",
@@ -442,10 +530,10 @@
       ]
     }
   ],
-  "totalFeatures": 10,
-  "numberMatched": 10,
-  "numberReturned": 10,
-  "timeStamp": "2026-10-09T17:16:04.306Z",
+  "totalFeatures": 12,
+  "numberMatched": 12,
+  "numberReturned": 12,
+  "timeStamp": "2026-10-09T17:41:28.812Z",
   "crs": {
     "type": "name",
     "properties": {
