@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_455a",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_4ce6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094233,
+        "objectid": 2094240,
         "SHELTER_ID": 133872,
         "SHELTER_NAME": "Roulhac Middle School",
         "ADDRESS": "1535 Brickyard Rd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_455b",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_4ce7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094235,
+        "objectid": 2094242,
         "SHELTER_ID": 134098,
         "SHELTER_NAME": "Clyde L. Gracey Community Center",
         "ADDRESS": "5629 Byrom St",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_455c",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_4ce8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094236,
+        "objectid": 2094243,
         "SHELTER_ID": 368554,
         "SHELTER_NAME": "McArthur Freewill Baptist Church",
         "ADDRESS": "408 W Main St",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_455d",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_4ce9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094237,
+        "objectid": 2094244,
         "SHELTER_ID": 368566,
         "SHELTER_NAME": "Yancey County Senior Center",
         "ADDRESS": "503 Medical Campus Dr",
@@ -179,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_455e",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_4cea",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0231,
+          35.6665
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2094245,
+        "SHELTER_ID": 367438,
+        "SHELTER_NAME": "McDowell Senior Center",
+        "ADDRESS": "100 Spaulding Rd",
+        "CITY": "Marion",
+        "STATE": "NC",
+        "ZIP": "28752",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": 35.666463,
+        "LONGITUDE": -82.023126,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -82.0231,
+        35.6665,
+        -82.0231,
+        35.6665
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_4ceb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094238,
+        "objectid": 2094246,
         "SHELTER_ID": 171757,
         "SHELTER_NAME": "Kern Valley High School",
         "ADDRESS": "3340 Erskine Creek Road",
@@ -223,51 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_455f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.0231,
-          35.6665
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2094239,
-        "SHELTER_ID": 367438,
-        "SHELTER_NAME": "McDowell Senior Center",
-        "ADDRESS": "100 Spaulding Rd",
-        "CITY": "Marion",
-        "STATE": "NC",
-        "ZIP": "28752",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": 35.666463,
-        "LONGITUDE": -82.023126,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -82.0231,
-        35.6665,
-        -82.0231,
-        35.6665
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_4560",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a12768417a_4cec",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094234,
+        "objectid": 2094241,
         "SHELTER_ID": 368564,
         "SHELTER_NAME": "West Gadsden Middle School",
         "ADDRESS": "200 Providence Rd",
@@ -313,7 +313,7 @@
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2026-10-10T20:42:03.847Z",
+  "timeStamp": "2026-10-10T21:16:47.309Z",
   "crs": {
     "type": "name",
     "properties": {
