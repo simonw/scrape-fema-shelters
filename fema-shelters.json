@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a127ea5af2_-7020",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1284765ee_-7518",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7336,
+          30.5668
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2094325,
+        "SHELTER_ID": 368564,
+        "SHELTER_NAME": "West Gadsden Middle School",
+        "ADDRESS": "200 Providence Rd",
+        "CITY": "Quincy",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.7336,
+        30.5668,
+        -84.7336,
+        30.5668
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1284765ee_-7517",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094289,
+        "objectid": 2094324,
         "SHELTER_ID": 133872,
         "SHELTER_NAME": "Roulhac Middle School",
         "ADDRESS": "1535 Brickyard Rd",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a127ea5af2_-701f",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1284765ee_-7516",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094291,
+        "objectid": 2094326,
         "SHELTER_ID": 134098,
         "SHELTER_NAME": "Clyde L. Gracey Community Center",
         "ADDRESS": "5629 Byrom St",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a127ea5af2_-701e",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1284765ee_-7515",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094292,
+        "objectid": 2094327,
         "SHELTER_ID": 368554,
         "SHELTER_NAME": "McArthur Freewill Baptist Church",
         "ADDRESS": "408 W Main St",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a127ea5af2_-701d",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1284765ee_-7514",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094293,
+        "objectid": 2094328,
         "SHELTER_ID": 367438,
         "SHELTER_NAME": "McDowell Senior Center",
         "ADDRESS": "100 Spaulding Rd",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a127ea5af2_-701c",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1284765ee_-7513",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094294,
+        "objectid": 2094329,
         "SHELTER_ID": 368566,
         "SHELTER_NAME": "Yancey County Senior Center",
         "ADDRESS": "503 Medical Campus Dr",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a127ea5af2_-701b",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1284765ee_-7512",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094295,
+        "objectid": 2094330,
         "SHELTER_ID": 171757,
         "SHELTER_NAME": "Kern Valley High School",
         "ADDRESS": "3340 Erskine Creek Road",
@@ -264,56 +308,12 @@
         -118.4676,
         35.6123
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a127ea5af2_-701a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.7336,
-          30.5668
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2094290,
-        "SHELTER_ID": 368564,
-        "SHELTER_NAME": "West Gadsden Middle School",
-        "ADDRESS": "200 Providence Rd",
-        "CITY": "Quincy",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.7336,
-        30.5668,
-        -84.7336,
-        30.5668
-      ]
     }
   ],
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2026-10-10T23:39:54.040Z",
+  "timeStamp": "2026-10-11T01:02:10.791Z",
   "crs": {
     "type": "name",
     "properties": {
