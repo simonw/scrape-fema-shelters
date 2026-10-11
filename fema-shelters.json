@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1295767a0_-574c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.7336,
-          30.5668
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2094445,
-        "SHELTER_ID": 368564,
-        "SHELTER_NAME": "West Gadsden Middle School",
-        "ADDRESS": "200 Providence Rd",
-        "CITY": "Quincy",
-        "STATE": "FL",
-        "ZIP": "0",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -84.7336,
-        30.5668,
-        -84.7336,
-        30.5668
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1295767a0_-574b",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1295767a0_-54f7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094446,
+        "objectid": 2094452,
         "SHELTER_ID": 134098,
         "SHELTER_NAME": "Clyde L. Gracey Community Center",
         "ADDRESS": "5629 Byrom St",
@@ -91,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1295767a0_-574a",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1295767a0_-54f6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094447,
+        "objectid": 2094453,
         "SHELTER_ID": 368554,
         "SHELTER_NAME": "McArthur Freewill Baptist Church",
         "ADDRESS": "408 W Main St",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1295767a0_-5749",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1295767a0_-54f5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094448,
+        "objectid": 2094454,
         "SHELTER_ID": 367438,
         "SHELTER_NAME": "McDowell Senior Center",
         "ADDRESS": "100 Spaulding Rd",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1295767a0_-5748",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1295767a0_-54f4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094449,
+        "objectid": 2094455,
         "SHELTER_ID": 368567,
         "SHELTER_NAME": "Emmanuel Baptist Church",
         "ADDRESS": "3252 E James Lee Blvd",
@@ -223,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1295767a0_-5747",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1295767a0_-54f3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2094450,
+        "objectid": 2094456,
         "SHELTER_ID": 368566,
         "SHELTER_NAME": "Yancey County Senior Center",
         "ADDRESS": "503 Medical Campus Dr",
@@ -264,12 +220,56 @@
         -82.3341,
         35.9163
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1295767a0_-54f2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7336,
+          30.5668
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2094451,
+        "SHELTER_ID": 368564,
+        "SHELTER_NAME": "West Gadsden Middle School",
+        "ADDRESS": "200 Providence Rd",
+        "CITY": "Quincy",
+        "STATE": "FL",
+        "ZIP": "0",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -84.7336,
+        30.5668,
+        -84.7336,
+        30.5668
+      ]
     }
   ],
   "totalFeatures": 6,
   "numberMatched": 6,
   "numberReturned": 6,
-  "timeStamp": "2026-10-11T07:23:30.647Z",
+  "timeStamp": "2026-10-11T07:45:23.531Z",
   "crs": {
     "type": "name",
     "properties": {
