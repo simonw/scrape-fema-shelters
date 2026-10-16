@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a143bda3cd_483d",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a143bda3cd_4ab8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095332,
+        "objectid": 2095337,
         "SHELTER_ID": 134098,
         "SHELTER_NAME": "Clyde L. Gracey Community Center",
         "ADDRESS": "5629 Byrom St",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a143bda3cd_483e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.5214,
-          30.7539
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2095333,
-        "SHELTER_ID": 368567,
-        "SHELTER_NAME": "Emmanuel Baptist Church",
-        "ADDRESS": "3252 E James Lee Blvd",
-        "CITY": "Crestview",
-        "STATE": "FL",
-        "ZIP": "32539",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -86.5214,
-        30.7539,
-        -86.5214,
-        30.7539
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a143bda3cd_483f",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a143bda3cd_4ab9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095334,
+        "objectid": 2095338,
         "SHELTER_ID": 368570,
         "SHELTER_NAME": "Rock Point Chapter House",
         "ADDRESS": "US-North Hwy191",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a143bda3cd_4840",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a143bda3cd_4aba",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095335,
+        "objectid": 2095339,
         "SHELTER_ID": 368571,
         "SHELTER_NAME": "Zion Fountain AME Zion Church",
         "ADDRESS": "505 Sowell Road",
@@ -179,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a143bda3cd_4841",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a143bda3cd_4abb",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095336,
+        "objectid": 2095340,
         "SHELTER_ID": 169575,
         "SHELTER_NAME": "Bellevue Recreation Center",
         "ADDRESS": "826 Lucile Avenue",
@@ -199,7 +155,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": 0,
         "POST_IMPACT_CAPACITY": 50,
-        "TOTAL_POPULATION": 0,
+        "TOTAL_POPULATION": 50,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC OF GREATER LOS ANGELES",
@@ -220,12 +176,56 @@
         -118.2834,
         34.0842
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a143bda3cd_4abc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7499,
+          34.15
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2095341,
+        "SHELTER_ID": 169278,
+        "SHELTER_NAME": "Agoura High School Gymnasium 1 of 2",
+        "ADDRESS": "28545 W Driver Ave",
+        "CITY": "Agoura Hills",
+        "STATE": "CA",
+        "ZIP": "91301",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 700,
+        "POST_IMPACT_CAPACITY": 350,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC OF GREATER LOS ANGELES",
+        "ORG_ID": 121973,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.15004788,
+        "LONGITUDE": -118.74987766,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.7499,
+        34.15,
+        -118.7499,
+        34.15
+      ]
     }
   ],
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-10-16T08:24:48.582Z",
+  "timeStamp": "2026-10-16T08:45:38.630Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -233,9 +233,9 @@
     }
   },
   "bbox": [
-    -118.2834,
+    -118.7499,
     30.6393,
-    -86.5214,
+    -87.0472,
     36.7183
   ]
 }
