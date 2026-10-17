@@ -3,271 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66d7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.7499,
-          34.15
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2095913,
-        "SHELTER_ID": 169278,
-        "SHELTER_NAME": "Agoura High School Gymnasium 1 of 2",
-        "ADDRESS": "28545 W Driver Ave",
-        "CITY": "Agoura Hills",
-        "STATE": "CA",
-        "ZIP": "91301",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 700,
-        "POST_IMPACT_CAPACITY": 350,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC OF GREATER LOS ANGELES",
-        "ORG_ID": 121973,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": " ",
-        "LATITUDE": 34.15004788,
-        "LONGITUDE": -118.74987766,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -118.7499,
-        34.15,
-        -118.7499,
-        34.15
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66d6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.8826,
-          13.5842
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2095914,
-        "SHELTER_ID": 367960,
-        "SHELTER_NAME": "Machananao Elementary School",
-        "ADDRESS": "Route 9",
-        "CITY": "Yigo",
-        "STATE": "GU",
-        "ZIP": "96929",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": 13.58419649,
-        "LONGITUDE": 144.88264908,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        144.8826,
-        13.5842,
-        144.8826,
-        13.5842
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66d5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7075,
-          15.1602
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2095915,
-        "SHELTER_ID": 367970,
-        "SHELTER_NAME": "Marianas High School",
-        "ADDRESS": "Bwaay Lane",
-        "CITY": "Saipan",
-        "STATE": "MP",
-        "ZIP": "96950",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": 15.16019985,
-        "LONGITUDE": 145.707503,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7075,
-        15.1602,
-        145.7075,
-        15.1602
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66d4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7754,
-          15.1724
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2095916,
-        "SHELTER_ID": 367966,
-        "SHELTER_NAME": "Kagman Community Center",
-        "ADDRESS": "5Q8H RCH",
-        "CITY": "Kagman",
-        "STATE": "MP",
-        "ZIP": "96950",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": 15.17239094,
-        "LONGITUDE": 145.77537537,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.7754,
-        15.1724,
-        145.7754,
-        15.1724
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66d3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.3036,
-          14.2061
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2095917,
-        "SHELTER_ID": 367974,
-        "SHELTER_NAME": "Dr Rita Hocog Inos Jr Sr High School",
-        "ADDRESS": "44RW 733",
-        "CITY": "Songsong",
-        "STATE": "MP",
-        "ZIP": "96951",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": 14.20612229,
-        "LONGITUDE": 145.303583,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.3036,
-        14.2061,
-        145.3036,
-        14.2061
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66d2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.1369,
-          14.136
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2095918,
-        "SHELTER_ID": 368228,
-        "SHELTER_NAME": "Rota Aging Center",
-        "ADDRESS": "Sinapola 1",
-        "CITY": "Sinapola Village",
-        "STATE": "MP",
-        "ZIP": "96951",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 35,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": 14.1359829,
-        "LONGITUDE": 145.1368864,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        145.1369,
-        14.136,
-        145.1369,
-        14.136
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66d1",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-63ab",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095899,
+        "objectid": 2095919,
         "SHELTER_ID": 71015,
         "SHELTER_NAME": "George Washington High School",
         "ADDRESS": "298 Washington Drive",
@@ -311,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66d0",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-63aa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095900,
+        "objectid": 2095920,
         "SHELTER_ID": 71013,
         "SHELTER_NAME": "Astumbo Elementary School",
         "ADDRESS": "255 Chalan Hachon St",
@@ -355,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66cf",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-63a9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095901,
+        "objectid": 2095921,
         "SHELTER_ID": 134098,
         "SHELTER_NAME": "Clyde L. Gracey Community Center",
         "ADDRESS": "5629 Byrom St",
@@ -399,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66ce",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-63a8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095902,
+        "objectid": 2095922,
         "SHELTER_ID": 367961,
         "SHELTER_NAME": "Maria A. Ulloa Elementary",
         "ADDRESS": "110 Catalina Lane",
@@ -443,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66cd",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-63a7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095903,
+        "objectid": 2095923,
         "SHELTER_ID": 71023,
         "SHELTER_NAME": "Talofofo Elementary School",
         "ADDRESS": "209 Jose P Cruz St",
@@ -487,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66cc",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-63a6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095904,
+        "objectid": 2095924,
         "SHELTER_ID": 169575,
         "SHELTER_NAME": "Bellevue Recreation Center",
         "ADDRESS": "826 Lucile Avenue",
@@ -531,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66cb",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-63a5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095905,
+        "objectid": 2095925,
         "SHELTER_ID": 368012,
         "SHELTER_NAME": "Marianas High School Unit 2",
         "ADDRESS": "Bwaay Lane",
@@ -575,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66ca",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-63a4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095906,
+        "objectid": 2095926,
         "SHELTER_ID": 368570,
         "SHELTER_NAME": "Rock Point Chapter House",
         "ADDRESS": "US-North Hwy191",
@@ -619,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66c9",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-63a3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095907,
+        "objectid": 2095927,
         "SHELTER_ID": 368571,
         "SHELTER_NAME": "Zion Fountain AME Zion Church",
         "ADDRESS": "505 Sowell Road",
@@ -663,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66c8",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-63a2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095908,
+        "objectid": 2095928,
         "SHELTER_ID": 367959,
         "SHELTER_NAME": "Inalahan Middle School",
         "ADDRESS": "433 Belen Ave",
@@ -707,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66c7",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-63a1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095909,
+        "objectid": 2095929,
         "SHELTER_ID": 368572,
         "SHELTER_NAME": "Kagman High School",
         "ADDRESS": "Half Flower Street",
@@ -751,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66c6",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-63a0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095910,
+        "objectid": 2095930,
         "SHELTER_ID": 368574,
         "SHELTER_NAME": "Tinian Junior/Senior High School",
         "ADDRESS": "Canal St",
@@ -795,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66c5",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-639f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095911,
+        "objectid": 2095931,
         "SHELTER_ID": 367973,
         "SHELTER_NAME": "Tinian Elementary School",
         "ADDRESS": "Eighth Avenue",
@@ -839,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-66c4",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-639e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2095912,
+        "objectid": 2095932,
         "SHELTER_ID": 330826,
         "SHELTER_NAME": "Capistrano Valley Boys And Girls Club",
         "ADDRESS": "One Via Positiva",
@@ -880,12 +616,276 @@
         -117.5456,
         33.565
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-639d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7499,
+          34.15
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2095933,
+        "SHELTER_ID": 169278,
+        "SHELTER_NAME": "Agoura High School Gymnasium 1 of 2",
+        "ADDRESS": "28545 W Driver Ave",
+        "CITY": "Agoura Hills",
+        "STATE": "CA",
+        "ZIP": "91301",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 700,
+        "POST_IMPACT_CAPACITY": 350,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC OF GREATER LOS ANGELES",
+        "ORG_ID": 121973,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 34.15004788,
+        "LONGITUDE": -118.74987766,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -118.7499,
+        34.15,
+        -118.7499,
+        34.15
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-639c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8826,
+          13.5842
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2095934,
+        "SHELTER_ID": 367960,
+        "SHELTER_NAME": "Machananao Elementary School",
+        "ADDRESS": "Route 9",
+        "CITY": "Yigo",
+        "STATE": "GU",
+        "ZIP": "96929",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": 13.58419649,
+        "LONGITUDE": 144.88264908,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        144.8826,
+        13.5842,
+        144.8826,
+        13.5842
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-639b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7075,
+          15.1602
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2095935,
+        "SHELTER_ID": 367970,
+        "SHELTER_NAME": "Marianas High School",
+        "ADDRESS": "Bwaay Lane",
+        "CITY": "Saipan",
+        "STATE": "MP",
+        "ZIP": "96950",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": 15.16019985,
+        "LONGITUDE": 145.707503,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7075,
+        15.1602,
+        145.7075,
+        15.1602
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-639a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7754,
+          15.1724
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2095936,
+        "SHELTER_ID": 367966,
+        "SHELTER_NAME": "Kagman Community Center",
+        "ADDRESS": "5Q8H RCH",
+        "CITY": "Kagman",
+        "STATE": "MP",
+        "ZIP": "96950",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": 15.17239094,
+        "LONGITUDE": 145.77537537,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.7754,
+        15.1724,
+        145.7754,
+        15.1724
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-6399",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3036,
+          14.2061
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2095937,
+        "SHELTER_ID": 367974,
+        "SHELTER_NAME": "Dr Rita Hocog Inos Jr Sr High School",
+        "ADDRESS": "44RW 733",
+        "CITY": "Songsong",
+        "STATE": "MP",
+        "ZIP": "96951",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": 14.20612229,
+        "LONGITUDE": 145.303583,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.3036,
+        14.2061,
+        145.3036,
+        14.2061
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a149bf92fc_-6398",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1369,
+          14.136
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2095938,
+        "SHELTER_ID": 368228,
+        "SHELTER_NAME": "Rota Aging Center",
+        "ADDRESS": "Sinapola 1",
+        "CITY": "Sinapola Village",
+        "STATE": "MP",
+        "ZIP": "96951",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 35,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": 14.1359829,
+        "LONGITUDE": 145.1368864,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        145.1369,
+        14.136,
+        145.1369,
+        14.136
+      ]
     }
   ],
   "totalFeatures": 20,
   "numberMatched": 20,
   "numberReturned": 20,
-  "timeStamp": "2026-10-17T13:14:24.135Z",
+  "timeStamp": "2026-10-17T13:36:56.190Z",
   "crs": {
     "type": "name",
     "properties": {
