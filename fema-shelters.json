@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1593270ea_2855",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1593270ea_2d73",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2098005,
+        "objectid": 2098009,
         "SHELTER_ID": 134098,
         "SHELTER_NAME": "Clyde L. Gracey Community Center",
         "ADDRESS": "5629 Byrom St",
@@ -47,51 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1593270ea_2856",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.8437,
-          13.5204
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2098006,
-        "SHELTER_ID": 367961,
-        "SHELTER_NAME": "Maria A. Ulloa Elementary",
-        "ADDRESS": "110 Catalina Lane",
-        "CITY": "Yigo",
-        "STATE": "GU",
-        "ZIP": "96929",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": null,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": null,
-        "ORG_ID": null,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": "UNK",
-        "PET_ACCOMMODATIONS_CODE": "NONE",
-        "WHEELCHAIR_ACCESSIBLE": "UNK",
-        "LATITUDE": 13.52037722,
-        "LONGITUDE": 144.84365828,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        144.8437,
-        13.5204,
-        144.8437,
-        13.5204
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1593270ea_2857",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1593270ea_2d74",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2098007,
+        "objectid": 2098011,
         "SHELTER_ID": 169575,
         "SHELTER_NAME": "Bellevue Recreation Center",
         "ADDRESS": "826 Lucile Avenue",
@@ -135,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1593270ea_2858",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1593270ea_2d75",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2098008,
+        "objectid": 2098012,
         "SHELTER_ID": 367960,
         "SHELTER_NAME": "Machananao Elementary School",
         "ADDRESS": "Route 9",
@@ -176,12 +132,56 @@
         144.8826,
         13.5842
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--1e82aed8_1a1593270ea_2d76",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8439,
+          13.5201
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2098010,
+        "SHELTER_ID": 367961,
+        "SHELTER_NAME": "Maria A. Ulloa Elementary",
+        "ADDRESS": "110 Catalina Lane",
+        "CITY": "Yigo",
+        "STATE": "GU",
+        "ZIP": "96929",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": null,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": null,
+        "ORG_ID": null,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": "UNK",
+        "PET_ACCOMMODATIONS_CODE": "NONE",
+        "WHEELCHAIR_ACCESSIBLE": "UNK",
+        "LATITUDE": 13.52037722,
+        "LONGITUDE": 144.84365828,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        144.8439,
+        13.5201,
+        144.8439,
+        13.5201
+      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-10-20T13:43:12.605Z",
+  "timeStamp": "2026-10-20T14:18:30.082Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -190,7 +190,7 @@
   },
   "bbox": [
     -118.2834,
-    13.5204,
+    13.5201,
     144.8826,
     34.0842
   ]
