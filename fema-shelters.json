@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-3a60",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-37a5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2099284,
+        "objectid": 2099291,
         "SHELTER_ID": 134098,
         "SHELTER_NAME": "Clyde L. Gracey Community Center",
         "ADDRESS": "5629 Byrom St",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-3a5f",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-37a4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2099285,
+        "objectid": 2099292,
         "SHELTER_ID": 368570,
         "SHELTER_NAME": "Rock Point Community School",
         "ADDRESS": "US-North HWY 191",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-3a5e",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-37a3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2099286,
+        "objectid": 2099293,
         "SHELTER_ID": 169575,
         "SHELTER_NAME": "Bellevue Recreation Center",
         "ADDRESS": "826 Lucile Avenue",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-3a5d",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-37a2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2099287,
+        "objectid": 2099294,
         "SHELTER_ID": 368266,
         "SHELTER_NAME": "Astumbo Gym",
         "ADDRESS": "294 Chalan Hachon St",
@@ -179,7 +179,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-3a5c",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-37a1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.1048,
+          36.6975
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2099295,
+        "SHELTER_ID": 368580,
+        "SHELTER_NAME": "McGee Park",
+        "ADDRESS": "41 Road 5568",
+        "CITY": "Farmington",
+        "STATE": "NM",
+        "ZIP": "87401",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 3,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -108.1048,
+        36.6975,
+        -108.1048,
+        36.6975
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-37a0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2099288,
+        "objectid": 2099296,
         "SHELTER_ID": 368578,
         "SHELTER_NAME": "Pagosa Lakes Property HOA Clubhouse",
         "ADDRESS": "230 Port Avenue",
@@ -223,51 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-3a5b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.1048,
-          36.6975
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2099289,
-        "SHELTER_ID": 368580,
-        "SHELTER_NAME": "McGee Park",
-        "ADDRESS": "41 Road 5568",
-        "CITY": "Farmington",
-        "STATE": "NM",
-        "ZIP": "87401",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -108.1048,
-        36.6975,
-        -108.1048,
-        36.6975
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-3a5a",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a16a705000_-379f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2099290,
+        "objectid": 2099297,
         "SHELTER_ID": 368259,
         "SHELTER_NAME": "Chalan Pago-Ordot Multipurpose Emergency Shelter",
         "ADDRESS": "160 Chalan Huego",
@@ -313,7 +313,7 @@
   "totalFeatures": 7,
   "numberMatched": 7,
   "numberReturned": 7,
-  "timeStamp": "2026-10-23T23:15:43.348Z",
+  "timeStamp": "2026-10-23T23:37:56.185Z",
   "crs": {
     "type": "name",
     "properties": {
