@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2a9f",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2e77",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102124,
+        "objectid": 2102133,
         "SHELTER_ID": 169575,
         "SHELTER_NAME": "Bellevue Recreation Center",
         "ADDRESS": "826 Lucile Avenue",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2aa0",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2e78",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102125,
+        "objectid": 2102134,
         "SHELTER_ID": 368580,
         "SHELTER_NAME": "McGee Park",
         "ADDRESS": "41 Road 5568",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2aa1",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2e79",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102126,
+        "objectid": 2102135,
         "SHELTER_ID": 368578,
         "SHELTER_NAME": "Pagosa Lakes Property HOA Clubhouse",
         "ADDRESS": "230 Port Avenue",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2aa2",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2e7a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102127,
+        "objectid": 2102136,
         "SHELTER_ID": 368585,
         "SHELTER_NAME": "Holy Cross Church",
         "ADDRESS": "720 Elder Lane",
@@ -179,139 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2aa3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -164.5432,
-          67.7311
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2102128,
-        "SHELTER_ID": 368583,
-        "SHELTER_NAME": "Kisimigiugtuq School",
-        "ADDRESS": "50 Airport Path",
-        "CITY": "Kivalina",
-        "STATE": "AK",
-        "ZIP": "99750",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 23,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -164.5432,
-        67.7311,
-        -164.5432,
-        67.7311
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2aa4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.4771,
-          37.6299
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2102129,
-        "SHELTER_ID": 368586,
-        "SHELTER_NAME": "San Juan High School",
-        "ADDRESS": "311 N 100 E",
-        "CITY": "Blanding",
-        "STATE": "UT",
-        "ZIP": "84511",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -109.4771,
-        37.6299,
-        -109.4771,
-        37.6299
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2aa5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.1691,
-          31.6846
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2102130,
-        "SHELTER_ID": 368588,
-        "SHELTER_NAME": "Horizon City High School",
-        "ADDRESS": "14651 Horizon Blvd",
-        "CITY": "Horizon City",
-        "STATE": "TX",
-        "ZIP": "79928",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -106.1691,
-        31.6846,
-        -106.1691,
-        31.6846
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2aa6",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2e7b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102131,
+        "objectid": 2102137,
         "SHELTER_ID": 368581,
         "SHELTER_NAME": "Bluff Community Center",
         "ADDRESS": "3rd East and Mulberry",
@@ -355,7 +223,139 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2aa7",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2e7c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -164.5432,
+          67.7311
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2102138,
+        "SHELTER_ID": 368583,
+        "SHELTER_NAME": "Kisimigiugtuq School",
+        "ADDRESS": "50 Airport Path",
+        "CITY": "Kivalina",
+        "STATE": "AK",
+        "ZIP": "99750",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 23,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -164.5432,
+        67.7311,
+        -164.5432,
+        67.7311
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2e7d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4771,
+          37.6299
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2102139,
+        "SHELTER_ID": 368586,
+        "SHELTER_NAME": "San Juan High School",
+        "ADDRESS": "311 N 100 E",
+        "CITY": "Blanding",
+        "STATE": "UT",
+        "ZIP": "84511",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -109.4771,
+        37.6299,
+        -109.4771,
+        37.6299
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2e7e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1691,
+          31.6846
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2102140,
+        "SHELTER_ID": 368588,
+        "SHELTER_NAME": "Horizon City High School",
+        "ADDRESS": "14651 Horizon Blvd",
+        "CITY": "Horizon City",
+        "STATE": "TX",
+        "ZIP": "79928",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -106.1691,
+        31.6846,
+        -106.1691,
+        31.6846
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17efc0aae_2e7f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102132,
+        "objectid": 2102141,
         "SHELTER_ID": 368259,
         "SHELTER_NAME": "Chalan Pago-Ordot Multipurpose Emergency Shelter",
         "ADDRESS": "160 Chalan Huego",
@@ -401,7 +401,7 @@
   "totalFeatures": 9,
   "numberMatched": 9,
   "numberReturned": 9,
-  "timeStamp": "2026-10-27T22:11:35.051Z",
+  "timeStamp": "2026-10-27T22:36:20.235Z",
   "crs": {
     "type": "name",
     "properties": {
