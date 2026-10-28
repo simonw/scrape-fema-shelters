@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_1e72",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_2506",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102214,
+        "objectid": 2102232,
         "SHELTER_ID": 169575,
         "SHELTER_NAME": "Bellevue Recreation Center",
         "ADDRESS": "826 Lucile Avenue",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_1e73",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_2507",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102215,
+        "objectid": 2102233,
         "SHELTER_ID": 368578,
         "SHELTER_NAME": "Pagosa Lakes Property HOA Clubhouse",
         "ADDRESS": "230 Port Avenue",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_1e74",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_2508",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102216,
+        "objectid": 2102234,
         "SHELTER_ID": 368585,
         "SHELTER_NAME": "Holy Cross Church",
         "ADDRESS": "720 Elder Lane",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_1e75",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_2509",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102217,
+        "objectid": 2102235,
         "SHELTER_ID": 368586,
         "SHELTER_NAME": "San Juan High School",
         "ADDRESS": "311 N 100 E",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_1e76",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_250a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102218,
+        "objectid": 2102236,
         "SHELTER_ID": 368588,
         "SHELTER_NAME": "Horizon City High School",
         "ADDRESS": "14651 Horizon Blvd",
@@ -223,51 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_1e77",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.5545,
-          37.2857
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2102219,
-        "SHELTER_ID": 368581,
-        "SHELTER_NAME": "Bluff Community Center",
-        "ADDRESS": "3rd East and Mulberry",
-        "CITY": "Bluff",
-        "STATE": "UT",
-        "ZIP": "84512",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -109.5545,
-        37.2857,
-        -109.5545,
-        37.2857
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_1e78",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_250b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102220,
+        "objectid": 2102237,
         "SHELTER_ID": 368583,
         "SHELTER_NAME": "Kisimigiugtuq School",
         "ADDRESS": "50 Airport Path",
@@ -311,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_1e79",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_250c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5545,
+          37.2857
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2102238,
+        "SHELTER_ID": 368581,
+        "SHELTER_NAME": "Bluff Community Center",
+        "ADDRESS": "3rd East and Mulberry",
+        "CITY": "Bluff",
+        "STATE": "UT",
+        "ZIP": "84512",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -109.5545,
+        37.2857,
+        -109.5545,
+        37.2857
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_250d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102221,
+        "objectid": 2102239,
         "SHELTER_ID": 368580,
         "SHELTER_NAME": "McGee Park",
         "ADDRESS": "41 Road 5568",
@@ -355,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_1e7a",
+      "id": "FEMANSSOpenShelters.fid--e93ec98_1a17fd3328c_250e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2102222,
+        "objectid": 2102240,
         "SHELTER_ID": 368259,
         "SHELTER_NAME": "Chalan Pago-Ordot Multipurpose Emergency Shelter",
         "ADDRESS": "160 Chalan Huego",
@@ -401,7 +401,7 @@
   "totalFeatures": 9,
   "numberMatched": 9,
   "numberReturned": 9,
-  "timeStamp": "2026-10-28T01:40:20.658Z",
+  "timeStamp": "2026-10-28T02:18:46.181Z",
   "crs": {
     "type": "name",
     "properties": {
