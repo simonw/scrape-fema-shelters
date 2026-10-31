@@ -3,95 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1938e97ae_-6277",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.5545,
-          37.2857
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2103834,
-        "SHELTER_ID": 368581,
-        "SHELTER_NAME": "Bluff Community Center",
-        "ADDRESS": "3rd East and Mulberry",
-        "CITY": "Bluff",
-        "STATE": "UT",
-        "ZIP": "84512",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -109.5545,
-        37.2857,
-        -109.5545,
-        37.2857
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1938e97ae_-6276",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -164.5432,
-          67.7311
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2103835,
-        "SHELTER_ID": 368583,
-        "SHELTER_NAME": "Kisimigiugtuq School",
-        "ADDRESS": "50 Airport Path",
-        "CITY": "Kivalina",
-        "STATE": "AK",
-        "ZIP": "99750",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -164.5432,
-        67.7311,
-        -164.5432,
-        67.7311
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1938e97ae_-6275",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1938e97ae_-3695",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2103836,
+        "objectid": 2103842,
         "SHELTER_ID": 368580,
         "SHELTER_NAME": "McGee Park",
         "ADDRESS": "41 Road 5568",
@@ -135,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1938e97ae_-6274",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1938e97ae_-3694",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -164.5432,
+          67.7311
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2103843,
+        "SHELTER_ID": 368583,
+        "SHELTER_NAME": "Kisimigiugtuq School",
+        "ADDRESS": "50 Airport Path",
+        "CITY": "Kivalina",
+        "STATE": "AK",
+        "ZIP": "99750",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -164.5432,
+        67.7311,
+        -164.5432,
+        67.7311
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1938e97ae_-3693",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2103837,
+        "objectid": 2103844,
         "SHELTER_ID": 368589,
         "SHELTER_NAME": "Open Door Church",
         "ADDRESS": "110 Trinity Lane",
@@ -176,12 +132,56 @@
         -107.0495,
         37.2705
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1938e97ae_-3692",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5545,
+          37.2857
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2103845,
+        "SHELTER_ID": 368581,
+        "SHELTER_NAME": "Bluff Community Center",
+        "ADDRESS": "3rd East and Mulberry",
+        "CITY": "Bluff",
+        "STATE": "UT",
+        "ZIP": "84512",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -109.5545,
+        37.2857,
+        -109.5545,
+        37.2857
+      ]
     }
   ],
   "totalFeatures": 4,
   "numberMatched": 4,
   "numberReturned": 4,
-  "timeStamp": "2026-10-31T22:34:54.979Z",
+  "timeStamp": "2026-10-31T23:09:04.274Z",
   "crs": {
     "type": "name",
     "properties": {
