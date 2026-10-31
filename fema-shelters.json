@@ -3,51 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a18f442622_7384",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.8935,
-          34.0551
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2103564,
-        "SHELTER_ID": 368553,
-        "SHELTER_NAME": "Finley complex",
-        "ADDRESS": "202 McCutcheon Ave",
-        "CITY": "Socorro",
-        "STATE": "NM",
-        "ZIP": "87801",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -106.8935,
-        34.0551,
-        -106.8935,
-        34.0551
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a18f442622_7385",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a18f442622_7958",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2103565,
+        "objectid": 2103569,
         "SHELTER_ID": 368588,
         "SHELTER_NAME": "Horizon City High School",
         "ADDRESS": "14651 Horizon Blvd",
@@ -91,7 +47,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a18f442622_7386",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a18f442622_7959",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5545,
+          37.2857
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2103570,
+        "SHELTER_ID": 368581,
+        "SHELTER_NAME": "Bluff Community Center",
+        "ADDRESS": "3rd East and Mulberry",
+        "CITY": "Bluff",
+        "STATE": "UT",
+        "ZIP": "84512",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -109.5545,
+        37.2857,
+        -109.5545,
+        37.2857
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a18f442622_795a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2103566,
+        "objectid": 2103571,
         "SHELTER_ID": 368583,
         "SHELTER_NAME": "Kisimigiugtuq School",
         "ADDRESS": "50 Airport Path",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a18f442622_7387",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a18f442622_795b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2103567,
+        "objectid": 2103572,
         "SHELTER_ID": 368580,
         "SHELTER_NAME": "McGee Park",
         "ADDRESS": "41 Road 5568",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a18f442622_7388",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a18f442622_795c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2103568,
+        "objectid": 2103573,
         "SHELTER_ID": 368589,
         "SHELTER_NAME": "Open Door Church",
         "ADDRESS": "110 Trinity Lane",
@@ -225,7 +225,7 @@
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-10-31T01:12:07.713Z",
+  "timeStamp": "2026-10-31T01:38:55.269Z",
   "crs": {
     "type": "name",
     "properties": {
