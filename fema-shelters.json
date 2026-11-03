@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2ba0",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3514,
+          47.6246
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2105251,
+        "SHELTER_ID": 109007,
+        "SHELTER_NAME": "Seattle Center - Exhibition Hall",
+        "ADDRESS": "301 Mercer St",
+        "CITY": "Seattle",
+        "STATE": "WA",
+        "ZIP": "98109",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 1700,
+        "POST_IMPACT_CAPACITY": 850,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "KING & KITSAP COUNTIES",
+        "ORG_ID": 121519,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": "YES",
+        "LATITUDE": 47.62459884,
+        "LONGITUDE": -122.35138359,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -122.3514,
+        47.6246,
+        -122.3514,
+        47.6246
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f37",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105208,
+        "objectid": 2105230,
         "SHELTER_ID": 368579,
         "SHELTER_NAME": "Cibecue Elementary School",
         "ADDRESS": "211 S Elm Circle",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2ba1",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f38",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105209,
+        "objectid": 2105231,
         "SHELTER_ID": 236375,
         "SHELTER_NAME": "South Fork Community Building",
         "ADDRESS": "254 Highway 149",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2ba2",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f39",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105210,
+        "objectid": 2105232,
         "SHELTER_ID": 368578,
         "SHELTER_NAME": "Pagosa Lakes Property HOA Clubhouse",
         "ADDRESS": "230 Port Avenue",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2ba3",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f3a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105211,
+        "objectid": 2105233,
         "SHELTER_ID": 368580,
         "SHELTER_NAME": "McGee Park",
         "ADDRESS": "41 Road 5568",
@@ -179,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2ba4",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f3b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105212,
+        "objectid": 2105234,
         "SHELTER_ID": 78530,
         "SHELTER_NAME": "Sinagua Middle School",
         "ADDRESS": "3950 East Butler Avenue",
@@ -223,7 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2ba5",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f3c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105213,
+        "objectid": 2105235,
         "SHELTER_ID": 236342,
         "SHELTER_NAME": "La Plata County Fairgrounds",
         "ADDRESS": "2500 Main Avenue",
@@ -267,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2ba6",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f3d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105214,
+        "objectid": 2105236,
         "SHELTER_ID": 236357,
         "SHELTER_NAME": "Ski Hi Park And Pool",
         "ADDRESS": "2335 Sherman Avenue",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2ba7",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f3e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105215,
+        "objectid": 2105237,
         "SHELTER_ID": 368596,
         "SHELTER_NAME": "Green Acres Community Center",
         "ADDRESS": "501 Swain Blvd",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2ba8",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f3f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105216,
+        "objectid": 2105238,
         "SHELTER_ID": 368597,
         "SHELTER_NAME": "Seven Mile Activity Center, Bldg 3A",
         "ADDRESS": "San Carlos Ave",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2ba9",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f40",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105217,
+        "objectid": 2105239,
         "SHELTER_ID": 368595,
         "SHELTER_NAME": "La Jara Knights of Columbus",
         "ADDRESS": "521 Spruce Street",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2baa",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f41",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105218,
+        "objectid": 2105240,
         "SHELTER_ID": 359422,
         "SHELTER_NAME": "Canyon Day Junior High School",
         "ADDRESS": "4621 South 9th Street",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2bab",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f42",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105219,
+        "objectid": 2105241,
         "SHELTER_ID": 368598,
         "SHELTER_NAME": "Camp Verde Middle School",
         "ADDRESS": "370 Camp Lincoln Rd",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2bac",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f43",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105220,
+        "objectid": 2105242,
         "SHELTER_ID": 368607,
         "SHELTER_NAME": "Nenahnezad Chapter",
         "ADDRESS": "West Hwy 64S County Rd 6675",
@@ -575,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2bad",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f44",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -585,7 +629,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105221,
+        "objectid": 2105243,
         "SHELTER_ID": 364007,
         "SHELTER_NAME": "Therapeutic Recreation Complex",
         "ADDRESS": "2728 Lake Worth Rd",
@@ -619,7 +663,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2bae",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f45",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -629,7 +673,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105222,
+        "objectid": 2105244,
         "SHELTER_ID": 368604,
         "SHELTER_NAME": "Acoma Community Center",
         "ADDRESS": "25 F Pinsbaari Dr",
@@ -663,7 +707,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2baf",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f46",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -673,7 +717,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105223,
+        "objectid": 2105245,
         "SHELTER_ID": 368602,
         "SHELTER_NAME": "Parker Memorial Missionary Baptist Church",
         "ADDRESS": "4101 Melvin Chatman Way",
@@ -707,7 +751,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2bb0",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f47",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -717,7 +761,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105224,
+        "objectid": 2105246,
         "SHELTER_ID": 368599,
         "SHELTER_NAME": "First Baptist Activity Center",
         "ADDRESS": "123 W Aspinwall Street",
@@ -751,7 +795,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2bb1",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f48",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,7 +805,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105225,
+        "objectid": 2105247,
         "SHELTER_ID": 368609,
         "SHELTER_NAME": "Shiprock Fairgrounds",
         "ADDRESS": "Hwy 491",
@@ -795,7 +839,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2bb2",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f49",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -805,7 +849,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105226,
+        "objectid": 2105248,
         "SHELTER_ID": 368605,
         "SHELTER_NAME": "First Baptist Church",
         "ADDRESS": "Hwy 666",
@@ -839,7 +883,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2bb3",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f4a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -849,7 +893,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105227,
+        "objectid": 2105249,
         "SHELTER_ID": 368610,
         "SHELTER_NAME": "The Church of Jesus Christ of Latter-Day Saints",
         "ADDRESS": "Corner of Dine and North 509 Road",
@@ -883,7 +927,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2bb4",
+      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2f4b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -893,7 +937,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2105228,
+        "objectid": 2105250,
         "SHELTER_ID": 368603,
         "SHELTER_NAME": "Leguna Middle School",
         "ADDRESS": "51 Rodeo 9100 Drive",
@@ -924,56 +968,12 @@
         -107.3727,
         35.0466
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-44cc8c7a_1a1a0a63c84_2bb5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3514,
-          47.6246
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2105229,
-        "SHELTER_ID": 109007,
-        "SHELTER_NAME": "Seattle Center - Exhibition Hall",
-        "ADDRESS": "301 Mercer St",
-        "CITY": "Seattle",
-        "STATE": "WA",
-        "ZIP": "98109",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 1700,
-        "POST_IMPACT_CAPACITY": 850,
-        "TOTAL_POPULATION": 2,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "KING & KITSAP COUNTIES",
-        "ORG_ID": 121519,
-        "MATCH_TYPE": "A",
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": " ",
-        "PET_ACCOMMODATIONS_CODE": " ",
-        "WHEELCHAIR_ACCESSIBLE": "YES",
-        "LATITUDE": 47.62459884,
-        "LONGITUDE": -122.35138359,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -122.3514,
-        47.6246,
-        -122.3514,
-        47.6246
-      ]
     }
   ],
   "totalFeatures": 22,
   "numberMatched": 22,
   "numberReturned": 22,
-  "timeStamp": "2026-11-03T11:10:34.616Z",
+  "timeStamp": "2026-11-03T11:35:08.588Z",
   "crs": {
     "type": "name",
     "properties": {
