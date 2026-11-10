@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_-8fb",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_af3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2112733,
+        "objectid": 2112772,
         "SHELTER_ID": 368579,
         "SHELTER_NAME": "Cibecue Elementary School",
         "ADDRESS": "211 S Elm Circle",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_-8fa",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_af4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2112734,
+        "objectid": 2112773,
         "SHELTER_ID": 368580,
         "SHELTER_NAME": "McGee Park",
         "ADDRESS": "41 Road 5568",
@@ -91,51 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_-8f9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.6975,
-          36.8161
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2112735,
-        "SHELTER_ID": 368610,
-        "SHELTER_NAME": "The Church of Jesus Christ of Latter-Day Saints",
-        "ADDRESS": "Corner of Dine and North 509 Road",
-        "CITY": "Shiprock",
-        "STATE": "NM",
-        "ZIP": "87420",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -108.6975,
-        36.8161,
-        -108.6975,
-        36.8161
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_-8f8",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_af5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2112736,
+        "objectid": 2112774,
         "SHELTER_ID": 368604,
         "SHELTER_NAME": "Acoma Community Center",
         "ADDRESS": "25 F Pinsbaari Dr",
@@ -179,95 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_-8f7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.4077,
-          36.7533
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2112737,
-        "SHELTER_ID": 368607,
-        "SHELTER_NAME": "Nenahnezad Chapter",
-        "ADDRESS": "West Hwy 64S County Rd 6675",
-        "CITY": "Fruitland",
-        "STATE": "NM",
-        "ZIP": "87416",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 15,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -108.4077,
-        36.7533,
-        -108.4077,
-        36.7533
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_-8f6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.6918,
-          36.8063
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2112738,
-        "SHELTER_ID": 368605,
-        "SHELTER_NAME": "First Baptist Church",
-        "ADDRESS": "Hwy 666",
-        "CITY": "Shiprock",
-        "STATE": "NM",
-        "ZIP": "87420",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -108.6918,
-        36.8063,
-        -108.6918,
-        36.8063
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_-8f5",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_af6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2112739,
+        "objectid": 2112775,
         "SHELTER_ID": 368603,
         "SHELTER_NAME": "Leguna Middle School",
         "ADDRESS": "51 Rodeo 9100 Drive",
@@ -311,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_-8f4",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_af7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2112740,
+        "objectid": 2112776,
         "SHELTER_ID": 368596,
         "SHELTER_NAME": "Green Acres Community Center",
         "ADDRESS": "501 Swain Blvd",
@@ -355,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_-8f3",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_af8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2112741,
+        "objectid": 2112777,
         "SHELTER_ID": 368609,
         "SHELTER_NAME": "Shiprock Fairgrounds",
         "ADDRESS": "Hwy 491",
@@ -399,95 +267,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_-8f2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.7899,
-          28.3543
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2112742,
-        "SHELTER_ID": 368602,
-        "SHELTER_NAME": "Parker Memorial Missionary Baptist Church",
-        "ADDRESS": "32926",
-        "CITY": "4101 Melvin Chatman Way",
-        "STATE": "FL",
-        "ZIP": "32926",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 4,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -80.7899,
-        28.3543,
-        -80.7899,
-        28.3543
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_-8f1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.9778,
-          33.826
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2112743,
-        "SHELTER_ID": 368613,
-        "SHELTER_NAME": "Whiteriver Unified District 20",
-        "ADDRESS": "963 S Chief Ave",
-        "CITY": "Whiteriver",
-        "STATE": "AZ",
-        "ZIP": "85941",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 7,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Independent",
-        "ORG_ID": 126166,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "EMEREVAC",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -109.9778,
-        33.826,
-        -109.9778,
-        33.826
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_-8f0",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_af9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +277,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2112744,
+        "objectid": 2112778,
         "SHELTER_ID": 368614,
         "SHELTER_NAME": "Camp Verde Town Gym",
         "ADDRESS": "51 E Hollamon St",
@@ -531,7 +311,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_-8ef",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_afa",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2112745,
+        "objectid": 2112779,
         "SHELTER_ID": 368615,
         "SHELTER_NAME": "Fannin County Recreation Department",
         "ADDRESS": "580 Winding Drive",
@@ -572,12 +352,232 @@
         -84.3433,
         34.8991
       ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_afb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7899,
+          28.3543
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2112780,
+        "SHELTER_ID": 368602,
+        "SHELTER_NAME": "Parker Memorial Missionary Baptist Church",
+        "ADDRESS": "32926",
+        "CITY": "4101 Melvin Chatman Way",
+        "STATE": "FL",
+        "ZIP": "32926",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 4,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.7899,
+        28.3543,
+        -80.7899,
+        28.3543
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_afc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4077,
+          36.7533
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2112781,
+        "SHELTER_ID": 368607,
+        "SHELTER_NAME": "Nenahnezad Chapter",
+        "ADDRESS": "West Hwy 64S County Rd 6675",
+        "CITY": "Fruitland",
+        "STATE": "NM",
+        "ZIP": "87416",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 15,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -108.4077,
+        36.7533,
+        -108.4077,
+        36.7533
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_afd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6975,
+          36.8161
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2112782,
+        "SHELTER_ID": 368610,
+        "SHELTER_NAME": "The Church of Jesus Christ of Latter-Day Saints",
+        "ADDRESS": "Corner of Dine and North 509 Road",
+        "CITY": "Shiprock",
+        "STATE": "NM",
+        "ZIP": "87420",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -108.6975,
+        36.8161,
+        -108.6975,
+        36.8161
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_afe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9778,
+          33.826
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2112783,
+        "SHELTER_ID": 368613,
+        "SHELTER_NAME": "Whiteriver Unified District 20",
+        "ADDRESS": "963 S Chief Ave",
+        "CITY": "Whiteriver",
+        "STATE": "AZ",
+        "ZIP": "85941",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 7,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -109.9778,
+        33.826,
+        -109.9778,
+        33.826
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c21d92b8_aff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6918,
+          36.8063
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2112784,
+        "SHELTER_ID": 368605,
+        "SHELTER_NAME": "First Baptist Church",
+        "ADDRESS": "Hwy 666",
+        "CITY": "Shiprock",
+        "STATE": "NM",
+        "ZIP": "87420",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Independent",
+        "ORG_ID": 126166,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "EMEREVAC",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -108.6918,
+        36.8063,
+        -108.6918,
+        36.8063
+      ]
     }
   ],
   "totalFeatures": 13,
   "numberMatched": 13,
   "numberReturned": 13,
-  "timeStamp": "2026-11-09T23:35:19.527Z",
+  "timeStamp": "2026-11-10T00:29:47.327Z",
   "crs": {
     "type": "name",
     "properties": {
