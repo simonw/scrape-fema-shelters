@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c823cbd1_-3893",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_798d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2113864,
+        "objectid": 2113891,
         "SHELTER_ID": 368579,
         "SHELTER_NAME": "Cibecue Elementary School",
         "ADDRESS": "211 S Elm Circle",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c823cbd1_-3892",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_798e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2113865,
+        "objectid": 2113892,
         "SHELTER_ID": 368580,
         "SHELTER_NAME": "McGee Park",
         "ADDRESS": "41 Road 5568",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c823cbd1_-3891",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_798f",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2113866,
+        "objectid": 2113893,
         "SHELTER_ID": 368604,
         "SHELTER_NAME": "Acoma Community Center",
         "ADDRESS": "25 F Pinsbaari Dr",
@@ -135,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c823cbd1_-3890",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_7990",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2113867,
+        "objectid": 2113894,
         "SHELTER_ID": 368603,
         "SHELTER_NAME": "Leguna Middle School",
         "ADDRESS": "51 Rodeo 9100 Drive",
@@ -179,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c823cbd1_-388f",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_7991",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2113868,
+        "objectid": 2113895,
         "SHELTER_ID": 368596,
         "SHELTER_NAME": "Green Acres Community Center",
         "ADDRESS": "501 Swain Blvd",
@@ -223,7 +223,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c823cbd1_-388e",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_7992",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +233,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2113869,
+        "objectid": 2113896,
         "SHELTER_ID": 368609,
         "SHELTER_NAME": "Shiprock Fairgrounds",
         "ADDRESS": "Hwy 491",
@@ -267,7 +267,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c823cbd1_-388d",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_7993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8593,
+          27.2593
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2113897,
+        "SHELTER_ID": 135038,
+        "SHELTER_NAME": "Okeechobee Civic Center",
+        "ADDRESS": "1750 US Hwy 98 N",
+        "CITY": "Okeechobee",
+        "STATE": "FL",
+        "ZIP": "34972",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 0,
+        "TOTAL_POPULATION": 2,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "GREATER PALM BEACH",
+        "ORG_ID": 121443,
+        "MATCH_TYPE": "A",
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": " ",
+        "PET_ACCOMMODATIONS_CODE": " ",
+        "WHEELCHAIR_ACCESSIBLE": " ",
+        "LATITUDE": 27.2593076,
+        "LONGITUDE": -80.85929118,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -80.8593,
+        27.2593,
+        -80.8593,
+        27.2593
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_7994",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -277,7 +321,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2113870,
+        "objectid": 2113898,
         "SHELTER_ID": 368614,
         "SHELTER_NAME": "Camp Verde Town Gym",
         "ADDRESS": "51 E Hollamon St",
@@ -287,7 +331,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 5,
+        "TOTAL_POPULATION": 6,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -311,7 +355,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c823cbd1_-388c",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_7995",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -321,7 +365,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2113871,
+        "objectid": 2113899,
         "SHELTER_ID": 368615,
         "SHELTER_NAME": "Fannin County Recreation Department",
         "ADDRESS": "580 Winding Drive",
@@ -355,7 +399,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c823cbd1_-388b",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_7996",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -365,7 +409,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2113872,
+        "objectid": 2113900,
         "SHELTER_ID": 368610,
         "SHELTER_NAME": "The Church of Jesus Christ of Latter-Day Saints",
         "ADDRESS": "Corner of Dine and North 509 Road",
@@ -399,7 +443,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c823cbd1_-388a",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_7997",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -409,7 +453,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2113873,
+        "objectid": 2113901,
         "SHELTER_ID": 368605,
         "SHELTER_NAME": "First Baptist Church",
         "ADDRESS": "Hwy 666",
@@ -443,7 +487,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c823cbd1_-3889",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_7998",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -453,7 +497,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2113874,
+        "objectid": 2113902,
         "SHELTER_ID": 368613,
         "SHELTER_NAME": "Whiteriver Unified District 20",
         "ADDRESS": "963 S Chief Ave",
@@ -487,7 +531,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c823cbd1_-3888",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_7999",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +541,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2113875,
+        "objectid": 2113903,
         "SHELTER_ID": 368607,
         "SHELTER_NAME": "Nenahnezad Chapter",
         "ADDRESS": "West Hwy 64S County Rd 6675",
@@ -531,7 +575,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c823cbd1_-3887",
+      "id": "FEMANSSOpenShelters.fid-6b69d8cb_1a1c8fccabf_799a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +585,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2113876,
+        "objectid": 2113904,
         "SHELTER_ID": 368602,
         "SHELTER_NAME": "Parker Memorial Missionary Baptist Church",
         "ADDRESS": "32926",
@@ -551,7 +595,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 4,
+        "TOTAL_POPULATION": 3,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -574,10 +618,10 @@
       ]
     }
   ],
-  "totalFeatures": 13,
-  "numberMatched": 13,
-  "numberReturned": 13,
-  "timeStamp": "2026-11-11T04:35:47.743Z",
+  "totalFeatures": 14,
+  "numberMatched": 14,
+  "numberReturned": 14,
+  "timeStamp": "2026-11-11T05:11:38.377Z",
   "crs": {
     "type": "name",
     "properties": {
