@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21486cd66_27c7",
+      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21486cd66_2c59",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +13,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2120231,
+        "objectid": 2120236,
         "SHELTER_ID": 368580,
         "SHELTER_NAME": "McGee Park",
         "ADDRESS": "41 Road 5568",
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21486cd66_27c8",
+      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21486cd66_2c5a",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2120232,
+        "objectid": 2120237,
         "SHELTER_ID": 368619,
         "SHELTER_NAME": "Outside-McGee Park",
         "ADDRESS": "41 Road 5568",
@@ -91,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21486cd66_27c9",
+      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21486cd66_2c5b",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,51 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2120233,
-        "SHELTER_ID": 368622,
-        "SHELTER_NAME": "Outside-Bear River Recreation Center",
-        "ADDRESS": "265 Keisner Rd",
-        "CITY": "Loleta",
-        "STATE": "CA",
-        "ZIP": "95551",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": null,
-        "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "ARC Partner",
-        "ORG_ID": 126165,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": null,
-        "LONGITUDE": null,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -124.2126,
-        40.6268,
-        -124.2126,
-        40.6268
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21486cd66_27ca",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.2126,
-          40.6268
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2120234,
+        "objectid": 2120238,
         "SHELTER_ID": 368621,
         "SHELTER_NAME": "Bear River Recreation Center",
         "ADDRESS": "265 Keisner Rd",
@@ -179,7 +135,51 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21486cd66_27cb",
+      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21486cd66_2c5c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.2126,
+          40.6268
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2120239,
+        "SHELTER_ID": 368622,
+        "SHELTER_NAME": "Outside-Bear River Recreation Center",
+        "ADDRESS": "265 Keisner Rd",
+        "CITY": "Loleta",
+        "STATE": "CA",
+        "ZIP": "95551",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": null,
+        "POST_IMPACT_CAPACITY": null,
+        "TOTAL_POPULATION": 0,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "ARC Partner",
+        "ORG_ID": 126165,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -124.2126,
+        40.6268,
+        -124.2126,
+        40.6268
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21486cd66_2c5d",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -189,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2120235,
+        "objectid": 2120240,
         "SHELTER_ID": 368042,
         "SHELTER_NAME": "65th Street School",
         "ADDRESS": "6600 W Melvina St",
@@ -225,7 +225,7 @@
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-11-26T00:30:44.964Z",
+  "timeStamp": "2026-11-26T00:48:08.260Z",
   "crs": {
     "type": "name",
     "properties": {
