@@ -3,7 +3,51 @@
   "features": [
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21a88e9a9_-3d65",
+      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21a88e9a9_-36d1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0902,
+          44.9513
+        ]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "objectid": 2120641,
+        "SHELTER_ID": 356231,
+        "SHELTER_NAME": "Central Presbyterian Church",
+        "ADDRESS": "500 Cedar Street",
+        "CITY": "Saint Paul",
+        "STATE": "MN",
+        "ZIP": "55101",
+        "SHELTER_STATUS": "OPEN",
+        "EVACUATION_CAPACITY": 0,
+        "POST_IMPACT_CAPACITY": 22,
+        "TOTAL_POPULATION": 1,
+        "HOURS_OPEN": null,
+        "HOURS_CLOSE": null,
+        "ORG_NAME": "Minnesota Region",
+        "ORG_ID": 126130,
+        "MATCH_TYPE": null,
+        "SE_ANNO_CAD_DATA": null,
+        "SUBFACILITY_CODE": "GENPOPSHEL",
+        "ADA_COMPLIANT": null,
+        "PET_ACCOMMODATIONS_CODE": null,
+        "WHEELCHAIR_ACCESSIBLE": null,
+        "LATITUDE": 44.9513188,
+        "LONGITUDE": -93.0901841,
+        "GDB_GEOMATTR_DATA": null
+      },
+      "bbox": [
+        -93.0902,
+        44.9513,
+        -93.0902,
+        44.9513
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21a88e9a9_-36d0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,7 +57,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2120631,
+        "objectid": 2120642,
         "SHELTER_ID": 368580,
         "SHELTER_NAME": "McGee Park",
         "ADDRESS": "41 Road 5568",
@@ -23,7 +67,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 49,
+        "TOTAL_POPULATION": 46,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -47,7 +91,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21a88e9a9_-3d64",
+      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21a88e9a9_-36cf",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -57,7 +101,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2120632,
+        "objectid": 2120643,
         "SHELTER_ID": 368619,
         "SHELTER_NAME": "Outside-McGee Park",
         "ADDRESS": "41 Road 5568",
@@ -67,7 +111,7 @@
         "SHELTER_STATUS": "OPEN",
         "EVACUATION_CAPACITY": null,
         "POST_IMPACT_CAPACITY": null,
-        "TOTAL_POPULATION": 12,
+        "TOTAL_POPULATION": 18,
         "HOURS_OPEN": null,
         "HOURS_CLOSE": null,
         "ORG_NAME": "ARC Partner",
@@ -91,7 +135,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21a88e9a9_-3d63",
+      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21a88e9a9_-36ce",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,7 +145,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2120633,
+        "objectid": 2120644,
         "SHELTER_ID": 368622,
         "SHELTER_NAME": "Outside-Bear River Recreation Center",
         "ADDRESS": "265 Keisner Rd",
@@ -135,7 +179,7 @@
     },
     {
       "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21a88e9a9_-3d62",
+      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21a88e9a9_-36cd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,7 +189,7 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
-        "objectid": 2120634,
+        "objectid": 2120645,
         "SHELTER_ID": 368621,
         "SHELTER_NAME": "Bear River Recreation Center",
         "ADDRESS": "265 Keisner Rd",
@@ -176,56 +220,12 @@
         -124.2126,
         40.6268
       ]
-    },
-    {
-      "type": "Feature",
-      "id": "FEMANSSOpenShelters.fid-6d9ad17a_1a21a88e9a9_-3d61",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.4701,
-          39.3776
-        ]
-      },
-      "geometry_name": "SHAPE",
-      "properties": {
-        "objectid": 2120635,
-        "SHELTER_ID": 349033,
-        "SHELTER_NAME": "Atlantic City Convention Center",
-        "ADDRESS": "1 Convention Boulevard",
-        "CITY": "Atlantic City",
-        "STATE": "NJ",
-        "ZIP": "08401",
-        "SHELTER_STATUS": "OPEN",
-        "EVACUATION_CAPACITY": 5000,
-        "POST_IMPACT_CAPACITY": 2500,
-        "TOTAL_POPULATION": 0,
-        "HOURS_OPEN": null,
-        "HOURS_CLOSE": null,
-        "ORG_NAME": "Southern Shore Chapter",
-        "ORG_ID": 121832,
-        "MATCH_TYPE": null,
-        "SE_ANNO_CAD_DATA": null,
-        "SUBFACILITY_CODE": "GENPOPSHEL",
-        "ADA_COMPLIANT": null,
-        "PET_ACCOMMODATIONS_CODE": null,
-        "WHEELCHAIR_ACCESSIBLE": null,
-        "LATITUDE": 39.3775792,
-        "LONGITUDE": -74.4701475,
-        "GDB_GEOMATTR_DATA": null
-      },
-      "bbox": [
-        -74.4701,
-        39.3776,
-        -74.4701,
-        39.3776
-      ]
     }
   ],
   "totalFeatures": 5,
   "numberMatched": 5,
   "numberReturned": 5,
-  "timeStamp": "2026-11-27T03:35:59.273Z",
+  "timeStamp": "2026-11-27T04:13:20.916Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -235,7 +235,7 @@
   "bbox": [
     -124.2126,
     36.6975,
-    -74.4701,
-    40.6268
+    -93.0902,
+    44.9513
   ]
 }
